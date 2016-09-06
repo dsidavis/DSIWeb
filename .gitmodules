@@ -1,0 +1,3 @@
+[submodule "something_nice"]
+	path = something_nice
+	url = git@github.com:karenyyng/something_nice.git
