@@ -32,6 +32,25 @@ $ make serve  # starts local server
 And you will be able to preview your blog at a local address
 `http://localhost:8000`.
 
+# How to modify content of the website
+The content files are under these paths and can be in either markdown or html
+formats. 
+```
+content
+|________articles  # these files are treated as posts / announcements
+					# the following are folders that will added as category tags to posts
+					|____events 
+					|____tutorials
+					|____opportunities 
+					|____services 
+|
+|________pages     # these files are more permenant part of the website
+|________images    # these images are copied to the images folder of the generated site files 
+```
+
+
+
+
 # Troubleshoot Pelican installation
 if you have trouble making the Pelican site, make sure the `virtualenv` is
 activated. 
