@@ -1,3 +1,10 @@
+# Cloning the entire repo, including the submodules
+```
+$ git clone --recursive git@github.com:karenyyng/DSI_pelican_config.git
+```
+This will allow you to clone also the processed `html` files for version control.
+[Submodules tutorial](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
 # Installation steps
 ## Installing Pelican and its dependencies in a virtualenv 
 See this [article](http://karenyyng.github.io/using-virtualenv-for-safeguarding-research-project-dependencies.html) for 
@@ -48,14 +55,7 @@ content
 |________images    # these images are copied to the images folder of the generated site files 
 ```
 
-
-
-
-# Troubleshoot Pelican installation
-if you have trouble making the Pelican site, make sure the `virtualenv` is
-activated. 
-Other tips can be found in this [article](http://karenyyng.github.io/using-virtualenv-for-safeguarding-research-project-dependencies.html). 
-
+# Changing the look of the website
 
 # changing CSS templates 
 The `css` templates are installed within the `virtualenv` so that is the `css`
@@ -69,6 +69,14 @@ The theme that we use is at
 # changing the html templates 
 The html templates are at:
 `${VIRTUALENV}/lib/python2.7/site-packages/pelican/themes/bootstrap3-theme/templates`
+
+
+
+# Troubleshoot Pelican installation
+if you have trouble making the Pelican site, make sure the `virtualenv` is
+activated. 
+Other tips can be found in this [article](http://karenyyng.github.io/using-virtualenv-for-safeguarding-research-project-dependencies.html). 
+
 
 # Known issue with Tipuesearch that I patched
 See [Git issue](https://github.com/talha131/pelican-elegant/issues/147)
