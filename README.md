@@ -6,8 +6,8 @@ Which files should I look at?
   
 * [pelican-plugins](https://github.com/getpelican/pelican-plugins) some useful
 		widgets to add functionality to the generated site 
-* `something_nice` - website files generated with [Pelican](http://docs.getpelican.com/en/3.6.3/), a Python static site generator
-from the aforementioned parts
+* `something_nice` - website files generated with [Pelican](http://docs.getpelican.com/en/3.6.3/), a Python static site generator.
+The generator parse use the aforementioned content to spit out the site.
 * `pelicanconf.py` - this contains most of the configurations of how the site
 		should be generated, what plugins to use and the specification of what goes into the top menu
 		navigation bar of the generated site etc. Read [settings](docs.getpelican.com/en/3.6.3/settings.html) doc to see how this works.
