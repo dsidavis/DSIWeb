@@ -84,6 +84,7 @@ DEFAULT_PAGINATION = 10
 ARTICLE_SAVE_AS = '{slug}{date:%Y}.html'
 ARTICLE_URL = '{slug}{date:%Y}.html'
 USE_FOLDER_AS_CATEGORY = True
+# ARTICLE_ORDER_BY = 'attribute'
 
 # What to display on top menu bar
 SITELOGO = 'images/dsi_brand_logo.png'
