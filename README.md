@@ -1,3 +1,18 @@
+# What are these files  ?
+Which files should I look at?
+* `bootstrap3-theme`: template files from the popular JS / CSS framework [Bootstrap](http://getbootstrap.com/) that is free to use but not sell. These change how the styles / locations of content.
+* content - main content files of the website, e.g. words, specification of
+		links, what the content files are for. Read [content](http://docs.getpelican.com/en/3.6.3/content.html) doc to see what options are available.
+  
+* [pelican-plugins](https://github.com/getpelican/pelican-plugins) some useful
+		widgets to add functionality to the generated site 
+* `something_nice` - website files generated with [Pelican](http://docs.getpelican.com/en/3.6.3/), a Python static site generator
+from the aforementioned parts
+* `pelicanconf.py` - this contains most of the configurations of how the site
+		should be generated, what plugins to use and the specification of what goes into the top menu
+		navigation bar of the generated site etc. Read [settings](docs.getpelican.com/en/3.6.3/settings.html) doc to see how this works.
+ 
+
 # Cloning the entire repo, including the submodules
 ```
 $ git clone --recursive git@github.com:karenyyng/DSI_pelican_config.git
@@ -56,6 +71,11 @@ content
 ```
 
 # Changing the look of the website
+Make sure that after you made changes to the templates, you update the theme by
+```
+$(VIRTUALENV) pelican-theme -U $PATH_TO_THEME_FOLDER
+```
+The `PATH_TO_THEME_FOLDER` for us is `$GITHUB_REPO/bootstrap3-theme`
 
 # changing CSS templates 
 The `css` templates are installed within the `virtualenv` so that is the `css`
