@@ -9,8 +9,8 @@ AUTHOR = u'DSI UC Davis'
 SITENAME = ''
 # SITENAME = u'Data Science Initiative'
 SITEURL = 'https://karenyyng.github.io/something_nice'
-RELATIVE_URLS = True  # dev view
-# RELATIVE_URLS = False # production view
+# RELATIVE_URLS = True  # dev view
+RELATIVE_URLS = False # production view
 
 # temporarily stick with a stupid folder name
 OUTPUT_PATH = 'something_nice/'

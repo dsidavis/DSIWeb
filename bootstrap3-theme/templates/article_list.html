@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 {% block content %}
+    <h1>Lists of {{ articles[0].category }}</h1>
+    <br>
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
