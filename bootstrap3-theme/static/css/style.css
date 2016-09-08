@@ -2,23 +2,28 @@ body {
     padding-top: 70px;
 }
 
-#sidebar .list-group, #sidebar .list-group-item {
+#sidebar .list-group,
+#sidebar .list-group-item {
     background-color: transparent;
 }
 
 .responsive-width {
-	white-space: normal !important;
-  word-wrap: break-word;
+    white-space: normal !important;
+    word-wrap: break-word;
 }
 
+
 /* for list-groups nested within a list-group-item, reset the bottom margin */
-.list-group-item > .list-group {
+
+.list-group-item> .list-group {
     margin-bottom: 0px;
 }
+
 
 /* for list-group-items nested within a list-group-item, reset the bottom
    padding of the last item, b/c the containing item has paddimg already 
  */
+
 .list-group-item .list-group-item:last-child {
     padding-bottom: 0px;
 }
@@ -73,24 +78,30 @@ body {
     margin-left: 10px;
 }
 
+
 /* Example for how to control spacing between icon and label in specific
    lists in the sidebar. To change, override in your CUSTOM_CSS           */
+
 #sidebar #social i {
     margin-right: 3px;
 }
 
-a, a:hover {
-    color: inherit;
+a {
+    color: #2582cd;
+}
+
+a:hover {
+    color: #e6b800;
 }
 
 .entry-content a {
     text-decoration: none;
-    border-bottom: 1px dotted;
+    /*border-bottom: 1px dotted;*/
 }
 
 .entry-content a:hover {
     text-decoration: none;
-    border-bottom: 1px solid;
+    /*border-bottom: 1px solid;*/
 }
 
 .entry-content img {
@@ -98,7 +109,8 @@ a, a:hover {
     height: auto;
 }
 
-.entry-content figcaption, .caption {
+.entry-content figcaption,
+.caption {
     font-size: small;
     margin-bottom: 2px;
 }
@@ -108,30 +120,35 @@ a, a:hover {
     height: auto;
 }
 
-
-.floatright, .align-right {
+.floatright,
+.align-right {
     float: right;
 }
 
-.floatleft, .align-left {
+.floatleft,
+.align-left {
     float: left;
 }
 
-.floatcenter, .align-center {
+.floatcenter,
+.align-center {
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
-figure.floatright, .align-right {
+figure.floatright,
+.align-right {
     margin-left: 4px;
 }
 
-figure.floatleft, .align-left {
+figure.floatleft,
+.align-left {
     margin-right: 4px;
 }
 
-figure.floatcenter, .align-center {
+figure.floatcenter,
+.align-center {
     margin-bottom: 11px;
 }
 
@@ -149,7 +166,8 @@ figure.floatcenter, .align-center {
     width: 100%;
 }
 
-#categories ul, #tags ul {
+#categories ul,
+#tags ul {
     list-style: none;
     padding: 0;
     margin-left: 0;
@@ -180,11 +198,12 @@ figure.floatcenter, .align-center {
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment: scroll;
-    background-size: cover; 
+    background-size: cover;
     background-color: #C4C4C4;
-		height: 325px;
+    height: 325px;
     margin: 0 0 20px;
-    padding: 70px 0; /*controls padding around inner text*/
+    padding: 70px 0;
+    /*controls padding around inner text*/
     position: relative;
 }
 
@@ -200,7 +219,7 @@ figure.floatcenter, .align-center {
 
 #banner h1 {
     color: #fff;
-    font-family: "HelveticaNeue-CondensedBold","Helvetica Neue CE 600 Condensed","Helvetica Neue LT Condensed","Helvetica Neue 600 Condensed","HelveticaNeue-BoldCondensed","Helvetica Neue BoldCondensed","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue CE 600 Condensed", "Helvetica Neue LT Condensed", "Helvetica Neue 600 Condensed", "HelveticaNeue-BoldCondensed", "Helvetica Neue BoldCondensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 60px;
     font-stretch: condensed;
     font-weight: 700;
@@ -208,22 +227,30 @@ figure.floatcenter, .align-center {
     margin: 0;
     text-transform: uppercase;
 }
+
 #banner .intro {
     color: #fff;
     font-size: 21px;
     line-height: 1.33;
     opacity: 0.75;
 }
-#banner .btn, #banner .intro {
+
+#banner .btn,
+#banner .intro {
     margin-left: 4px;
 }
 
+
 /* Solutions for mobile and small screens  */
+
 @media (max-width: 650px) {
-    #banner h1{
-       font-size: 30px; /* !important;*/
+    #banner h1 {
+        font-size: 30px;
+        /* !important;*/
     }
-    #banner .intro{
+    #banner .intro {
         font-size: 16px;
     }
 }
+
+

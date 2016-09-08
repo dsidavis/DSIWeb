@@ -1525,7 +1525,7 @@ h6,
     font: 'Open Sans', sans-serif;
     font-weight: lighter;
     line-height: 1.1;
-    color: inherit
+    color: #0a38c2
 }
 
 h1 small,
@@ -1554,7 +1554,7 @@ h6 .small,
 .h6 .small {
     font-weight: lighter;
     line-height: 1;
-    color: #b4bcc2
+    color: #0a38c2
 }
 
 h1,
@@ -3914,8 +3914,8 @@ fieldset[disabled] .btn-info.active {
 
 .btn-warning {
     color: #ffffff;
-    background-color: #f39c12;
-    border-color: #f39c12
+    background-color: #fff463;
+    border-color: #cccccc
 }
 
 .btn-warning:hover,
@@ -3925,8 +3925,8 @@ fieldset[disabled] .btn-info.active {
 .btn-warning.active,
 .open>.dropdown-toggle.btn-warning {
     color: #ffffff;
-    background-color: #c87f0a;
-    border-color: #be780a
+    background-color: #ffff99;
+    border-color: #dddddd
 }
 
 .btn-warning:active,
@@ -5282,7 +5282,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 }
 
 .navbar-default {
-    background-color: #000066;
+    background-color: #2582cd;
     border-color: transparent
 }
 
@@ -7873,7 +7873,7 @@ button.close {
 }
 
 .btn {
-    border-width: 2px
+    border-width: 1px
 }
 
 .btn:active {
@@ -8117,7 +8117,7 @@ a.list-group-item.active:focus {
 }
 
 a.list-group-item-success.active {
-    background-color: #ffff00
+    background-color: #ecf0f1
 }
 
 a.list-group-item-success.active:hover,

@@ -17,7 +17,7 @@ The Data Science Initiative provides advice and collaboration services to resear
 * Visualization and Presentation of Results (e.g., Web based visualization, dashboards)
 * Computational Issues (e.g., parallel computing, algorithmic and software development)
 * Making data available to others via Web APIs, or bulk-download
-* Reproducability and Provenance
+* Reproducibility and Provenance
 
 We have office hours for advising. We are also very interested in collaborating on more significant, longer-term projects.
 The Statistics Lab on campus also provides consulting for statistical topics.

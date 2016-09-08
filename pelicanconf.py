@@ -9,8 +9,8 @@ AUTHOR = u'DSI UC Davis'
 SITENAME = ''
 # SITENAME = u'Data Science Initiative'
 SITEURL = 'https://karenyyng.github.io/something_nice'
-# RELATIVE_URLS = True  # dev view
-RELATIVE_URLS = False # production view
+RELATIVE_URLS = True  # dev view
+# RELATIVE_URLS = False # production view
 
 # temporarily stick with a stupid folder name
 OUTPUT_PATH = 'something_nice/'
@@ -85,6 +85,8 @@ ARTICLE_SAVE_AS = '{slug}{date:%Y}.html'
 ARTICLE_URL = '{slug}{date:%Y}.html'
 USE_FOLDER_AS_CATEGORY = True
 # ARTICLE_ORDER_BY = 'attribute'
+SHOW_ARTICLE_CATEGORY = True
+# SHOW_ARTICLE_AUTHOR = True
 
 # What to display on top menu bar
 SITELOGO = 'images/dsi_brand_logo.png'
