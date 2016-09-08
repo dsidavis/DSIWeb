@@ -70,9 +70,6 @@ body {
     hyphens: auto;
 }
 
-#sidebar a {
-    color: inherit;
-}
 
 .icon-label {
     margin-left: 10px;
@@ -88,13 +85,27 @@ body {
 
 a {
     color: #2582cd;
+		text-decoration: none
 }
 
 a:hover {
     color: #e6b800;
 }
 
+#sidebar a {
+    color: #003366;
+}
+
+#sidebar a:hover {
+    color: #e6b800;
+}
+
+#sidebar h4 {
+    color: #4d4d4d;
+}
+
 .entry-content a {
+
     text-decoration: none;
     /*border-bottom: 1px dotted;*/
 }
