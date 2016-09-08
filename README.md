@@ -49,10 +49,22 @@ THEME_PATH=$GITHUB_REPO_PATH/bootstrap3-theme
 # Usage 
 ```
 $ make html  # regenerates the files 
-$ make serve  # starts local server 
+$ make serve  # starts local server for the development view, relative URLs
+will be used   
 ```
 And you will be able to preview your blog at a local address
 `http://localhost:8000`.
+Or if you want the files to be automatically updated when changes are made, use:
+```
+$ make devserver
+```
+
+When everything looks fine. You can generate the website for upload through the settings of 
+`publishconf.py`
+```
+$ make publish  # make the production version of the website with absolute URLs
+```
+
 
 # How to add / modify the content of the website
 The content files are under these paths and can be in either markdown or html
