@@ -63,12 +63,12 @@ PLUGINS = [
 GIT_FILETIME_FOLLOW = True
 
 # What to display on sidebar as buttons
-SOCIAL = (('Sign up for DSI news', 'pages/Signup.html'),
-         ('Become an affiliate',
-          'https://docs.google.com/forms/d/e/1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform'),
-         ('Attend office hours',
-          'category/services.html'),
-          )
+SOCIAL = (
+    ('Mailing List', 'pages/Signup.html'),
+    ('Become An Affiliate',
+        'https://docs.google.com/forms/d/e/'
+        '1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform'),
+)
 
 LINKS = None
 
@@ -101,16 +101,16 @@ MENUITEMS = [
         ('Directions', 'pages/Directions.html'),
         ('FAQ', 'pages/FAQ.html'),
         ('Contact us', 'mailto:datascience@ucdavis.edu'),
-        ]
-    ),
+    ]),
     ('Services', [
         ('Consulting', 'pages/Services.html'),
         ('Collaboration', 'pages/Collaboration.html'),
         ('Workshops & Training', 'pages/Training.html'),
-        ('Suggest a Workshop', 'https://docs.google.com/a/ucdavis.edu/forms/d/1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA/viewform?usp=send_form'),
+        ('Suggest a Workshop', 'https://docs.google.com/a/ucdavis.edu/forms/d/'
+            '1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA/'
+            'viewform?usp=send_form'),
         ('Space', 'pages/Space.html'),
-    ]
-    ),
+    ]),
     ('Resources', [
         ('Courses', 'pages/Courses.html'),
         ('Tutorials', 'category/tutorials.html'),
@@ -124,15 +124,17 @@ MENUITEMS = [
     ('Related', [
         ("Institute for Social Science", "http://socialscience.ucdavis.edu/"),
          ("Davis R Users Group",
-        "http://www.noamross.net/davis-r-users-group.html"),
+            "http://www.noamross.net/davis-r-users-group.html"),
          ("Data @ UC Davis", "http://data.ucdavis.edu/"),
          ("Statistics RTG", "http://www.stat.ucdavis.edu/research/nsf-rtg"),
          ("Statistics Lab", "http://www.stat.ucdavis.edu/stat-lab/services.html"),
-         ("John Muir Institute of the Environment", "http://johnmuir.ucdavis.edu/"),
+         ("John Muir Institute of the Environment",
+             "http://johnmuir.ucdavis.edu/"),
          ("ICIS", "http://icis.ucdavis.edu/"),
          ("CITRIS", "http://citris-uc.org/"),
          ("Keck Caves", "http://keckcaves.org/"),
          ("Center for Spatial Sciences", "http://spatial.ucdavis.edu/"),
-    ]
-    ),
+    ]),
 ]
+
+HIDE_SIDEBAR = True

@@ -130,102 +130,144 @@
 </head>
 <body>
 
-<div class="navbar {% if BOOTSTRAP_NAVBAR_INVERSE %}navbar-inverse{% else %}navbar-default{% endif %} navbar-fixed-top" role="navigation">
-	<div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
 
+<!-- Navbar -->
+<div class="navbar
+  {% if BOOTSTRAP_NAVBAR_INVERSE %}
+    navbar-inverse
+  {% else %}
+    navbar-default
+  {% endif %}
+  navbar-fixed-top", role="navigation">
+  <div class="container{% if BOOTSTRAP_FLUID %}-fluid{% endif %}">
 
+    <!-- Navbar Header: brand and toggle -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="{{ SITEURL}}/">
+        {% if SITELOGO %}
+          <img src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}"/>
+        {% endif %}
+        {% if not HIDE_SITENAME %}{{ SITENAME }}{% endif %}
+      </a>
+    </div>
 
-            <a href="{{ SITEURL }}/" class="navbar-brand">
-                {% if SITELOGO %}<img src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}"/> {% endif %}
-                {% if not HIDE_SITENAME %}{{ SITENAME }}{% endif %}
-            </a>
-        </div>
-
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav">
-		<!-- collapsable dropdown menu -->
+    <!-- Navbar Menus -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav">
 		{% for title,url in MENUITEMS %}
-                {% if url is string %}
-                  {% if title != 'Search' | title != 'Contact'%}
-                    <li {% if url == link %}class="active"{% endif %}>
-											<a href="{{ externalsite(url) }}" {{ newtab(url) }}>{{ title }}</a>
-                    </li>
-                	{% elif title == 'Contact' %}
-                    <li {% if url == link %}class="active"{% endif %}>
-											<a href="{{ url }}">{{ title }}</a>
-                    </li>
-                  {% endif %}
+      {% if url is string %}
+        {% if title != 'Search' | title != 'Contact'%}
+          <li {% if url == link %}class="active"{% endif %}>
+						<a href="{{ externalsite(url) }}" {{ newtab(url) }}>{{ title }}</a>
+          </li>
+      	{% elif title == 'Contact' %}
+          <li {% if url == link %}class="active"{% endif %}>
+						<a href="{{ url }}">{{ title }}</a>
+          </li>
+        {% endif %}
 
-                {% elif url is iterable %}
-                  <li class="btn-group
-                    {%- for title,item_url in url -%}
-                      {%- if item_url == link -%}
-                        {{- ' active' -}}
-                      {%- endif -%}
-                    {%- endfor -%}
-                  ">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
-                      {{- title }}<b class="caret"></b>
-                    </a>
-                    <ul class="dropdown-menu" role="menu">
-                      {% for title,item_url in url %}
-                      <li {% if item_url == link %}class="active"{% endif %}>
-												<a href="{{ externalsite(item_url) }}" {{ newtab(item_url) }}>{{ title }}</a>
-                      </li>
-                      {% endfor %}
-                    </ul>
-                  </li>
-                {% endif %}
-               {% endfor %}
+      {% elif url is iterable %}
+        <li class="btn-group
+          {%- for title,item_url in url -%}
+            {%- if item_url == link -%}
+              {{- ' active' -}}
+            {%- endif -%}
+          {%- endfor -%}
+        ">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+            {{- title }}<b class="caret"></b>
+          </a>
+          <ul class="dropdown-menu" role="menu">
+            {% for title,item_url in url %}
+            <li {% if item_url == link %}class="active"{% endif %}>
+							<a href="{{ externalsite(item_url) }}" {{ newtab(item_url) }}>
+                {{ title }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+      {% endif %}
+    {% endfor %}
 
-                {% if DISPLAY_PAGES_ON_MENU %}
-                    {% for p in PAGES %}
-                         <li{% if p == page %} class="active"{% endif %}><a href="{{ SITEURL }}/{{ p.url }}">
-                             {{ p.menulabel|default(p.title) }}
-                          </a></li>
-                      {% endfor %}
-                {% endif %}
-                {% if DISPLAY_CATEGORIES_ON_MENU %}
-                    {% for cat, null in categories %}
-                        <li {% if cat == category %}class="active"{% endif %}>
-                            <a href="{{ SITEURL }}/{{ cat.url }}">{{ cat | capitalize }}</a>
-                        </li>
-                    {% endfor %}
-                {% endif %}
-            </ul>
+    <!-- Navbar Buttons -->
+    {% for title,url in SOCIAL %}
+      <li><div class="navbar-btn">
+        <a class="btn btn-danger btn-margins"
+          href="{{ externalsite(url) }}" role="button">
+          {{ title }}
+        </a>
+      </div></li>
+    {% endfor %}
 
-            <ul class="nav navbar-nav navbar-right">
-            {% if 'tipue_search' in PLUGINS %}
-              <li><span>
-									<form class="navbar-search" action="{{ SITEURL }}/{{ SEARCH_URL | default('search.html') }}">
-                <!--<form class="navbar-search" action="{{ SEARCH_URL |
-									default('/search.html') }}">-->
-                  <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input" required>
-                </form></span>
-              </li>
-            {% endif %}
-              <!--<li><a href="{{ SITEURL }}/{{ ARCHIVES_URL |
-									default('archives.html') }}"><i class="fa
-										fa-th-list"></i><span class="icon-label">Event
-										list</span></a></li>-->
-            </ul>
-        </div>
-        <!-- /.navbar-collapse -->
+    </ul> <!-- end of navbar left -->
+    <ul class="nav navbar-nav navbar-right">
 
-
+    <!-- Navbar Search -->
+      {% if 'tipue_search' in PLUGINS %}
+        <li><span>
+					<form class="navbar-form navbar-search"
+            action="{{ SITEURL }}/{{ SEARCH_URL | default('search.html') }}">
+              <!--<form class="navbar-search" action="{{ SEARCH_URL |
+								default('/search.html') }}">-->
+            <input type="text" class="form-control search-query"
+              placeholder="Search" name="q" id="tipue_search_input" required>
+          </form>
+        </span></li>
+      {% endif %}
+    </ul>
 
     </div>
-</div> <!-- /.navbar -->
 
+  </div><!-- END .container -->
+</div> <!-- END .navbar -->
+    
 
-
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <!--
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">One more separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+      <form class="navbar-form navbar-left">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#">Link</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Action</a></li>
+            <li><a href="#">Another action</a></li>
+            <li><a href="#">Something else here</a></li>
+            <li role="separator" class="divider"></li>
+            <li><a href="#">Separated link</a></li>
+          </ul>
+        </li>
+      </ul>
+    -->
 
 
 <!-- Banner -->
