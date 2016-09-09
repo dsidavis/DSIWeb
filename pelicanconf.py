@@ -13,7 +13,7 @@ RELATIVE_URLS = True  # dev view
 # RELATIVE_URLS = False  # production view
 
 # temporarily stick with a stupid folder name
-OUTPUT_PATH = 'something_nice/'
+OUTPUT_PATH = '../something_nice/'
 
 # Where the markdown / content files are placed
 PATH = 'content'
