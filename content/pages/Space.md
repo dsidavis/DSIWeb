@@ -15,7 +15,7 @@ postdocs and graduate students who are keen to work on
 inter-disciplinary projects related to Data Science.
 
 ## DSI classroom (Room 360) 
-Our classroom can sit around 40 participants and we regularly hold seminars
+Our classroom can sit around 40 participants. We hold seminars
 and allow other people to use our space for Data Science events.
 See [our calendar]({filename}./Calendar.md) to find out if the classroom is occupied.
 

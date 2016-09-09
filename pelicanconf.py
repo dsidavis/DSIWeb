@@ -22,7 +22,7 @@ TIMEZONE = 'America/Los_Angeles'
 DEFAULT_LANG = u'en'
 
 # files under STATIC_PATH will be copied without parsing the content
-STATIC_PATHS = ['images']
+STATIC_PATHS = ['images', 'pdfs']
 
 # EXTRA_PATH_METADATA = {'images/favicon.ico': {'path': 'favicon.ico'}}
 FAVICON = "images/favicon.ico"

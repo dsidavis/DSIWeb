@@ -8,4 +8,4 @@ Slug: OfficeHourDTL
 Duncan Temple Lang (Director of the Data Science Initiative & Professor, Dept.
 of Statistics) will hold drop-in consulting/office hours on all things Digital
 and Data Science (Statistics, Applied Computing, Visualization, Workflows,
-Reproducability, ...). Stop by or, better yet, [email us](mailto:datascience@ucdavis.edu) ahead of time.
+Reproducibility, ...). Stop by or, better yet, [email us](mailto:datascience@ucdavis.edu) ahead of time.

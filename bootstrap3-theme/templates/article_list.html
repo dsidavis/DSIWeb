@@ -1,7 +1,25 @@
 {% extends "base.html" %}
+
 {% block content %}
-    <h1>Lists of {{ articles[0].category }}</h1>
+    {# Jinja2 has very weird scoping rules #}
+    {# Inner loops cannot modify variables from outer scope #}
+    {# Jinja2 also doesn't have a while loop, hence the following weird syntax #}
+    {% set SAME_CATEGORY = [True] %}
+    {% for article in articles %}
+        {% if article.category != articles[0].category %}
+            {% set _ = SAME_CATEGORY.pop() %}
+            {% set _ = SAME_CATEGORY.append(False) %}
+        {% endif %}
+    {% endfor %}
+
+    {% if SAME_CATEGORY[0] == False %}
+    	<h1>List of recent activities</h1>
+    {% else %}
+    	<h1>List of {{ articles[0].category }}</h1>
+    {% endif %}
     <br>
+    <hr>
+
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
