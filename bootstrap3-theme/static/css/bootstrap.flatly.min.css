@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
 
 /*!
  * bootswatch v3.3.4+1
@@ -14,6 +14,7 @@
 html {
     /*font-family: sans-serif;*/
     font: 'Open Sans', sans-serif;
+		font-weight: 300;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -80,6 +81,7 @@ dfn {
 
 h1 {
     font-size: 2em;
+		font-weight: 300;
     margin: 0.67em 0
 }
 
@@ -326,7 +328,7 @@ th {
     display: inline-block;
     font-family: 'Glyphicons Halflings';
     font-style: normal;
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
@@ -1524,7 +1526,7 @@ h6,
 .h6 {
     /*font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
     font: 'Open Sans', sans-serif;
-    font-weight: lighter;
+    font-weight: 300;
     line-height: 1.1;
     color: #0a38c2
 }
@@ -1553,7 +1555,7 @@ h6 .small,
 .h4 .small,
 .h5 .small,
 .h6 .small {
-    font-weight: lighter;
+    font-weight: 300;
     line-height: 1;
     color: #0a38c2
 }
@@ -1830,7 +1832,7 @@ dd {
 }
 
 dt {
-    font-weight: lighter
+    font-weight: 300
 }
 
 dd {
@@ -3097,7 +3099,7 @@ label {
     display: inline-block;
     max-width: 100%;
     margin-bottom: 5px;
-    font-weight: lighter
+    font-weight: 300
 }
 
 input[type="search"] {
@@ -3248,7 +3250,7 @@ input[type="search"] {
     min-height: 21px;
     padding-left: 20px;
     margin-bottom: 0;
-    font-weight: normal;
+    font-weight: 300;
     cursor: pointer
 }
 
@@ -3273,7 +3275,7 @@ input[type="search"] {
     padding-left: 20px;
     margin-bottom: 0;
     vertical-align: middle;
-    font-weight: normal;
+    font-weight: 300;
     cursor: pointer
 }
 
@@ -3657,7 +3659,7 @@ select[multiple].form-group-lg .form-control {
 .btn {
     display: inline-block;
     margin-bottom: 0;
-    font-weight: normal;
+    font-weight: 300;
     text-align: center;
     vertical-align: middle;
     -ms-touch-action: manipulation;
@@ -4022,7 +4024,7 @@ fieldset[disabled] .btn-danger.active {
 
 .btn-link {
     color: #ffff00;
-    font-weight: normal;
+    font-weight: 300;
     border-radius: 0
 }
 
@@ -4198,7 +4200,7 @@ tbody.collapse.in {
     display: block;
     padding: 3px 20px;
     clear: both;
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1.42857143;
     color: #7b8a8b;
     white-space: nowrap
@@ -4600,7 +4602,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 .input-group-addon {
     padding: 10px 15px;
     font-size: 15px;
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1;
     color: #2c3e50;
     text-align: center;
@@ -5704,7 +5706,7 @@ fieldset[disabled] .navbar-inverse .btn-link:focus {
     display: inline;
     padding: .2em .6em .3em;
     font-size: 75%;
-    font-weight: lighter;
+    font-weight: 300;
     line-height: 1;
     color: #ffffff;
     text-align: center;
@@ -5788,7 +5790,7 @@ a.label:focus {
     min-width: 10px;
     padding: 3px 7px;
     font-size: 13px;
-    font-weight: lighter;
+    font-weight: 300;
     color: #ffffff;
     line-height: 1;
     vertical-align: baseline;
@@ -5928,7 +5930,7 @@ a.thumbnail.active {
 }
 
 .alert .alert-link {
-    font-weight: lighter
+    font-weight: 300
 }
 
 .alert>p,
@@ -6846,7 +6848,7 @@ a.list-group-item-danger.active:focus {
 .close {
     float: right;
     font-size: 22.5px;
-    font-weight: lighter;
+    font-weight: 300;
     line-height: 1;
     color: #000000;
     text-shadow: none;
@@ -7023,7 +7025,7 @@ button.close {
     /*font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
     font: 'Open Sans', san-serif;
     font-size: 13px;
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1.4;
     opacity: 0;
     filter: alpha(opacity=0)
@@ -7146,7 +7148,7 @@ button.close {
     padding: 1px;
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 15px;
-    font-weight: normal;
+    font-weight: 300;
     line-height: 1.42857143;
     text-align: left;
     background-color: #ffffff;
