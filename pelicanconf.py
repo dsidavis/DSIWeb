@@ -24,9 +24,11 @@ DEFAULT_LANG = u'en'
 # files under STATIC_PATH will be copied without parsing the content
 STATIC_PATHS = ['images', 'pdfs']
 
-# EXTRA_PATH_METADATA = {'images/favicon.ico': {'path': 'favicon.ico'}}
+# Icon for browser tabs
 FAVICON = "images/favicon.ico"
 
+# Parsed html files will follow have the same
+# file prefixes as the original markdown files
 FILENAME_METADATA = '(?P<slug>.*)'
 
 # Pelican themes
@@ -39,7 +41,7 @@ BOOTSTRAP_THEME = 'flatly'
 BANNER = 'images/dsi_banner.png'
 BANNER_SUBTITLE = None
 BANNER_ALL_PAGES = True
-BOOTSTAP_FLUID = True
+BOOTSTRAP_FLUID = False
 
 # DO NOT REMOVE THIS, this tells which template html should be added
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
@@ -60,17 +62,7 @@ PLUGINS = [
     u"tipue_search",
     u"render_math",
 ]
-GIT_FILETIME_FOLLOW = True
 
-# What to display on sidebar as buttons
-SOCIAL = (
-    ('Mailing List', 'pages/Signup.html'),
-    ('Become An Affiliate',
-        'https://docs.google.com/forms/d/e/'
-        '1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform'),
-)
-
-LINKS = None
 
 SHOW_DATE_MODIFIED = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
@@ -138,3 +130,14 @@ MENUITEMS = [
 ]
 
 HIDE_SIDEBAR = True
+# What to display on sidebar as buttons
+SOCIAL = (
+    ('Mailing List', 'pages/Signup.html'),
+    ('Become An Affiliate',
+        'https://docs.google.com/forms/d/e/'
+        '1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform'),
+)
+#
+# links on sidebar
+# LINKS = None
+

@@ -12,6 +12,11 @@ The generator parser uses the aforementioned content to spit out the site.
 		should be generated, what plugins to use (`tipue_search` and `render_math`) and the specification of what goes into the top menu
 		navigation bar of the generated site etc. Read [settings](docs.getpelican.com/en/3.6.3/settings.html) doc to see how this works.
  
+# How does Pelican work?
+a theme file that contains
+* Jinja2 annotations on the html templates  
+* bootstrap / other CSS / JS  
+
 
 # Cloning the entire repo, including the submodules
 ```
