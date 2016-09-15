@@ -29,13 +29,13 @@ This will allow you to clone also the processed `html` files for version control
 ## Installing Pelican and its dependencies in a virtualenv 
 See this [article](http://karenyyng.github.io/using-virtualenv-for-safeguarding-research-project-dependencies.html) for 
 detailed instructions.
-But if you have Python `virtualenv` installed, the instructions are as simple
+But if you have Python `virtualenv` installed and in your `$PATH` variable, the instructions are as simple
 as:
 ```
 $ cd $GIT_REPO_PATH
 $ virtualenv --no-site-packages ENVNAME  # installs virtualenv in the folder
 $ source $ENVNAME/bin/activate   # this activates the virtualenv
-# this installs the list of Python modules for running Pelican
+# the following installs the list of Python modules for running Pelican
 $ pip install -r requirements.txt  
 ```
 This assumes that you have not appended any Python library paths to your system
