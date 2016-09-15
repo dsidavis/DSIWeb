@@ -42,8 +42,8 @@ This is not the official website. </div>
     science, economics, business and commerce, environmental science, linguistics and
     the humanities, generally.
    </p>
-		<a href="mailto:datascience@ucdavis.edu"
-		 class="btn btn-primary btn-sm" role="button" target="_blank">
+		<a href="pages/Collaboration.html"
+		 class="btn btn-primary btn-sm" role="button" >
 			Propose projects
 		</a>
   </div>

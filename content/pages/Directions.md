@@ -25,6 +25,8 @@ right of the exit sign.
 * Ring a bell on the wall at either the entrance of the DSI classroom (A: room 360) or 
 the DSI workspace (C) if the entrance is locked. 
 
+<center>
 ![Map within Shields Library]({filename}../images/map-shields-3.png)
+</center>
 
 The DSI is in the space previously occupied by the Institute of Governmental Affairs (IGA).
