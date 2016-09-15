@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans:300');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
 /*!
  * bootswatch v3.3.4+1
@@ -13,7 +13,7 @@
 
 html {
     /*font-family: sans-serif;*/
-    font: 'Open Sans', sans-serif;
+    font: 'Roboto', sans-serif;
 		font-weight: 300;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
@@ -1404,11 +1404,10 @@ html {
 body {
     /*font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
     /*font-family: ''Lucida Grande, Lato, Tahoma, Verdana, Arial, Helvetica, sans-serif;*/
-    font: 300 15px/1.8 'Open Sans', sans-serif;
+    font: 300 15px/1.8 'Roboto', sans-serif;
     font-size: 15px;
     line-height: 1.42857143;
     color: #000000;
-		text-shadow: 0px 0px #000000;
     background-color: #ffffff
 }
 
@@ -1526,7 +1525,7 @@ h6,
 .h5,
 .h6 {
     /*font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-    font: 'Open Sans', sans-serif;
+    font: 'Roboto', sans-serif;
     font-weight: 300;
     line-height: 1.1;
     color: #0a38c2
@@ -1643,6 +1642,7 @@ h6,
 
 p {
     margin: 0 0 10.5px
+		text-shadow: 0px 0px #000000;
 }
 
 .lead {
@@ -7024,7 +7024,7 @@ button.close {
     z-index: 1070;
     display: block;
     /*font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;*/
-    font: 'Open Sans', san-serif;
+    font: 'Roboto', san-serif;
     font-size: 13px;
     font-weight: 300;
     line-height: 1.4;
