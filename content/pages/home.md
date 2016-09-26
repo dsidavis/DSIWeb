@@ -12,9 +12,10 @@ Date: 2016-09-03 15:50
 
 <!-- See http://v4-alpha.getbootstrap.com/components/ for the CSS components
 available to you in the Bootstrap CSS bundle-->
-<div class="alert alert-danger" role="alert"> Announcement: This is just a demo that 
-borrows materials from the DSI Davis.
-This is not the official website. </div>
+<div class="alert alert-info" role="alert">
+  Announcement: This is just a demo that borrows materials from the DSI Davis.
+  This is not the official website.
+</div>
 
 <div class="row">
   <div class="col-sm-4">
