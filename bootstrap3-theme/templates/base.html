@@ -149,12 +149,19 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ SITEURL}}/">
+      <a class="navbar-brand"
         {% if SITELOGO %}
-          <img src="{{ SITEURL }}/{{ SITELOGO }}" width="{{ SITELOGO_SIZE }}"/>
+          style="
+            background: url({{ SITEURL }}/{{ SITELOGO }}) center / contain
+            no-repeat;
+            width: {{ SITELOGO_SIZE }}px;
+          "
         {% endif %}
-        {% if not HIDE_SITENAME %}{{ SITENAME }}{% endif %}
-      </a>
+        href="{{ SITEURL }}/">
+        {% if not HIDE_SITENAME %}
+          {{ SITENAME }}
+        {% endif %}
+        </a>
     </div>
 
     <!-- Navbar Menus -->

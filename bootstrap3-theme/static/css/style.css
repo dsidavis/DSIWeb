@@ -20,7 +20,7 @@ body {
 
 /* for list-groups nested within a list-group-item, reset the bottom margin */
 
-.list-group-item> .list-group {
+.list-group-item > .list-group {
     margin-bottom: 0px;
 }
 
@@ -88,6 +88,7 @@ body {
     margin-right: 3px;
 }
 
+/*
 a {
     color: #2582cd;
 		text-decoration: none
@@ -108,6 +109,7 @@ a:hover {
 #sidebar h4 {
     color: #4d4d4d;
 }
+*/
 
 .entry-content a {
 
