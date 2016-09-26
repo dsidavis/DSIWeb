@@ -1,19 +1,33 @@
 # What are these files  ?
+
 Which files should I look at?
-* `bootstrap3-theme`: template files from the popular JS / CSS framework [Bootstrap](http://getbootstrap.com/) that is free to use but not sell. These change how the styles / locations of content.
-* content - main content files of the website, e.g. words, specification of
-		links, what the content files are for. Read [content](http://docs.getpelican.com/en/3.6.3/content.html) doc to see what options are available.
+
+* `theme`: template files for a theme based on the popular JS / CSS framework
+  [Bootstrap](http://getbootstrap.com/) that is free to use but not sell. These
+  change the styles / locations of content.
+* `content`: main content files of the website, e.g. words, specification of
+  links, what the content files are for. Read the
+  [content doc](http://docs.getpelican.com/en/3.6.3/content.html) to see what
+  options are available.
   
 * [pelican-plugins](https://github.com/getpelican/pelican-plugins) some useful
-		widgets to add functionality to the generated site 
-* `something_nice` - website files generated with [Pelican](http://docs.getpelican.com/en/3.6.3/), a Python static site generator.
-The generator parser uses the aforementioned content to spit out the site.
+  widgets to add functionality to the generated site 
+* `something_nice` - website files generated with
+  [Pelican](http://docs.getpelican.com/en/3.6.3/), a Python static site
+  generator. The generator parser uses the aforementioned content to spit out
+  the site.
 * `pelicanconf.py` - this contains most of the configurations of how the site
-		should be generated, what plugins to use (`tipue_search` and `render_math`) and the specification of what goes into the top menu
-		navigation bar of the generated site etc. Read [settings](docs.getpelican.com/en/3.6.3/settings.html) doc to see how this works.
+  should be generated, what plugins to use (`tipue_search` and `render_math`)
+  and the specification of what goes into the top menu navigation bar of the
+  generated site etc. Read the
+  [settings doc](docs.getpelican.com/en/3.6.3/settings.html) to see how this
+  works.
  
+
 # How does Pelican work?
-a theme file that contains
+
+A theme file that contains
+
 * Jinja2 annotations on the html templates  
 * bootstrap / other CSS / JS  
 

@@ -32,7 +32,7 @@ FAVICON = "images/favicon.ico"
 FILENAME_METADATA = '(?P<slug>.*)'
 
 # Pelican themes
-THEME = 'bootstrap3-theme'
+THEME = 'theme'
 BOOTSTRAP_THEME = 'flatly'
 
 
