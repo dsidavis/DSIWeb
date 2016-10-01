@@ -13,9 +13,9 @@
     {% endfor %}
 
     {% if SAME_CATEGORY[0] == False %}
-    	<h1>List of recent activities</h1>
+    	<h1>Announcements</h1>
     {% else %}
-    	<h1>List of {{ articles[0].category }}</h1>
+    	<h1>Posts with the tag: {{ tag }}</h1>
     {% endif %}
     <br>
     <hr>

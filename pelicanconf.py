@@ -40,7 +40,7 @@ BOOTSTRAP_THEME = 'flatly'
 # BANNER = 'images/dsi-logo-rgb-text-96dpi.jpg'
 BANNER = 'images/dsi_banner.png'
 BANNER_SUBTITLE = None
-BANNER_ALL_PAGES = True
+BANNER_ALL_PAGES = False
 BOOTSTRAP_FLUID = False
 
 # DO NOT REMOVE THIS, this tells which template html should be added
@@ -105,7 +105,7 @@ MENUITEMS = [
     ]),
     ('Resources', [
         ('Courses', 'pages/Courses.html'),
-        ('Tutorials', 'category/tutorials.html'),
+        ('Tutorials', 'tag/tutorial.html'),
         ('Languages', 'pages/Languages.html'),
         ('Data Sciences New Sources', 'pages/News.html'),
     ]),
