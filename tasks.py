@@ -33,7 +33,8 @@ def build_content(ctx):
 def build_theme(ctx):
     """Build the site theme (if you changed a .scss file)."""
     src_path = os.path.join(conf.THEME, conf.BOOTSTRAP_THEME, "build.scss")
-    css = sass.compile(filename = src_path, output_style = "compressed")
+    css = sass.compile(filename = src_path, output_style = "compressed",
+        precision = 8)
 
     dest_path = os.path.join(conf.THEME, "static", "css",
         "bootstrap.{}.min.css".format(conf.BOOTSTRAP_THEME))
