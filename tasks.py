@@ -40,6 +40,11 @@ def build_theme(ctx):
     with open(dest_path, "w") as dest:
         dest.write(css)
 
+    ctx.run(
+        "node_modules/postcss-cli/bin/postcss "
+        "--use autoprefixer --replace " + dest_path
+    )
+
 
 build = Collection("build")
 build.add_task(build_content, "content", default = True)
