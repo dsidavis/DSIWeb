@@ -6,9 +6,9 @@ Authors: DSI
 # General Data Science News
 
 * [Hacker News](https://news.ycombinator.com/)
-* [DataTau](https://www.datatau.com/)
+* [DataTau](http://www.datatau.com/)
 * [Data Science Central](http://www.datasciencecentral.com)
 
 # Data Science tutorials and discussions 
-* [Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/)
 * [R blogger](www.r-bloggers.com/)
+* [Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/)

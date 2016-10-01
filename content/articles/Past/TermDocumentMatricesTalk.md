@@ -1,5 +1,6 @@
 Title: Talk by Naoki Saito on an Approach for analyzing Term Document Matrices
 Date: 06/10/2016 12:00 
+Tags: Talk
 
 *Talk title*: Term-Document Matrix Analysis using Generalized Haar-Walsh Wavelet Packet Dictionaries     
 *Speaker*: Naoki Saito, Professor of the Mathematics department, UCD     

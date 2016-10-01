@@ -1,5 +1,6 @@
 Title: LLNL-Davis Data Science Symposium
 Date: Fri Dec 5 12:41:14 PST 2014
+Tags: Symposium
 
 
 *Event date*: 12/03/2014, 3:00 - 6:00 pm   

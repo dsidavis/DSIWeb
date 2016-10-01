@@ -1,6 +1,7 @@
 Title: Workshop on Accessing data from Web pages and Web services/APIs 
 Date: 09/29/2014 12:00 
 Slug: WebScraping
+Tags: R, WebTechnologies, Workshop, Tutorial
 
 *Location*: Instruction Room, Shields Library    
 *Date*: 09/29/2014   

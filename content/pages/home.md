@@ -2,14 +2,7 @@ Title: DSI UC Davis
 Author: DSI UC Davis
 save_as: index.html
 Date: 2016-09-03 15:50
-
-<!--<center>
-<img src="./images/dsi-logo-rgb-text-96dpi.jpg" width="500" height="300"><br>
-<img src="./images/UCDavis.png">
-</center>
--->
-
-
+Template: home
 <!-- See http://v4-alpha.getbootstrap.com/components/ for the CSS components
 available to you in the Bootstrap CSS bundle-->
 <div class="alert alert-danger" role="alert"> Announcement: This is just a demo that 
@@ -63,38 +56,4 @@ This is not the official website. </div>
 </div>
 
 
-<br>
-<p>
-The Data Science Initiative hopes to serve as a hub of emerging activity
-on campus related to statistical and machine  learning, technology developments,
-inter-disciplinary data-related research and education.
-We plan to
-</p>
-<ul>
-<li> hold regular informal seminars to discuss new technologies and methods,
-      and brainstorm about problems in different domains;
-  </li>
-<li> run an inter-disciplinary seminar series on cutting-edge aspects of Big Data Science;
-  </li>
-<li> offer practical workshops on Data Science, HPC and Big Data topics, methods and technologies;
-  </li>
-<li> house researchers from different disciplines in a shared space to foster interaction on new
-      ideas and solutions;
-  </li>
-<li> with faculty from different departments, develop new courses covering data science skills,
-      methods, and practice;
-  </li>
-<li> facilitate new programs (minors, majors, designated emphases and degrees) in Data Science
-      from various different departments and graduate groups by combining courses and resources
-      across the campus;
-  </li>
-<li> develop consulting services for the campus and opportunities for students to
-       work on and help with research activities and problems on campus;
-  </li>
-<li> connect students with internship opportunities in industry, government labs and campus
-      facilities;
-  </li>
-<li> assist in other campus efforts to strengthen computing infrastructure and HPC for Big Data for the campus.
-</li>
-</ul>
 

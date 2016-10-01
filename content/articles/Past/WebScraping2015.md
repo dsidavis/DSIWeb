@@ -1,6 +1,7 @@
 Title: Web Scraping & Services Workshop
 Date: 04/04/2015 12:00
 Slug: WebScraping
+Tags: R, WebTechnologies, Workshop, Tutorial
 
 
 Slides, Annotated documents, Videos, screencasts from the Web Scraping & Services Workshop. Materials are available [here](http://datascience.ucdavis.edu/NSFWorkshops/WebScraping/).
@@ -17,11 +18,12 @@ querying the hierarchical documents with XPath.
 We will also explore how to process dynamic content created
 with JavaScript.
 Having dealt with HTML documents, we will move to Web Services
-which provdide significantly more structured access to data.
+which provide significantly more structured access to data.
+
 
 <h3>Instructors</h3>
 Duncan Temple Lang (UC Davis, Member of the R-core development team,   Director of Data Sciences
-Initiative, Prof. Statistics) &amp; <br/>
+Initiative, Prof. of Statistics) &amp; <br/>
 Deborah Nolan (UC Berkeley, Prof. Statistics),
 authors of
 <ul>
