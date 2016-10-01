@@ -68,7 +68,7 @@ SHOW_DATE_MODIFIED = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
 # How many event to show on event main page
-DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 8
 
 # SEARCH_URL = 'search.html'
 
@@ -110,7 +110,8 @@ MENUITEMS = [
         ('Data Sciences New Sources', 'pages/News.html'),
     ]),
     ('Events', [
-        ('Announcements', 'blog_index.html'),
+        ('Announcements', 'category/recent.html'),
+        ('Past events', 'category/past.html'),
         ('Calendar', "pages/Calendar.html")
     ]),
     ('Related', [

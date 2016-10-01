@@ -14,7 +14,7 @@
 html {
     /*font-family: sans-serif;*/
     font: 'Roboto', sans-serif;
-		font-weight: 300;
+    font-weight: 300;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
 }
@@ -81,7 +81,7 @@ dfn {
 
 h1 {
     font-size: 2em;
-		font-weight: 300;
+    font-weight: 300;
     margin: 0.67em 0
 }
 
@@ -1420,6 +1420,7 @@ textarea {
     line-height: inherit
 }
 
+
 /*
 a {
     color: #2582cd;
@@ -1456,6 +1457,10 @@ img {
     display: block;
     max-width: 100%;
     height: auto
+}
+
+.carousel-inner>.item>h1{
+	font-size:50px
 }
 
 .img-rounded {
@@ -1641,8 +1646,7 @@ h6,
 }
 
 p {
-    margin: 0 0 10.5px
-		text-shadow: 0px 0px #000000;
+    margin: 0 0 10.5px text-shadow: 0px 0px #000000;
 }
 
 .lead {
@@ -4793,7 +4797,7 @@ select[multiple].input-group-sm>.input-group-btn>.btn {
 }
 
 @media (min-width:1200px) {
-/*@media (min-width:1200px) {*/
+    /*@media (min-width:1200px) {*/
     .nav-tabs.nav-justified>li {
         display: table-cell;
         width: 1%
@@ -7456,7 +7460,7 @@ button.close {
 
 .carousel-indicators {
     position: absolute;
-    bottom: 10px;
+    bottom: 5px;
     left: 50%;
     z-index: 15;
     width: 60%;
@@ -7472,7 +7476,7 @@ button.close {
     height: 10px;
     margin: 1px;
     text-indent: -999px;
-    border: 1px solid #ffffff;
+    border: 1px solid #3677a9;
     border-radius: 10px;
     cursor: pointer;
     background-color: #000 \9;
@@ -8167,3 +8171,5 @@ a.list-group-item-danger.active:focus {
 .popover {
     color: #2c3e50
 }
+
+

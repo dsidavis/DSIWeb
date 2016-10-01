@@ -18,13 +18,6 @@ a theme file that contains
 * bootstrap / other CSS / JS  
 
 
-# Cloning the entire repo, including the submodules
-```
-$ git clone --recursive git@github.com:karenyyng/DSI_pelican_config.git
-```
-This will allow you to clone also the processed `html` files for version control.
-[Submodules tutorial](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
-
 # Installation steps
 ## Installing Pelican and its dependencies in a virtualenv 
 See this [article](http://karenyyng.github.io/using-virtualenv-for-safeguarding-research-project-dependencies.html) for 
@@ -36,6 +29,7 @@ $ cd $GIT_REPO_PATH
 $ virtualenv --no-site-packages ENVNAME  # installs virtualenv in the folder
 $ source $ENVNAME/bin/activate   # this activates the virtualenv
 # the following installs the list of Python modules for running Pelican
+```
 $ pip install -r requirements.txt  
 ```
 This assumes that you have not appended any Python library paths to your system

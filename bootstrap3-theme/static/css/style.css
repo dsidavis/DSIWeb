@@ -210,19 +210,6 @@ figure.floatcenter,
     padding: 0px;
 }
 
-#banner {
-    background-repeat: no-repeat;
-    background-position: top center;
-    background-attachment: scroll;
-    background-size: cover;
-    background-color: #C4C4C4;
-    height: 325px;
-    margin: 0 0 20px;
-    padding: 70px 0;
-    /*controls padding around inner text*/
-    position: relative;
-}
-
 #banner .copy {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0.0);
     display: inline;
@@ -230,6 +217,7 @@ figure.floatcenter,
     max-width: 600px;
     padding: 20px;
     position: relative;
+		vertical-align: middle;
     z-index: 1;
 }
 
@@ -246,7 +234,7 @@ figure.floatcenter,
 
 #banner .intro {
     color: #fff;
-    font-size: 21px;
+    font-size: 50px;
     line-height: 1.33;
     opacity: 0.75;
 }
@@ -269,4 +257,32 @@ figure.floatcenter,
     }
 }
 
+.announcement{
+	vertical-align: middle;
+	height: 325px;
+	min-height: 325px;
+	text-align: center;
+	overflow: hidden;
+  max-width: 700px;
+	font-size: 20px;
+  /*position: relative;
+  z-index: 1;*/
+}
 
+#officeHoursBackgroundImg{
+	background-image: url('/images/DSI_pics/office_hours_in_conference_room_small.jpg');
+	background-position: top center;
+	background-size: 433px 325px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: relative;
+}
+
+#affiliateBackgroundImg{
+	background-image: url('/images/DSI_pics/IMG_4204_small.jpg');
+	background-position: top center;
+	background-size: 433px 325px;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	position: relative;
+}
