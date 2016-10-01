@@ -1,5 +1,5 @@
 Title: Full-time job: Academic Coordinator
-Category: Ongoing
+Tags: Ongoing
 
 > Academic Coordinator   
 Data Science Initiative    

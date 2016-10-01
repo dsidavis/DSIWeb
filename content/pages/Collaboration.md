@@ -14,6 +14,6 @@ We want these collaborations to be more than simple consulting and programming.
 ## Call for 1- or 2- quarter projects 
 The DSI team will work with selected groups on projects that would significantly benefit from data science skills. See [here]({filename}/pdfs/DSICallForProjects-1.pdf) for more information about how to apply. We will continue to accept proposals after April 1st.
 
-
-However, we are very happy to provide advice about any technical matters
+# Consultation
+We are also very happy to provide advice about any technical matters
 related to data science. [Contact us](mailto:datascience@ucdavis.edu), or drop by one of our [office hours]({category}services).

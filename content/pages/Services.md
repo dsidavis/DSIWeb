@@ -21,7 +21,7 @@ The Data Science Initiative provides advice and collaboration services to resear
 
 ## Office hours
 We have office hours for advising.
-See the specific [office hours]({category}services) from our team.
+See the specific [office hours]({tag}office-hour) from our team.
 We are also very interested in collaborating on more significant, longer-term projects.
 
 The [Statistics Lab](http://www.stat.ucdavis.edu/stat-lab/services.html) on campus also provides consulting for statistical topics.

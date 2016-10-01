@@ -26,14 +26,15 @@ This is not the official website. </div>
 		</a>
   </div>
   <div class="col-sm-4">
-    <h4>Interdisciplinary collaborations</h4>
+    <h4>Interdisciplinary and collaborative space</h4>
   	<p>
     Data Science and Big Data are more than the sum of
     statistics, machine learning and computer science.
     They are the outcome of a very recent, structural change in the nature of research in many
     disciplines, ranging from bioinformatics, astrophysics, psychology, neuro-science, political
     science, economics, business and commerce, environmental science, linguistics and
-    the humanities, generally.
+    the humanities, generally. We want to promote interdisciplinary
+		collaborations that use Data Science tools.
    </p>
 		<a href="pages/Collaboration.html"
 		 class="btn btn-primary btn-sm" role="button" >
@@ -41,7 +42,7 @@ This is not the official website. </div>
 		</a>
   </div>
   <div class="col-sm-4">
-    <h4> Training Data Scientists </h4>
+    <h4> Training for Data Scientists </h4>
      <p> Data Scientists are in high demand, both in industry and research.  The set of skills a Data
      Scientist needs is broader than one discipline or degree program alone. This challenges the
      existing models and the Data Science Initiative plans to work with and facilitate inter-departmental

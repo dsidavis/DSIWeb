@@ -17,6 +17,7 @@ education for Data Science.
 helping researchers in different fields to identify and exploit new
 opportunities.
 
+# Our plan
 <p>
 The Data Science Initiative hopes to serve as a hub of emerging activity
 on campus related to statistical and machine  learning, technology developments,
