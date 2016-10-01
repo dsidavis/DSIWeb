@@ -71,15 +71,16 @@ formats.
 ```
 content
 |________articles  # these files are treated as posts / announcements
-					# the following are folders that will added as category tags to posts
-					|____events 
-					|____tutorials
-					|____opportunities 
-					|____services 
+					# the following are folders that will added as the `category` of posts
+					|____Recent
+					|____Past
 |
 |________pages     # these files are more permenant part of the website
 |________images    # these images are copied to the images folder of the generated site files 
+|________pdfs      # these are pdf files 
+|________resources # other page resources 
 ```
+in addition to categories, there can be `tags` that can be added to posts. 
 
 ## writing in html
 The only required content for a `html` post is a `<title>TITLE</title>` in the `<head></head>`
@@ -89,7 +90,7 @@ node. But here is an example:
     <head>
         <title>My super title</title>
         <meta name="tags" content="Awesome R packages" />
-        <meta name="category" content="Statistical computing" />
+        <meta name="category" content="Recent" />
         <meta name="summary" content="Short version for index and feeds" />
     </head>
     <body>

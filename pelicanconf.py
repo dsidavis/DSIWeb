@@ -42,6 +42,7 @@ BANNER = 'images/dsi_banner.png'
 BANNER_SUBTITLE = None
 BANNER_ALL_PAGES = False
 BOOTSTRAP_FLUID = False
+RECENT_POST_COUNT = 6
 
 # DO NOT REMOVE THIS, this tells which template html should be added
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
@@ -98,9 +99,7 @@ MENUITEMS = [
         ('Consulting', 'pages/Services.html'),
         ('Collaboration', 'pages/Collaboration.html'),
         ('Workshops & Training', 'pages/Training.html'),
-        ('Suggest a Workshop', 'https://docs.google.com/a/ucdavis.edu/forms/d/'
-            '1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA/'
-            'viewform?usp=send_form'),
+        ('Suggest a Workshop', 'pages/Training.html#Suggest-a-workshop'),
         ('Space', 'pages/Space.html'),
     ]),
     ('Resources', [

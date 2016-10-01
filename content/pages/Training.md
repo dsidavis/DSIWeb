@@ -16,9 +16,13 @@ We are keen to run
 
 We also plan to introduce new data science courses.
 
-We have posted <a
-href="https://docs.google.com/a/ucdavis.edu/forms/d/1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA/viewform?usp=send_form">possible
-topics</a> and you can indicate in which topics you are interested via that form.
+# Suggest a workshop
+We have posted possible
+topics and you can indicate in which topics you are interested via that form.
+
+First, <a href="https://cas.ucdavis.edu/cas/login?service=https%3a%2f%2fshibboleth.ucdavis.edu%2fidp%2fAuthn%2fRemoteUser"> sign into </a> your UC Davis email account, then you can propose <a
+href="https://docs.google.com/a/ucdavis.edu/forms/d/1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA/viewform?usp=send_form"> topics </a> for workshops.
+
 We also strongly encourage you to suggest other topics via the same form.
 The best way to get a workshop is to suggest a topic and get other people on campus to also suggest
 it so that we know there is sufficient genuine interest.

@@ -1,3 +1,8 @@
+
+
+
+
+
 {% extends "base.html" %}
 {% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
 {% block html_lang %}{{ page.lang }}{% endblock %}
@@ -52,31 +57,57 @@
     <!-- Wrapper for carousel items -->
     <div class="carousel-inner">
         <div class="item active">
+	  <center>
+	  <img src="{{ SITEURL }}/{{ BANNER }}" style="padding-top: 0px;
+	  	padding-bottom: 0px" class="img-responsive">
+	  </center>
+        </div>
+
+        <div class="item">
+	  <div class="col-lg-2">
+          </div>
+	  <div class="col-lg-8">
+	    <center>
+	      <h1><a href="{{ SITEURL }}/category/recent.html">Recent
+			      announcements</a></h1>
+            <table>
+	      {# we have two categories, Past, and, Recent, categories[1] ==
+	      'Recent', categories[1][1] = articles with under "Recent" #}
+	      {% for article in categories[1][1] %}
+		<tr>
+		    <td height="{{ 240/RECENT_POST_COUNT }}">
+		    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+		</td>
+		</tr>
+	      {% endfor %}
+	    </table>
+	    </center>
+          </div>
+	  <div class="col-lg-2">
+          </div>
+        </div>
+
+        <div class="item">
 	<center>
-	<img src="{{ SITEURL }}/{{ BANNER }}" style="padding-top: 0px;
-		padding-bottom: 0px" class="img-responsive">
+          <img src="{{ SITEURL }}/images/DSI_pics/office_hours_in_conference_room_small.jpg"
+          style="padding-top: 0px;
+          padding-bottom: 0px" class="img-responsive">
 	</center>
         </div>
         <div class="item">
 	<center>
-		<img src="{{ SITEURL }}/images/DSI_pics/office_hours_in_conference_room_small.jpg"
-		style="padding-top: 0px;
-		padding-bottom: 0px" class="img-responsive">
-	</center>
-        </div>
-        <div class="item">
-	<center>
-		<img src="{{ SITEURL }}/images/DSI_pics/IMG_4202_small.jpg"
-		style="padding-top: 0px;
-		padding-bottom: 0px" class="img-responsive">
+          <img src="{{ SITEURL }}/images/DSI_pics/IMG_4202_small.jpg"
+          style="padding-top: 0px;
+          padding-bottom: 0px" class="img-responsive">
 	</center>
         </div>
     </div>
     <div class='row' style='padding-top: 50px'>
     	<ol class="carousel-indicators" >
-    		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-    	        <li data-target="#myCarousel" data-slide-to="1"></li>
-    	        <li data-target="#myCarousel" data-slide-to="2"></li>
+           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+           <li data-target="#myCarousel" data-slide-to="1"></li>
+           <li data-target="#myCarousel" data-slide-to="2"></li>
+           <li data-target="#myCarousel" data-slide-to="3"></li>
     	</ol>   
     </div>
     <!-- Carousel controls -->

@@ -1456,7 +1456,13 @@ img {
 .carousel-inner>.item>a>img {
     display: block;
     max-width: 100%;
-    height: auto
+		min-height: 325px;
+    height: 325px;
+}
+
+.carousel-inner{
+		min-height: 325px;
+    height: 325px;
 }
 
 .carousel-inner>.item>h1{
