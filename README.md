@@ -1,96 +1,152 @@
-# What are these files  ?
-Which files should I look at?
-* `bootstrap3-theme`: template files from the popular JS / CSS framework [Bootstrap](http://getbootstrap.com/) that is free to use but not sell. These change how the styles / locations of content.
-* content - main content files of the website, e.g. words, specification of
-		links, what the content files are for. Read [content](http://docs.getpelican.com/en/3.6.3/content.html) doc to see what options are available.
-  
-* [pelican-plugins](https://github.com/getpelican/pelican-plugins) some useful
-		widgets to add functionality to the generated site 
-* `something_nice` - website files generated with [Pelican](http://docs.getpelican.com/en/3.6.3/), a Python static site generator.
-The generator parser uses the aforementioned content to spit out the site.
-* `pelicanconf.py` - this contains most of the configurations of how the site
-		should be generated, what plugins to use (`tipue_search` and `render_math`) and the specification of what goes into the top menu
-		navigation bar of the generated site etc. Read [settings](docs.getpelican.com/en/3.6.3/settings.html) doc to see how this works.
- 
-# How does Pelican work?
-a theme file that contains
-* Jinja2 annotations on the html templates  
-* bootstrap / other CSS / JS  
+# UC Davis DSI Website
 
+## Developer Installation
 
-# Installation steps
-## Installing Pelican and its dependencies in a virtualenv 
-See this [article](http://karenyyng.github.io/using-virtualenv-for-safeguarding-research-project-dependencies.html) for 
-detailed instructions.
-But if you have Python `virtualenv` installed and in your `$PATH` variable, the instructions are as simple
-as:
-```
-$ cd $GIT_REPO_PATH
-$ virtualenv --no-site-packages ENVNAME  # installs virtualenv in the folder
-$ source $ENVNAME/bin/activate   # this activates the virtualenv
-# the following installs the list of Python modules for running Pelican
-```
-$ pip install -r requirements.txt  
-```
-This assumes that you have not appended any Python library paths to your system
-`PYTHONPATH` variable in `~/.bashrc` / `~/.bash_profile` file.
+Requirements:
 
-## Installing themes 
-You also need to install the website html and css themes 
+* [Git](https://git-scm.com/) (>= 2.0.0)
+* [Python](https://www.python.org/) 2 (>= 2.7.0) or Python 3 (>= 3.3.0)
+
+Use git to download a copy of this repository to your machine, and switch the
+newly-created directory.
 ```bash
-$ pelican-themes -i $THEME_PATH
-```
-where 
-```
-THEME_PATH=$GITHUB_REPO_PATH/bootstrap3-theme
+git clone https://github.com/karenyyng/DSI_pelican_config.git
+cd DSI_pelican_config
 ```
 
-# Usage 
-```
-$ make html  # regenerates the files 
-$ make serve  # starts local server for the development view, relative URLs
-will be used   
-```
-And you will be able to preview your blog at a local address
-`http://localhost:8000`.
-Or if you want the files to be automatically updated when changes are made, use:
-```
-$ make devserver
+We recommend you use Python's virtualenv package to create a dedicated Python
+installation (a _virtual environment_) for building the site. Details on
+virtualenv can be found [here][virtualenv] or [here][virtualenv-karen]. To set
+up the virtual environment:
+```bash
+virtualenv --no-site-packages venv
+source venv/bin/activate
 ```
 
-When everything looks fine. You can generate the website for upload through the settings of 
-`publishconf.py`
-```
-$ make publish  # make the production version of the website with absolute URLs
+Finally, install the Python packages required to build the website.
+```bash
+pip install -r requirements.txt  
 ```
 
+Now you're set up and ready to go!
 
-# How to add / modify the content of the website
-The content files are under these paths and can be in either markdown or html
-formats. 
-```
-content
-|________articles  # these files are treated as posts / announcements
-					# the following are folders that will added as the `category` of posts
-					|____Recent
-					|____Past
-|
-|________pages     # these files are more permenant part of the website
-|________images    # these images are copied to the images folder of the generated site files 
-|________pdfs      # these are pdf files 
-|________resources # other page resources 
-```
-in addition to categories, there can be `tags` that can be added to posts. 
+[virtualenv]: http://docs.python-guide.org/en/latest/dev/virtualenvs/
+[virtualenv-karen]: http://karenyyng.github.io/using-virtualenv-for-safeguarding-research-project-dependencies.html
 
-## writing in html
-The only required content for a `html` post is a `<title>TITLE</title>` in the `<head></head>`
-node. But here is an example:
+
+### Building Themes
+
+The website's theme uses a customized version of [Bootstrap][] based on
+[Bootswatch][]. If you plan to edit the `.scss` files used to build the theme,
+an additional requirement is:
+
+* [Node.js](https://nodejs.org/) (>= 4.6.0)
+
+Then install the npm packages required to build the theme.
+```bash
+npm install
+```
+
+[Bootstrap]: http://getbootstrap.com/
+[Bootswatch]: http://bootswatch.com/
+
+
+## Usage
+
+[Pelican][] is a Python package for generating static websites from HTML and
+Markdown. The DSI website uses [Invoke][http://www.pyinvoke.org/] as a build system for Pelican.
+
+To list all supported build commands, run:
+```bash
+invoke --list
+```
+
+A typical workflow is to edit files in `content/` and then rebuild the site.
+```bash
+invoke build
+```
+The built site files are placed in `build/`.
+
+If you want to preview the site after building, you can instead run:
+```bash
+invoke serve
+```
+This builds and then serves the site at <http://localhost:8000/>.
+
+Note that you don't need to and shouldn't rebuild the site's theme unless
+you've edited a `.scss` file. If you do want to rebuild the site's theme, run:
+```bash
+invoke build.theme
+```
+
+[Pelican]: http://docs.getpelican.com/en/stable/
+[Invoke]: http://www.pyinvoke.org/
+
+
+## What are all these files?
+
+```
+├── build             # Files built by running `invoke build`
+├── content           # Files that control the site's content
+│   ├── articles        # Posts / announcements
+│   ├── images          # Image files
+│   ├── pages           # Permanent pages
+│   └── pdfs            # PDF files
+├── plugins           # Pelican plugins
+├── theme             # Files that control the site's appearance
+│   ├── flatly          # .scss files for building Bootstrap
+│   ├── static          # CSS, font, and JavaScript files
+│   └── templates       # HTML template files
+├── LICENSE           # MIT license
+├── package.json      # Required Node.js packages
+├── pelicanconf.py    # Pelican configuration
+├── README.md         # This file
+├── requirements.txt  # Required Python packages
+└── tasks.py          # Invoke tasks
+```
+
+For more details, see the Pelican docs on [content][pelican-content] and
+[configuration][pelican-conf]. The template files use [Jinja2][] for variable
+substitution.
+
+[pelican-content]: http://docs.getpelican.com/en/3.6.3/content.html
+[pelican-conf]: docs.getpelican.com/en/3.6.3/settings.html
+[Jinja2]: http://jinja.pocoo.org/docs/
+[pelican-plugins]: https://github.com/getpelican/pelican-plugins
+
+### Adding Content
+
+Posts (articles) and pages can be written in Markdown or HTML. Below are
+examples of writing a post; writing a page is similar, but pages are permanent
+parts of the site and don't have timestamps.
+
+#### Markdown
+
+Posts written in Markdown should follow this format:
+```markdown
+Title: My super title
+Authors: DSI Affiliate
+Date: 2010-12-03 10:20
+Category: Statistical Computing
+Tags: R, packages, statistics
+Summary: Short version for index and feeds
+
+This is the content of my super blog post.
+```
+The only required metadata field is the title. If the date is not specified, it
+is automatically set to the last time the file was modified.
+
+#### HTML
+
+Posts written in HTML should follow this format:
 ```html
 <html>
     <head>
         <title>My super title</title>
-        <meta name="tags" content="Awesome R packages" />
+        <meta name="authors" content="DSI Affiliate" />
+        <meta name="date" content="2012-07-09 22:28" />
         <meta name="category" content="Recent" />
+        <meta name="tags" content="R, packages, statistics" />
         <meta name="summary" content="Short version for index and feeds" />
     </head>
     <body>
@@ -98,60 +154,41 @@ node. But here is an example:
     </body>
 </html>
 ```
+As with Markdown posts, the only required metadata field is the title, and if
+the date is missing, it's automatically set to the last time the file was
+modified.
 
-## writing in markdown
-Otherwise, in a `markdown` content file the __first line__ in each post __must be__ 
-```markdown
-Title: ACTUAL_title
+
+## Alternate Post Order
+
+You can specify the order of the posts manually by putting a
+```html
+<meta name=ARTICLE_ORDER_BY content="{ATTRIBUTE_PRIORITY_NUMBER}"/>
 ```
-
-Make the files then 
-* the post date will be automatically generated based on the last modified file
-		system time `mtime` 
-* the post index page will be automatically updated 
-* you can specify the order of the posts by using specifying `metadata` tag 
-`<meta name=ARTICLE_ORDER_BY content="{ATTRIBUTE_PRIORITY_NUMBER}"/>`
-in the `html` head node section. But you need to add this metadata for ALL the articles.
-Also you need to uncomment the line `ARTICLE_ORDER_BY = 'attribute'` inside
-`pelicanconf.py`
-		See [post](http://stackoverflow.com/questions/18520046/how-can-i-control-the-order-of-pages-from-within-a-pelican-article-category).
-
-# Changing the look of the website
-Make sure that after you made changes to the templates, you update the theme by
+tag inside the `<head>` tag. However, you must then add this metadata to ALL
+the articles and you must uncomment the line
+```python
+ARTICLE_ORDER_BY = 'attribute'
 ```
-$(VIRTUALENV) pelican-theme -U $PATH_TO_THEME_FOLDER
+in `pelicanconf.py`. See [this StackOverflow post][post-order] for details.
+  
+[post-order]: http://stackoverflow.com/questions/18520046/how-can-i-control-the-order-of-pages-from-within-a-pelican-article-category
+
+
+## Tipuesearch Patch
+See this [Github issue](https://github.com/talha131/pelican-elegant/issues/147)
+for details about a bug in the Tipuesearch plugin. @karenyyng has worked around
+the issue by addding
+```python
+node = {
+  'title': page_title,
+  'text': page_text,
+  'tags': page_category,
+  'url': page_url,
+  'loc': page_url
+} 
 ```
-`pelican-theme` is an executable that only exists inside the `VIRTUALENV`
-when your terminal prompt is changed.
-The `PATH_TO_THEME_FOLDER` for us is `$GITHUB_REPO/bootstrap3-theme`
-
-# changing CSS templates 
-The `css` templates are installed within the `virtualenv` so that is the `css`
-that you want to modify
-e.g. under
-`${VIRTUALENV}/lib/python2.7/site-packages/pelican/themes/{THEME_NAME}/static/css/`
-
-The theme that we use is at
-`${VIRTUALENV}/lib/python2.7/site-packages/pelican/themes/bootstrap3-theme/static/css/bootstrap.flatly.min.css`
-
-# changing the html templates 
-The html templates are at:
-`${VIRTUALENV}/lib/python2.7/site-packages/pelican/themes/bootstrap3-theme/templates`
-
-
-# Troubleshoot Pelican installation
-if you have trouble making the Pelican site, make sure the `virtualenv` is
-activated. 
-Other tips can be found in this [article](http://karenyyng.github.io/using-virtualenv-for-safeguarding-research-project-dependencies.html). 
-
-
-# Known issue with Tipuesearch that I patched in the 
-See [Git issue](https://github.com/talha131/pelican-elegant/issues/147)
-Add 
-`
-node = {'title': page_title, 'text': page_text, 'tags': page_category, 'url': page_url, 'loc': page_url} 
-`
-to `pelican-plugins/tipue_search/tipue_search.py`
+to `pelican-plugins/tipue_search/tipue_search.py`.
 
 
 
