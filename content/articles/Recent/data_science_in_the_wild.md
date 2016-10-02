@@ -1,5 +1,5 @@
 Title: Workshop: Data Science in the Wild
-Category: Recent
+Slug: dataScienceInTheWild
 Tag: Workshop
 
 *Venue*: Auditorium 1005, Genome and Biomedical Sciences Facility (GBSF)   

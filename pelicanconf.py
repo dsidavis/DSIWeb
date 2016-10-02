@@ -7,7 +7,7 @@ from __future__ import unicode_literals
 # Where to find content files (markdown, html, ...):
 PATH = "content/"
 # Files under PATH to copy without parsing the content:
-STATIC_PATHS = ["images", "pdfs"]
+STATIC_PATHS = ["images", "pdfs", "videos"]
 
 # Where to find theme files (css):
 THEME = "theme/"
@@ -64,6 +64,8 @@ BANNER_SUBTITLE = None
 BANNER_ALL_PAGES = False
 BOOTSTRAP_FLUID = False
 RECENT_POST_COUNT = 6
+BANNER_RECENT_TAG = 'Recent'
+BANNER_TAG = 'Ongoing'  # what type of posts to persist in the banner
 
 # DO NOT REMOVE THIS, this tells which template html should be added
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
@@ -76,6 +78,8 @@ PLUGINS = [
     u"tipue_search",
     u"render_math",
 ]
+
+MATH_JAX = {'process_escapes': True}
 
 SHOW_DATE_MODIFIED = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True

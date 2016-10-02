@@ -117,8 +117,8 @@ This version of the site files have absolute URL with setting specified in the
 ```
 ├── content           # Files that control the site's content
 │   ├── articles        # Posts / announcements
-|   		├--Recent         # where markdown files of articles live 
-|       ├--Past      
+|				├--Recent         # where markdown files of articles live 
+|				├--Past      
 ```
 Under articles, there are two folders, `Recent` and `Past`.
 They are the categories of the articles and each article can only belong to one category.
