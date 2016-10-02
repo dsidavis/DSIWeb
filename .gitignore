@@ -4,3 +4,4 @@ pyVirtualEnv/*
 pyVirtualEnv
 *.pyc
 output/*
+*.swp
