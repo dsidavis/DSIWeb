@@ -103,7 +103,7 @@ SHOW_ARTICLE_CATEGORY = True
 SHOW_ARTICLE_AUTHOR = True
 
 # ARTICLE GLYPHICONS
-GLYPHICON_BY_TAGS = {
+GLYPHICON = {
     "Workshop": "glyphicon glyphicon-education",
     "Bootcamp": "glyphicon glyphicon-education",
     "Job": "glyphicon glyphicon-briefcase",
@@ -111,7 +111,8 @@ GLYPHICON_BY_TAGS = {
     "Symposium": "glyphicon glyphicon-blackboard",
     "Announcement": "glyphicon glyphicon-bullhorn",
     "Video": "glyphicon glyphicon-film",
-    "Collaboration": "glyphicon halfings-group"
+    "Collaboration": "glyphicon glyphicon-link",
+    "Office Hour": "glyphicon glyphicon-comment"
 }
 
 

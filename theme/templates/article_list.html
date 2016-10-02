@@ -23,7 +23,11 @@
     {% if articles %}
         {% for article in (articles_page.object_list if articles_page else articles) %}
             <article>
-                <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+                <h2>
+	        {% if article.tags[0].name in GLYPHICON %}
+	        <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
+	        {% endif %}
+		<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
                 {% if DISPLAY_ARTICLE_INFO_ON_INDEX %}
                     <div class="well well-sm">
                         {% include "includes/article_info.html" %}
