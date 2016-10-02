@@ -257,6 +257,12 @@ figure.floatcenter,
     }
 }
 
+
+/* Karen 's modification for the banner carousel */
+.carousel-inner{
+		min-height: 325px;
+    height: 325px;
+}
 .announcement{
 	vertical-align: middle;
 	height: 325px;
