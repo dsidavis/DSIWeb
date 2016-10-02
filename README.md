@@ -78,6 +78,12 @@ you've edited a `.scss` file. If you do want to rebuild the site's theme, run:
 ```bash
 invoke build.theme
 ```
+To build the production view of the website:
+```bash
+invoke publish
+```
+This version of the site files have absolute URL with setting specified in the 
+`publishconf.py` file.
 
 [Pelican]: http://docs.getpelican.com/en/stable/
 [Invoke]: http://www.pyinvoke.org/
@@ -96,18 +102,32 @@ invoke build.theme
 ├── theme             # Files that control the site's appearance
 │   ├── flatly          # .scss files for building Bootstrap
 │   ├── static          # CSS, font, and JavaScript files
-│   └── templates       # HTML template files
+│   ├── templates       # HTML template files
 ├── LICENSE           # MIT license
 ├── package.json      # Required Node.js packages
-├── pelicanconf.py    # Pelican configuration
+├── pelicanconf.py    # Pelican configuration for development
+├── publishconf.py    # Configuration for production, uses and can override 
+											# settings from pelicanconf.py
 ├── README.md         # This file
 ├── requirements.txt  # Required Python packages
 └── tasks.py          # Invoke tasks
 ```
 
+### Articles for the DSI site
+```
+├── content           # Files that control the site's content
+│   ├── articles        # Posts / announcements
+|   		├--Recent         # where markdown files of articles live 
+|       ├--Past      
+```
+Under articles, there are two folders, `Recent` and `Past`.
+They are the categories of the articles and each article can only belong to one category.
+`Pelican` generates index pages for articles under each category at `$SITEURL/category/$CATEGORY_NAME.html`.
+In which case, `$CATEGORY_NAME=recent` or `$CATEGORY_NAME=past`
+
 For more details, see the Pelican docs on [content][pelican-content] and
 [configuration][pelican-conf]. The template files use [Jinja2][] for variable
-substitution.
+substitution in the html template files.
 
 [pelican-content]: http://docs.getpelican.com/en/3.6.3/content.html
 [pelican-conf]: docs.getpelican.com/en/3.6.3/settings.html
@@ -127,13 +147,13 @@ Posts written in Markdown should follow this format:
 Title: My super title
 Authors: DSI Affiliate
 Date: 2010-12-03 10:20
-Category: Statistical Computing
 Tags: R, packages, statistics
 Summary: Short version for index and feeds
 
 This is the content of my super blog post.
 ```
-The only required metadata field is the title. If the date is not specified, it
+The only required metadata field is the title and it needs to be specified on
+the first line of the markdown file. If the date is not specified, it
 is automatically set to the last time the file was modified.
 
 #### HTML
@@ -145,7 +165,6 @@ Posts written in HTML should follow this format:
         <title>My super title</title>
         <meta name="authors" content="DSI Affiliate" />
         <meta name="date" content="2012-07-09 22:28" />
-        <meta name="category" content="Recent" />
         <meta name="tags" content="R, packages, statistics" />
         <meta name="summary" content="Short version for index and feeds" />
     </head>
@@ -158,21 +177,18 @@ As with Markdown posts, the only required metadata field is the title, and if
 the date is missing, it's automatically set to the last time the file was
 modified.
 
+`Pelican` also generates index pages for articles under each tag at `$SITEURL/tag/$TAGNAME.html`.
 
-## Alternate Post Order
+## Post Order
+The posts are ordered by their creation date.
+Also we have separate category listings.  
 
-You can specify the order of the posts manually by putting a
-```html
-<meta name=ARTICLE_ORDER_BY content="{ATTRIBUTE_PRIORITY_NUMBER}"/>
-```
-tag inside the `<head>` tag. However, you must then add this metadata to ALL
-the articles and you must uncomment the line
-```python
-ARTICLE_ORDER_BY = 'attribute'
-```
-in `pelicanconf.py`. See [this StackOverflow post][post-order] for details.
-  
-[post-order]: http://stackoverflow.com/questions/18520046/how-can-i-control-the-order-of-pages-from-within-a-pelican-article-category
+## Possible issue rendering `$` with LaTeX
+All the words enclosed by the `$` symbols or `$$` will be rendered as LaTeX.
+A single `$` may also make the font look funny, use \\\$ to show the dollar
+sign.
+See the README for the [render_math](https://github.com/getpelican/pelican-plugins/tree/master/render_math)
+plugin for usage.
 
 
 ## Tipuesearch Patch
