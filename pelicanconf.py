@@ -2,39 +2,60 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+# File Locations
+# ==============
+# Where to find content files (markdown, html, ...):
+PATH = "content/"
+# Files under PATH to copy without parsing the content:
+STATIC_PATHS = ["images", "pdfs"]
+
+# Where to find theme files (css):
+THEME = "theme/"
+
+# Where to find plugins:
+PLUGIN_PATHS = ["plugins/"]
+
+# Where to save the website after building:
+OUTPUT_PATH = "build/"
+
+
+# Site Configuration
+# ==================
+# Metadata
+# SITENAME = u"Data Science Initiative"
+SITENAME = ""
+SITEURL = "https://karenyyng.github.io/something_nice"
+AUTHOR = "UC Davis DSI Affiliates"
+DEFAULT_LANG = u"en"
+
+# Time
 DEFAULT_DATE = 'fs'
 CHECK_MODIFIED_METHOD = 'mtime'
 DEFAULT_DATE_FORMAT = '%a %b %d %I:%M%p PST %Y'
-AUTHOR = u'DSI UC Davis'
-SITENAME = ''
-# SITENAME = u'Data Science Initiative'
-SITEURL = 'https://karenyyng.github.io/something_nice'
+TIMEZONE = 'America/Los_Angeles'
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
 RELATIVE_URLS = True  # dev view
 # RELATIVE_URLS = False  # production view
-
-# temporarily stick with a stupid folder name
-OUTPUT_PATH = '../something_nice/'
-
-# Where the markdown / content files are placed
-PATH = 'content'
-
-TIMEZONE = 'America/Los_Angeles'
-DEFAULT_LANG = u'en'
-
-# files under STATIC_PATH will be copied without parsing the content
-STATIC_PATHS = ['images', 'pdfs']
-
-# Icon for browser tabs
-FAVICON = "images/favicon.ico"
 
 # Parsed html files will follow have the same
 # file prefixes as the original markdown files
 FILENAME_METADATA = '(?P<slug>.*)'
 
 # Pelican themes
-THEME = 'bootstrap3-theme'
-BOOTSTRAP_THEME = 'flatly'
+BOOTSTRAP_THEME = "flatly"
 
+
+# Site Content
+# ============
+# Icon for browser tabs
+FAVICON = "images/favicon.ico"
 
 # Whether to have a banner image and the options
 # BANNER = 'images/dsi-logo-rgb-text-96dpi.jpg'
@@ -47,23 +68,14 @@ RECENT_POST_COUNT = 6
 # DO NOT REMOVE THIS, this tells which template html should be added
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 
-# Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
-
 # Event / tutorial post indices
 INDEX_SAVE_AS = 'blog_index.html'
 
 # PLUGINS
-PLUGIN_PATHS = ['./pelican-plugins']
 PLUGINS = [
     u"tipue_search",
     u"render_math",
 ]
-
 
 SHOW_DATE_MODIFIED = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
