@@ -71,6 +71,9 @@
         <article>
             <header class="page-header">
                 <h1>
+		    {% if article.tags[0].name in GLYPHICON %}
+		    <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
+		    {% endif %}
                     <a href="{{ SITEURL }}/{{ article.url }}"
                        rel="bookmark"
                        title="Permalink to {{ article.title|striptags }}">
