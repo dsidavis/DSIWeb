@@ -1,7 +1,6 @@
 Title: D3 workshop 
 Date: 2016-06-03 17:06
-Slug: D3workshop
-Tags: Tutorial, D3.js, Data_visualization, Workshop
+Tags: Workshop, Tutorial, R, D3.js, Data Visualization
 
 *Event date:* Tuesday, June 14th, 9 am - 12 pm     
 *Location:* [DSI workspace, 360 Shields Library]({filename}../../pages/Directions.md)     

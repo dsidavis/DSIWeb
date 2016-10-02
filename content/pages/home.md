@@ -12,7 +12,7 @@ available to you in the Bootstrap CSS bundle-->
 
 <div class="row">
   <div class="col-sm-4">
-    <h4>A hub for Data Science</h4>
+    <h4><span class="glyphicon glyphicon-home"></span> A hub for Data Science</h4>
     <p>
     The fledgling Data Science Initiative will help to foster, catalyze, coordinate and promote
     research and education related to Data Science and Big Data on campus.
@@ -27,7 +27,8 @@ available to you in the Bootstrap CSS bundle-->
 		</a>
   </div>
   <div class="col-sm-4">
-    <h4>Interdisciplinary and collaborative space</h4>
+    <h4><span class="glyphicon glyphicon-random"></span> Interdisciplinary collaborations </h4>
+<span class="glyphicons glyphicons-user-add"></span>
   	<p>
     Data Science and Big Data are more than the sum of
     statistics, machine learning and computer science.
@@ -43,7 +44,7 @@ available to you in the Bootstrap CSS bundle-->
 		</a>
   </div>
   <div class="col-sm-4">
-    <h4> Training for Data Scientists </h4>
+    <h4><span class="glyphicon glyphicon-education"></span> Training for Data Scientists </h4>
      <p> Data Scientists are in high demand, both in industry and research.  The set of skills a Data
      Scientist needs is broader than one discipline or degree program alone. This challenges the
      existing models and the Data Science Initiative plans to work with and facilitate inter-departmental

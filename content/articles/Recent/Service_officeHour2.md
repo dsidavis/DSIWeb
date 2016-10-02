@@ -1,8 +1,5 @@
 Title: Drop-in office hours by Prof. Nick Anderson 
-Date: 2015-05-13 17:06
-Slug: OfficeHoursNA
 Status: draft
-Tags: OfficeHour
 
 *Event date:* Mondays, 1:00 - 3:00 pm    
 *Location:* [DSI conference room, 362 Shields Library]({filename}../../pages/Directions.md)     

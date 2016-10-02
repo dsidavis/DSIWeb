@@ -1,7 +1,4 @@
 Title: Drop-in office hours by Dr. Carl Stahmer 
-Date: 2015-05-14 17:06
-Slug: OfficeHourCS
-Tags: OfficeHour
 Status: Draft
 
 *Event date:* Tuesdays, 1:30 - 3:00 pm    

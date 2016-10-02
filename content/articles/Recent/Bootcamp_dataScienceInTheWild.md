@@ -1,6 +1,4 @@
-Title: Workshop: Data Science in the Wild
-Slug: dataScienceInTheWild
-Tag: Workshop
+Title: Bootcamp: Data Science in the Wild
 
 *Venue*: Auditorium 1005, Genome and Biomedical Sciences Facility (GBSF)   
 *Date*: Mon, October 3rd, 1:00 pm – 3:00 pm   

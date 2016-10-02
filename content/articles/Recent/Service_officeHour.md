@@ -1,6 +1,5 @@
 Title: Drop-in office hours by Prof. Temple Lang 
 Date: 2015-05-15 17:06
-Slug: OfficeHourDTL
 Tags: Office Hour, Ongoing
 
 *Event date:* Fridays, 10 - 11 am      

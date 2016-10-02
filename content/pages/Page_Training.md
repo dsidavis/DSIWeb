@@ -1,6 +1,5 @@
 Title: Education & Training
 Modified: Wed Nov 19 16:00:08 PST 2014
-Category: page
 Authors: DSI
 
 # Education & Training

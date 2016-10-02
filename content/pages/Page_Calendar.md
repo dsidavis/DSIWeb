@@ -1,7 +1,4 @@
 Title: Data Science Calendar 
-Modified: Fri Nov 21 12:07:44 PST 2014
-Category: page
-Authors: DSI
 
 <h1>Data Science Seminar Room Calendar</h1>
 <!-- https://www.google.com/calendar/embed?src=datasciencedavis%40gmail.com&ctz=America/Los_Angeles  -->

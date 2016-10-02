@@ -1,7 +1,5 @@
 Title: Talk: Open Publishing for the Big-Data Era
 Date: 10/15/2014 12:00 pm
-Slug: ICIS_BigDataTalk
-Tags: Talk
 
 *Sponsored by the Scholarly Communications (ICIS) project, UCD Library and Data Science Initiative.*
 
