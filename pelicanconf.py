@@ -18,7 +18,6 @@ PLUGIN_PATHS = ["plugins/"]
 # Where to save the website after building:
 OUTPUT_PATH = "build/"
 
-
 # Site Configuration
 # ==================
 # Metadata
@@ -44,7 +43,6 @@ AUTHOR_FEED_RSS = None
 RELATIVE_URLS = True  # dev view
 # RELATIVE_URLS = False  # production view
 
-
 # Pelican themes
 BOOTSTRAP_THEME = "flatly"
 
@@ -55,7 +53,6 @@ BOOTSTRAP_THEME = "flatly"
 FAVICON = "images/favicon.ico"
 
 # Whether to have a banner image and the options
-# BANNER = 'images/dsi-logo-rgb-text-96dpi.jpg'
 BANNER = 'images/dsi_banner.png'
 BANNER_SUBTITLE = None
 BANNER_ALL_PAGES = False
@@ -69,6 +66,7 @@ DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
 
 
 # PLUGINS
+# =========
 PLUGINS = [
     u"tipue_search",
     u"render_math",
@@ -76,23 +74,15 @@ PLUGINS = [
 
 MATH_JAX = {'process_escapes': True}
 
-SHOW_DATE_MODIFIED = True
-DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
-
-# How many event to show on event main page
-DEFAULT_PAGINATION = 8
-
-# SEARCH_URL = 'search.html'
-
-
 # Page / article saving Configuration
 # ==================
 # Parsed html files will follow have the same
 # file prefixes as the original markdown files
 FILENAME_METADATA = '(?P<tags>.*)_(?P<slug>.*).*'
 
-# Event / tutorial post indices
+# Index of all article posts
 INDEX_SAVE_AS = 'announcements.html'
+DEFAULT_PAGINATION = 8  # How many event to show on index page
 
 # ARTICLE / EVENT POST SETTINGS
 ARTICLE_SAVE_AS = '{slug}{date:%Y}.html'
@@ -102,7 +92,7 @@ USE_FOLDER_AS_CATEGORY = True
 SHOW_ARTICLE_CATEGORY = True
 SHOW_ARTICLE_AUTHOR = True
 
-# ARTICLE GLYPHICONS
+# ARTICLE GLYPHICONS, they come by default with bootstrap flatly theme
 GLYPHICON = {
     "Workshop": "glyphicon glyphicon-education",
     "Bootcamp": "glyphicon glyphicon-education",
@@ -115,11 +105,15 @@ GLYPHICON = {
     "Office Hour": "glyphicon glyphicon-comment"
 }
 
-
 # Page settings
 PAGE_SAVE_AS = 'pages/{slug}.html'
 
+SHOW_DATE_MODIFIED = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
+
+
 # What to display on top menu bar
+# ================================
 SITELOGO = 'images/dsi_brand_logo.png'
 SITELOGO_SIZE = 75  # width of icon
 DISPLAY_PAGES_ON_MENU = False
@@ -175,7 +169,7 @@ SOCIAL = (
         'https://docs.google.com/forms/d/e/'
         '1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform'),
 )
-#
+
 # links on sidebar
 # LINKS = None
 

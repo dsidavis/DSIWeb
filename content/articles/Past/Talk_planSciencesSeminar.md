@@ -3,6 +3,6 @@ Date: 01/15/2015  12:00
 Slug: PlantSciencesSeminar
 Tags: Talk
 
-*Event date*: 01/28/2015, 12:10 - 1:00 pm   
-*Venue*: PES 3001   
-*Speaker*: Shisong Ma, Dinesh-Kumar Lab, UCD.   
+**Event date**: 01/28/2015, 12:10 - 1:00 pm   
+**Venue**: PES 3001   
+**Speaker**: Shisong Ma, Dinesh-Kumar Lab, UCD.   

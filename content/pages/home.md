@@ -10,6 +10,7 @@ available to you in the Bootstrap CSS bundle-->
   This is not the official website.
 </div>
 
+
 <div class="row">
   <div class="col-sm-4">
     <h4><span class="glyphicon glyphicon-home"></span> A hub for Data Science</h4>

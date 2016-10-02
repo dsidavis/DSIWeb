@@ -107,7 +107,7 @@ This version of the site files have absolute URL with setting specified in the
 ├── package.json      # Required Node.js packages
 ├── pelicanconf.py    # Pelican configuration for development
 ├── publishconf.py    # Configuration for production, uses and can override 
-											# settings from pelicanconf.py
+|											# settings from pelicanconf.py
 ├── README.md         # This file
 ├── requirements.txt  # Required Python packages
 └── tasks.py          # Invoke tasks
@@ -204,7 +204,4 @@ node = {
   'loc': page_url
 } 
 ```
-to `pelican-plugins/tipue_search/tipue_search.py`.
-
-
-
+to `plugins/tipue_search/tipue_search.py`.
