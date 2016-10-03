@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+"""
+All the variables listed in this file are available to the HTML template files
+via Jinja2.
+"""
 
 # File Locations
 # ==============
@@ -58,8 +62,8 @@ BANNER_SUBTITLE = None
 BANNER_ALL_PAGES = False
 BOOTSTRAP_FLUID = False
 RECENT_POST_COUNT = 6
-BANNER_RECENT_TAG = 'Recent'
-BANNER_TAG = 'Ongoing'  # what type of posts to persist in the banner
+# BANNER_RECENT_TAG = 'Recent'
+# BANNER_TAG = 'Ongoing'  # what type of posts to persist in the banner
 
 # DO NOT REMOVE THIS, this tells which template html should be added
 DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
@@ -76,13 +80,12 @@ MATH_JAX = {'process_escapes': True}
 
 # Page / article saving Configuration
 # ==================
-# Parsed html files will follow have the same
-# file prefixes as the original markdown files
+# Parse file metadata from the file name of the article / page files
 FILENAME_METADATA = '(?P<tags>.*)_(?P<slug>.*).*'
 
 # Index of all article posts
 INDEX_SAVE_AS = 'announcements.html'
-DEFAULT_PAGINATION = 8  # How many event to show on index page
+DEFAULT_PAGINATION = 8  # How many posts to show on index page
 
 # ARTICLE / EVENT POST SETTINGS
 ARTICLE_SAVE_AS = '{slug}{date:%Y}.html'
@@ -162,7 +165,8 @@ MENUITEMS = [
 ]
 
 HIDE_SIDEBAR = True
-# What to display on sidebar as buttons
+
+# What to display on top menu as buttons
 SOCIAL = (
     ('Mailing List', 'pages/Signup.html'),
     ('Become An Affiliate',

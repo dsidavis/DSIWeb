@@ -54,7 +54,7 @@ npm install
 ## Usage
 
 [Pelican][] is a Python package for generating static websites from HTML and
-Markdown. The DSI website uses [Invoke][http://www.pyinvoke.org/] as a build system for Pelican.
+Markdown. The DSI website uses [Invoke][] as a build system for Pelican.
 
 To list all supported build commands, run:
 ```bash
@@ -98,6 +98,7 @@ This version of the site files have absolute URL with setting specified in the
 │   ├── images          # Image files
 │   ├── pages           # Permanent pages
 │   └── pdfs            # PDF files
+│   └── media           # Media files
 ├── plugins           # Pelican plugins
 ├── theme             # Files that control the site's appearance
 │   ├── flatly          # .scss files for building Bootstrap
@@ -106,8 +107,10 @@ This version of the site files have absolute URL with setting specified in the
 ├── LICENSE           # MIT license
 ├── package.json      # Required Node.js packages
 ├── pelicanconf.py    # Pelican configuration for development
+|					  # Variables defined in pelicanconf.py are available to the html 
+|					  # templates via Jinja2 syntax
 ├── publishconf.py    # Configuration for production, uses and can override 
-|											# settings from pelicanconf.py
+|					  # settings from pelicanconf.py
 ├── README.md         # This file
 ├── requirements.txt  # Required Python packages
 └── tasks.py          # Invoke tasks
@@ -117,12 +120,13 @@ This version of the site files have absolute URL with setting specified in the
 ```
 ├── content           # Files that control the site's content
 │   ├── articles        # Posts / announcements
-|				├--Recent         # where markdown files of articles live 
-|				├--Past      
+|			├--Recent         	# where markdown / html files of articles live 
+|			├--Past      
 ```
 Under articles, there are two folders, `Recent` and `Past`.
-They are the categories of the articles and each article can only belong to one category.
-`Pelican` generates index pages for articles under each category at `$SITEURL/category/$CATEGORY_NAME.html`.
+They are set to be categories of the articles and each article can only belong to one category.
+This setting is put in `pelicanconf.py`.
+`Pelican` then generates index pages for articles under each category at `$SITEURL/category/$CATEGORY_NAME.html`.
 In which case, `$CATEGORY_NAME=recent` or `$CATEGORY_NAME=past`
 
 For more details, see the Pelican docs on [content][pelican-content] and
@@ -147,7 +151,7 @@ Posts written in Markdown should follow this format:
 Title: My super title
 Authors: DSI Affiliate
 Date: 2010-12-03 10:20
-Tags: R, packages, statistics
+Tags: Workshop, R, packages, statistics
 Summary: Short version for index and feeds
 
 This is the content of my super blog post.
@@ -165,7 +169,7 @@ Posts written in HTML should follow this format:
         <title>My super title</title>
         <meta name="authors" content="DSI Affiliate" />
         <meta name="date" content="2012-07-09 22:28" />
-        <meta name="tags" content="R, packages, statistics" />
+        <meta name="tags" content="Workshop, R, packages, statistics" />
         <meta name="summary" content="Short version for index and feeds" />
     </head>
     <body>
@@ -177,24 +181,48 @@ As with Markdown posts, the only required metadata field is the title, and if
 the date is missing, it's automatically set to the last time the file was
 modified.
 
-`Pelican` also generates index pages for articles under each tag at `$SITEURL/tag/$TAGNAME.html`.
+`Pelican` also generates index pages for articles under each tag at 
+`$SITEURL/tag/$TAGNAME.html`.
+
+## Naming convention
+For each article in `markdown` or `html` format, the naming convention is set 
+inside `pelicanconf.py` file to follow:
+```
+{TAG}_{SLUG}.md 
+```
+Where `TAG` takes one of the following values to indicate the nature of the post:
+```
+* Bootcamp
+* Job
+* Service
+* Talk
+* Symposium
+* Workshop
+```
+It is possible to add new tags.  
+If you wish to have more than one tag for the article, you can specify them inside the markdown
+/ html file but please use one of the above tags as the first tag.
+
+`{SLUG}` is just any appropriate description for the post,
+with a pascal case naming convention.
 
 ## Post Order
-The posts are ordered by their creation date.
+The posts are ordered by their last modification date in reverse.
 Also we have separate category listings.  
 
-## Possible issue rendering `$` with LaTeX
-All the words enclosed by the `$` symbols or `$$` will be rendered as LaTeX.
-A single `$` may also make the font look funny, use \\\$ to show the dollar
-sign.
+## Plugin - render_math 
+### Possible issue rendering `$` due to LaTeX
+In this world, `$` is reserved for showing math. ;)
+All the words enclosed between the `$`  or `$$` symbols without space will be rendered as LaTeX.
+e.g. `$\infty$` or `$$\infty$$`.
+Add space, such as `$40 - $50`, to render the dollar signs without LaTeX.
 See the README for the [render_math](https://github.com/getpelican/pelican-plugins/tree/master/render_math)
-plugin for usage.
+plugin for more on usage.
 
-
-## Tipuesearch Patch
+## Plugin - Tipuesearch Patch
 See this [Github issue](https://github.com/talha131/pelican-elegant/issues/147)
 for details about a bug in the Tipuesearch plugin. @karenyyng has worked around
-the issue by addding
+the issue by adding
 ```python
 node = {
   'title': page_title,
