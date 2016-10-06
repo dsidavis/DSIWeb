@@ -19,8 +19,8 @@ installation (a _virtual environment_) for building the site. Details on
 virtualenv can be found [here][virtualenv] or [here][virtualenv-karen]. To set
 up the virtual environment:
 ```bash
-virtualenv --no-site-packages venv
-source venv/bin/activate
+virtualenv --no-site-packages -p $(which python3.4) VIRTUAL_ENV_NAME --distribute
+source VIRTUAL_ENV_NAME/bin/activate
 ```
 
 Finally, install the Python packages required to build the website.

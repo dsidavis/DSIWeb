@@ -5,10 +5,6 @@ import pelicanconf as conf
 # Built-in modules
 import os
 import shutil
-# avoid encoding error in Python 2.7
-import sys
-reload(sys)
-sys.setdefaultencoding('utf8')
 
 # External modules
 import sass
