@@ -17,9 +17,9 @@ inter-disciplinary projects related to Data Science.
 ## DSI classroom (Room 360) 
 Our classroom can sit around 40 participants. We hold seminars
 and allow other people to use our space for Data Science events.
-See [our calendar]({filename}./Calendar.md) to find out if the classroom is occupied.
+See [our calendar]({filename}./Page_Calendar.md) to find out if the classroom is occupied.
 
 ## DSI conference room (Room 362)
 We hold office hours in the conference room.
 
-See the directions at this [page]({filename}./Directions.md).
+See the directions at this [page]({filename}./Page_Directions.md).
