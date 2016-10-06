@@ -34,17 +34,17 @@ we are trying to make use of those `CSS` styles for styling html elements
 and tweak elements across the `CSS` instead of tweaking individual html elements.
 
 ### References for Bootstrap 
-See [http://getbootstrap.com/components/#labels][] and 
-[http://www.w3schools.com/bootstrap/default.asp][] to see the styles for the 
-html elements that are available to you.
+See [Bootstrap components page](http://getbootstrap.com/components/#labels) and 
+[W3schools Bootstrap tutorials](http://www.w3schools.com/bootstrap/default.asp) to see the styles for the 
+the different CSS styles for the html elements that are available to you.
 
 The tasks in these category are mostly self-described in the `GitHub` issues page.
 
 ## Advanced and ongoing tasks
 There are ongoing, more advanced tasks that we want to achieve:
-- [  ] set up unit tests to test for broken links / images  
-- [  ] set up continuous integration  
-- [  ] identify html pages / articles of a certain type, set up and improve the styles of the templates  
-- [  ] code up programmatic solutions to make it easier to post announcements
+- [ ] set up unit tests to test for broken links / images  
+- [ ] set up continuous integration  
+- [ ] identify html pages / articles of a certain type, set up and improve the styles of the templates  
+- [ ] code up programmatic solutions to make it easier to post announcements
 		on this site, on the mailing list, and / or on a google calendar 
-- [  ] code up a bot that has strong AI for doing everything for us ;)
+- [ ] code up a bot that has strong AI for doing everything for us ;)
