@@ -278,37 +278,16 @@ figure.floatcenter,
 }
 
 
-/* Karen 's modification for the banner carousel */
+/* karenyyng 's modification for the banner carousel */
 .carousel-inner{
 		min-height: 325px;
     height: 325px;
 }
-.announcement{
-	vertical-align: middle;
-	height: 325px;
-	min-height: 325px;
-	text-align: center;
-	overflow: hidden;
-  max-width: 700px;
-	font-size: 20px;
-  /*position: relative;
-  z-index: 1;*/
+
+/* Official Davis colors 
+ * http://marketingtoolbox.ucdavis.edu/identity/color.html */
+.bg-yellow {
+	background-color: #ecd47f;
+	background: linear-gradient(90deg,  #E1BB33, #F8EECC)
 }
 
-#officeHoursBackgroundImg{
-	background-image: url('/images/DSI_pics/office_hours_in_conference_room_small.jpg');
-	background-position: top center;
-	background-size: 433px 325px;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	position: relative;
-}
-
-#affiliateBackgroundImg{
-	background-image: url('/images/DSI_pics/IMG_4204_small.jpg');
-	background-position: top center;
-	background-size: 433px 325px;
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	position: relative;
-}

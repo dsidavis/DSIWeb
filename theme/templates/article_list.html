@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block content %}
+{% block banner %}
     {# Jinja2 has very weird scoping rules #}
     {# Inner loops cannot modify variables from outer scope #}
     {# Jinja2 also doesn't have a while loop, hence the following weird syntax #}
@@ -11,13 +11,18 @@
             {% set _ = SAME_CATEGORY.append(False) %}
         {% endif %}
     {% endfor %}
-
+    <div class="jumbotron bg-yellow text-center">
     {% if SAME_CATEGORY[0] == False %}
-    	<h1>Announcements</h1>
+    	<h1>{{ tag }}s</h1>
     {% else %}
+    <h1><span class="glyphicon glyphicon-bullhorn"></span></h1>
     <h1>{{ category }} Posts: {{ tag }}</h1>
     {% endif %}
-    <br>
+    </div>
+{% endblock %}
+
+{% block content %}
+
     <hr>
 
     {% if articles %}
