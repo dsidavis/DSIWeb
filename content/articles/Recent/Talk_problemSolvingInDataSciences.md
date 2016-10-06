@@ -1,9 +1,9 @@
 Title: Talk series: Problem Solving in Data Sciences
 
-__Talk title__: EXPLORER: A Total-Body PET Scanner for Biomedical Research
-__Speaker__: Martin Judenhofer (and others), Biomed. Eng.
-__Venue__: 360 Shields Library
-__Date__: Oct 12 (Wed) 11:50 am - 1 pm
+__Talk title__: EXPLORER: A Total-Body PET Scanner for Biomedical Research   
+__Speaker__: Martin Judenhofer (and others), Biomed. Eng.   
+__Venue__: 360 Shields Library   
+__Date__: Oct 12 (Wed) 11:50 am - 1 pm   
 
 
 This is just the kind of seminar you've always hoped would be held. Each seminar presenter will sketch out a current problem that they are working on, and seminar participants are expected to brainstorm with presenters on ways the problem could be tackled. Material from a variety of disciplines will be presented. The seminar is fun, enlightening, highly multidisciplinary and about work in progress.
