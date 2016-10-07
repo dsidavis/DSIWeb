@@ -11,10 +11,17 @@ available to you in the Bootstrap CSS bundle-->
 </div>
 
 
-<div class="row">
-  <div class="col-sm-4">
-    <h4><span class="glyphicon glyphicon-home"></span> A hub for Data Science</h4>
-    <p>
+<div class="row jumbotron">
+  <div class="col-sm-6 text-center">
+    <h1><span class="glyphicon glyphicon-home"></span></h1>
+		<h3> A hub for Data Science</h3>
+		<a href="https://docs.google.com/forms/d/e/1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform"
+		 class="btn btn-primary btn-md" role="button" target="_blank">
+			Join us
+		</a>
+	</div>
+  <div class="col-sm-6">
+    <p style='font-size:18px'>
     The fledgling Data Science Initiative will help to foster, catalyze, coordinate and promote
     research and education related to Data Science and Big Data on campus.
     It aims to serve as a place for like-minded faculty, postdocs, graduate students
@@ -22,15 +29,12 @@ available to you in the Bootstrap CSS bundle-->
     that leverages phenomenal changes in technology, computational capabilities
     and statistical and machine learning developments.
     </p>
-		<a href="https://docs.google.com/forms/d/e/1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform"
-		 class="btn btn-primary btn-sm" role="button" target="_blank">
-			Join us
-		</a>
   </div>
-  <div class="col-sm-4">
-    <h4><span class="glyphicon glyphicon-random"></span> Interdisciplinary collaborations </h4>
-<span class="glyphicons glyphicons-user-add"></span>
-  	<p>
+</div>
+
+<div class="row jumbotron">
+  <div class="col-sm-6 ">
+  	<p style='font-size:18px'>
     Data Science and Big Data are more than the sum of
     statistics, machine learning and computer science.
     They are the outcome of a very recent, structural change in the nature of research in many
@@ -39,23 +43,32 @@ available to you in the Bootstrap CSS bundle-->
     the humanities, generally. We want to promote interdisciplinary
 		collaborations that use Data Science tools.
    </p>
+  </div>
+  <div class="col-sm-6 text-center">
+    <h1><span class="glyphicon glyphicon-random"></span></h1>
+		<h4> Interdisciplinary collaborations </h4>
 		<a href="pages/Collaboration.html"
-		 class="btn btn-primary btn-sm" role="button" >
+		 class="btn btn-primary btn-md" role="button" >
 			Propose projects
 		</a>
-  </div>
-  <div class="col-sm-4">
-    <h4><span class="glyphicon glyphicon-education"></span> Training for Data Scientists </h4>
-     <p> Data Scientists are in high demand, both in industry and research.  The set of skills a Data
+	</div>
+</div>
+<div class="row jumbotron">
+  <div class="col-sm-6 text-center">
+    <h1><span class="glyphicon glyphicon-education"></span></h1>
+		<h4> Training for Data Scientists </h4>
+		 <a href="pages/Signup.html"
+		  class="btn btn-primary btn-md" role="button" >
+		 	Subscribe to DSI news
+		 </a>
+	</div>
+  <div class="col-sm-6">
+     <p style='font-size:18px'> Data Scientists are in high demand, both in industry and research.  The set of skills a Data
      Scientist needs is broader than one discipline or degree program alone. This challenges the
      existing models and the Data Science Initiative plans to work with and facilitate inter-departmental
      development of new courses and degree programs at both the undegraduate and graduate levels to train
      students in Data Science.
      </p>
-		 <a href="pages/Signup.html"
-		  class="btn btn-primary btn-sm" role="button" >
-		 	Subscribe to DSI news
-		 </a>
   </div>
 </div>
 
