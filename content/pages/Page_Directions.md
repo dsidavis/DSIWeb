@@ -28,5 +28,3 @@ the DSI workspace (C) if the entrance is locked.
 <center>
 ![Map within Shields Library]({filename}../images/map-shields-3.png)
 </center>
-
-The DSI is in the space previously occupied by the Institute of Governmental Affairs (IGA).
