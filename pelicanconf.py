@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 """
 All the variables listed in this file are available to the HTML template files
-via Jinja2.
+using Jinja2 syntax.
 """
 
 # File Locations
@@ -11,7 +11,7 @@ via Jinja2.
 # Where to find content files (markdown, html, ...):
 PATH = "content/"
 # Files under PATH to copy without parsing the content:
-STATIC_PATHS = ["images", "pdfs", "videos"]
+STATIC_PATHS = ["images", "pdfs", "media", "Data"]
 
 # Where to find theme files (css):
 THEME = "theme/"
@@ -26,8 +26,8 @@ OUTPUT_PATH = "build/"
 # ==================
 # Metadata
 # SITENAME = u"Data Science Initiative"
-SITENAME = ""
-SITEURL = "https://karenyyng.github.io/something_nice"
+SITENAME = ""  # configure at publishconf.py
+SITEURL = ""   # configure at publishconf.py
 AUTHOR = "UC Davis DSI Affiliates"
 DEFAULT_LANG = u"en"
 
