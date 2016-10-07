@@ -213,29 +213,24 @@ figure.floatcenter,
 }
 
 #banner .copy {
-    background: none repeat scroll 0 0 rgba(0, 0, 0, 0.0);
-    display: inline;
-    float: left;
-    max-width: 600px;
-    padding: 20px;
-    position: relative;
-		vertical-align: middle;
-    z-index: 1;
+	width: 100%;
+  display: inline;
+  float: left;
+  padding: 20px;
+  position: relative;
+	vertical-align: middle;
+  z-index: 1;
+	background-color: #ecd47f;
+	background: linear-gradient(90deg,  #E1BB33, #F8EECC)
 }
 
 #banner h1 {
-    color: #fff;
-    font-family: "HelveticaNeue-CondensedBold", "Helvetica Neue CE 600 Condensed", "Helvetica Neue LT Condensed", "Helvetica Neue 600 Condensed", "HelveticaNeue-BoldCondensed", "Helvetica Neue BoldCondensed", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 60px;
-    font-stretch: condensed;
-    font-weight: 700;
     line-height: 0.9;
     margin: 0;
-    text-transform: uppercase;
 }
 
 #banner .intro {
-    color: #fff;
     font-size: 50px;
     line-height: 1.33;
     opacity: 0.75;
@@ -291,3 +286,17 @@ figure.floatcenter,
 	background: linear-gradient(90deg,  #E1BB33, #F8EECC)
 }
 
+.bg-classroom {
+	background: url('/images/DSI_pics/classroom.JPG')
+}
+
+.bg-workspace {
+	background: url('/images/DSI_pics/workspace.JPG')
+}
+
+.transparency {
+	 /* Fallback for web browsers that don't support RGBa */
+    background-color: rgb(255, 255, 255);
+    /* RGBa with 0.6 opacity */
+    background-color: rgba(255, 255, 255, 0.6);
+}
