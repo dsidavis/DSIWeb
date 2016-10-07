@@ -150,6 +150,49 @@
 
 {% block content %}
     <section id="content" class="body">
+
+      <div class="row">
+      <h1 style='margin-left:10px'>
+	<img src="./images/dsi_h1_logo_light_background.png">
+	<a href="/category/recent.html">News</a></h1>
+      	<hr>
+      </div>
+      <div class="row" style='margin-bottom:10px'>
+	 <div class="col-sm-4">
+	 <h4>Events</h4>
+	   <p>
+	   {% for article in categories[1][1] %}
+	   {% if article.tags[0].name == 'Talk' or article.tags[0].name == 'Workshop' %}
+	   <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
+	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
+	   {% endif %}
+	   {% endfor %}
+	   </p>
+	 </div>
+	 <div class="col-sm-4">
+           <h4>Opportunities</h4>
+	   <p>
+	   {% for article in categories[1][1] %}
+	   {% if article.tags[0].name == 'Job' %}
+	   <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
+	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
+	   {% endif %}
+	   {% endfor %}
+	   </p>
+	 </div>
+	 <div class="col-sm-4">
+	   <h4>Resources</h4>
+	   <p>
+	   {% for article in categories[1][1] %}
+	   {% if article.tags[0].name == 'Service' %}
+	   <span class="{{ GLYPHICON[article.tags[1].name] }}"></span>
+	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
+	   {% endif %}
+	   {% endfor %}
+	   </p>
+	 </div>
+      </div>
+
         {% import 'includes/translations.html' as translations with context %}
         {{ translations.translations_for(page) }}
         {% if PDF_PROCESSOR %}
