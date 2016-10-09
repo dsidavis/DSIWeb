@@ -160,8 +160,6 @@ The only required metadata field is the title and it needs to be specified on
 the first line of the markdown file. If the date is not specified, it
 is automatically set to the last time the file was modified.
 
-- [  ] 
-
 
 #### HTML
 

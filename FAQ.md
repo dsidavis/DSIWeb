@@ -13,13 +13,15 @@ Possible causes:
 		`Title: ` line in markdown format is not the first line.
 
 ## HTML specific issues
-* only the html nodes of type `<body>`, `<title>` and `<meta>` are retained.
+* Pelican only retains the html nodes of type `<body>`, `<title>` and `<meta>` during parsing.
 		Please put your `<script>` tags within `<body>` as a workaround. 
 		If you really think your CSS files are important, add the styles at
 		`theme/static/css/style.css`. If your your have multiple files for `CSS`,
 		open up an issue.
 
-* the `html` files rendered with many `Lang:en` tags.
+* the `html` files rendered with many `Lang:en` tags. 
+	Remove lines such as `<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">`
+`
 	
 * there are many warnings about `variants` of a page. `Pelican` uses the title
 		metadata / html node data as the `slug` and it has to be unique. If you
