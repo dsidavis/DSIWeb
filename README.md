@@ -5,7 +5,7 @@
 Requirements:
 
 * [Git](https://git-scm.com/) (>= 2.0.0)
-* [Python](https://www.python.org/) 2 (>= 2.7.0) or Python 3 (>= 3.3.0)
+* [Python](https://www.python.org/) Python 3 (>= 3.3.0)
 
 Use git to download a copy of this repository to your machine, and switch the
 newly-created directory.
