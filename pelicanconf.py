@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import logging
 """
 All the variables listed in this file are available to the HTML template files
 using Jinja2 syntax.
@@ -10,8 +11,10 @@ using Jinja2 syntax.
 # ==============
 # Where to find content files (markdown, html, ...):
 PATH = "content/"
-# Files under PATH to copy without parsing the content:
-STATIC_PATHS = ["images", "pdfs", "media", "Data"]
+
+# Files under PATH to copy *without* parsing the content:
+# 'pages/' is the only exception that the html and md files will still be parsed
+STATIC_PATHS = ["images", "pdfs", "media", "pages"]
 
 # Where to find theme files (css):
 THEME = "theme/"
@@ -22,13 +25,13 @@ PLUGIN_PATHS = ["plugins/"]
 # Where to save the website after building:
 OUTPUT_PATH = "build/"
 
-# Site Configuration
+# Site-wide Configuration
 # ==================
 # Metadata
 # SITENAME = u"Data Science Initiative"
 SITENAME = ""  # configure at publishconf.py
-SITEURL = ""   # configure at publishconf.py
-AUTHOR = "UC Davis DSI Affiliates"
+SITEURL = "http://dsi.ucdavis.edu"   # configure at publishconf.py
+AUTHOR = "UC Davis DSI Affiliates"  # unless explicit override
 DEFAULT_LANG = u"en"
 
 # Time
@@ -44,29 +47,19 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-RELATIVE_URLS = True  # dev view
-# RELATIVE_URLS = False  # production view
+RELATIVE_URLS = True  # development view
+BOOTSTRAP_THEME = "flatly"  # Pelican themes
+HIDE_SIDEBAR = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 
-# Pelican themes
-BOOTSTRAP_THEME = "flatly"
-
-
-# Site Content
+# Site-wide Content
 # ============
 # Icon for browser tabs
 FAVICON = "images/favicon.ico"
 
-# Whether to have a banner image and the options
-BANNER = 'images/dsi_banner.png'
-BANNER_SUBTITLE = None
-BANNER_ALL_PAGES = False
-BOOTSTRAP_FLUID = False
-RECENT_POST_COUNT = 6
-# BANNER_RECENT_TAG = 'Recent'
-# BANNER_TAG = 'Ongoing'  # what type of posts to persist in the banner
-
-# DO NOT REMOVE THIS, this tells which template html should be added
-DIRECT_TEMPLATES = ('index', 'categories', 'authors', 'archives', 'search')
+# DO NOT REMOVE THIS, this tells which template html should be generated
+# as part of build/
+DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search')
 
 
 # PLUGINS
@@ -81,38 +74,33 @@ MATH_JAX = {'process_escapes': True}
 # Page / article saving Configuration
 # ==================
 # Parse file metadata from the file name of the article / page files
-FILENAME_METADATA = '(?P<tags>.*)_(?P<slug>.*).*'
+FILENAME_METADATA = '(?P<tags>.*)_(?P<slug>.*)..*'
 
 # Index of all article posts
 INDEX_SAVE_AS = 'announcements.html'
-DEFAULT_PAGINATION = 8  # How many posts to show on index page
+# How many posts to show on the index page
+DEFAULT_PAGINATION = 8
+
 
 # ARTICLE / EVENT POST SETTINGS
-ARTICLE_SAVE_AS = '{slug}{date:%Y}.html'
-ARTICLE_URL = '{slug}{date:%Y}.html'
+ARTICLE_SAVE_AS = 'articles/{tags[0]}/{slug}{date:%Y%m%d}.html'
+ARTICLE_URL = 'articles/{tags[0]}/{slug}{date:%Y%m%d}.html'
 USE_FOLDER_AS_CATEGORY = True
-# ARTICLE_ORDER_BY = 'attribute'
 SHOW_ARTICLE_CATEGORY = True
 SHOW_ARTICLE_AUTHOR = True
+SHOW_DATE_MODIFIED = True
 
-# ARTICLE GLYPHICONS, they come by default with bootstrap flatly theme
-GLYPHICON = {
-    "Workshop": "glyphicon glyphicon-education",
-    "Bootcamp": "glyphicon glyphicon-education",
-    "Job": "glyphicon glyphicon-briefcase",
-    "Talk": "glyphicon glyphicon-blackboard",
-    "Symposium": "glyphicon glyphicon-blackboard",
-    "Announcement": "glyphicon glyphicon-bullhorn",
-    "Video": "glyphicon glyphicon-film",
-    "Collaboration": "glyphicon glyphicon-link",
-    "Office Hour": "glyphicon glyphicon-comment"
-}
 
 # Page settings
-PAGE_SAVE_AS = 'pages/{slug}.html'
+PATH_METADATA = '(?P<path_no_ext>.*)\..*'
+PAGE_SAVE_AS = '{path_no_ext}.html'
+PAGE_URL = '{path_no_ext}.html'
+MAIN_PAGE_FOLDER = "pages/main"
+# Home page options
+# =================
+BANNER = 'images/dsi_banner.png' # the image for main homepage banner
+RECENT_POST_COUNT = 6  # number of posts displayed on homepage banner
 
-SHOW_DATE_MODIFIED = True
-DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 
 
 # What to display on top menu bar
@@ -124,29 +112,30 @@ DISPLAY_CATEGORIES_ON_MENU = False
 # We control all the menu items via a list
 MENUITEMS = [
     ('About', [
-        ('Mission', 'pages/Mission.html'),
-        ('People', 'pages/People.html'),
-        ('Directions', 'pages/Directions.html'),
-        ('FAQ', 'pages/FAQ.html'),
+        ('Mission', MAIN_PAGE_FOLDER + '/Mission.html'),
+        ('People', MAIN_PAGE_FOLDER + '/People.html'),
+        ('Directions', MAIN_PAGE_FOLDER + '/Directions.html'),
+        ('FAQ', MAIN_PAGE_FOLDER + '/FAQ.html'),
         ('Contact us', 'mailto:datascience@ucdavis.edu'),
     ]),
     ('Services', [
-        ('Consulting', 'pages/Services.html'),
-        ('Collaboration', 'pages/Collaboration.html'),
-        ('Workshops & Training', 'pages/Training.html'),
-        ('Suggest a Workshop', 'pages/Training.html#Suggest-a-workshop'),
-        ('Space', 'pages/Space.html'),
+        ('Consulting', MAIN_PAGE_FOLDER + '/Services.html'),
+        ('Collaboration', MAIN_PAGE_FOLDER + '/Collaboration.html'),
+        ('Workshops & Training', MAIN_PAGE_FOLDER + '/Training.html'),
+        ('Suggest a Workshop',
+         MAIN_PAGE_FOLDER + '/Training.html#Suggest-a-workshop'),
+        ('Space', MAIN_PAGE_FOLDER + '/Space.html'),
     ]),
     ('Resources', [
-        ('Courses', 'pages/Courses.html'),
+        ('Courses', MAIN_PAGE_FOLDER + '/Courses.html'),
         ('Tutorials', 'tag/tutorial.html'),
-        ('Languages', 'pages/Languages.html'),
-        ('Data Sciences New Sources', 'pages/News.html'),
+        ('Languages', MAIN_PAGE_FOLDER + '/Languages.html'),
+        ('Data Sciences New Sources', MAIN_PAGE_FOLDER + '/News.html'),
     ]),
     ('Events', [
         ('Announcements', 'category/recent.html'),
         ('Past events', 'category/past.html'),
-        ('Calendar', "pages/Calendar.html")
+        ('Calendar', MAIN_PAGE_FOLDER + "/Calendar.html")
     ]),
     ('Related', [
         ("Institute for Social Science", "http://socialscience.ucdavis.edu/"),
@@ -164,11 +153,9 @@ MENUITEMS = [
     ]),
 ]
 
-HIDE_SIDEBAR = True
-
 # What to display on top menu as buttons
 SOCIAL = (
-    ('Mailing List', 'pages/Signup.html'),
+    ('Mailing List', 'pages/main/Signup.html'),
     ('Become An Affiliate',
         'https://docs.google.com/forms/d/e/'
         '1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform'),
@@ -177,3 +164,16 @@ SOCIAL = (
 # links on sidebar
 # LINKS = None
 
+# ARTICLE GLYPHICONS, they come by default with bootstrap flatly theme
+GLYPHICON = {
+    "Workshop": "glyphicon glyphicon-education",
+    "Bootcamp": "glyphicon glyphicon-education",
+    "Job": "glyphicon glyphicon-briefcase",
+    "Talk": "glyphicon glyphicon-blackboard",
+    "Symposium": "glyphicon glyphicon-blackboard",
+    "Announcement": "glyphicon glyphicon-bullhorn",
+    "Video": "glyphicon glyphicon-film",
+    "Collaboration": "glyphicon glyphicon-link",
+    "OfficeHours": "glyphicon glyphicon-comment",
+    "Courses": "glyphicon glyphicon-book"
+}
