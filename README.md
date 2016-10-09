@@ -144,6 +144,15 @@ Posts (articles) and pages can be written in Markdown or HTML. Below are
 examples of writing a post; writing a page is similar, but pages are permanent
 parts of the site and don't have timestamps.
 
+All the subfiles / folders under pages are going to be copied to the output directory.
+And the html files are going to be parsed. The main site pages are in:
+
+```
+content 
+|___pages
+		 |__main
+```
+
 #### Markdown
 
 Posts written in Markdown should follow this format:
