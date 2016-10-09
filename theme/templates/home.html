@@ -184,11 +184,13 @@
 	   <h4>Resources</h4>
 	   <p>
 	   {% for article in categories[1][1] %}
-	   {% if article.tags[0].name == 'Service' %}
-	   <span class="{{ GLYPHICON[article.tags[1].name] }}"></span>
+	   {% if article.tags[0].name == 'OfficeHours' %}
+	   <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
 	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
 	   {% endif %}
 	   {% endfor %}
+	   <span class="{{ GLYPHICON["Courses"] }}"></span>
+	   <a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Courses.html">Fall2016 Topic Courses</a><br>
 	   </p>
 	 </div>
       </div>
