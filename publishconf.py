@@ -10,15 +10,15 @@ import sys
 sys.path.append(os.curdir)
 from pelicanconf import *
 
-SITEURL = 'https://karenyyng.github.io/something_nice'
-RELATIVE_URLS = False
+SITEURL = 'http://karenyyng.github.io/something_nice'
+OUTPUT_PATH = "build/"
 
+RELATIVE_URLS = False
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
 
-# Following items are often useful when publishing
-
-#DISQUS_SITENAME = ""
+# Following items are plugins that can be installed and turned on
+#DISQUS_SITENAME = ""  # for comment section on pages / articles vis DISQUS
 #GOOGLE_ANALYTICS = ""

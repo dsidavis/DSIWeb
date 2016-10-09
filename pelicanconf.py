@@ -96,12 +96,11 @@ PATH_METADATA = '(?P<path_no_ext>.*)\..*'
 PAGE_SAVE_AS = '{path_no_ext}.html'
 PAGE_URL = '{path_no_ext}.html'
 MAIN_PAGE_FOLDER = "pages/main"
+
 # Home page options
 # =================
 BANNER = 'images/dsi_banner.png' # the image for main homepage banner
 RECENT_POST_COUNT = 6  # number of posts displayed on homepage banner
-
-
 
 # What to display on top menu bar
 # ================================
@@ -155,7 +154,7 @@ MENUITEMS = [
 
 # What to display on top menu as buttons
 SOCIAL = (
-    ('Mailing List', 'pages/main/Signup.html'),
+    ('Mailing List', MAIN_PAGE_FOLDER + '/Signup.html'),
     ('Become An Affiliate',
         'https://docs.google.com/forms/d/e/'
         '1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform'),
