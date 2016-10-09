@@ -16,4 +16,4 @@ The DSI team will work with selected groups on projects that would significantly
 
 # Consultation
 We are also very happy to provide advice about any technical matters
-related to data science. [Contact us](mailto:datascience@ucdavis.edu), or drop by one of our [office hours]({category}services).
+related to data science. [Contact us](mailto:datascience@ucdavis.edu), or drop by one of our [office hours]({tag}officehours).

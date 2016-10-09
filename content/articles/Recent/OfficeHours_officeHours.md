@@ -1,9 +1,9 @@
 Title: Drop-in office hours by Prof. Temple Lang 
 Date: 2015-05-15 17:06
-Tags: Service, Office Hour, Fall2016
+Tags: OfficeHours, Fall2016
 
 **Event date:** Wednesdays, 10 - 11 am      
-**Location:** [DSI conference room, 362 Shields Library]({filename}../../pages/Page_Directions.md)     
+**Location:** [DSI conference room, 362 Shields Library]({filename}../../pages/main/Directions.md)     
 
 Duncan Temple Lang (Director of the Data Science Initiative & Professor, Dept.
 of Statistics) will hold drop-in consulting/office hours on all things Digital

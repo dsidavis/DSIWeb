@@ -6,7 +6,7 @@ Authors: DSI
 # DSI Facilities and Space
 
 The DSI occupies a large space on the 3rd floor of Shields Library.
-See the directions at this [page]({filename}./Page_Directions.md).
+See the directions at this [page]({filename}./Directions.md).
 
 <div class="row">
   <div class='container-fluid bg-workspace' 

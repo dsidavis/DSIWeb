@@ -1,0 +1,130 @@
+<html>
+<head>
+<title>Competition</title>  
+</head>
+<body>
+
+<h2>Data from the  Stack Exchange Network.</h2>
+
+<p>
+The following is specifically for StackOverflow. However, the approach works
+for all of the stackexchange sites, and also for arbitrary "flat" XML files.
+</p>
+
+
+
+<h2>Data</h2>
+<ol>
+<li><a href="Badges.csv.gz">Badges.csv.gz</a></li>
+<li><a href="Comments.csv.gz">Comments.csv.gz</a></li>
+<li><a href="PostHistory.csv.gz">PostHistory.csv.gz</a></li>
+<li><a href="PostLinks.csv.gz">PostLinks.csv.gz</a></li>
+<li><a href="Posts.csv.gz">Posts.csv.gz</a></li>
+<li><a href="Tags.csv.gz">Tags.csv.gz</a></li>
+<li><a href="Users.csv.gz">Users.csv.gz</a></li>
+<li><a href="Votes.csv.gz">Votes.csv.gz</a></li>
+</ol>
+
+<a href="SO.tar.bz2">all together as a tar.bz2 archive</a>
+
+
+<h2>Scraped Data</h2>
+Scraped data for two tags/sites on StackOverflow:
+<ul>
+<li> <a href="rQAs.rda">R</a></li>
+<li> <a href="d3.js.rda">d3.js</a></li>
+</ul>
+
+
+<h2>Code for Converting the XML to CSV</h2>
+See a reasonably general purpose tool <a href="https://github.com/dsidavis/SAX2CSV">SAX2CSV</a> on github.
+
+<p>
+The <a href="Makefile">Makefile</a> for converting the 8 files.
+
+<h2>Provenance</h2>
+<p>
+The data come from <a href="https://archive.org/details/stackexchange">stackexchange data dump</a>.
+The individual files for StackOverflow are at, e.g,.,
+<a href="https://archive.org/download/stackexchange/stackoverflow.com-Badges.7z">
+https://archive.org/download/stackexchange/stackoverflow.com-Badges.7z</a>.
+
+<p>
+Data from StackOverflow can also be obtained via
+<ul>
+<li>Their <a href="https://api.stackexchange.com/">API</a></li>
+<li>Web scraping (code will be released soon)</li>
+</ul>
+Some questions are more readily answered via the API,
+and others via scraping when the volume of data and requests is small.
+
+
+
+<p>
+Rather than working with the CSV files, it would be better to use these
+to populate a database and then use SQL to access them.
+
+
+<h3>Processing the XML files</h3>
+<p>
+These files are compressed archive files containing a single XML  file.
+The XML  files are quite simple in nature.
+The actual data are in attributes within &lt;row&gt; elements.
+Each of the different XML files has a different set of attributes,
+and within these some attributes appear in all &lt;row&gt; elements,
+and some do not.
+</p>
+<p>
+Because of the simple flat/non-hierarchical nature of the data in the files,
+it is reasonably straightforward to map them to CSV files.
+For each file, we need to know the set of all possible attributes and then
+we process each row and output the values for the attributes present in that
+row in the correct order, skipping thos that are not present and leaving their
+entries blank.
+<p>
+We can do this in R with <a href="stackExchangeDB.R">this code<a/>.
+However, this reads the entire document into memory and then converts
+it to a data frame. Given that the PostHistory.xml file is 59 gigabytes,
+this is not ideal.
+</p>
+
+<p>
+Instead, we could use the event parsing model (SAX)
+and xmlEventParse(). The idea is to process each
+&lt;row&gt; element as it is encountered, and write its value to the
+CSV file and then discard that &lt;row&gt;. This reduces the memory in use
+at any one time to a single row.
+</p>
+
+<p>
+Rather than doing this in R, we wrote C code to use the SAX
+interface and do this directly.
+The code is <a href="https://github.com/dsidavis/SAX2CSV">on github</a>. 
+This code works for other "flat" XML files, not just these for StackOverflow.
+</p>
+
+<p>
+To process the 59Gb PostHistory.xml file takes about 11.5 minutes
+on a compute server.  Compressing the resulting CSV file takes almost exactly 30 minutes!
+</p>
+
+<p>
+To convert an XML file in this format to CSV, we tell the sax2csv program
+the names of the columns (and in the order they are likely to occur).
+To do this, we need to know the set of all possible attribute names.
+We can make one pass over the entire file and find the names of all the attributes.
+Another approach is to get the names of the attributes from the dump of another
+stackexchange site. This is what we did, using the stats site.
+And we did the computations in R with
+<pre>
+doc = xmlParse("Posts.xml")
+table(unlist(xmlApply(xmlRoot(doc), function(x) names(xmlAttrs(x)))))
+</pre>
+
+<p>
+Additionaly, the sax2csv program will write a warning (to stderr) for any
+attribute that was not in the list of attribute names given by the caller.
+So one can use this to make a pass over the XML and identify all of the attributes that are used.
+
+</body>
+</html>

@@ -26,5 +26,5 @@ right of the exit sign.
 the DSI workspace (C) if the entrance is locked. 
 
 <center>
-![Map within Shields Library]({filename}../images/map-shields-3.png)
+![Map within Shields Library]({filename}../../images/map-shields-3.png)
 </center>
