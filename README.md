@@ -160,6 +160,9 @@ The only required metadata field is the title and it needs to be specified on
 the first line of the markdown file. If the date is not specified, it
 is automatically set to the last time the file was modified.
 
+- [  ] 
+
+
 #### HTML
 
 Posts written in HTML should follow this format:
@@ -178,8 +181,18 @@ Posts written in HTML should follow this format:
 </html>
 ```
 As with Markdown posts, the only required metadata field is the title, and if
-the date is missing, it's automatically set to the last time the file was
+the date is missing, it is automatically set to the last time the file was
 modified.
+
+Note that only 3 types of `HTML` nodes are retained in the parsed HTML, 
+including `<title>`, `<meta>`  and `<body>`.
+Only `javascript` `<script>` nodes within 
+`<body>` would work. And you are advised to add your `CSS` styles to the site wide `css`
+sheets at `/theme/static/css/style.css` if needed.
+
+If you have a dire need to add a couple of CSS sheets, you can also change the 
+`HTML` templates but depending on what you do, you may add the CSS for ALL the
+pages which is not desired.
 
 `Pelican` also generates index pages for articles under each tag at 
 `$SITEURL/tag/$TAGNAME.html`.
