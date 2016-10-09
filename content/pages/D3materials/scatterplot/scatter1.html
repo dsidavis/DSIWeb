@@ -1,0 +1,46 @@
+<html> <head>
+<title>Simple Scatter Plot</title>
+</head>
+
+<body>
+
+<div class="d3-chart"></div>
+<script type="text/javascript" src="d3/d3.v3.js"></script>
+<script type="text/javascript" src="simpleData.json"></script>
+<script type="text/javascript">
+var w = 600,
+    h = 500;
+
+var svg = d3.select(".d3-chart")
+            .append("svg")
+            .attr("width", w)
+            .attr("height", h);
+
+svg.selectAll("circle")
+    .data(dataset)
+    .enter()
+    .append("circle")
+    .attr("r", 4)
+    .attr("cx", function(d, i) {
+                   return( i * w/dataset.length + 5 );
+                })
+    .attr("cy", h/2)
+    .attr("fill", "red");
+</script>
+
+
+<p>
+
+The JavaScript code creates the circles and places them at the same vertical position.
+We calculate the horizontal position based on the index of the observation.
+This is passed to our function via our parameter i.
+Our other parameter d contains the actual observation.
+(If we only had one parameter, the index is not passed.)
+
+
+
+<hr>
+<address><a href="http://www.stat.ucdavis.edu/~duncan">Duncan Temple Lang</a>
+<a href=mailto:duncan@r-project.org>&lt;duncan@r-project.org&gt;</a></address>
+<!-- hhmts start --> Last modified: Thu Jun  4 10:20:20 PDT 2015 <!-- hhmts end -->
+</body> </html>

@@ -1,0 +1,226 @@
+var dataset = [
+ {
+ "mpg":       21,
+"wt":     2.62,
+"cyl":        6,
+"hp":      110,
+"type": "Mazda RX4" 
+},
+{
+ "mpg":       21,
+"wt":    2.875,
+"cyl":        6,
+"hp":      110,
+"type": "Mazda RX4 Wag" 
+},
+{
+ "mpg":     22.8,
+"wt":     2.32,
+"cyl":        4,
+"hp":       93,
+"type": "Datsun 710" 
+},
+{
+ "mpg":     21.4,
+"wt":    3.215,
+"cyl":        6,
+"hp":      110,
+"type": "Hornet 4 Drive" 
+},
+{
+ "mpg":     18.7,
+"wt":     3.44,
+"cyl":        8,
+"hp":      175,
+"type": "Hornet Sportabout" 
+},
+{
+ "mpg":     18.1,
+"wt":     3.46,
+"cyl":        6,
+"hp":      105,
+"type": "Valiant" 
+},
+{
+ "mpg":     14.3,
+"wt":     3.57,
+"cyl":        8,
+"hp":      245,
+"type": "Duster 360" 
+},
+{
+ "mpg":     24.4,
+"wt":     3.19,
+"cyl":        4,
+"hp":       62,
+"type": "Merc 240D" 
+},
+{
+ "mpg":     22.8,
+"wt":     3.15,
+"cyl":        4,
+"hp":       95,
+"type": "Merc 230" 
+},
+{
+ "mpg":     19.2,
+"wt":     3.44,
+"cyl":        6,
+"hp":      123,
+"type": "Merc 280" 
+},
+{
+ "mpg":     17.8,
+"wt":     3.44,
+"cyl":        6,
+"hp":      123,
+"type": "Merc 280C" 
+},
+{
+ "mpg":     16.4,
+"wt":     4.07,
+"cyl":        8,
+"hp":      180,
+"type": "Merc 450SE" 
+},
+{
+ "mpg":     17.3,
+"wt":     3.73,
+"cyl":        8,
+"hp":      180,
+"type": "Merc 450SL" 
+},
+{
+ "mpg":     15.2,
+"wt":     3.78,
+"cyl":        8,
+"hp":      180,
+"type": "Merc 450SLC" 
+},
+{
+ "mpg":     10.4,
+"wt":     5.25,
+"cyl":        8,
+"hp":      205,
+"type": "Cadillac Fleetwood" 
+},
+{
+ "mpg":     10.4,
+"wt":    5.424,
+"cyl":        8,
+"hp":      215,
+"type": "Lincoln Continental" 
+},
+{
+ "mpg":     14.7,
+"wt":    5.345,
+"cyl":        8,
+"hp":      230,
+"type": "Chrysler Imperial" 
+},
+{
+ "mpg":     32.4,
+"wt":      2.2,
+"cyl":        4,
+"hp":       66,
+"type": "Fiat 128" 
+},
+{
+ "mpg":     30.4,
+"wt":    1.615,
+"cyl":        4,
+"hp":       52,
+"type": "Honda Civic" 
+},
+{
+ "mpg":     33.9,
+"wt":    1.835,
+"cyl":        4,
+"hp":       65,
+"type": "Toyota Corolla" 
+},
+{
+ "mpg":     21.5,
+"wt":    2.465,
+"cyl":        4,
+"hp":       97,
+"type": "Toyota Corona" 
+},
+{
+ "mpg":     15.5,
+"wt":     3.52,
+"cyl":        8,
+"hp":      150,
+"type": "Dodge Challenger" 
+},
+{
+ "mpg":     15.2,
+"wt":    3.435,
+"cyl":        8,
+"hp":      150,
+"type": "AMC Javelin" 
+},
+{
+ "mpg":     13.3,
+"wt":     3.84,
+"cyl":        8,
+"hp":      245,
+"type": "Camaro Z28" 
+},
+{
+ "mpg":     19.2,
+"wt":    3.845,
+"cyl":        8,
+"hp":      175,
+"type": "Pontiac Firebird" 
+},
+{
+ "mpg":     27.3,
+"wt":    1.935,
+"cyl":        4,
+"hp":       66,
+"type": "Fiat X1-9" 
+},
+{
+ "mpg":       26,
+"wt":     2.14,
+"cyl":        4,
+"hp":       91,
+"type": "Porsche 914-2" 
+},
+{
+ "mpg":     30.4,
+"wt":    1.513,
+"cyl":        4,
+"hp":      113,
+"type": "Lotus Europa" 
+},
+{
+ "mpg":     15.8,
+"wt":     3.17,
+"cyl":        8,
+"hp":      264,
+"type": "Ford Pantera L" 
+},
+{
+ "mpg":     19.7,
+"wt":     2.77,
+"cyl":        6,
+"hp":      175,
+"type": "Ferrari Dino" 
+},
+{
+ "mpg":       15,
+"wt":     3.57,
+"cyl":        8,
+"hp":      335,
+"type": "Maserati Bora" 
+},
+{
+ "mpg":     21.4,
+"wt":     2.78,
+"cyl":        4,
+"hp":      109,
+"type": "Volvo 142E" 
+} 
+] ;
