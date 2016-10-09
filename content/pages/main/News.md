@@ -10,5 +10,5 @@ Authors: DSI
 * [Data Science Central](http://www.datasciencecentral.com)
 
 # Data Science tutorials and discussions 
-* [R blogger](www.r-bloggers.com/)
+* [R blogger](http://www.r-bloggers.com/)
 * [Reddit Machine Learning](https://www.reddit.com/r/MachineLearning/)
