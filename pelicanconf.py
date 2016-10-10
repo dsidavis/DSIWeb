@@ -104,7 +104,7 @@ RECENT_POST_COUNT = 6  # number of posts displayed on homepage banner
 # The tags displayed in the `News` columns on the homepage
 EVENTS_TAGS = ['Workshop', 'Bootcamp', 'Talk', 'Symposium']
 OPPORTUNITIES_TAGS = ['Job']
-RESOURCES_TAGS = ['OfficeHour']
+RESOURCES_TAGS = ['OfficeHours']
 
 
 # What to display on top menu bar
