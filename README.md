@@ -146,12 +146,7 @@ parts of the site and don't have timestamps.
 
 All the subfiles / folders under pages are going to be copied to the output directory.
 And the html files are going to be parsed. The main site pages are in:
-
-```
-content 
-|___pages
-		 |__main
-```
+`content/pages/main`
 
 #### Markdown
 
@@ -194,15 +189,14 @@ modified.
 Note that only 3 types of `HTML` nodes are retained in the parsed HTML, 
 including `<title>`, `<meta>`  and `<body>`.
 Only `javascript` `<script>` nodes within 
-`<body>` would work. And you are advised to add your `CSS` styles to the site wide `css`
-sheets at `/theme/static/css/style.css` if needed.
+`<body>` would work. 
+CSS changes should be made to the theme directly for a consistent global
+style. See `theme/flatly/_variables.scss` or the GitHub wiki has for more info 
+for how to tweak the theme.
+If you have other `CSS` styles to the site wide `css` for specific pages,
+a less preferred approach is to put them at `/theme/static/css/style.css`.
 
-If you have a dire need to add a couple of CSS sheets, you can also change the 
-`HTML` templates but depending on what you do, you may add the CSS for ALL the
-pages which is not desired.
-
-`Pelican` also generates index pages for articles under each tag at 
-`$SITEURL/tag/$TAGNAME.html`.
+Other CSS _will not_ be loaded without tweaking the HTML templates.
 
 ## Naming convention
 For each article in `markdown` or `html` format, the naming convention is set 
@@ -214,17 +208,20 @@ Where `TAG` takes one of the following values to indicate the nature of the post
 ```
 * Bootcamp
 * Job
-* Service
+* OfficeHours
 * Talk
 * Symposium
 * Workshop
 ```
 It is possible to add new tags.  
-If you wish to have more than one tag for the article, you can specify them inside the markdown
-/ html file but please use one of the above tags as the first tag.
+If you wish to have more than one tag for the article, you can specify them 
+inside the markdown / html file but please use one of the above tags as the first tag.
 
 `{SLUG}` is just any appropriate description for the post,
 with a pascal case naming convention.
+
+Note that `Pelican` generates index pages for articles under each tag at 
+`$SITEURL/tag/$TAGNAME.html`.
 
 ## Post Order
 The posts are ordered by their last modification date in reverse.

@@ -116,7 +116,7 @@
 
 	  <p style="font-size: 100%" >The Data Science Initiative (DSI) is 
 	  building a campus community interested in Data Science.  
-	  Graduate students and postdocs developing and/or applying data science methods to research problems in  can apply to be affiliated with the DSI. 
+	  Graduate students and postdocs developing and/or applying data science methods to research problems can apply to be affiliated with the DSI. 
 	  </p>
           <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform"
            class="btn btn-primary btn-md hidden-xs" role="button" target="_blank">
@@ -162,7 +162,7 @@
 	 <h4>Events</h4>
 	   <p>
 	   {% for article in categories[1][1] %}
-	   {% if article.tags[0].name == 'Talk' or article.tags[0].name == 'Workshop' %}
+	   {% if article.tags[0].name in EVENTS_TAGS %}
 	   <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
 	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
 	   {% endif %}
@@ -173,7 +173,7 @@
            <h4>Opportunities</h4>
 	   <p>
 	   {% for article in categories[1][1] %}
-	   {% if article.tags[0].name == 'Job' %}
+	   {% if article.tags[0].name in OPPORTUNITIES_TAGS %}
 	   <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
 	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
 	   {% endif %}
@@ -184,7 +184,7 @@
 	   <h4>Resources</h4>
 	   <p>
 	   {% for article in categories[1][1] %}
-	   {% if article.tags[0].name == 'OfficeHours' %}
+	   {% if article.tags[0].name in RESOURCES_TAGS %}
 	   <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
 	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
 	   {% endif %}

@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-import logging
 """
 All the variables listed in this file are available to the HTML template files
 using Jinja2 syntax.
@@ -31,7 +30,7 @@ OUTPUT_PATH = "build/"
 # SITENAME = u"Data Science Initiative"
 SITENAME = ""  # configure at publishconf.py
 SITEURL = ""   # configure at publishconf.py
-AUTHOR = "UC Davis DSI Affiliates"  # unless explicit override
+AUTHOR = "UC Davis DSI Affiliates"  # unless explicit override in an article
 DEFAULT_LANG = u"en"
 
 # Time
@@ -74,6 +73,7 @@ MATH_JAX = {'process_escapes': True}
 # Page / article saving Configuration
 # ==================
 # Parse file metadata from the file name of the article / page files
+# See Python Group regex syntax for the below pattern grabs the groups
 FILENAME_METADATA = '(?P<tags>.*)_(?P<slug>.*)..*'
 
 # Index of all article posts
@@ -101,6 +101,11 @@ MAIN_PAGE_FOLDER = "pages/main"
 # =================
 BANNER = 'images/dsi_banner.png' # the image for main homepage banner
 RECENT_POST_COUNT = 6  # number of posts displayed on homepage banner
+# The tags displayed in the `News` columns on the homepage
+EVENTS_TAGS = ['Workshop', 'Bootcamp', 'Talk', 'Symposium']
+OPPORTUNITIES_TAGS = ['Job']
+RESOURCES_TAGS = ['OfficeHour']
+
 
 # What to display on top menu bar
 # ================================
@@ -160,8 +165,6 @@ SOCIAL = (
         '1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform'),
 )
 
-# links on sidebar
-# LINKS = None
 
 # ARTICLE GLYPHICONS, they come by default with bootstrap flatly theme
 GLYPHICON = {
