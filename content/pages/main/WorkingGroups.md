@@ -10,12 +10,7 @@ These can last a few weeks, an entire quarter or longer.
 
 
 + Python for Bioinformatics
-
 + Getting an R Package on CRAN
-
-+ 
-
 + Solar Radiation Crop Yield Project
-
 + C/C++ and Related Technologies
 
