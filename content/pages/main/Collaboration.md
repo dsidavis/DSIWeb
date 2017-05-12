@@ -1,7 +1,7 @@
 Title: DSI Collaborations
 
 # DSI Collaborations 
-Do you have a challenging research question or complex dataset that you think would benefit from our data science expertise? If so, contact us! We’re keen to think about ambitious projects that push the envelope - whether that’s within your discipline, across disciplines, or within the growing field of data science itself. 
+Do you have a challenging research question or complex dataset that you think would benefit from our data science expertise? If so, contact us at datascience@ucdavis.edu! We’re keen to think about ambitious projects that push the envelope - whether that’s within your discipline, across disciplines, or within the growing field of data science itself. 
 We have human and computational resources at the DSI to allocate to compelling research challenges, ranging from data acquisition, visualization and analysis to improving computational efficiency for big data and/or intensive methodology. We are especially interested in interdisciplinary problems that involve researchers from across UC Davis. In the true meaning of collaboration, we expect to work with you through the entire data science pipeline and be brought in at the early stages of the project formation and continue to contribute through the data interpretation and generation of final products. To that end, we will have periodic calls for proposals, which will be announced on the News section of the DSI web page and mailing lists. But don’t hesitate to contact us if you have a brilliant idea outside of the collaboration calls.
 
 
