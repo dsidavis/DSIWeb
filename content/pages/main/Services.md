@@ -24,5 +24,5 @@ The Data Science Initiative provides advice and collaboration services to resear
 Assistance with your data science needs can be addressed through participation in DSI events, tutorials and workshops. 
 We also offer drop-in [office hours]({tag}officehours), during which we will provide advice on technical matters related to data science. Check our calendar as these are subject to change, or [contact us](mailto:datascience@ucdavis.edu) to request an alternate time to meet.
 
-If you have general questions regarding data management plans and/or GIS, we will refer you to the Data Management Program](https://www.library.ucdavis.edu/service/data-management/) at the University Library, or for routine data analysis we will refer you to the list of courses at UC Davis and the [Statistics Lab](http://www.stat.ucdavis.edu/stat-lab/services.html) on campus. 
+If you have general questions regarding data management plans and/or GIS, we will also refer you to the Data Management Program](https://www.library.ucdavis.edu/service/data-management/) at the University Library, and for data analysis we will refer you to the list of courses at UC Davis and the [Statistics Lab](http://www.stat.ucdavis.edu/stat-lab/services.html) on campus. 
 
