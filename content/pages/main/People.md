@@ -11,8 +11,7 @@ Author: DSI UC Davis
   <dd> Professor, Statistics, Data Science Initiative.
 
   </dd><dt>
-  <li> <a href="http://www.ucdmc.ucdavis.edu/publish/providerbio/search/11634">Nick Anderson</a>,  Associate Director for Health Sciences.
-  <dd>  Associate Professor, School of Medicine.  
+
   </dd><dt>
   <li> <a href="http://www.carlstahmer.com/">Carl Stahmer</a>,  Associate Director for Humanities,
 Director of Digital Scholarship – UC Davis Library
@@ -20,6 +19,9 @@ Director of Digital Scholarship – UC Davis Library
   </dd><dt> Pamela Reynolds, Academic Coordinator
 
   <dd>    
+  
+  <li> <a href="http://www.ucdmc.ucdavis.edu/publish/providerbio/search/11634">Nick Anderson</a>,  Associate Director for Health Sciences.
+  <dd>  Associate Professor, School of Medicine.    
 </dd></li></dt></li></dt></li></dt></dl>
 
 <h3>Members</h3>

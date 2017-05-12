@@ -7,7 +7,7 @@
     "url": "https://github.com/karenyyng/DSI_pelican_config.git"
   },
   "devDependencies": {
-    "postcss-cli": ">= 2.6.0",
-    "autoprefixer": ">= 6.5.0"
+    "postcss-cli": "= 2.6.0",
+    "autoprefixer": "= 6.5.0"
   }
 }
