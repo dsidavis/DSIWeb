@@ -1,0 +1,73 @@
+﻿Title: DSI People Leadership
+Author: DSI UC Davis
+
+# DSI Administration
+<h2>Directors</h2>
+<dl>
+  <dt>
+  <li> <a href="http://www.stat.ucdavis.edu/~duncan">Duncan Temple Lang</a>,  Director
+  <dd> Professor, Statistics, Data Science Initiative.
+
+  </dd><dt>
+  <li> <a href="http://www.ucdmc.ucdavis.edu/publish/providerbio/search/11634">Nick Anderson</a>,  Associate Director for Health Sciences.
+  <dd>  Associate Professor, School of Medicine.  
+  </dd><dt>
+  <li> <a href="http://www.carlstahmer.com/">Carl Stahmer</a>,  Associate Director for Humanities,
+Director of Digital Scholarship – UC Davis Library
+
+  </dd><dt> Pamela Reynolds, Academic Coordinator
+
+  <dd>    
+</dd></li></dt></li></dt></li></dt></dl>
+
+The DSI is supported by the University of California Office of the President. Logistical support is provided by the UC Davis University Library.
+
+<h2>Advisory Committee</h2>
+<dl>
+
+  <dt>
+  <li>  <a href="http://gsm.ucdavis.edu/faculty/hemant-bhargava">Hemant Bhargava</a>
+  <dd>
+
+  </dd><dt>
+  <li><a href="http://cameron.econ.ucdavis.edu/">Colin Cameron</a></li>
+  </dt><dd>
+  </dd><dt>
+  <li> <a href="http://socialscience.ucdavis.edu/about-iss/people/john-daniels-ssds-statistical-programming-consultant">John Daniels</a>
+  <dd>
+  </dd><dt>
+  <li> <a href="http://research.ucdavis.edu/about-us/or-leadership/#avcirsi">Paul Dodd</a>
+  <dd>
+  </dd><dt>
+  <li> <a href="http://houlton.lawr.ucdavis.edu/">Benjamin Houlton</a>
+  <dd>
+  </dd><dt>
+  <li> <a href="http://geology.ucdavis.edu/people/faculty/kellogg.php">Louise Kellog</a>
+  <dd>
+  </dd><dt>
+  <li> <a href="http://web.cs.ucdavis.edu/~prasant/">Prasant Mohapatra</a>
+  <dd>
+  </dd><dt>
+  <li> <a href="http://vpiet.ucdavis.edu/">Viji Murali</a>
+  <dd>
+
+      <!--  <dt> <li> David Potts
+  <dd>
+          -->
+      
+  </dd><dt>
+  <li> <a href="http://www.lib.ucdavis.edu/ul/about/meetnewul.php">MacKenzie Smith</a>
+  <dd>      
+
+  </dd><dt>
+  <li> <a href="http://tyson.ucdavis.edu/">Tony Tyson</a>
+  <dd>
+
+  </dd><dt>
+  <li> <a href="http://dsi.ucdavis.edu/">Mark Redican</a>
+  <dd>
+    
+  </dd><dt>
+  <li><a href="http://www.cs.ucdavis.edu/~koehl/">Patrice Koehl, founding director</a></li>
+  </dt><dd>
+</dd></li></dt></li></dt></li></dt></li></dt></li></dt></li></dt></li></dt></li></dt></li></dt></li></dt></dl>
