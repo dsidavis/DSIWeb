@@ -1,7 +1,7 @@
 Title: Web Scraping & Services Workshop
 Date: 04/04/2015 12:00
 Tags: Workshop, Tutorial, Web Technologies, R 
-Slug: WebScraping
+Slug: WebScraping2015
 
 
 
