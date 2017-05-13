@@ -117,54 +117,42 @@ DISPLAY_CATEGORIES_ON_MENU = False
 MENUITEMS = [
     ('About', [
         ('Mission', MAIN_PAGE_FOLDER + '/Mission.html'),
-        ('People', MAIN_PAGE_FOLDER + '/People.html'),
-        ('Directions', MAIN_PAGE_FOLDER + '/Directions.html'),
+        ('Membership', MAIN_PAGE_FOLDER + '/Membership.html'),
+        ('Mailing List', MAIN_PAGE_FOLDER + '/Signup.html'),
+        ('Giving', MAIN_PAGE_FOLDER + '/Giving.html'),
         ('FAQ', MAIN_PAGE_FOLDER + '/FAQ.html'),
-        ('Contact us', 'mailto:datascience@ucdavis.edu'),
+        ('Directions', MAIN_PAGE_FOLDER + '/Directions.html'),
+        ('Contact Us', 'mailto:datascience@ucdavis.edu')
+    ]),
+    ('People', [
+        ('Administration', MAIN_PAGE_FOLDER + '/Administration.html'),
+        ('Faculty', MAIN_PAGE_FOLDER + '/Faculty.html'),
+        ('Affiliates', MAIN_PAGE_FOLDER + '/Affiliates.html'),
     ]),
     ('Services', [
-        ('Consulting', MAIN_PAGE_FOLDER + '/Services.html'),
+        ('General Information', MAIN_PAGE_FOLDER + '/Services.html'),
         ('Collaboration', MAIN_PAGE_FOLDER + '/Collaboration.html'),
-        ('Workshops & Training', MAIN_PAGE_FOLDER + '/Training.html'),
-        ('Suggest a Workshop',
-         MAIN_PAGE_FOLDER + '/Training.html#Suggest-a-workshop'),
+        ('Workshops & Training', MAIN_PAGE_FOLDER + '/Workshops.html'),
+        ('Office Hours', MAIN_PAGE_FOLDER + '/OfficeHours.html'),
         ('Space', MAIN_PAGE_FOLDER + '/Space.html'),
-    ]),
-    ('Resources', [
-        ('Courses', MAIN_PAGE_FOLDER + '/Courses.html'),
-        ('Tutorials', 'tag/tutorial.html'),
-        ('Languages', MAIN_PAGE_FOLDER + '/Languages.html'),
-        ('Data Sciences New Sources', MAIN_PAGE_FOLDER + '/News.html'),
     ]),
     ('Events', [
         ('Announcements', 'category/recent.html'),
-        ('Past events', 'category/past.html'),
+        ('Past Events', 'category/past.html'),
+        ('Workshops', ''),
         ('Calendar', MAIN_PAGE_FOLDER + "/Calendar.html")
     ]),
-    ('Related', [
-        ("Institute for Social Science", "http://socialscience.ucdavis.edu/"),
-         ("Davis R Users Group",
-            "http://www.noamross.net/davis-r-users-group.html"),
-         ("Data @ UC Davis", "http://data.ucdavis.edu/"),
-         ("Statistics RTG", "http://www.stat.ucdavis.edu/research/nsf-rtg"),
-         ("Statistics Lab", "http://www.stat.ucdavis.edu/stat-lab/services.html"),
-         ("John Muir Institute of the Environment",
-             "http://johnmuir.ucdavis.edu/"),
-         ("ICIS", "http://icis.ucdavis.edu/"),
-         ("CITRIS", "http://citris-uc.org/"),
-         ("Keck Caves", "http://keckcaves.org/"),
-         ("Center for Spatial Sciences", "http://spatial.ucdavis.edu/"),
+    ('News', ''),
+    ('Resources', [
+        ('Courses', MAIN_PAGE_FOLDER + '/Courses.html'),
+        ('Tutorials', 'tag/tutorial.html'),
+        ('Programming Languages', MAIN_PAGE_FOLDER + '/ProgrammingLanguages.html'),
+        ('Related Links', MAIN_PAGE_FOLDER + '/RelatedLinks.html'),
     ]),
 ]
 
 # What to display on top menu as buttons
-SOCIAL = (
-    ('Mailing List', MAIN_PAGE_FOLDER + '/Signup.html'),
-    ('Become An Affiliate',
-        'https://docs.google.com/forms/d/e/'
-        '1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform'),
-)
-
+SOCIAL = () 
 
 # ARTICLE GLYPHICONS, they come by default with bootstrap flatly theme
 GLYPHICON = {
