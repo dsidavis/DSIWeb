@@ -4,11 +4,6 @@ save_as: index.html
 Date: 2016-09-03 15:50
 Template: home
 <!-- using /theme/template/home.html as template for banner -->
-<div class="alert alert-info" role="alert" style='margin-top:20px' >
-  Announcement: This is just a demo that borrows materials from the DSI Davis.
-  This is not the official website.
-</div>
-
 
 <div class="row jumbotron">
   <div class="col-sm-6 text-center">
