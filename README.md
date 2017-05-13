@@ -19,7 +19,7 @@ installation (a _virtual environment_) for building the site. Details on
 virtualenv can be found [here][virtualenv] or [here][virtualenv-karen]. To set
 up the virtual environment:
 ```bash
-virtualenv --no-site-packages -p $(which python3.4) VIRTUAL_ENV_NAME --distribute
+virtualenv --python=python3 VIRTUAL_ENV_NAME
 source VIRTUAL_ENV_NAME/bin/activate
 ```
 
