@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+{% block title %}{{ SITENAME }} :: {{ page.title }}{% endblock %}
 {% block html_lang %}{{ page.lang }}{% endblock %}
 {% block meta %}
     <!--
@@ -13,6 +13,8 @@
         <meta name="description" content="{{ page.summary|striptags|escape }}" />
     {% endif %}
 {% endblock %}
+
+
 {% block opengraph %}
     {% if OPEN_GRAPH_FB_APP_ID %}
         <meta property="fb:app_id" content="{{ OPEN_GRAPH_FB_APP_ID }}"/>
@@ -35,6 +37,7 @@
 <link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
 {% endblock %}
 
+
 {% block breadcrumbs %}
     {% if DISPLAY_BREADCRUMBS %}
     <ol class="breadcrumb">
@@ -46,168 +49,128 @@
     {% endif %}
 {% endblock %}
 
+
+
 {% block banner %}
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <!-- Carousel indicators -->
-    <!-- Wrapper for carousel items -->
-    <div class="carousel-inner">
-        <div class="item active">
-	  <center>
-	  <img src="{{ SITEURL }}/{{ BANNER }}" style="padding-top: 0px;
-	  	padding-bottom: 0px" class="img-responsive">
-	  </center>
-        </div>
+<div class="carousel-inner">
 
-        <div class="item">
-	  <div class="row">
-	    <div class="col-xs-10 col-sm-6 col-sm-offset-3">
-	      <h1 class="hidden-xs"><img src="{{ SITEURL }}/images/dsi_h1_logo_light_background.png">
-		      <a href="{{ SITEURL }}/category/recent.html">Recent
-			      News </a></h1>
-	      <h3 class="visible-xs"><img src="{{ SITEURL }}/images/dsi_h1_logo_light_background.png">
-		      <a href="{{ SITEURL }}/category/recent.html">Recent
-			      News </a></h3>
-	      {# we have two categories, Past, and, Recent, categories[1] ==
-	      'Recent', categories[1][1] = articles with under "Recent" #}
-	      {% for article in categories[1][1] %}
-		    <h4 style='margin-bottom: {{ 100/RECENT_POST_COUNT }}px;
-			       margin-top: {{ 100/RECENT_POST_COUNT }}px'>
-	              <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-		      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
-		    </h4>
-	      {% endfor %}
-	    </div>
-          </div>
-        </div>
+  <div class="item active">
+  	<center>
+  	  <img src="{{ SITEURL }}/{{ BANNER }}" style="padding-top: 0px;
+  	    padding-bottom: 0px" class="img-responsive">
+  	</center>
+  </div>
 
-        <div class="item">
+  <div class="item">
 	  <div class="row">
 	  <!-- each row / div should add up to 12 -->
 	  <div class="col-xs-8 col-sm-4 col-md-4 col-sm-offset-2 col-md-offset-3 
-	col-lg-offset-3" 
-		  style="margin-top:10px; font-size:20px">
+        col-lg-offset-3" style="margin-top:10px; font-size:20px">
 		  <h2><a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Collaboration.html">
 				  Consultation & Collaboration</a></h2>
-	  <p style="font-size: 85%">
-	  We are extremely keen to collaborate with researchers on campus on
-	  ambitious projects where expertise in data science would have a
-			 significant impact on the work.</p>
-	  <a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Collaboration.html"
+	    <p style="font-size: 85%">
+      We are extremely keen to collaborate with researchers on campus on
+      ambitious projects where expertise in data science would have a
+      significant impact on the work.
+      </p>
+	    <a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Collaboration.html"
            class="btn btn-primary btn-md hidden-xs" role="button" >
           	Propose projects
-          </a>
+      </a>
 	  </div>
-	  <div class="col-xs-4 col-sm-3 col-md-2" style="margin-top:20px">
-          <img src="{{ SITEURL }}/images/DSI_pics/office_hours_in_conference_room_small.jpg"
-          style="padding-top: 0px;
-          padding-bottom: 0px" class="img-thumbnail">
-	  </div>
-	  </div>
-        </div>
 
-        <div class="item">
+	  <div class="col-xs-4 col-sm-3 col-md-2" style="margin-top:20px">
+      <img 
+        src="{{ SITEURL }}/images/DSI_pics/office_hours_in_conference_room_small.jpg"
+        style="padding-top: 0px; padding-bottom: 0px" class="img-thumbnail">
+	  </div>
+    </div> <!-- end .row -->
+  </div>
+
+  <div class="item">
 	  <div class="row">
-	  <div class="col-xs-8 col-sm-4 col-md-4 col-sm-offset-2 col-md-offset-3 col-lg-offset-3" 
-		  style="margin-top:10px;">
-	  <h2><a
-    href="https://docs.google.com/forms/d/e/1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform"
-    target="_blank"> 
-			  Call for DSI affiliates</a></h2>
+	  <div class="col-xs-8 col-sm-4 col-md-4 col-sm-offset-2 col-md-offset-3
+        col-lg-offset-3" style="margin-top:10px;">
+	    <h2><a href="https://docs.google.com/forms/d/e/1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform" target="_blank"> 
+			Call for DSI affiliates
+      </a></h2>
+	    <p style="font-size: 100%">
+      The Data Science Initiative (DSI) is building a campus community interested
+      in Data Science.  Graduate students and postdocs developing and/or applying
+      data science methods to research problems can apply to be affiliated with
+      the DSI.
+      </p>
 
-	  <p style="font-size: 100%" >The Data Science Initiative (DSI) is 
-	  building a campus community interested in Data Science.  
-	  Graduate students and postdocs developing and/or applying data science methods to research problems can apply to be affiliated with the DSI. 
-	  </p>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdCT72MtNyEcTcbOP7bj76tkPw85H9Co1R_WxYKZu67gxzb7Q/viewform"
-           class="btn btn-primary btn-md hidden-xs" role="button" target="_blank">
-          	Apply now!
-          </a>
+      <a href="" class="btn btn-primary btn-md hidden-xs" role="button"
+        target="_blank">Apply now!</a>
 	  </div>
+
 	  <div class="col-xs-4 col-sm-3 col-md-2" style="margin-top:20px">
-          <img src="{{ SITEURL }}/images/DSI_pics/Ken_and_Ben_hacking_small.jpg"
-          class="img-thumbnail">
+      <img src="{{ SITEURL }}/images/DSI_pics/Ken_and_Ben_hacking_small.jpg"
+        class="img-thumbnail">
 	  </div>
-	  </div>
-        </div>
-    </div>
-    <!--<div class='row' style='padding-top: 50px'>-->
-    <div style='padding-top: 50px'>
-    	<ol class="carousel-indicators" >
-           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-           <li data-target="#myCarousel" data-slide-to="1"></li>
-           <li data-target="#myCarousel" data-slide-to="2"></li>
-           <li data-target="#myCarousel" data-slide-to="3"></li>
-    	</ol>   
-    </div>
-    <!-- Carousel controls -->
-    <a class="carousel-control left" href="#myCarousel" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-    </a>
-    <a class="carousel-control right" href="#myCarousel" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-    </a>
+
+    </div> <!-- end .row -->
+  </div>
+</div> <!-- end .carousel-inner -->
+
+<!-- Carousel Bottom Buttons -->
+<div style='padding-top: 50px'>
+	<ol class="carousel-indicators" >
+       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+       <li data-target="#myCarousel" data-slide-to="1"></li>
+       <li data-target="#myCarousel" data-slide-to="2"></li>
+	</ol>   
+</div>
+
+<!-- Carousel Left/Right Buttons -->
+<a class="carousel-control left" href="#myCarousel" data-slide="prev">
+  <span class="glyphicon glyphicon-chevron-left"></span>
+</a>
+<a class="carousel-control right" href="#myCarousel" data-slide="next">
+  <span class="glyphicon glyphicon-chevron-right"></span>
+</a>
+
 </div>
 {% endblock %}
 
+
+
 {% block content %}
-    <section id="content" class="body">
+<section id="content" class="body">
 
-      <div class="row">
-      <h1 style='margin-left:10px'>
-	<img src="./images/dsi_h1_logo_light_background.png">
-	<a href="{{ SITEURL }}/category/recent.html">News</a></h1>
-      	<hr>
-      </div>
-      <div class="row" style='margin-bottom:10px'>
-	 <div class="col-sm-4">
-	 <h4>Events</h4>
-	   <p>
-	   {% for article in categories[1][1] %}
-	   {% if article.tags[0].name in EVENTS_TAGS %}
-	   <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
-	   {% endif %}
-	   {% endfor %}
-	   </p>
-	 </div>
-	 <div class="col-sm-4">
-           <h4>Opportunities</h4>
-	   <p>
-	   {% for article in categories[1][1] %}
-	   {% if article.tags[0].name in OPPORTUNITIES_TAGS %}
-	   <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
-	   {% endif %}
-	   {% endfor %}
-	   </p>
-	 </div>
-	 <div class="col-sm-4">
-	   <h4>Resources</h4>
-	   <p>
-	   {% for article in categories[1][1] %}
-	   {% if article.tags[0].name in RESOURCES_TAGS %}
-	   <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-	   <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
-	   {% endif %}
-	   {% endfor %}
-	   <span class="{{ GLYPHICON["Courses"] }}"></span>
-	   <a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Courses.html">Fall2016 Topic Courses</a><br>
-	   </p>
-	 </div>
-      </div>
+<!-- Events / Opportunities Feed -->
+<div class="row" style='margin-bottom:10px'>
+  <div class="col-sm-4">
+	  <h4>Events</h4>
+	  <p>
+	  {% for article in categories[1][1] %}
+	  {% if article.tags[0].name in EVENTS_TAGS %}
+	  <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
+	  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
+	  {% endif %}
+	  {% endfor %}
+	  </p>
+	</div>
 
-        {% import 'includes/translations.html' as translations with context %}
-        {{ translations.translations_for(page) }}
-        {% if PDF_PROCESSOR %}
-            <a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">
-                get the pdf
-            </a>
-        {% endif %}
-        <div class="entry-content">
-            {{ page.content }}
-            {% if page.comments == 'enabled' %}
-                {% include 'includes/comments.html' %}
-            {% endif %}
-        </div>
-    </section>
+  <div class="col-sm-4">
+    <h4>Opportunities</h4>
+	  <p>
+	  {% for article in categories[1][1] %}
+	  {% if article.tags[0].name in OPPORTUNITIES_TAGS %}
+	  <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
+	  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
+	  {% endif %}
+	  {% endfor %}
+	  </p>
+  </div>
+
+</div> <!-- end .row -->
+
+<div class="entry-content">
+  {{ page.content }}
+</div>
+
+</section>
 {% endblock %}

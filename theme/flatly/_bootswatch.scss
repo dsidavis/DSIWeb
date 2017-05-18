@@ -5,6 +5,20 @@
 $web-font-path: "https://fonts.googleapis.com/css?family=Lato:400,700,400italic" !default;
 @import url($web-font-path);
 
+// Carousel ===================================================================
+
+.carousel-control {
+  &.left, &.right {
+    background-image: none;
+    @include reset-filter();
+  };
+
+  &:hover {
+    color: $brand-info;
+    opacity: 1;
+  }
+}
+
 // Navbar =====================================================================
 
 .navbar {
