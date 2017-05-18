@@ -15,9 +15,6 @@ Author: DSI UC Davis
 [Nick Anderson]: http://www.ucdmc.ucdavis.edu/publish/providerbio/search/11634
 [Carl Stahmer]: http://www.carlstahmer.com/
 
-The DSI is supported by the University of California Office of the President.
-
-Logistical support is provided by the UC Davis University Library.
 
 ## Advisory Committee
 
@@ -27,10 +24,14 @@ Logistical support is provided by the UC Davis University Library.
 * [Paul Dodd](http://research.ucdavis.edu/about-us/or-leadership/#avcirsi)
 * [Benjamin Houlton](http://houlton.lawr.ucdavis.edu/)
 * [Louise Kellog](http://geology.ucdavis.edu/people/faculty/kellogg.php)
+* [Patrice Koehl](http://www.cs.ucdavis.edu/~koehl/) (founding director)
 * [Prasant Mohapatra](http://web.cs.ucdavis.edu/~prasant/)
 * [Viji Murali](http://vpiet.ucdavis.edu/)
-<!-- * David Potts -->
 * [MacKenzie Smith](http://www.lib.ucdavis.edu/ul/about/meetnewul.php)
 * [Tony Tyson](http://tyson.ucdavis.edu/)
 * [Mark Redican](http://dsi.ucdavis.edu/)
-* [Patrice Koehl](http://www.cs.ucdavis.edu/~koehl/) (founding director)
+
+
+The DSI is supported by the University of California Office of the President.
+
+Logistical support is provided by the UC Davis University Library.
