@@ -27,11 +27,10 @@ OUTPUT_PATH = "build/"
 # Site-wide Configuration
 # ==================
 # Metadata
-# SITENAME = u"Data Science Initiative"
-SITENAME = ""  # configure at publishconf.py
+SITENAME = "UC Davis Data Science Initiatve"  # configure at publishconf.py
 SITEURL = ""   # configure at publishconf.py
-AUTHOR = "UC Davis DSI Affiliates"  # unless explicit override in an article
-DEFAULT_LANG = u"en"
+AUTHOR = "UC Davis DSI"  # default author
+DEFAULT_LANG = "en"
 
 # Time
 DEFAULT_DATE = 'fs'
@@ -49,6 +48,7 @@ AUTHOR_FEED_RSS = None
 RELATIVE_URLS = True  # development view
 BOOTSTRAP_THEME = "flatly"  # Pelican themes
 HIDE_SIDEBAR = True
+HIDE_SITENAME = True
 DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 
 # Site-wide Content
