@@ -146,7 +146,7 @@ MENUITEMS = [
     ('Resources', [
         ('Courses', MAIN_PAGE_FOLDER + '/courses.html'),
         ('Tutorials', 'tag/tutorial.html'),
-        ('Programming Languages', MAIN_PAGE_FOLDER + '/programming_languages.html'),
+        ('Technologies', MAIN_PAGE_FOLDER + '/technologies.html'),
         ('Related Links', MAIN_PAGE_FOLDER + '/related_links.html'),
     ]),
 ]
