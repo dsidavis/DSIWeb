@@ -27,5 +27,5 @@ On campus, we're in [Shields Library](http://campusmap.ucdavis.edu/?b=114).
   (A: room 360) or the DSI workspace (C) if the entrance is locked. 
 
 <center>
-![Map within Shields Library]({filename}../images/map-shields-3.png)
+![Map within Shields Library]({filename}images/map-shields-3.png)
 </center>
