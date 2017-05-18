@@ -3,7 +3,7 @@ Date: 2016-06-03 17:06
 Tags: Workshop, Tutorial, R, D3.js, Data Visualization
 
 *Event date:* Tuesday, June 14th, 9 am - 12 pm     
-*Location:* [DSI workspace, 360 Shields Library]({filename}../../pages/main/Directions.md)     
+*Location:* [DSI workspace, 360 Shields Library]({filename}../../pages/directions.md)     
 *Lecturer:* Duncan Temple Lang, Director of the DSI   
 
 We are meeting to discuss and hack on visualization and D3-related projects.   

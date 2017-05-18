@@ -83,8 +83,8 @@ DEFAULT_PAGINATION = 8
 
 
 # ARTICLE / EVENT POST SETTINGS
-ARTICLE_SAVE_AS = 'articles/{tags[0]}/{slug}{date:%Y%m%d}.html'
-ARTICLE_URL = 'articles/{tags[0]}/{slug}{date:%Y%m%d}.html'
+ARTICLE_SAVE_AS = 'posts/{tags[0]}/{slug}{date:%Y%m%d}.html'
+ARTICLE_URL = 'posts/{tags[0]}/{slug}{date:%Y%m%d}.html'
 USE_FOLDER_AS_CATEGORY = True
 SHOW_ARTICLE_CATEGORY = True
 SHOW_ARTICLE_AUTHOR = True
@@ -95,7 +95,7 @@ SHOW_DATE_MODIFIED = True
 PATH_METADATA = '(?P<path_no_ext>.*)\..*'
 PAGE_SAVE_AS = '{path_no_ext}.html'
 PAGE_URL = '{path_no_ext}.html'
-MAIN_PAGE_FOLDER = "pages/main"
+MAIN_PAGE_FOLDER = 'pages'
 
 # Home page options
 # =================
@@ -116,38 +116,38 @@ DISPLAY_CATEGORIES_ON_MENU = False
 # We control all the menu items via a list
 MENUITEMS = [
     ('About', [
-        ('Mission', MAIN_PAGE_FOLDER + '/Mission.html'),
-        ('Membership', MAIN_PAGE_FOLDER + '/Membership.html'),
-        ('Mailing List', MAIN_PAGE_FOLDER + '/Signup.html'),
-        ('Giving', MAIN_PAGE_FOLDER + '/Giving.html'),
-        ('FAQ', MAIN_PAGE_FOLDER + '/FAQ.html'),
-        ('Directions', MAIN_PAGE_FOLDER + '/Directions.html'),
+        ('Mission', MAIN_PAGE_FOLDER + '/mission.html'),
+        ('Membership', MAIN_PAGE_FOLDER + '/membership.html'),
+        ('Mailing List', MAIN_PAGE_FOLDER + '/signup.html'),
+        ('Giving', MAIN_PAGE_FOLDER + '/giving.html'),
+        ('FAQ', MAIN_PAGE_FOLDER + '/faq.html'),
+        ('Directions', MAIN_PAGE_FOLDER + '/directions.html'),
         ('Contact Us', 'mailto:datascience@ucdavis.edu')
     ]),
     ('People', [
-        ('Administration', MAIN_PAGE_FOLDER + '/Administration.html'),
-        ('Faculty', MAIN_PAGE_FOLDER + '/Faculty.html'),
-        ('Affiliates', MAIN_PAGE_FOLDER + '/Affiliates.html'),
+        ('Administration', MAIN_PAGE_FOLDER + '/administration.html'),
+        ('Faculty', MAIN_PAGE_FOLDER + '/faculty.html'),
+        ('Affiliates', MAIN_PAGE_FOLDER + '/affiliates.html'),
     ]),
     ('Services', [
-        ('General Information', MAIN_PAGE_FOLDER + '/Services.html'),
-        ('Collaboration', MAIN_PAGE_FOLDER + '/Collaboration.html'),
-        ('Workshops & Training', MAIN_PAGE_FOLDER + '/Workshops.html'),
-        ('Office Hours', MAIN_PAGE_FOLDER + '/OfficeHours.html'),
-        ('Space', MAIN_PAGE_FOLDER + '/Space.html'),
+        ('General Information', MAIN_PAGE_FOLDER + '/services.html'),
+        ('Collaboration', MAIN_PAGE_FOLDER + '/collaboration.html'),
+        ('Workshops & Training', MAIN_PAGE_FOLDER + '/workshops.html'),
+        ('Office Hours', MAIN_PAGE_FOLDER + '/officeHours.html'),
+        ('Space', MAIN_PAGE_FOLDER + '/space.html'),
     ]),
     ('Events', [
         ('Announcements', 'category/recent.html'),
         ('Past Events', 'category/past.html'),
         ('Workshops', ''),
-        ('Calendar', MAIN_PAGE_FOLDER + "/Calendar.html")
+        ('Calendar', MAIN_PAGE_FOLDER + "/calendar.html")
     ]),
     ('News', ''),
     ('Resources', [
-        ('Courses', MAIN_PAGE_FOLDER + '/Courses.html'),
+        ('Courses', MAIN_PAGE_FOLDER + '/courses.html'),
         ('Tutorials', 'tag/tutorial.html'),
-        ('Programming Languages', MAIN_PAGE_FOLDER + '/ProgrammingLanguages.html'),
-        ('Related Links', MAIN_PAGE_FOLDER + '/RelatedLinks.html'),
+        ('Programming Languages', MAIN_PAGE_FOLDER + '/programming_languages.html'),
+        ('Related Links', MAIN_PAGE_FOLDER + '/related_links.html'),
     ]),
 ]
 
