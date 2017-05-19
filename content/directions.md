@@ -1,4 +1,4 @@
-Title: DSI Directions
+﻿Title: DSI Directions
 Author: DSI UC Davis
 
 # Data Science Initiative - Directions
@@ -29,3 +29,6 @@ On campus, we're in [Shields Library](http://campusmap.ucdavis.edu/?b=114).
 <center>
 ![Map within Shields Library]({filename}images/map-shields-3.png)
 </center>
+
+<h1> General Directions, Parking & Hours
+For more information, see the [library's webpage](https://www.library.ucdavis.edu/library/peter-j-shields/).
