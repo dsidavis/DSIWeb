@@ -140,33 +140,71 @@
 {% block content %}
 <section id="content" class="body">
 
-<!-- Events / Opportunities Feed -->
+{# News / Events Feed #}
 <div class="row" style='margin-bottom:10px'>
-  <div class="col-sm-4">
-	  <h4>Events</h4>
-	  <p>
-	  {% for article in categories[1][1] %}
-	  {% if article.tags[0].name in EVENTS_TAGS %}
-	  <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-	  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
-	  {% endif %}
-	  {% endfor %}
-	  </p>
-	</div>
 
-  <div class="col-sm-4">
-    <h4>Opportunities</h4>
-	  <p>
-	  {% for article in categories[1][1] %}
-	  {% if article.tags[0].name in OPPORTUNITIES_TAGS %}
-	  <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-	  <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br>
-	  {% endif %}
-	  {% endfor %}
-	  </p>
+  <div class="col-sm-6">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">News</h4>
+    </div>
+    
+    <div class="panel-body">
+	    {% for article in categories[1][1] %}
+	    <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
+      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br/>
+	    {% endfor %}
+    </div>
+	</div>
   </div>
 
-</div> <!-- end .row -->
+  {# if article.tags[0].name in OPPORTUNITIES_TAGS #}{# endif #}
+
+  <div class="col-sm-6">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">Upcoming Events</h4>
+    </div>
+    
+    <div class="panel-body">
+      <table>
+	    {% for article in categories[0][1] %}
+      <tr>
+
+      {# Time #}
+      <td style="text-align: right;">
+        <span class="categories-timestamp">
+          <time datetime="{{ article.date.isoformat() }}">
+            {{ article.date.strftime('%-I:%M') }}
+          </time>
+        </span>
+      </td>
+
+      {# Date #}
+      <td style="text-align: right;">
+        <span class="categories-timestamp">
+          <time datetime="{{ article.date.isoformat() }}">
+            {{ article.date.strftime('%b %-d') }}
+          </time>
+        </span>
+      </td>
+
+      <td>
+        {# Title #}
+	      <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
+        <a href="{{ SITEURL }}/{{ article.url }}">
+          {# FIXME: Use CSS to truncate rather than Python, so site is dynamic. #}
+          {{ article.title[:50] + (article.title[50:] and '...') }}
+        </a>
+      </td>
+      </tr>
+	    {% endfor %}
+      </table>
+    </div>
+	</div>
+  </div>
+
+</div> {# end .row #}
 
 <div class="entry-content">
   {{ page.content }}
