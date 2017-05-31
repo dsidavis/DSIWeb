@@ -5,6 +5,50 @@
 $web-font-path: "https://fonts.googleapis.com/css?family=Lato:400,700,400italic" !default;
 @import url($web-font-path);
 
+// Image List =================================================================
+
+.img_txt_list {
+  width: 80%; list-style-type: none; list-style-position: inside;
+  padding: 0;
+
+  & li {
+    float: left; width: 16rem; height: 16rem;
+    padding: 1rem; padding-top: 0;
+    text-align: center;
+  }
+
+  // Image Container & Image
+  & > li > div:first-of-type {
+    //width: 14rem; height: 9rem;
+    width: 14rem; height: 7rem;
+  }
+
+  & > li > div:first-of-type:before {
+    content: ' ';
+    display: inline-block;
+    vertical-align: middle;
+    height: 100%;
+  }
+
+  & > li > div:first-of-type > img {
+    //max-width: 8rem; max-height: 8rem;
+    max-width: 5rem; max-height: 5rem;
+  }
+
+  &:after {
+    content:''; display: block; clear: both;
+  }
+
+  // Title Text
+  & p:first-of-type {
+    font-weight: bold;
+  }
+
+  & a:hover {
+    text-decoration: underline !important;
+  }
+}
+
 // Carousel ===================================================================
 
 .carousel-control {
