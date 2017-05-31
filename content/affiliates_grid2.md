@@ -49,14 +49,6 @@ UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affilia
   <li>
     <img src = ["../../images/Affiliate_pics/ZamirbekAkimbekov_c.jpg"](mailto: zakimbekov@ucdavis.edu)
       style="width:64px;height:64px;"> 
-	  <a href="https://akimbekov.com" target='_blank'>Teresa Filshtein</a> 
-    <br />
-    Statistics. *Statistical and thermodynamic analysis of computationally predicted structures.* Zamir teaches machines to learn. He is interested in the application of machine learning and statistics in pattern recognition, anomaly detection, and prediction. He wants to engage in collaborative data science projects with people from different backgrounds to experiment and learn new data science technologies.
-  </li>
-
-  <li>
-    <img src = ["../../images/Affiliate_pics/ZamirbekAkimbekov_c.jpg"](mailto: zakimbekov@ucdavis.edu)
-      style="width:64px;height:64px;"> 
 	  <a href="https://akimbekov.com" target='_blank'>Zamirbek Akimbekov</a> 
     <br />
     Statistics. *Statistical and thermodynamic analysis of computationally predicted structures.* Zamir teaches machines to learn. He is interested in the application of machine learning and statistics in pattern recognition, anomaly detection, and prediction. He wants to engage in collaborative data science projects with people from different backgrounds to experiment and learn new data science technologies.
@@ -79,7 +71,7 @@ UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affilia
   </li>
 
   <li>
-    <img src = ["../../images/Affiliate_pics/CoryBelden_c.jpg"](mailto: mcbissell@ucdavis.edu)
+    <img src = ["../../images/Affiliate_pics/MichaelBissell_c.jpg"](mailto: mcbissell@ucdavis.edu)
       style="width:64px;height:64px;"> 
 	  <a href="http://www.vetmed.ucdavis.edu/gge/index.cfm" target='_blank'>Michael Bissell</a> 
     <br />
@@ -87,7 +79,7 @@ UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affilia
   </li>
 
   <li>
-    <img src = ["../../images/Affiliate_pics/CoryBelden_c.jpg"](mailto: nsbowden@ucdavis.edu)
+    <img src = ["../../images/Affiliate_pics/NicholasBowden_c.jpg"](mailto: nsbowden@ucdavis.edu)
       style="width:64px;height:64px;"> 
 	  <a href="http://engineering.ucdavis.edu/ttp/" target='_blank'>Nicholas Bowden</a> 
     <br />
@@ -95,7 +87,7 @@ UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affilia
   </li>
 
   <li>
-    <img src = ["../../images/Affiliate_pics/CoryBelden_c.jpg"](mailto:kacorn@ucdavis.edu)
+    <img src = ["../../images/Affiliate_pics/KatherineCorn_c.jpg"](mailto:kacorn@ucdavis.edu)
       style="width:64px;height:64px;"> 
 	  <a href="katherinecorn.wordpress.com" target='_blank'>Katherine Corn</a> 
     <br />
@@ -103,7 +95,7 @@ UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affilia
  </li>
 
   <li>
-    <img src = ["../../images/Affiliate_pics/CoryBelden_c.jpg"](mailto:rcfitzgerald@ucdavis.edu)
+    <img src = ["../../images/Affiliate_pics/ClarkFitzgerald_c.jpg"](mailto:rcfitzgerald@ucdavis.edu)
       style="width:64px;height:64px;"> 
 	  <a href="https://www.stat.ucdavis.edu/" target='_blank'>Clark Fitzgerald</a> 
     <br />
