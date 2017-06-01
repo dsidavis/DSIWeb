@@ -34,13 +34,23 @@ UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affilia
 
 ### Postdocs
 <ul class="imglist">
+
+ <li>
+    <img src = ["../../images/Affiliate_pics/JamieAshander_c.jpg"](mailto: jashander@ucdavis.edu) 
+      style="width:64px;height:64px;"> 
+	  <a href="http://www.ashander.info" target='_blank'>Jamie Ashander</a> 
+    <br />
+    Visiting postdoc, UCLA. *Evolution and ecology of population dynamics under environmental change.* Jamie is interested in how demography and evolutionary change affect traits and plastic responses of wild populations. Jamie blends theoretical modeling with computation, and develops software to confront theoretical models with heterogeneous data (e.g., trajectories of population abundance and trait values, diversity statistics calculated from genomic data). For his postdoctoral work he is developing methodology for using genomic data to inform demographic models of the desert tortoise to predict the effects development in the Mojave desert on its population viability. Jamie uses R for visualization, and python and C++ for simulations and statistical methods. Jamie is a Software Carpentry instructor. Jamie seeks to share his knowledge and learn about new tools and approaches, especially data engineering and the use of functional programming paradigms in data science.
+  </li>
+
   <li>
     <img src = ["../../images/Affiliate_pics/TeresaFilshtein_c.jpg"](mailto: tjfilshtein@ucdavis.edu) 
       style="width:64px;height:64px;"> 
 	  <a href="http://www.ucdmc.ucdavis.edu/alzheimers/" target='_blank'>Teresa Filshtein</a> 
     <br />
-    *Biostatistics and multi-response longitudinal data.* Teresa is a postdoc at the UC Davis Medical Center and works on problems related to Alzheimer's Disease and Dementia. For her postdoc she is using current data science techniques to advance the field of Alzheimer's Disease research. Teresa is pursuing advanced skills in web analytics, text mining, and python, and to gain more exposure to real life data problems and see how they are tackled from the ground up. 
+    UC Davis Medical Center. *Biostatistics and multi-response longitudinal data.* Teresa is a postdoc at the UC Davis Medical Center and works on problems related to Alzheimer's Disease and Dementia. For her postdoc she is using current data science techniques to advance the field of Alzheimer's Disease research. Teresa is pursuing advanced skills in web analytics, text mining, and python, and to gain more exposure to real life data problems and see how they are tackled from the ground up. 
   </li>
+
 
 
 ### Graduate Students
