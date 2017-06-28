@@ -25,7 +25,7 @@ source VIRTUAL_ENV_NAME/bin/activate
 
 Finally, install the Python packages required to build the website.
 ```bash
-pip install -r requirements.txt  
+pip install -r requirements.txt
 ```
 
 Now you're set up and ready to go!
