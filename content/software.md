@@ -49,8 +49,7 @@ to extract data from specific pages of over 800 LCAP documents
 that can be applied to multiple years.
 This is available at https://github.com/dsidavis/LCAP.
 
-
-In a separate project, we extracted data from hundreds of pages
+In a [separate project](https://github.com/dsidavis/PlantTables), we extracted data from hundreds of pages
 of tables from crop yield data in both PDF and scanned documents.
 
 
@@ -61,16 +60,31 @@ This allows us to
 See [RScopusAPI](https://github.com/dsidavis/RScopusAPI).
 
 Subsequently, the ropensci group developed the [rscopus](https://github.com/muschellij2/rscopus)
-package that is worth using.
+package that is also worth using.
 
 
 ## XML to CSV Files
 Converting simple XML documents to CSV files 
 is a convenient way to convert, for example,
 StackOverflow data dump files.
-We developed code at 
-https://github.com/dsidavis/SAX2CSV
-to facilitate this.
+We developed code at (https://github.com/dsidavis/SAX2CSV) to enable this.
 
 ## Web Scraping Hadiths
 
+
+## Interfacing to HYDRUS1D Hydrodynamic Simulation Software
+
+### [hydrusR](https://github.com/dsidavis/hydrusR)
+We adapted hydrusR by Subodh Acharya to add some functionality
+to both insert data from R into input files that are passed to hydrus
+and also to query and extract data from these input files from R.
+The functionality abstracts manipulating the input files and provides
+more general, structured primitives on which to build further tools.
+
+### [RHydrus](https://github.com/mespe/RHydrus)
+The hydrus simulation software is a stand-alone application written
+in FORTRAN. The RHydrus package embeds the code within in a R package
+so it can be loaded directly into an R session.  It also makes specifying
+the input files more flexibile.  Also, it allows the R user to specify
+a callback function that is invoked at the end of each iteration in the simulation.
+The package provides a good starting point for tigher integration with R.
