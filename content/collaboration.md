@@ -88,14 +88,22 @@ also take on new projects on a rolling basis.
   pages.
   We are also working on a very similar problem arising in the field of education.
   
-  
+
+* __[Prof. Kim Shaumann]()__ (Department of Sociology)
+  Prof. Shaumann is working an very exciting collection of data
+  to explore aspects of potential hiring biases in academia.
+  Working with all applications for faculty positions, the data are very rich.
+  However, extracting the important data from CVs, letters of recommendation,
+  transcripts to understand each applicants academic history, research, output,
+  collaborations,  and evaluation by others is very challenging.
+  The data are in PDF documents with semi-structured text.
+
   <!-- FDA public comments -->
   <!-- earthquake -->  
-  
   <!-- Gina Bloom -->
-  
-  <!-- Kim Shauman -->
   <!-- primate center -->
+  
+  <!-- For later -->
   
   <!-- The hydrus project is in the software.md file, not here -->
   <!-- The grant proposal with Deb Niemeier is too early at this point. -->
