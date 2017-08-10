@@ -79,7 +79,7 @@ also take on new projects on a rolling basis.
   these hadiths and the different books in which they located. 
 
 
-* __[Prof. David Kyle]()__ (Department of English)
+* __[Prof. David Kyle]()__ (Department of Sociology)
   One approach to understanding how the concept of "creativity" has evolved over time is analyzing 
   text, and specifically newspaper articles. .... <!-- More background here -->
   An immediate issue is accessing the text of newspaper articles. While this seems simple, most of
