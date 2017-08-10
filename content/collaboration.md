@@ -42,8 +42,8 @@ also take on new projects on a rolling basis.
 * __[Dr. Jacob Hibel](http://jhibel.faculty.ucdavis.edu/)__ (Department of Sociology): How do local communities
   articulate goals, priorities and action plans for their school districts to
   foster increased access to special services? The DSI is helping to develop an
-  automated workflow for processing elementary and unified school district LCAP
-  (Local Control and Accountabliity Plans) pdfs, and to code stated policies
+  automated workflow for extracting data from complex-structured school district LCAP
+  (Local Control and Accountabliity Plans) PDF documents, and to code stated policies
   for analysis.
 
 * __[Dr. Julin Maloof](http://malooflab.phytonetworks.org/)__ (Department of Plant Biology): How are genotypes related
@@ -56,13 +56,13 @@ also take on new projects on a rolling basis.
   pipeline to increase data transparency, accessibility and discovery for
   enhanced analytical pursuits.
 
-* __[Dr. Pranav Pandit](http://www.vetmed.ucdavis.edu/ohi/centers/epicenter.cfm)__ (EpiCenter for Disease Dynamics, One Health Institute):
-  How can we predict and preemt outbreaks of zoonotic diseases, which pass from
-  animals to humans? The DSI is helping to scrape global data on emerging
+* __[Dr. Christine Kreuder Johnson](http://www.vetmed.ucdavis.edu/faculty/results.cfm?fid=17867)__ (EpiCenter for Disease Dynamics, One Health Institute):
+  How can we predict and preempt outbreaks of zoonotic diseases, which pass from
+  animals to humans? The DSI is helping to extract data on emerging
   zoonotic viruses, host ranges, outbreaks and emergence mechanisms to build a
-  relational database and develop models to assess the drivers of zoonotic
-  emergences.  
-
+  database and develop models to assess the drivers of zoonotic
+  emergences.
+  
 * __[Dr. Claudia Sánchez-Gutiérrez](https://spanish.ucdavis.edu/en/people/profile/2585)__ (Department of Spanish and Portuguese):
   What specific vsual and auditory input do learners receive when learning a
   new language, and how does it relate to language acquisition? The DSI is
@@ -70,9 +70,32 @@ also take on new projects on a rolling basis.
   lecture recordings to test the role of lexical frequency on automatic word
   processing across different proficiency levels. 
 
-* __[Dr. Mairaj Syed](https://religions.ucdavis.edu/people/profile/1359)__ (Department of Religious Studies): Authenticating hadiths
-  (reports attributed to the Prophet Muhammad or his companions and other
-  authorities in early Islam) is enhanced by reliable dating methods. The DSI
-  is developing software to automate the task of collecting and collating
-  multiple versions of the same report, as well as with web scraping and data
-  integrity verification, to compare contents for dating and authentication.
+* __[Dr. Mairaj Syed](https://religions.ucdavis.edu/people/profile/1359)__ (Department of Religious Studies): 
+   Hadiths are reports attributed to the Prophet Muhammad or his students and other
+  authorities in early Islam.  There is a wealth of information within the collection of hadiths
+  ranging from their dates and locations to the social network between the teachers and students. 
+  A large-scale analysis of these allows a qualitatively new approach and understanding.
+  The DSI is developing software to automate the task of collecting and collating
+  these hadiths and the different books in which they located. 
+
+
+* __[Prof. David Kyle]()__ (Department of English)
+  One approach to understanding how the concept of "creativity" has evolved over time is analyzing 
+  text, and specifically newspaper articles. .... <!-- More background here -->
+  An immediate issue is accessing the text of newspaper articles. While this seems simple, most of
+  the older articles are scanned.  We have the results of optical character recognition for these,
+  but a challenge is to reassemble entire articles that span different columns across multiple
+  pages.
+  We are also working on a very similar problem arising in the field of education.
+  
+  
+  <!-- FDA public comments -->
+  <!-- earthquake -->  
+  
+  <!-- Gina Bloom -->
+  
+  <!-- Kim Shauman -->
+  <!-- primate center -->
+  
+  <!-- The hydrus project is in the software.md file, not here -->
+  <!-- The grant proposal with Deb Niemeier is too early at this point. -->
