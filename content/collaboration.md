@@ -102,8 +102,10 @@ also take on new projects on a rolling basis.
   <!-- earthquake -->  
   <!-- Gina Bloom -->
   <!-- primate center -->
+  <!-- Carl probably has a writeup of some of these already on his Web site/blog. -->
   
   <!-- For later -->
-  
+    <!-- The grant proposal with Deb Niemeier is too early at this point. -->
+
+  <!-- Separate from collaborative projects -->
   <!-- The hydrus project is in the software.md file, not here -->
-  <!-- The grant proposal with Deb Niemeier is too early at this point. -->
