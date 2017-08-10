@@ -128,9 +128,10 @@ MENUITEMS = [
         ('Faculty', 'faculty.html'),
         ('Affiliates', 'affiliates.html'),
     ]),
-    ('Services', [
-        ('General Information', 'services.html'),
+    ('Research', [
+        ('Services', 'services.html'),
         ('Collaboration', 'collaboration.html'),
+        ('Software Development', 'software.html'),
         ('Workshops & Training', 'workshops.html'),
         ('Office Hours', 'office_hours.html'),
         ('Space', 'space.html'),
