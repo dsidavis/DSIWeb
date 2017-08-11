@@ -20,24 +20,31 @@ to have a specific product outcome from each collaboration, whether that's
 generating pilot results for a grant proposal or complete results for a 
 paper, developing new custom software, etc.
 
-We will have periodic calls for proposals, which will be announced on the News
+We have periodic calls for proposals, which will be announced on the News
 section of the DSI web page and on our mailing lists. But don't hesitate to contact 
-us if you have a brilliant idea outside of the collaboration calls as we can
-also take on new projects on a rolling basis.
+us if you have a brilliant idea outside of the collaboration call periods.
 
 ## Current Interdisciplinary Collaborative Projects at the DSI include:
 
+*__[Dr. Gina Bloom](https://modlab.ucdavis.edu/)__ (Department of English, ModLab): 
+  How do our relationships with technology influence how we learn and interact? 
+  How do gamers voices and bodies adapt to a challenging interface? By using 
+  gamer performances of Play the Knave (http://playtheknave.org), a digital game created at UC Davis by 
+  ModLab where players digitally enact scenes from Shakespeare's plays, the DSI is using 
+  machine learning to explore how players respond when faced with the "glitch" of challenging 
+  Shakespearian language and/or the visual interface.
+   
 * __[Dr. Amber Boydstun](http://psfaculty.ucdavis.edu/boydstun/Home.html)__ (Department of Political Science): How does media
   issue framing influence public opinion? How do issue frames tend to rise,
   fall and evolve in the media over time? Do the often co-varying degree of
   public attention and prevalence of competing issue frames correlated with the
   influence of a specific media frame on public opinion? The DSI is providing
-  assistance with extracting data from news articles and visualization.
+  assistance with data exploration and visualization.
 
 * __[Dr. Ronald Fong](http://www.ucdmc.ucdavis.edu/publish/facultybio/search/faculty/1084)__ (UC Davis Medical Center): What contributes to a
   patients' expected length of stay in a hospital? The DSI is helping to
   develop dynamic, predictive models from electronic medical record data to
-  augment clinician recommendations for patient treatment and discharge plans.
+  assist clinician recommendations for patient treatment and discharge plans.
 
 * __[Dr. Jacob Hibel](http://jhibel.faculty.ucdavis.edu/)__ (Department of Sociology): How do local communities
   articulate goals, priorities and action plans for their school districts to
@@ -46,7 +53,26 @@ also take on new projects on a rolling basis.
   (Local Control and Accountabliity Plans) PDF documents, and to code stated policies
   for analysis.
 
-* __[Dr. Julin Maloof](http://malooflab.phytonetworks.org/)__ (Department of Plant Biology): How are genotypes related
+*__[Dr. Lorraine Hwang](http://geodynamics.org/)__ (Computational Infrastructure for Geodynamics)
+  SCRAP
+  
+* __[Dr. Christine Kreuder Johnson](http://www.vetmed.ucdavis.edu/faculty/results.cfm?fid=17867)__ (EpiCenter for Disease Dynamics, One Health Institute):
+  How can we predict and preempt outbreaks of zoonotic diseases, which pass from
+  animals to humans? The DSI is helping to extract data on emerging
+  zoonotic viruses, host ranges, outbreaks and emergence mechanisms to build a
+  database and develop models to assess the drivers of zoonotic emergences.
+  
+  * __[Dr. David Kyle](http://sociology.ucdavis.edu/people/djkyle)__ (Department of English):
+  From the Civil War to World War II, diverse intellectual and institutional voices debated the nature and role of 
+  human creative power or "creativeness." A noun coined only in the 1920s, "creativity" was shaped by grafting 
+  scientific management onto the creative imagination of the 1950s, when social scientists and government agents 
+  began advancing the concept and developing research advocating or a more institutionalized version believed 
+  necessary for Cold War-era bureaucracies. Using computational methods, we are analyzing tens of thousands of 
+  newspaper documents produced from 1950-1970 to identify key actors, institutions revealing how 
+  "creativeness" evolved into modern "creativity." The DSI is assisting with improving the optical character recognition
+  (OCR) and programmatically reading and reassembling the articles, which span different columns across multiple pages. 
+  
+  * __[Dr. Julin Maloof](http://malooflab.phytonetworks.org/)__ (Department of Plant Biology): How are genotypes related
   to phenotypes, and vice versa? Being able to predict those relationships with
   high accuracy can improve agriculture and lead to better models of how plants
   adapt and grow. Recent advancements in genotyping and phenotyping methods
@@ -55,14 +81,7 @@ also take on new projects on a rolling basis.
   plants. The DSI is helping the Maloof lab to develop a database and workflow
   pipeline to increase data transparency, accessibility and discovery for
   enhanced analytical pursuits.
-
-* __[Dr. Christine Kreuder Johnson](http://www.vetmed.ucdavis.edu/faculty/results.cfm?fid=17867)__ (EpiCenter for Disease Dynamics, One Health Institute):
-  How can we predict and preempt outbreaks of zoonotic diseases, which pass from
-  animals to humans? The DSI is helping to extract data on emerging
-  zoonotic viruses, host ranges, outbreaks and emergence mechanisms to build a
-  database and develop models to assess the drivers of zoonotic
-  emergences.
-  
+ 
 * __[Dr. Claudia Sánchez-Gutiérrez](https://spanish.ucdavis.edu/en/people/profile/2585)__ (Department of Spanish and Portuguese):
   What specific vsual and auditory input do learners receive when learning a
   new language, and how does it relate to language acquisition? The DSI is
@@ -70,7 +89,13 @@ also take on new projects on a rolling basis.
   lecture recordings to test the role of lexical frequency on automatic word
   processing across different proficiency levels. 
 
-* __[Dr. Mairaj Syed](https://religions.ucdavis.edu/people/profile/1359)__ (Department of Religious Studies): 
+* __[Dr. Kimberlee Shaumann](http://sociology.ucdavis.edu/people/kashauma)__ (Department of Sociology):
+  What features drive hiring biases in academia? Is it discipline specific, driven by a lack of diverse candidate pools, or 
+  are there other implicit bias in the hiring process? To tackle this issue we are reviewing all faculty applications to UC Davis from X to X. 
+  The DSI is helping to extract relevant information from applicant PDFs that feature semi-structured text (CVs, letters of recommendation, 
+  transcripts) for evaluation of applicant academic history, research, output, collaborations, and evaluations against current hiring trends. 
+
+  * __[Dr. Mairaj Syed](https://religions.ucdavis.edu/people/profile/1359)__ (Department of Religious Studies): 
    Hadiths are reports attributed to the Prophet Muhammad or his students and other
   authorities in early Islam.  There is a wealth of information within the collection of hadiths
   ranging from their dates and locations to the social network between the teachers and students. 
@@ -78,31 +103,11 @@ also take on new projects on a rolling basis.
   The DSI is developing software to automate the task of collecting and collating
   these hadiths and the different books in which they located. 
 
+*__[ ]()__ ()
+In 2016 the [FDA](https://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm456090.htm) asked the public to provide information and comments on the use of the term "natural" in the labeling of human food products. Specifically, the FDA asked if it is appropriate 
+to even define the term and, if so, how it should be defined and appropraitely used on food labels. This resulted in 7,687 public comments, on which the DSI is 
+using natural language processing to XXXX.
 
-* __[Prof. David Kyle]()__ (Department of English)
-  One approach to understanding how the concept of "creativity" has evolved over time is analyzing 
-  text, and specifically newspaper articles. .... <!-- More background here -->
-  An immediate issue is accessing the text of newspaper articles. While this seems simple, most of
-  the older articles are scanned.  We have the results of optical character recognition for these,
-  but a challenge is to reassemble entire articles that span different columns across multiple
-  pages.
-  We are also working on a very similar problem arising in the field of education.
-  
-
-* __[Prof. Kim Shaumann]()__ (Department of Sociology)
-  Prof. Shaumann is working an very exciting collection of data
-  to explore aspects of potential hiring biases in academia.
-  Working with all applications for faculty positions, the data are very rich.
-  However, extracting the important data from CVs, letters of recommendation,
-  transcripts to understand each applicants academic history, research, output,
-  collaborations,  and evaluation by others is very challenging.
-  The data are in PDF documents with semi-structured text.
-
-  <!-- FDA public comments -->
-  <!-- earthquake -->  
-  <!-- Gina Bloom -->
-  <!-- primate center -->
-  <!-- Carl probably has a writeup of some of these already on his Web site/blog. -->
   
   <!-- For later -->
     <!-- The grant proposal with Deb Niemeier is too early at this point. -->
