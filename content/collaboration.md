@@ -108,7 +108,7 @@ In 2016 the [FDA](https://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsR
 to even define the term and, if so, how it should be defined and appropraitely used on food labels. This resulted in 7,687 public comments, on which the DSI is 
 using natural language processing to XXXX.
 
-  
+
   <!-- For later -->
     <!-- The grant proposal with Deb Niemeier is too early at this point. -->
 
