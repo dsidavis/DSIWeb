@@ -54,7 +54,7 @@ us if you have a brilliant idea outside of the collaboration call periods.
   for analysis.
 
 *__[Dr. Lorraine Hwang](http://geodynamics.org/)__ (Computational Infrastructure for Geodynamics)
-  SCRAP
+  The Seismic Curation, Rescue and Archival Project (SCRAP).
   
 * __[Dr. Christine Kreuder Johnson](http://www.vetmed.ucdavis.edu/faculty/results.cfm?fid=17867)__ (EpiCenter for Disease Dynamics, One Health Institute):
   How can we predict and preempt outbreaks of zoonotic diseases, which pass from
