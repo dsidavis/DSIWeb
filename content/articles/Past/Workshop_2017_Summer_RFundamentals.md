@@ -1,5 +1,5 @@
 Title: Mini-Course - R Fundamentals
-Date: 04/14/2017 12:00 
+Date: 07/11/2017 09:00 
 Tags: Workshop, Tutorial, R
 
 #R Fundamentals
