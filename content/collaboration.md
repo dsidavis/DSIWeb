@@ -109,3 +109,26 @@ also take on new projects on a rolling basis.
 
   <!-- Separate from collaborative projects -->
   <!-- The hydrus project is in the software.md file, not here -->
+
+
+* __[NSF NRT-IGE Grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1545193)__
+Debbie Niemeier, Annamaria Amenta, Jonathan Eisen, Duncan Temple Lang, Megan Welsh 
+
+This National Science Foundation Research Traineeship (NRT) award in the Innovations in Graduate
+Education (IGE) Track to the University of California-Davis will pilot, test, and compare modes of
+datascience instruction. The testbed project will provide critical new information to inform the
+development of new learning platforms designed to cultivate robust computational, statistical, and
+data reasoning skills in engineering graduate students.
+
+The project will implement a hybrid short-course approach that 1) bridges existing code camps and
+semester long classes, and 2) is coupled with a formal user group experience. A robust evaluation
+will be conducted to identify the individual effects of code camps, short courses, and users groups,
+as well as the effect of participating in combinations of experiences. In addition, learning gains,
+self-efficacy to engage in interdisciplinary studies that require data science principles, and
+career trajectories (including decisions to take additional coursework in data science and decisions
+to pursue interdisciplinary research and employment involving data science) will be examined. The
+project will generate new knowledge that addresses a particularly important gap in knowledge in
+terms of whether intense short-term learning experiences result in longer-term retention of skill
+development and computational reasoning. Findings on effectiveness of different modes of data
+science instruction in engineering will be broadly applicable to all data-enabled science and
+engineering fields.
