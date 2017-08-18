@@ -9,11 +9,14 @@ Author: DSI UC Davis
   (Associate Professor, School of Medicine)
 * Associate Director for Humanities: __[Carl Stahmer][]__  
   (Director of Digital Scholarship, UC Davis Library)
-* Academic Coordinator: __Pamela Reynolds__
+* Academic Coordinator: __[Pamela Reynolds](mailto: plreynolds@ucdavis.edu)__
 
 [Duncan Temple Lang]: http://www.stat.ucdavis.edu/~duncan
 [Nick Anderson]: http://www.ucdmc.ucdavis.edu/publish/providerbio/search/11634
 [Carl Stahmer]: http://www.carlstahmer.com/
+
+# Postdoctoral Scholar
+* __[Matthew Espe](mailto: mespe@ucdavis.edu)__
 
 
 ## Advisory Committee
@@ -32,6 +35,8 @@ Author: DSI UC Davis
 * [Mark Redican](http://dsi.ucdavis.edu/)
 
 
-The DSI is supported by the University of California Office of the President.
+The DSI is supported by the University of California Office of the President. Logistical support is provided by the [UC Davis Library](https://www.library.ucdavis.edu/).
 
-Logistical support is provided by the UC Davis University Library.
+## Governance
+
+The DSI's Advisory Board is selected by the Executive Committee and meets quarterly to propose research and training directions and funding priorities. The Executive Committee consists of the Director, Associate Directors and Coordinator. The Director chairs the Executive Committee and reports to the University Head Librarian.
