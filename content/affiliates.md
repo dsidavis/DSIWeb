@@ -25,6 +25,19 @@ Authors: DSI
   .imglist:after {
     content:''; display: block; clear: both;
   }
+
+ 
+  img {
+	     float: left;
+	     padding-right: 2pt;
+		 width: 150px;
+		 height: 150px;
+  }
+
+  p {
+	     float: right;
+	     pading-left: 10pt;
+  }  
 </style>
 
 # Graduate Student & Postdoctoral Affiliates
@@ -32,24 +45,28 @@ Authors: DSI
 Graduate students and postdoctoral scholars from departments and groups across
 UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affiliate? See our [membership page](http://www.dsi.ucdavis.edu/About/Membership/) to apply.
 
-## Postdocs
+## Postdocs 
 
+<img src="images/Affiliates_pics/JamieAshander_c.jpg">
 **[Jamie Ashander](http://www.ashander.info)** (mailto:jashander@ucdavis.edu) 
     Visiting postdoc, UCLA. *Evolution and ecology of population dynamics under environmental change.* Jamie is interested in how demography and evolutionary change affect traits and plastic responses of wild populations. Jamie blends theoretical modeling with computation, and develops software to confront theoretical models with heterogeneous data (e.g., trajectories of population abundance and trait values, diversity statistics calculated from genomic data). For his postdoctoral work he is developing methodology for using genomic data to inform demographic models of the desert tortoise to predict the effects development in the Mojave desert on its population viability. Jamie uses R for visualization, and python and C++ for simulations and statistical methods. Jamie is a Software Carpentry instructor. Jamie seeks to share his knowledge and learn about new tools and approaches, especially data engineering and the use of functional programming paradigms in data science.
 
+<img src="images/Affiliates_pics/TeresaFilshtein_c.jpg" >
 **[Teresa Filshtein](http://www.ucdmc.ucdavis.edu/alzheimers/)** (mailto:tjfilshtein@ucdavis.edu) 
     UC Davis Medical Center. *Biostatistics and multi-response longitudinal data.* Teresa is a postdoc at the UC Davis Medical Center and works on problems related to Alzheimer's Disease and Dementia. For her postdoc she is using current data science techniques to advance the field of Alzheimer's Disease research. Teresa is pursuing advanced skills in web analytics, text mining, and python, and to gain more exposure to real life data problems and see how they are tackled from the ground up. 
 
 
 ## Graduate Students
+<img src="images/Affiliates_pics/ZamirbekAkimbekov_c.jpg" >
 **[Zamirbek Akimbekov](https://akimbekov.com)** (mailto: zakimbekov@ucdavis.edu)
     Statistics. *Statistical and thermodynamic analysis of computationally predicted structures.* Zamir teaches machines to learn. He is interested in the application of machine learning and statistics in pattern recognition, anomaly detection, and prediction. He wants to engage in collaborative data science projects with people from different backgrounds to experiment and learn new data science technologies.
 
+<img src="images/Affiliates_pics/MatthewBates_c.jpg" >
 **[Matthew Bates](https://www.linkedin.com/in/mebates)** (mailto: Mebates@ucdavis.edu)
-    Civil and Environmental Engineering. *Decision making under uncertainty.* Matt has a background in computer science, software development, and water resources engineering. He is insterested in methods of risk and decision in science, simulation and optimization. He is interested in the broad, data science workflow from ideation and requirements development to results visitation and dissemination. His current research includes data analysis related to engineered infrastructure. Matt wants to learn more about multivariate regression, machine learning, web scraping, and semantic analysis, and improve his expertise in Python and R.
+    Civil and Environmental Engineering. *Decision making under uncertainty.* Matt has a background in computer science, software development, and water resources engineering. He is interested in methods of risk and decision in science, simulation and optimization. He is interested in the broad, data science workflow from ideation and requirements development to results visitation and dissemination. His current research includes data analysis related to engineered infrastructure. Matt wants to learn more about multivariate regression, machine learning, web scraping, and semantic analysis, and improve his expertise in Python and R.
 
 **[Cory Belden](http://coryrbelden.weebly.com/)** (mailto: crbelden@ucdavis.edu)
-    Political Science. * How political institutions affect elected representatives and policy outcomes for the environment.* Cory studies how political institutions influence the behavior of elected representatives (i.e., legislators, executives), and how differences in behavior affect policy outcomes related to climate change and the environment. She uses web-scraping, content analysis, and natural language processing (NLP) to obtain and analyze legislative speeches and spatial data to study behaviors across countries (including the United States, Australia, Chile, the UK, and New Zealand). Cory primarily uses R along with spatial methods to overlay political boundaries with relevant measures of "policy problems," such as the severity of drought. Cory is further developing her spatial and text mining skills.  </li>
+    Political Science. * How political institutions affect elected representatives and policy outcomes for the environment.* Cory studies how political institutions influence the behavior of elected representatives (i.e., legislators, executives), and how differences in behavior affect policy outcomes related to climate change and the environment. She uses web-scraping, content analysis, and natural language processing (NLP) to obtain and analyze legislative speeches and spatial data to study behaviors across countries (including the United States, Australia, Chile, the UK, and New Zealand). Cory primarily uses R along with spatial methods to overlay political boundaries with relevant measures of "policy problems," such as the severity of drought. Cory is further developing her spatial and text mining skills. 
 
 
 **[Michael Bissel](http://www.vetmed.ucdavis.edu/gge/index.cfm)** (mailto: mcbissell@ucdavis.edu)
@@ -57,18 +74,18 @@ UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affilia
 
 
 **[Nicholas Bowden](http://engineering.ucdavis.edu/ttp/)** (mailto: nsbowden@ucdavis.edu), graduate
-	  student in Transportation Technology and Policy. *Economic environmental policy of energy and transportation.* Nick's background is in theoretical economics and econometrics. His reserach focuses on the electrification of transportation and carbon policy. He uses high frequency time series data collection and modeling of electric power and transportation systems. Nick is interested in learning programming skills for more efficient methods of compiling data from public and regulated entities. Because these data relate to stationary power sources for the use of stationary transportation networks, he is also interested in visualization of this data onto relevant geographic planes.  
-  </li>
+	  student in Transportation Technology and Policy. *Economic environmental policy of energy and transportation.* Nick's background is in theoretical economics and econometrics. His research focuses on the electrification of transportation and carbon policy. He uses high frequency time series data collection and modeling of electric power and transportation systems. Nick is interested in learning programming skills for more efficient methods of compiling data from public and regulated entities. Because these data relate to stationary power sources for the use of stationary transportation networks, he is also interested in visualization of this data onto relevant geographic planes.  
+
 
 
 **[Katherine Corn](http://katherinecorn.wordpress.com)** (mailto:kacorn@ucdavis.edu), graduate
 student in 
-Population Biology. *Form, function and diversity of fishes.* Katherine is a macroevolutionary biologist. She uses fish phylogenies for comparative analyses and is pursuing integrating mechanical models with kinematic data from high speed videos. She want to learn how to work effectively, efficiently and cleanly with large, messy phylogenetic and kinematic datasets.
+Population Biology. *Form, function and diversity of fishes.* Katherine is a macro-evolutionary biologist. She uses fish phylogenies for comparative analyses and is pursuing integrating mechanical models with kinematic data from high speed videos. She want to learn how to work effectively, efficiently and cleanly with large, messy phylogenetic and kinematic datasets.
 
 **[Clark Fitzgerald](https://www.stat.ucdavis.edu/)** (mailto:rcfitzgerald@ucdavis.edu), graduate
 student in Statistics. 
 *Computational technologies that enable data science at scale.* Clark is working on improving R through parallel computing. He'd like to learn about interesting applications and related data sets.
- </li>
+
 
 
 
@@ -90,7 +107,7 @@ Ehsan is interested in collaborating with colleagues from various departments to
 
 **[Danielle Hagood](http://education.ucdavis.edu/dhagood)** (mailto: dhagood@ucdavis.edu), graduate student in Education
 *Noncognitive constructs in K12 settings using computational psychometrics*
-Danielle's reserch draws on intensive, multi-modal data to produce learning analytics offering individual-level insights and, in aggregate, informs teaching and policy. Her practice-embedded research foregrounds the needs of teachers and students, with a critical SES perspective. She uses data science approaches to structure messy data and creatively identify data sources.
+Danielle's research draws on intensive, multi-modal data to produce learning analytics offering individual-level insights and, in aggregate, informs teaching and policy. Her practice-embedded research foregrounds the needs of teachers and students, with a critical SES perspective. She uses data science approaches to structure messy data and creatively identify data sources.
 Danielle wants to learn more advanced programming for data in R and Python, and to engage in collaborative reading and working groups on applied machine learning.
 
 **[Luiz Carlos Irber, Júnior](http://luizirber.org)** (mailto: lcirberjr@ucdavis.edu), graduate student in Computer Science
@@ -102,7 +119,7 @@ Luiz wants to collaborate with researchers from other areas to find common metho
 *Surveillance and crime using social network analysis and statistical analysis in R*
 Jared has prior experience with SPSS and Stata, and is interested in big data, network data, and online environments (social networking sites, MMOs, online forums).
 
-**[Eric Kalosa-Kenyon](ekalosak.github.io)** (mailto: ekal@ucdavis.edu), graduate student in Statistucs
+**[Eric Kalosa-Kenyon](ekalosak.github.io)** (mailto: ekal@ucdavis.edu), graduate student in Statistics
 *Application-driven statistical and computational methodology*
 Prior to grad school Eric worked as a Computational Research Associate in the Data Science group at Indigo Agriculture. 
 His research is in mathematical statistics. Eric is especially interested in collaborating with domain scientists on pragmatic projects in pursuit of the University's mission to improve the quality of life for everyone.
@@ -133,7 +150,7 @@ He is working to apply in vivo and in silico data related to healthy and disease
 ** [Zachary Harmany](http://drz.ac/)** (mailto: ztharmany@ucdavis.edu), project scientist in Biomedical Engineering
 *Signal and image processing*
 Zach holds a PhD in Electrical and Computer Engineering, and is currently working at the Center for [Molecular and Genomic Imaging](http://bme.ucdavis.edu/cmgi/). He focuses on reconstructing and analyzing imaging data to answer questions in biomedical sciences. He has expertise in machine learning, and is proficient in programming languages and development tools including MATLAB, Python, C, Bash, LaTeX, Git, SVN.
-Zach wants to learn more about research activities on campus related to data science, different ways of thinking about data processing, and tools to perform collabporative science. 
+Zach wants to learn more about research activities on campus related to data science, different ways of thinking about data processing, and tools to perform collaborative science. 
 
 **[Shannon Joslin](http://igg.ucdavis.edu/)** (mailto: sejoslin@ucdavis.edu), graduate student in Integrative Genetics and Genomics
 *Heritable phenotypes, population genomics and disease risk in human populations*
@@ -172,13 +189,13 @@ Ryan enjoys learning new tools and methods and troubleshooting R problems. He's 
 *Analyzing attention lapses, emotional regulation, impulse control, and how these phenomena interact to shape how we behave and perceive the world*
 Ryan is interested in the role of data science in relation to personal data collection, and is fascinated by SQL, machine learning, and artificial neural networks.
 He recently uploaded his dissertation data to postgres, and conducted user analytics for a startup (Remind) in San Francisco.
-Ryan wants to engage with like-minded data scientists and continute to learn about the latest advances in the field.
+Ryan wants to engage with like-minded data scientists and continue to learn about the latest advances in the field.
 
 **[Abbie Popa](www.linkedin.com/in/abbiepopa)** (mailto: ampopa@ucdavis.edu), graduate student in Neuroscience
 *Effects of anxiety on teenager brains and behavior*
 Abbie uses interview, behavioral, eye-tracking, MRI, ERP, and physiological data, and machine learning techniques including k-means clustering, ICA, and convolutional neural networks to better classify large datasets. 
-Abbie uses use a mix of R, python, and matlab for her analyses, and version control using git. 
-She wants to learn more about SQL and noSQL for databasing, and about dynamic visualization tools like shiny, D3, or bokeh.
+Abbie uses use a mix of R, Python, and MATLAB for her analyses, and version control using git. 
+She wants to learn more about SQL and noSQL for databases, and about dynamic visualization tools like shiny, D3, or bokeh.
 
 **[Nistara Randhawa](http://nistara.net)** (mailto: nrandhawa@ucdavis.edu), graduate student in Epidemiology
 *Global surveillance for zoonotic viruses from bats*
@@ -205,7 +222,7 @@ Lida would like learn more about coding efficiency (unit-testing, other tips & t
 
 **[Gina Turco](http://www.sudogenes.com/)** (mailto: gmturco@ucdavis.edu), graduate student in Biochemistry, Molecular, Cellular and Developmental Biology (BMCDB)
 *Modeling gene regulatory networks in plants as regulatory circuits*
-Gina uses R, python and sql for data analysis. She's taken classes and is interested in both control theory and bayesian modeling.
+Gina uses R, python and SQL for data analysis. She's taken classes and is interested in both control theory and Bayesian modeling.
 Gina is interested in learning more about machine learning and modeling. 
 
 **[Nick Ulle](https://github.com/nick-ulle)** (mailto: naulle@ucdavis.edu), graduate student in Statistics
@@ -219,7 +236,7 @@ Ken is developing new methods to work with infinitely dimensional functional dat
 He wants to learn how to efficiently handle different data structures,  various languages, and the big picture of data science.
 
 **[Madeline Weeks](http://geography.ucdavis.edu/student/madeline-weeks)** (mailto: mrweeks@ucdavis.edu), graduate student in Geography
-*Geographies of fine flavor cacao and chocolate sourcing, farmer livelihoods, gener equity*
+*Geographies of fine flavor cacao and chocolate sourcing, farmer livelihoods, gender equity*
 Madeline uses mixed-methods including household surveys, network analysis, and qualitative interviews to cross-validate and synthesize different forms of data that can be applied to sustainability metrics and impact reporting.
 She hopes to bring her knowledge of small data into the big data world with an understanding of how to combine local with global measures. 
 
