@@ -1,3 +1,10 @@
+<!-- DO NOT EDIT MANUALLY -->
+
+<!-- DO NOT EDIT affiliates.md directly.  
+     Edit this template and regenerate affiliates.md with
+       cd content
+  	   Rscript -e 'source("../funs.R") ; mkAffiliates_md()'
+-->
 Title: Affiliates
 Authors: DSI
 
@@ -55,7 +62,7 @@ UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affilia
 
 
 <img src="images/Affiliates_pics/JamieAshander_c.jpg" title="jashander@ucdavis.edu"></img>
-<a href="jashander@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="jashander@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.ashander.info">Jamie Ashander</a>
 postdoc, Visiting postdoc, UCLA. <br/>
 <b> Evolution and ecology of population dynamics under environmental change. </b>
@@ -67,7 +74,7 @@ especially data engineering and the use of functional programming paradigms in d
 
 
 <img src="images/Affiliates_pics/TeresaFilshtein_c.jpg" title="tjfilshtein@ucdavis.edu"></img>
-<a href="tjfilshtein@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="tjfilshtein@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.ucdmc.ucdavis.edu/alzheimers/">Teresa Filshtein</a>
 postdoc, UC Davis Medical Center. <br/>
 <b> Biostatistics and multi-response longitudinal data. </b>
@@ -85,7 +92,7 @@ up.
 
 
 <img src="images/Affiliates_pics/ZamirbekAkimbekov_c.jpg" title="zakimbekov@ucdavis.edu"></img>
-<a href="zakimbekov@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="zakimbekov@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://akimbekov.com">Zamirbek Akimbekov</a>
 graduate student, Statistics. <br/>
 <b> Statistical and thermodynamic analysis of computationally predicted structures. </b>
@@ -97,7 +104,7 @@ experiment and learn new data science technologies.
 
 
 <img src="images/Affiliates_pics/MatthewBates_c.jpg" title="Mebates@ucdavis.edu"></img>
-<a href="Mebates@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="Mebates@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://www.linkedin.com/in/mebates">Matthew Bates</a>
 graduate student, Civil and Environmental Engineering. <br/>
 <b> Decision making under uncertainty. </b>
@@ -105,7 +112,7 @@ Matt has a background in computer science, software development, and water resou
 
 
 <img src="images/Affiliates_pics/CoryBelden_c.jpg" title="crbelden@ucdavis.edu"></img>
-<a href="crbelden@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="crbelden@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://coryrbelden.weebly.com/">Cory Belden</a>
 graduate student, Political Science. <br/>
 <b> How political institutions affect elected representatives and policy outcomes for the environment. </b>
@@ -113,7 +120,7 @@ Cory studies how political institutions influence the behavior of elected repres
 
 
 <img src="images/incognito.png" title="mcbissell@ucdavis.edu"></img>
-<a href="mcbissell@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="mcbissell@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.vetmed.ucdavis.edu/gge/index.cfm">Michael Bissel</a>
 graduate student, Epidemiology. <br/>
 <b> Predicting breast cancer risk with machine learning. </b>
@@ -121,7 +128,7 @@ Michael has a background in statistics and applied mathematics. His research foc
 
 
 <img src="images/Affiliates_pics/NicholasBowden_c.jpg" title="nsbowden@ucdavis.edu"></img>
-<a href="nsbowden@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="nsbowden@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://engineering.ucdavis.edu/ttp/">Nicholas Bowden</a>
 graduate student, Transportation Technology and Policy. <br/>
 <b> Economic environmental policy of energy and transportation. </b>
@@ -129,7 +136,7 @@ Nick's background is in theoretical economics and econometrics. His research foc
 
 
 <img src="images/Affiliates_pics/KatherineCorn_c.jpg" title="kacorn@ucdavis.edu"></img>
-<a href="kacorn@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="kacorn@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://katherinecorn.wordpress.com">Katherine Corn</a>
 graduate student, Population Biology. <br/>
 <b> Form, function and diversity of fishes. </b>
@@ -137,7 +144,7 @@ Katherine is a macro-evolutionary biologist. She uses fish phylogenies for compa
 
 
 <img src="images/Affiliates_pics/ClarkFitzgerald_c.jpg" title="rcfitzgerald@ucdavis.edu"></img>
-<a href="rcfitzgerald@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="rcfitzgerald@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://www.stat.ucdavis.edu">Clark Fitzgerald</a>
 graduate student, Statistics. <br/>
 <b> Computational technologies that enable data science at scale. </b>
@@ -145,7 +152,7 @@ Clark is working on improving R through parallel computing. He'd like to learn a
 
 
 <img src="images/incognito.png" title="scgeer@ucdavis.edu"></img>
-<a href="scgeer@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="scgeer@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://sociology.ucdavis.edu/people/scgeer">Shaun Geer</a>
 graduate student, Sociology <br/>
 <b> The science of conducting science. </b>
@@ -155,7 +162,7 @@ Shaun wants to learn more about Bayesian statistical techniques (e.g., MCMC).
 
 
 <img src="images/Affiliates_pics/AdamGetchell_c.jpg" title="acgetchell@ucdavis.edu"></img>
-<a href="acgetchell@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="acgetchell@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://keybase.io/adamgetchell">Adam Getchell</a>
 graduate student, Physics <br/>
 <b> Quantum gravity using computational models. </b>
@@ -163,7 +170,7 @@ Adam has a general background in information technology and programming experien
 
 
 <img src="images/incognito.png" title="egholami@ucdavis.edu"></img>
-<a href="egholami@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="egholami@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.ece.ucdavis.edu/">Ehsan Gholami</a>
 graduate student, Electrical and Computer Engineering <br/>
 <b> Online social media user behavior and purchasing patterns. </b>
@@ -172,7 +179,7 @@ Ehsan is interested in collaborating with colleagues from various departments to
 
 
 <img src="images/Affiliates_pics/DanielleHagood_c.jpg" title="dhagood@ucdavis.edu"></img>
-<a href="dhagood@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="dhagood@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://education.ucdavis.edu/dhagood">Danielle Hagood</a>
 graduate student, Education <br/>
 <b> Noncognitive constructs in K12 settings using computational psychometrics. </b>
@@ -182,7 +189,7 @@ Danielle wants to learn more advanced programming for data in R and Python, and 
 
 
 <img src="images/incognito.png" title="lcirberjr@ucdavis.edu"></img>
-<a href="lcirberjr@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="lcirberjr@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://luizirber.org">Luiz Carlos Irber, Júnior</a>
 graduate student, Computer Science <br/>
 <b> Genomic sequencing data, decentralized data sharing, computational skills. </b>
@@ -191,7 +198,7 @@ Luiz wants to collaborate with researchers from other areas to find common metho
 
 
 <img src="images/Affiliates_pics/JaredJoseph_c.jpg" title="jnjoseph@ucdavis.edu"></img>
-<a href="jnjoseph@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="jnjoseph@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://sociology.ucdavis.edu/people/jnjoseph">Jared Joseph</a>
 graduate student, Sociology <br/>
 <b> Surveillance and crime using social network analysis and statistical analysis in R. </b>
@@ -199,7 +206,7 @@ Jared has prior experience with SPSS and Stata, and is interested in big data, n
 
 
 <img src="images/incognito.png" title="ekal@ucdavis.edu"></img>
-<a href="ekal@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="ekal@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://ekalosak.github.io">Eric Kalosa-Kenyon</a>
 graduate student, Statistics <br/>
 <b> Application-driven statistical and computational methodology. </b>
@@ -209,7 +216,7 @@ to improve the quality of life for everyone.
 
 
 <img src="images/Affiliates_pics/MelissaKardish_c.jpg" title="mrkardish@ucdavis.edu"></img>
-<a href="mrkardish@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="mrkardish@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="melissakardish.wordpress.com">Melissa Kardish</a>
 graduate student, Population Biology <br/>
 <b> Microbial ecology of seagrass communities. </b>
@@ -220,7 +227,7 @@ Melissa credits her experience at the DSI with helping her to learn cleaner and 
 
 
 <img src="images/Affiliates_pics/RanjodhSinghDhaliwal_c.jpg" title="rjdhaliwal@ucdavis.edu"></img>
-<a href="rjdhaliwal@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="rjdhaliwal@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://english.ucdavis.edu/people/ranjodh">Ranjodh Singh Dhaliwal</a>
 graduate student, English <br/>
 <b> Quantitative digital humanities. </b>
@@ -229,7 +236,7 @@ He wants to explore the intersections between NLP and machine learning, and expl
 
 
 <img src="images/Affiliates_pics/ScottDevine_c.jpg" title="smdevine@ucdavis.edu"></img>
-<a href="smdevine@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="smdevine@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://casoilresource.lawr.ucdavis.edu/">Scott Devine</a>
 graduate student, Soils and Biogeochemistry <br/>
 <b> Natural resources database to address society, agriculture and the environment. </b>
@@ -239,7 +246,7 @@ Scott wants to learn advanced programming and the skills to work with challengin
 
 
 <img src="images/incognito.png" title="nellinwood@ucdavis.edu"></img>
-<a href="nellinwood@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="nellinwood@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.ucdmc.ucdavis.edu/pharmacology/">Nicholas Ellinwood</a>
 graduate student, Pharmacology and Toxicology <br/>
 <b> Identifying optimal drug characteristics to improve pharmacological options to prevent heart attacks. </b>
@@ -248,7 +255,7 @@ He is working to apply in vivo and in silico data related to healthy and disease
 
 
 <img src="images/Affiliates_pics/ZacharyHarmany_c.jpg" title="(mailto: ztharmany@ucdavis.edu"></img>
-<a href="(mailto: ztharmany@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="(mailto: ztharmany@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://drz.ac/">Zachary Harmany</a>
 project scientist, Biomedical Engineering <br/>
 <b> Signal and image processing. </b>
@@ -257,7 +264,7 @@ Zach wants to learn more about research activities on campus related to data sci
 
 
 <img src="images/Affiliates_pics/ShannonJoslin_c.jpg" title="sejoslin@ucdavis.edu"></img>
-<a href="sejoslin@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="sejoslin@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://igg.ucdavis.edu/">Shannon Joslin</a>
 graduate student, Integrative Genetics and Genomics <br/>
 <b> Heritable phenotypes, population genomics and disease risk in human populations. </b>
@@ -266,7 +273,7 @@ She wants to learn about handling and visualizing big data.
 
 
 <img src="images/Affiliates_pics/NickLashinsky_c.jpg" title="nlashinsky@ucdavis.edu"></img>
-<a href="nlashinsky@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="nlashinsky@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://paleoanthropology.ucdavis.edu/nikolai-veter.html">Nick Lashinsky</a>
 graduate student, Anthropology <br/>
 <b> Exploring and developing models of morphological evolution in a phylogenetic context. </b>
@@ -276,7 +283,7 @@ Nick wants to learn new programming languages and software libraries/frameworks 
 
 
 <img src="images/incognito.png" title="frnliang@ucdavis.edu"></img>
-<a href="frnliang@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="frnliang@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.stat.ucdavis.edu/">Yuefeng Liang</a>
 graduate student, Statistics <br/>
 <b> Research Focus: _Extreme multi-label classification. </b>
@@ -285,7 +292,7 @@ Yuefeng wants to learn more about natural language processing and imaging.
 
 
 <img src="images/Affiliates_pics/HugoMailhot_c.jpg" title="hmailhot@ucdavis.edu"></img>
-<a href="hmailhot@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="hmailhot@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.cs.ucdavis.edu/">Hugo Mailhot</a>
 graduate student, Computer Science <br/>
 <b> Computational linguistics and machine learning. </b>
@@ -295,7 +302,7 @@ Hugo wants to broaden his foundation in statistics, start playing around with ne
 
 
 <img src="images/incognito.png" title="sismail@ucdavis.edu"></img>
-<a href="sismail@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="sismail@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="shaikhismail.github.io">Shaikh Mohammed Ismail</a>
 graduate student, Computer Science <br/>
 <b> Is software code a natural language?. </b>
@@ -305,7 +312,7 @@ He wants to learn all the cool things my other colleagues at DSI can offer. On a
 
 
 <img src="images/incognito.png" title="rapeek@ucdavis.edu"></img>
-<a href="rapeek@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="rapeek@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="ryanpeek.github.io">Ryan Peek</a>
 graduate student, Ecology <br/>
 <b> Effects of land-use change on the population genomics of sensitive frog species. </b>
@@ -314,7 +321,7 @@ Ryan enjoys learning new tools and methods and troubleshooting R problems. He's 
 
 
 <img src="images/Affiliates_pics/RyanPhillips_c.jpg" title="rcphillips@ucdavis.edu"></img>
-<a href="rcphillips@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="rcphillips@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://davisig.org/members/ryanphillips/">Ryan Phillips</a>
 graduate student, Neuroscience <br/>
 <b> Analyzing attention lapses, emotional regulation, impulse control, and how these phenomena interact to shape how we behave and perceive the world. </b>
@@ -324,7 +331,7 @@ Ryan wants to engage with like-minded data scientists and continue to learn abou
 
 
 <img src="images/incognito.png" title="ampopa@ucdavis.edu"></img>
-<a href="ampopa@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="ampopa@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="www.linkedin.com/in/abbiepopa">Abbie Popa</a>
 graduate student, Neuroscience <br/>
 <b> Effects of anxiety on teenager brains and behavior. </b>
@@ -334,7 +341,7 @@ She wants to learn more about SQL and noSQL for databases, and about dynamic vis
 
 
 <img src="images/Affiliates_pics/NistaraRandhawa_c.jpg" title="nrandhawa@ucdavis.edu"></img>
-<a href="nrandhawa@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="nrandhawa@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://nistara.net">Nistara Randhawa</a>
 graduate student, Epidemiology <br/>
 <b> Global surveillance for zoonotic viruses from bats. </b>
@@ -345,7 +352,7 @@ Nistara would like to learn more about parallel computing, python, NLP, machine 
 
 
 <img src="images/Affiliates_pics/YiqunShao_c.jpg" title="shaoyiqun1992@gmail.com"></img>
-<a href="shaoyiqun1992@gmail.com"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="shaoyiqun1992@gmail.com"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://www.ucdavis.edu/majors/applied-mathematics/">Yiqun Shao</a>
 graduate student, Applied Mathematics <br/>
 <b> Graph theory, text mining and harmonic analysis. </b>
@@ -354,7 +361,7 @@ He is interested in learning more natural language processing and other topics r
 
 
 <img src="images/Affiliates_pics/OzanSonmez_c.jpg" title="osonmez@ucdavis.edu"></img>
-<a href="osonmez@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="osonmez@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://www.stat.ucdavis.edu/people/grad-students.html">Ozan Sonmez</a>
 graduate student, Statistics <br/>
 <b> Functional Data Analysis, highly dimensional time series, mathematical statistics, complex data visualization. </b>
@@ -363,7 +370,7 @@ He wants to learn about deep learning and its applications in the high dimension
 
 
 <img src="images/incognito.png" title="LATO@ucdavis.edu"></img>
-<a href="LATO@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="LATO@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://lidaanitato.org">Lida Anita To</a>
 graduate student, Integrative Genetics & Genomics <br/>
 <b> Evolutionary history of conifers. </b>
@@ -373,7 +380,7 @@ Lida would like learn more about coding efficiency (unit-testing, other tips & t
 
 
 <img src="images/Affiliates_pics/GinaTurco_c.jpg" title="gmturco@ucdavis.edu"></img>
-<a href="gmturco@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="gmturco@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.sudogenes.com/">Gina Turco</a>
 graduate student, Biochemistry, Molecular, Cellular and Developmental Biology (BMCDB) <br/>
 <b> Modeling gene regulatory networks in plants as regulatory circuits. </b>
@@ -382,7 +389,7 @@ Gina is interested in learning more about machine learning and modeling.
 
 
 <img src="images/incognito.png" title="naulle@ucdavis.edu"></img>
-<a href="naulle@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="naulle@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://github.com/nick-ulle">Nick Ulle</a>
 graduate student, Statistics <br/>
 <b> Compiling high-level scientific programming languages. </b>
@@ -391,7 +398,7 @@ Nick wants to learn more about natural language processing, network analysis, an
 
 
 <img src="images/incognito.png" title="kenwang@ucdavis.edu"></img>
-<a href="kenwang@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="kenwang@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://www.linkedin.com/in/ken-wang-9766a3114/">Guangxing Ken Wang</a>
 graduate student, Statistics <br/>
 <b> Developing and implementing methods for highly dimensional, functional data. </b>
@@ -400,7 +407,7 @@ He wants to learn how to efficiently handle different data structures,  various 
 
 
 <img src="images/Affiliates_pics/MadelineWeeks_c.jpg" title="mrweeks@ucdavis.edu"></img>
-<a href="mrweeks@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="mrweeks@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://geography.ucdavis.edu/student/madeline-weeks">Madeline Weeks</a>
 graduate student, Geography <br/>
 <b> Geographies of fine flavor cacao and chocolate sourcing, farmer livelihoods, gender equity. </b>
@@ -409,7 +416,7 @@ She hopes to bring her knowledge of small data into the big data world with an u
 
 
 <img src="images/Affiliates_pics/SivanYair_c.jpg" title="ssyair@ucdavis.edu"></img>
-<a href="ssyair@ucdavis.edu"><img src="images/email1600.png" class="emailIcon"></img></a>
+<a href="ssyair@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="https://cpb.ucdavis.edu">Sivan Yair</a>
 graduate student, Population Biology <br/>
 <b> Population genomic theory and method development to characterize cases of introgression in natural systems. </b>

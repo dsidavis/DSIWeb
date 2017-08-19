@@ -22,7 +22,7 @@ recover information based on the structure of a page.
 
 ## ReadPDF
 To facilitate the processing of the output from the enhanced pdftohtml
-code,  we provide an R package [ReadPDF](https://github.com/dsidavis/ReadPDF) that presents
+code, we provide an R package [ReadPDF](https://github.com/dsidavis/ReadPDF) that presents
 the PDF as a list of pages and provides high-level functions
 for extracting text, text by column, text by font, titles, dates, 
 text by position, lines, etc.
@@ -49,7 +49,8 @@ to extract data from specific pages of over 800 LCAP documents
 that can be applied to multiple years.
 This is available at https://github.com/dsidavis/LCAP.
 
-In a [separate project](https://github.com/dsidavis/PlantTables), we extracted data from hundreds of pages
+In a related but [separate project](https://github.com/dsidavis/PlantTables), 
+we extracted data from hundreds of pages
 of tables from crop yield data in both PDF and scanned documents.
 
 

@@ -32,7 +32,7 @@ function(file = "affiliates.dcf", data = read.dcf(file, all = TRUE), template = 
    txt = unlist(mapply(function(a, b) c(a, unlist(b)),
                  split(tmpl, cumsum(i)), list(character(), pdocs, students)))
 
-   cat(txt, file = outfile, sep = "\n")
+   cat("<!-- DO NOT EDIT MANUALLY -->\n", txt, file = outfile, sep = "\n")
 }
 
 
@@ -52,7 +52,7 @@ function(i)
 {
 
     img = sprintf('<img src="%s" title="%s"></img>', getImage(i$name), i$email)
-    email = sprintf('<a href="%s"><img src="images/email1600.png" class="emailIcon"></img></a>', i$email)
+    email = sprintf('<a href="%s"><img src="images/email400.png" class="emailIcon"></img></a>', i$email)
     c(img,
       email,
       sprintf('<a href="%s">%s</a>', i$url, i$name),
