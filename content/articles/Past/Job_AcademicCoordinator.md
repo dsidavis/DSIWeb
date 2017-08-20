@@ -1,6 +1,7 @@
 Title: Full-time job: Academic Coordinator
+Tags: Job
 
-> Academic Coordinator   
+Academic Coordinator   
 Data Science Initiative    
 University of California, Davis   
 

@@ -4,16 +4,16 @@ Tags: Workshop, Tutorial, Data Visualization
 
 May 5 & 12, 2017: __Machine Learning__ (James Sharpnack)
 
-	In this workshop, we'll discuss best practices for displaying different
-    types of static data. This is about designing data visualizations rather
-    than the software and instructions we use to actually render them. We'll
-    cover some basic principles to keep in mind, explore different types of
-    plots, critique some good and bad examples of displaying data and how to
-    think about creating effective plots.
+In this workshop, we'll discuss best practices for displaying different
+types of static data. This is about designing data visualizations rather
+ than the software and instructions we use to actually render them. We'll
+ cover some basic principles to keep in mind, explore different types of
+ plots, critique some good and bad examples of displaying data and how to
+ think about creating effective plots.
 	
-	[Notes](https://github.com/jsharpna/DavisSML/tree/master/lectures/classify)
-	[Watch Session I])(https://www.youtube.com/watch?v=dHbze3AYG8I)
-	[Watch Session II](https://www.youtube.com/watch?v=T64qdgdGRmw)
++ [Notes](https://github.com/jsharpna/DavisSML/tree/master/lectures/classify)
++ [Watch Session I])(https://www.youtube.com/watch?v=dHbze3AYG8I)
++ [Watch Session II](https://www.youtube.com/watch?v=T64qdgdGRmw)
 
 
 May 5: Part I - Lessons from Binary Classification: Overfitting and surrogate losses (James Sharpnack)

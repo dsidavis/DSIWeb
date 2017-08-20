@@ -1,4 +1,5 @@
 Title: Unix Shell Workshop
+Tags: Workshop
 
 __Venue__: 1043 Valley Hall   
 __Date__: Thursday 9:15am-12:15 pm, Oct 6th   

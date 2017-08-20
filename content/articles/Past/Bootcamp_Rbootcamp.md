@@ -1,7 +1,7 @@
 ﻿Title: Bootcamp: Introduction to data science using R
 
 
-__Event Date__:  Sept 19th‐20th, 2016, 9 am ‐ 5 pm
+__Date__:  Sept 19th‐20th, 2016, 9 am ‐ 5 pm
 
 Let’s face it. Eventually you’re going to have to analyze data, maybe a lot
 of data or maybe just a moderate amount, but you can’t (or don’t want) to

@@ -1,4 +1,5 @@
 Title: Talk: Software tools and strategies or Scientific Software Development
+Tags: Talk
 
 __Date__: Friday, Oct. 7, 1pm - 2.30pm   
 __Venue__: 360 Shields Library (DSI classroom)   

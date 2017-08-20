@@ -8,11 +8,11 @@ When: July 11, 13, 18, 20 (Tuesdays and Thursdays, 9am-noon)
 Instructor: Dr. Duncan Temple Lang
 
 ##Resources & Videos
-	[Notes & Outline](http://dsi.ucdavis.edu/RFundamentals/)
-	[Watch Session 1](https://www.youtube.com/watch?v=kbiMBEYphwI)
-	[Watch Session 2](https://www.youtube.com/watch?v=NqL4xh_IbPA)
-	[Watch Session 3](https://www.youtube.com/watch?v=UJfUtwMVLr4)
-	[Watch Session 4](https://www.youtube.com/watch?v=5_QLIuJyk30)
++ [Notes & Outline](http://dsi.ucdavis.edu/RFundamentals/)
++ [Watch Session 1](https://www.youtube.com/watch?v=kbiMBEYphwI)
++ [Watch Session 2](https://www.youtube.com/watch?v=NqL4xh_IbPA)
++ [Watch Session 3](https://www.youtube.com/watch?v=UJfUtwMVLr4)
++ [Watch Session 4](https://www.youtube.com/watch?v=5_QLIuJyk30)
 
 ##Description:
 The aim of this course is to help participants understand the

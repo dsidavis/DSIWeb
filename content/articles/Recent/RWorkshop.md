@@ -3,7 +3,7 @@ Date: 2017-9-19
 Time: 9-12 
 Where: 362 Shields Library
 Summary: Aimed at graduate students that will inroduce you to R and the essential concepts. 
-Tags: Workshops
+Tags: Workshop
   
 
 # R Workshop
