@@ -1,4 +1,4 @@
-﻿Title: DSI Membership
+﻿Title: DSI Membership (Past)
 Author: DSI UC Davis
 
 # Join Our Mailing List

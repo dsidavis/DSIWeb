@@ -26,11 +26,11 @@ us if you have a brilliant idea outside of the collaboration call periods.
 
 ## Current Interdisciplinary Collaborative Projects at the DSI include:
 
-*__[Dr. Gina Bloom](https://modlab.ucdavis.edu/)__ (Department of English, ModLab): 
+* __[Dr. Gina Bloom](https://modlab.ucdavis.edu/)__ (Department of English, [ModLab](http://modlab.ucdavis.edu/)): 
   How do our relationships with technology influence how we learn and interact? 
   How do gamers voices and bodies adapt to a challenging interface? By using 
   gamer performances of Play the Knave (http://playtheknave.org), a digital game created at UC Davis by 
-  ModLab where players digitally enact scenes from Shakespeare's plays, the DSI is using 
+  [ModLab](http://modlab.ucdavis.edu/) where players digitally enact scenes from Shakespeare's plays, the DSI is using 
   machine learning to explore how players respond when faced with the "glitch" of challenging 
   Shakespearian language and/or the visual interface.
    
@@ -53,7 +53,7 @@ us if you have a brilliant idea outside of the collaboration call periods.
   (Local Control and Accountabliity Plans) PDF documents, and to code stated policies
   for analysis.
 
-*__[Dr. Lorraine Hwang](http://geodynamics.org/)__ (Computational Infrastructure for Geodynamics)
+* __[Dr. Lorraine Hwang](http://geodynamics.org/)__ (Computational Infrastructure for Geodynamics)
   The Seismic Curation, Rescue and Archival Project (SCRAP).
   
 * __[Dr. Christine Kreuder Johnson](http://www.vetmed.ucdavis.edu/faculty/results.cfm?fid=17867)__ (EpiCenter for Disease Dynamics, One Health Institute):
@@ -103,7 +103,7 @@ us if you have a brilliant idea outside of the collaboration call periods.
   The DSI is developing software to automate the task of collecting and collating
   these hadiths and the different books in which they located. 
 
-*__[ ]()__ ()
+* __[ ]()__ ()
 In 2016 the [FDA](https://www.fda.gov/Food/GuidanceRegulation/GuidanceDocumentsRegulatoryInformation/LabelingNutrition/ucm456090.htm) asked the public to provide information and comments on the use of the term "natural" in the labeling of human food products. Specifically, the FDA asked if it is appropriate 
 to even define the term and, if so, how it should be defined and appropraitely used on food labels. This resulted in 7,687 public comments, on which the DSI is 
 using natural language processing to XXXX.
@@ -117,23 +117,23 @@ using natural language processing to XXXX.
 
 
 * __[NSF NRT-IGE Grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1545193)__
-Debbie Niemeier, Annamaria Amenta, Jonathan Eisen, Duncan Temple Lang, Megan Welsh 
-
-This National Science Foundation Research Traineeship (NRT) award in the Innovations in Graduate
-Education (IGE) Track to the University of California-Davis will pilot, test, and compare modes of
-datascience instruction. The testbed project will provide critical new information to inform the
-development of new learning platforms designed to cultivate robust computational, statistical, and
-data reasoning skills in engineering graduate students.
-
-The project will implement a hybrid short-course approach that 1) bridges existing code camps and
-semester long classes, and 2) is coupled with a formal user group experience. A robust evaluation
-will be conducted to identify the individual effects of code camps, short courses, and users groups,
-as well as the effect of participating in combinations of experiences. In addition, learning gains,
-self-efficacy to engage in interdisciplinary studies that require data science principles, and
-career trajectories (including decisions to take additional coursework in data science and decisions
-to pursue interdisciplinary research and employment involving data science) will be examined. The
-project will generate new knowledge that addresses a particularly important gap in knowledge in
-terms of whether intense short-term learning experiences result in longer-term retention of skill
-development and computational reasoning. Findings on effectiveness of different modes of data
-science instruction in engineering will be broadly applicable to all data-enabled science and
-engineering fields.
+  Debbie Niemeier, Annamaria Amenta, Jonathan Eisen, Duncan Temple Lang, Megan Welsh 
+  <br/>
+  This National Science Foundation Research Traineeship (NRT) award in the Innovations in Graduate
+  Education (IGE) Track to the University of California-Davis will pilot, test, and compare modes of
+  datascience instruction. The testbed project will provide critical new information to inform the
+  development of new learning platforms designed to cultivate robust computational, statistical, and
+  data reasoning skills in engineering graduate students.
+  <br/>
+  The project will implement a hybrid short-course approach that 1) bridges existing code camps and
+  semester long classes, and 2) is coupled with a formal user group experience. A robust evaluation
+  will be conducted to identify the individual effects of code camps, short courses, and users groups,
+  as well as the effect of participating in combinations of experiences. In addition, learning gains,
+  self-efficacy to engage in interdisciplinary studies that require data science principles, and
+  career trajectories (including decisions to take additional coursework in data science and decisions
+  to pursue interdisciplinary research and employment involving data science) will be examined. The
+  project will generate new knowledge that addresses a particularly important gap in knowledge in
+  terms of whether intense short-term learning experiences result in longer-term retention of skill
+  development and computational reasoning. Findings on effectiveness of different modes of data
+  science instruction in engineering will be broadly applicable to all data-enabled science and
+  engineering fields.
