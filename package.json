@@ -4,7 +4,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/karenyyng/DSI_pelican_config.git"
+    "url": "https://github.com/dsidsavis/DSI_pelican_config.git"
   },
   "devDependencies": {
     "postcss-cli": "= 2.6.0",
