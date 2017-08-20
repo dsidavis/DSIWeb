@@ -52,7 +52,7 @@ RELATIVE_URLS = True  # development view
 BOOTSTRAP_THEME = "flatly"  # Pelican themes
 HIDE_SIDEBAR = True
 HIDE_SITENAME = True
-DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
 
 # Site-wide Content
 # ----------------------------------------
@@ -101,9 +101,9 @@ PAGE_URL = '{path_no_ext}.html'
 BANNER = 'images/dsi_banner.png' # the image for main homepage banner
 RECENT_POST_COUNT = 6  # number of posts displayed on homepage banner
 # The tags displayed in the `News` columns on the homepage
-EVENTS_TAGS = ['Workshop', 'Bootcamp', 'Talk', 'Symposium']
+EVENTS_TAGS = ['Workshop', 'Bootcamp', 'Talk', 'Symposium', 'Seminar']
 OPPORTUNITIES_TAGS = ['Job']
-RESOURCES_TAGS = ['OfficeHours']
+RESOURCES_TAGS = ['OfficeHours', 'CFP']
 
 
 # Menu Bar Options
@@ -142,7 +142,7 @@ MENUITEMS = [
         ('Workshops', ''),
         ('Calendar', 'calendar.html')
     ]),
-    ('News', ''),
+#    ('News', ''),
     ('Resources', [
         ('Courses', 'courses.html'),
         ('Tutorials', 'tag/tutorial.html'),
@@ -164,5 +164,6 @@ GLYPHICON = {
     "Video": "glyphicon glyphicon-film",
     "Collaboration": "glyphicon glyphicon-link",
     "OfficeHours": "glyphicon glyphicon-comment",
+    "CFP": "glyphicon glyphicon-comment",    
     "Courses": "glyphicon glyphicon-book"
 }
