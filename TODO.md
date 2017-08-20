@@ -1,27 +1,48 @@
 # Web site
 
 ## General
-    +  Template for workshops, seminars  - XML or Markdown or DCF
-    + jobs
-    + Buttons
-    +  Put buttons at top like the ISS
-    +   Subscribe  News  Events  Give
-    +  Make this a header on each page.   
+
+1. !! If the window is too small, the menus disappear.
+     Remove the @class in <div class="nav-collapse collapse">
+	 But then it doesn't collapse, but goes vertical.
+	    search for: bootstrap flatly navbar menus disappear
+1. Template for workshops, seminars  - XML or Markdown or DCF
+1. Jobs
+1. Buttons
+1. Put buttons at top like the ISS
+      Subscribe  News  Events  Give
+1. Order the news item by some other criteria.
+1. Make this a header on each page.
+1. [index.md] Reformat the first page so the news and events don't dominate and nobody sees the
+   material below
+     With fewer old events in the Upcoming Events, this will be less of an issue.
+	 But perhaps have these three topics also cycle through like the banner at the top.
+1. [index.md] Rewrite the text on the first page
+1. [done] Get rid of the old events in the upcoming events.
 
 
-Seminars
+# Seminars
+   + Upcoming
+   + Past
+   
+# Workshops
+  + Already a page for these that is paginated.
+  + Different quarters grouped
+  + Decide on format and then programmatically manipulate these into a page.
+  
+  Info/Docs are in  content/articles/Past
 
-Workshops
-  Different quarters grouped
-  content/articles/past
-  Decide on format and then programmatically manipulate these  into a page.
-
-Calendar
+# Calendar
   merge all calendars of events.
+     + See CalendarSync
+     + Get and merge the calendar information from the different  calendars via OAuth2
+	 + generate events
+	 + display calendards in 
 
 
 
-News
+# News
+ Organize the news.
 
 # Jobs
    + on front page in "News" or something related
@@ -30,10 +51,10 @@ News
 
 
 # For DTL
-   + Unlink the opportunities
    + Our Research Software from DSI.
-   [check] software.md
+      [check] software.md
    + Review (i.e. Read) the collaborations.
+   + [done] Unlink the opportunities   
 
 
 
@@ -47,6 +68,9 @@ News
     +  [done] fix the errors.
 
 
++ In content/pages/affiliates.md, who should they send an email to ask to be added to the private
+  affiliates channel.
+
 
 # Miscellaneous
     + Get images for the remaining affiliates.
@@ -55,3 +79,11 @@ News
 # Bring from other site
     + Any left?
     + [done] Put the events.rss file into this repos.
+
+
+# Content
++ FAQ  
+    + change "rooms"
+    + rephrase courses item.
++  !! Image for workshop and also unseminar series for carousel.	
++  Person for the FDA project in collaboration.md

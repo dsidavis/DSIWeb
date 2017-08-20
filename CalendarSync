@@ -1,0 +1,44 @@
+
+The issue is that we have different calendars that are for specific rooms
+and we want to combine some of the events from  at least two of them.
+We want to have the metadata of the events on
+ Front page of the Web site in the ticker
+ Upcoming Events Page
+ Previous Events
+
+ Central DSI calendar  (which also announces other events that we know of but are not running)
+ Both calendars
+
+
+We want to avoid duplicating the data in multiple places.
+We want to ensure that we use the Google Calendar Web page to reserve the location
+ to ensure we don't introduce a conflict by overlooking an existing reservation "programatically"
+
+
+My initial suggestion is the follows
+
+Add the metadata to the events.rss file.
+  title, description and id
+Use a unique id.
+Reserve the space in the Google Calendar
+Add the unique id as the name of the event or in the description. (We'll decide which one.)
+
+Then a script will 
+ read the calendar
+ update the RSS entry with the location and time.
+ add the event to the central DSI calendar
+ update the Events.html and index.html file
+ Schedule an update after the event is over to 
+     move the event to the Previous Events
+     remove it from the Upcoming events
+     regenerate the index.html to remove it.
+
+
+Recurring events
+
+Commit all the changes
+
+An alternative is to enter the 
+
+
+ 

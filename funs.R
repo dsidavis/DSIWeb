@@ -26,13 +26,16 @@ function(file = "affiliates.dcf", data = read.dcf(file, all = TRUE), template = 
    students = mkDCFAffiliates(, subset(data, is.na(role) | role != 'postdoc'))
 
    tmpl = readLines(template)
+   if(grepl("<!--", tmpl[1])) 
+     tmpl = tmpl[ - (1:grep("-->", tmpl)[1]) ]
+
    i = grepl("## (Postdocs|Graduate Students)", tmpl)
 
 
    txt = unlist(mapply(function(a, b) c(a, unlist(b)),
                  split(tmpl, cumsum(i)), list(character(), pdocs, students)))
 
-   cat("<!-- DO NOT EDIT MANUALLY -->\n", txt, file = outfile, sep = "\n")
+   cat("NOTE: DO NOT EDIT MANUALLY", txt, file = outfile, sep = "\n")
 }
 
 
