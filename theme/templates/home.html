@@ -126,7 +126,8 @@
         col-lg-offset-3" style="margin-top:10px; font-size:20px">
 		  <h2><a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Collaboration.html">
 				  Problem Solving Un-seminars</a></h2>
-       <p style="font-size: 85%">
+
+	  <p style="font-size: 75%">
 	   DSI runs a series of novel "un-seminars" -  
 	   highly interdisciplinary brain storming sessions to solve
 	   interesting data science problems in research projects from any discipline.
@@ -140,11 +141,10 @@
            <a href="mailto:datascience@ucdavis.edu">Contact us</a> if you are interested in presenting in this series.
         </p>
       </div>
-
-      <div class="col-xs-4 col-sm-3 col-md-2" style="margin-top:20px">
+      <div class="col-xs-4 col-sm-3 col-md-2" style="margin-top:20px;">
       <img src="{{ SITEURL }}/images/DSI_pics/classroom.JPG" 
         class="img-thumbnail">
-     </div>
+      </div>
       
    </div>
   </div>
@@ -211,10 +211,16 @@
     </div>
     
     <div class="panel-body">
-	    {% for article in categories[1][1] %}
+	{#	{% for article in categories[1][1] %} #}
+	{% for cat in categories %}
+<!-- show the category name	<p>{{ cat[0].name }}</p> -->
+	{% if cat[0].name in EVENTS_TAGS %}
+	    {% for article in cat[1] %}	
 	    <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
       <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br/>
-	    {% endfor %}
+            {% endfor %}
+        {%endif%}
+       {% endfor %}
     </div>
 	</div>
   </div>
