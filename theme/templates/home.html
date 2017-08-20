@@ -70,9 +70,9 @@
 		  <h2><a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Collaboration.html">
 				  Consultation & Collaboration</a></h2>
 	    <p style="font-size: 85%">
-      We are extremely keen to collaborate with researchers on campus on
+      We are very keen to collaborate with researchers on campus on
       ambitious projects where expertise in data science would have a
-      significant impact on the work.
+      significant impact on the research.
       </p>
 	    <a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Collaboration.html"
            class="btn btn-primary btn-md hidden-xs" role="button" >
@@ -87,6 +87,63 @@
 	  </div>
     </div> <!-- end .row -->
   </div>
+
+
+
+  <div class="item">
+	  <div class="row">
+	  <!-- each row / div should add up to 12 -->
+	  <div class="col-xs-8 col-sm-4 col-md-4 col-sm-offset-2 col-md-offset-3 
+        col-lg-offset-3" style="margin-top:10px; font-size:20px">
+		  <h2><a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Collaboration.html">
+				  Workshops</a></h2>
+	    <p style="font-size: 85%">
+		DSI offers regular workshops, typically each week.
+		These are mostly at the intermediate and advanced for common topics (e.g., R, git, python)
+		and also introduces more exotic topics.
+		Contact us if you want to teach a workshop.
+		Vote to tell us which  topics  interest you most.
+      </p>
+	    <a href="https://docs.google.com/forms/d/1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA"
+           class="btn btn-primary btn-md hidden-xs" role="button" >
+		Propose workshop topics
+           </a>
+   </div>
+
+    <div class="item">
+	  <div class="row">
+	  <!-- each row / div should add up to 12 -->
+	  <div class="col-xs-8 col-sm-4 col-md-4 col-sm-offset-2 col-md-offset-3 
+        col-lg-offset-3" style="margin-top:10px; font-size:20px">
+		  <h2><a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Collaboration.html">
+				  Problem Solving Un-seminars</a></h2>
+       <p style="font-size: 85%">
+	   DSI runs a series of novel "un-seminars".
+	   These are highly interdisciplinary brain storming sessions to solve
+	   interesting data science problems in research projects from any discipline.
+	   The speakers are typically not data scientists, but are considering or grappling with a
+	   project that has a tricky data science problem.  
+	   Speakers describe the data science problem in 10 - 15 minutes and then
+	   the audience asks more questions and offers suggestions and possible solutions.
+	   These are very valuable and informative for all participants and a terrific place to learn
+	   about the breadth of data science applications and solutions.
+        </p>
+	   <p>
+        <a href="mailto:datascience@ucdavis.edu">Contact us</a> if you are interested in presenting in this series.
+       </p>
+   </div>
+
+
+	  
+
+	  <div class="col-xs-4 col-sm-3 col-md-2" style="margin-top:20px">
+      <img 
+        src="{{ SITEURL }}/images/DSI_pics/office_hours_in_conference_room_small.jpg"
+        style="padding-top: 0px; padding-bottom: 0px" class="img-thumbnail">
+	  </div>
+    </div> <!-- end .row -->
+  </div>
+  
 
   <div class="item">
 	  <div class="row">
@@ -143,7 +200,7 @@
 {# News / Events Feed #}
 <div class="row" style='margin-bottom:10px'>
 
-  <div class="col-sm-6">
+  <div class="col-sm-9">
   <div class="panel panel-default">
     <div class="panel-heading">
       <h4 class="panel-title">News</h4>
@@ -160,6 +217,8 @@
 
   {# if article.tags[0].name in OPPORTUNITIES_TAGS #}{# endif #}
 
+ <!-- categories[0] is past categories[1] is Recent. -->
+<!--
   <div class="col-sm-6">
   <div class="panel panel-default">
     <div class="panel-heading">
@@ -167,8 +226,9 @@
     </div>
     
     <div class="panel-body">
-      <table>
+	<table>
 	    {% for article in categories[0][1] %}
+{## {%if article.date is %}	    {% endif %}       ##}
       <tr>
 
       {# Time #}
@@ -201,9 +261,10 @@
 	    {% endfor %}
       </table>
     </div>
-	</div>
+   </div>
   </div>
 
+-->
 </div> {# end .row #}
 
 <div class="entry-content">
