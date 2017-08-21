@@ -8,7 +8,7 @@ The DSI offers workshops (short seminars, half to full day, or multiple day
 modules) that complement the material taught in regular courses, provide
 hands-on applications, and present new topics and under development techniques.
 Workshop topics depend on the needs of our data science community and available
-expertise. Workshops are announced here and on our [listserv](signup.md).
+expertise. Workshops are announced here and on our [listserv](signup.html).
 
 
 # Workshops

@@ -121,6 +121,7 @@ MENUITEMS = [
         ('Mailing List', 'signup.html'),
         ('Giving', 'giving.html'),
         ('FAQ', 'faq.html'),
+        ('Space', 'space.html'),
         ('Directions', 'directions.html'),
         ('Contact Us', 'mailto:datascience@ucdavis.edu')
     ]),
@@ -129,14 +130,12 @@ MENUITEMS = [
         ('Office Hours', 'office_hours.html'),        
         ('Collaboration', 'collaboration.html'),
         ('Software Development', 'software.html'),
-        ('Workshops & Training', 'workshops.html'),
-        ('Space', 'space.html'),
         ('Github Repos.', 'https://github.com/dsidavis')
     ]),
     ('Events', [
         ('Announcements', 'category/recent.html'),
         ('Past Events', 'category/past.html'),
-        ('Workshops', ''),
+        ('Workshops/Training', 'workshops.html'),
         ('Calendar', 'calendar.html')
     ]),
 #    ('News', ''),

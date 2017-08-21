@@ -19,7 +19,6 @@ function(file, lines = readLines(file, warn = FALSE))
 
     names(meta) = gsub("__|\\*\\*", "", names(meta))
 
-
 #    if(length(j) &&)
     
     meta$content = paste(rest, collapse = "\n")
@@ -31,11 +30,30 @@ function(file, lines = readLines(file, warn = FALSE))
 }
 
 getYearQuarter =
-function(df)
+function(df, date = parseDate(df$Date))
 {
     if("Quarter" %in% names(df))
         qtr = df$Quarter
-    else {
-        df$Date
-    }
+   
+}
+
+computeQuarter =
+function(data)
+{
+    q = c("Winter", "Spring", "Summer", "Fall")
+    q[ cut(data$yday, c(-1, 86, 170, 262, 367)) ]
+#   [ cut(data$month, c(-1, 4, 7, 9, 12)) ]    
+}
+
+parseDate =
+function(x)
+{
+    d = as.POSIXct(strptime(x, "%Y-%m-%d"))
+    w = is.na(d)
+    d[w] = as.POSIXct(strptime(x[w], "%m/%d/%Y")  )
+    w = is.na(d)    
+    d[w] = as.POSIXct(strptime(x[w], "%Y-%m-%d %H:%M"))
+    w = is.na(d)    
+    d[w] = as.POSIXct(strptime(x[w], "%m/%d/%Y %H:%M"))
+    d
 }
