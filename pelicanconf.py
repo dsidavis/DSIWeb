@@ -38,7 +38,7 @@ DEFAULT_LANG = "en"
 # Time
 DEFAULT_DATE = 'fs'
 CHECK_MODIFIED_METHOD = 'mtime'
-DEFAULT_DATE_FORMAT = '%a %b %d %I:%M%p PST %Y'
+DEFAULT_DATE_FORMAT = '%a %b %d %I:%M%p %Y'
 TIMEZONE = 'America/Los_Angeles'
 
 # Feed generation is usually not desired when developing
@@ -52,7 +52,7 @@ RELATIVE_URLS = True  # development view
 BOOTSTRAP_THEME = "flatly"  # Pelican themes
 HIDE_SIDEBAR = True
 HIDE_SITENAME = True
-DISPLAY_RECENT_POSTS_ON_SIDEBAR = True
+DISPLAY_RECENT_POSTS_ON_SIDEBAR = False
 
 # Site-wide Content
 # ----------------------------------------
@@ -61,7 +61,7 @@ FAVICON = "images/favicon.ico"
 
 # DO NOT REMOVE THIS, this tells which template html should be generated
 # as part of build/
-DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search')
+DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'jobs')
 
 
 # PLUGINS
@@ -99,9 +99,9 @@ PAGE_URL = '{path_no_ext}.html'
 # Home Page Options
 # ----------------------------------------
 BANNER = 'images/dsi_banner.png' # the image for main homepage banner
-RECENT_POST_COUNT = 6  # number of posts displayed on homepage banner
+RECENT_POST_COUNT = 20  # number of posts displayed on homepage banner
 # The tags displayed in the `News` columns on the homepage
-EVENTS_TAGS = ['Workshop', 'Bootcamp', 'Talk', 'Symposium', 'Seminar']
+EVENTS_TAGS = ['APriority', 'CFP', 'Job', 'Workshop', 'Bootcamp', 'Talk', 'Symposium', 'Seminar', 'OfficeHours', 'Recent']
 OPPORTUNITIES_TAGS = ['Job']
 RESOURCES_TAGS = ['OfficeHours', 'CFP']
 
