@@ -75,7 +75,7 @@
       ambitious projects where expertise in data science would have a
       significant impact on the research.
       </p>
-      <a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/Collaboration.html" class="btn btn-primary btn-md hidden-xs" role="button" >
+      <a href="{{ SITEURL }}/{{ MAIN_PAGE_FOLDER }}/collaboration.html" class="btn btn-primary btn-md hidden-xs" role="button" >
          	Propose projects
       </a>
      </div>
@@ -163,7 +163,7 @@
       the DSI.
       </p>
 
-      <a href="" class="btn btn-primary btn-md hidden-xs" role="button"
+      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdaZGB0XhFT9Yl1INSHlpVJhOKT3YFu0AzEo1YZdEjf76lqow/viewform?c=0&w=1" class="btn btn-primary btn-md hidden-xs" role="button"
         target="_blank">Apply now!</a>
 	  </div>
 
@@ -215,10 +215,12 @@
 	{% for cat in categories %}
 <!-- show the category name	<p>{{ cat[0].name }}</p> -->
 	{% if cat[0].name in EVENTS_TAGS %}
-	    {% for article in cat[1] %}	
-	    <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
+          {% for article in cat[1]|sort(attribute='date') %}	
+    	    {% if article.nonews is not defined and article.expired is not defined %}
+	<span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
       <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br/>
-            {% endfor %}
+            {%endif%}
+      {% endfor %}
         {%endif%}
        {% endfor %}
     </div>

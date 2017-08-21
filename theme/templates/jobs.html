@@ -1,28 +1,49 @@
 {% extends "base.html" %}
-{% block title %}Categories - {{ SITENAME }}{% endblock %}
+{% block title %}Jobs - {{ SITENAME }}{% endblock %}
 
 {% block breadcrumbs %}
     {% if DISPLAY_BREADCRUMBS %}
     <ol class="breadcrumb">
         <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
-        <li class="active">Categories</li>
+        <li class="active">Jobs</li>
     </ol>
     {% endif %}
 {% endblock %}
 
-{% block content %}
+    {% block content %}
+
     <section id="jobs">
-        <h1>Data Science-related Jobs </h1>
+        <h1>Current Data Science-related Jobs </h1>
         <div class="panel-group">
             {% for category, articles in categories %}
   	    {%if category.name == 'Job' %}
 	    {% for article in articles %}
+	      	    {%if article.noshow is not defined and article.expired is not defined %}
 	    <p><span>
 		<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></p>		
 	    </span>
 	    </p>
+                  {%endif%}
    	       {% endfor %}	    
               {%endif%}
 	    {% endfor %}
-{% endblock %}    
+
+	    
+    <section id="oldjobs">
+        <h1>Previous Data Science-related Jobs </h1>
+        <div class="panel-group">
+            {% for category, articles in categories %}
+  	    {%if category.name == 'Job' %}
+	    {% for article in articles %}
+	      	    {%if article.expired is defined %}
+	    <p><span>
+		<a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></p>		
+	    </span>
+	    </p>
+                  {%endif%}
+   	       {% endfor %}	    
+              {%endif%}
+	    {% endfor %}
+
+{% endblock %}    	    
     
