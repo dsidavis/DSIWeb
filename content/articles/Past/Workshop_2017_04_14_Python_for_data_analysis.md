@@ -1,5 +1,7 @@
-Title: Workshop - Python for data analysis
-Date: 04/14/2017 12:00 
+Title: Workshop - Python for data analysis 1
+Date: 04/14/2017
+slug: python1
+When: 12:00 
 Tags: Workshop, Tutorial, Python
 Quarter: Spring
 Who: Clark Fitzgerald
