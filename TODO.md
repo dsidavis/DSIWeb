@@ -50,24 +50,25 @@
 
 # Content
 Write or edit/complete
-1. Think about a new front page that represents the hub/graph and allows people to click on
-   different aspects.
-    So show research, collaboration, software, training, academic programs, affiliates, etc. as nodes.
 1. Add in all the other events that are not in the .md files, 
    + ie. from earlier. See events.rss from original web site
    + and separate out the unseminar talks into separate files.
-1. [index.md] Rewrite the text on the first page
+1. [index.md] Rewrite/confirm the text on the first page
 1. Propose Projects link on home page - what is it supposed to go to? A form or the collaboration page?
+1. Person for the FDA project in collaboration.md
+1. Add section somewhere on working groups - current and previous.
+1. STS job announcement- fill it out when approved.
+1. Plan for Academic unit and programs, HIPs.
+1. twitter link in the footer.html template.
+1. The related page should separate the davis and external  links on different pages.
+1. Think about a new front page that represents the hub/graph and allows people to click on
+   different aspects.
+    So show research, collaboration, software, training, academic programs, affiliates, etc. as nodes.
+
+#### Done
 1. [done] FAQ
     + [done] change "rooms"
     + [done] rephrase courses item.
-1. Person for the FDA project in collaboration.md
-1. Add section on working groups.
-1. STS job announcement.
-1. Plan for Academic unit and programs, HIPs.
-1. twitter link
-1. The related page should separate the davis and external  links on different pages.
-
 1. [done] !! Image for workshop and also unseminar series for carousel.	
 
 # Seminars
@@ -80,7 +81,7 @@ Write or edit/complete
 1. Different quarters grouped
 1. Decide on format and then programmatically manipulate these into a page.
   
-  Information (i.e. documents) are in  content/articles/Past
+1.  Information (i.e. documents) are in  content/articles/Past
 
 # Calendar
 merge all calendars of events.
