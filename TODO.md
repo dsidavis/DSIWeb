@@ -50,6 +50,9 @@
 
 # Content
 Write or edit/complete
+1. Think about a new front page that represents the hub/graph and allows people to click on
+   different aspects.
+    So show research, collaboration, software, training, academic programs, affiliates, etc. as nodes.
 1. Add in all the other events that are not in the .md files, 
    + ie. from earlier. See events.rss from original web site
    + and separate out the unseminar talks into separate files.
