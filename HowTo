@@ -1,6 +1,18 @@
+Introduce new categories with
+  Category:
+in an .md metadata section.
+But then these don't appear in the News.
+Now they do
+double loop in home.html over the categories and skip the ones not in EVENTS_TAGS
+Still coming out in alphabetical order and we want to order them based on EVENTS_TAGS.
+  Perhaps create an ordered list within the template.
+    See theme/templates/article_list.html
+ 
+http://jinja.pocoo.org/docs/2.9/tricks/
+
 Home page:
  News consists of events in content/articles/Recent.
- Limited to 6 in pelicanconf.py
+ Currently Limited to 20  (was 6) in pelicanconf.py
 
 The material in Upcoming Events seems to be all the Past events!
  Entirely the wrong thing.
@@ -9,8 +21,12 @@ The material in Upcoming Events seems to be all the Past events!
 The different tags are defined in EVENTS_TAGS
 
 
-Perhaps to filter the Upcoming Events we can use an {%if %} in the home.html template.
+[done Perhaps to filter the Upcoming Events we can use an {%if %} in the home.html template.
 We need to determine how to add a test for the date against the current date.
 {%if article.date is %}
 {% endif %}
  Start with a test for the string
+
+
+How to sort by an attribute.
+{% for p in pages|sort(attribute='source_path') %}

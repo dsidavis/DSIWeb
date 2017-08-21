@@ -101,6 +101,7 @@ PAGE_URL = '{path_no_ext}.html'
 BANNER = 'images/dsi_banner.png' # the image for main homepage banner
 RECENT_POST_COUNT = 20  # number of posts displayed on homepage banner
 # The tags displayed in the `News` columns on the homepage
+# APriority is to put this first alphabetically.
 EVENTS_TAGS = ['APriority', 'CFP', 'Job', 'Workshop', 'Bootcamp', 'Talk', 'Symposium', 'Seminar', 'OfficeHours', 'Recent']
 OPPORTUNITIES_TAGS = ['Job']
 RESOURCES_TAGS = ['OfficeHours', 'CFP']
@@ -123,18 +124,14 @@ MENUITEMS = [
         ('Directions', 'directions.html'),
         ('Contact Us', 'mailto:datascience@ucdavis.edu')
     ]),
-    ('People', [
-        ('Administration', 'administration.html'),
-        ('Faculty', 'faculty.html'),
-        ('Affiliates', 'affiliates.html'),
-    ]),
     ('Research', [
         ('Services', 'services.html'),
+        ('Office Hours', 'office_hours.html'),        
         ('Collaboration', 'collaboration.html'),
         ('Software Development', 'software.html'),
         ('Workshops & Training', 'workshops.html'),
-        ('Office Hours', 'office_hours.html'),
         ('Space', 'space.html'),
+        ('Github Repos.', 'https://github.com/dsidavis')
     ]),
     ('Events', [
         ('Announcements', 'category/recent.html'),
@@ -143,7 +140,13 @@ MENUITEMS = [
         ('Calendar', 'calendar.html')
     ]),
 #    ('News', ''),
+    ('People', [
+        ('Administration', 'administration.html'),
+        ('Faculty', 'faculty.html'),
+        ('Affiliates', 'affiliates.html'),
+    ]),    
     ('Resources', [
+        ('Jobs', 'jobs.html'),
         ('Courses', 'courses.html'),
         ('Tutorials', 'tag/tutorial.html'),
         ('Technologies', 'technologies.html'),
@@ -157,6 +160,7 @@ SOCIAL = () # menu bar buttons
 GLYPHICON = {
     "Workshop": "glyphicon glyphicon-education",
     "Bootcamp": "glyphicon glyphicon-education",
+    "WorkingGroup": "glyphicon glyphicon-education",    
     "Job": "glyphicon glyphicon-briefcase",
     "Talk": "glyphicon glyphicon-blackboard",
     "Symposium": "glyphicon glyphicon-blackboard",

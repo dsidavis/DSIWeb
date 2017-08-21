@@ -1,56 +1,93 @@
 # Web site
 
-## General
-
+## Appearance
 1. !! If the window is too small, the menus disappear.
      Remove the @class in <div class="nav-collapse collapse">
 	 But then it doesn't collapse, but goes vertical.
 	    search for: bootstrap flatly navbar menus disappear
-1. Template for workshops, seminars  - XML or Markdown or DCF
-1. Jobs
-1. Buttons
-1. Put buttons at top like the ISS
-      Subscribe  News  Events  Give
+1. [low] Put buttons at top like the ISS
+     + Subscribe  News  Events  Give
+     + Make these buttons a header on each page.		
+
+# Check
+1. Check all links
+1. Workshops links.
+
+# New Structured Pages
 1. Order the news item by some other criteria.
-1. Make this a header on each page.
-1. [index.md] Reformat the first page so the news and events don't dominate and nobody sees the
+	 + Currently you can set the Category to APriority.
+     + exclude items with nonews attribute set to true.
+1. Template for workshops, seminars  - XML or Markdown or DCF
+    Figure out how to do group bys in the templates. Or do this in R.
+1. [started] Page for current jobs
+    + See jobs.html.  Can build a new template file for this and just look at the categories named Jobs and either in
+    + Format the resulting HTML page better to separate the current anb previous jobs.
+    + [done] Recent or check for expired is defined.
+1. [low] In the carousel, have the text wrap around the image.
+
+### Done
+1. [done] in categories.html (via the template) format the date/time better
+   + [done] for jobs, drop the time
+   + [done] drop the PST everywhere - see pelicanconf.py's DEFAULT_DATE_FORMAT variable.
+   + [no need] can post process the .html with R if we want.
+      doc = htmlParse("build/categories.html")
+	  getNodeSet(doc, "//time")
+1. [done] [index.md] Reformat the first page so the news and events don't dominate and nobody sees the
    material below
      With fewer old events in the Upcoming Events, this will be less of an issue.
 	 But perhaps have these three topics also cycle through like the banner at the top.
-1. [index.md] Rewrite the text on the first page
 1. [done] Get rid of the old events in the upcoming events.
+1. [fixed] Search doesn't lead to valid link.
+      https://github.com/talha131/pelican-elegant/issues/147
 
+# Content
+Write or edit/complete
+1. Add in all the other events that are not in the .md files, 
+   + ie. from earlier. See events.xml from original web site
+   + and separate out the unseminar talks into separate files.
+1. [index.md] Rewrite the text on the first page
+1. Propose Projects link on home page - what is it supposed to go to? A form or the collaboration page?
+1. [done] FAQ
+    + [done] change "rooms"
+    + [done] rephrase courses item.
+1. Person for the FDA project in collaboration.md
+1. Add section on working groups.
+1. STS job announcement.
+1. Plan for Academic unit and programs, HIPs.
+1. twitter link
+1. The related page should separate the davis and external  links on different pages.
+
+1. [done] !! Image for workshop and also unseminar series for carousel.	
 
 # Seminars
    + Upcoming
    + Past
+   + ?? Use jinja/pelican or R?
    
 # Workshops
-  + Already a page for these that is paginated.
-  + Different quarters grouped
-  + Decide on format and then programmatically manipulate these into a page.
+1. Already a page for these that is auto-paginated.
+1. Different quarters grouped
+1. Decide on format and then programmatically manipulate these into a page.
   
-  Info/Docs are in  content/articles/Past
+  Information (i.e. documents) are in  content/articles/Past
 
 # Calendar
-  merge all calendars of events.
-     + See CalendarSync
-     + Get and merge the calendar information from the different  calendars via OAuth2
-	 + generate events
-	 + display calendards in 
-
+merge all calendars of events.
++ See CalendarSync
++ Get and merge the calendar information from the different  calendars via OAuth2
++ generate events
++ display calendards in 
 
 
 # News
- Organize the news.
+[done] Arrange the news.
 
 # Jobs
-   + on front page in "News" or something related
-   + list of jobs.
+   + [done] Add to menus under Resources.
+   + [done] on front page in "News" or something related
+   + list of jobs. See categories.
 
-
-
-# For DTL
+# @DTL Content Verify
    + Our Research Software from DSI.
       [check] software.md
    + Review (i.e. Read) the collaborations.
@@ -59,32 +96,24 @@
 
 
 # [OKAY] Affiliates  content/affiliates.md -
-    + [done] Single colun layout
-    + [done] Automate the page generation.
-  
-    +  Layout so doesn't overlap with the footer.
-    +  Blurb has a "read more" to expand inline, or a popup or bring to a different page.
+   + Grid layout?
+   + Blurb has a "read more" to expand inline, or a popup or bring to a different page.
 
-    +  [done] fix the errors.
+   + [done] Single colun layout
+   + [done] Automate the page generation.
+   + [done] fix the errors.
 
-
-+ In content/pages/affiliates.md, who should they send an email to ask to be added to the private
-  affiliates channel.
 
 
 # Miscellaneous
-    + Get images for the remaining affiliates.
-    + Fix the height of Michael Bissels.
+   + Get images for the remaining affiliates.
+   + Fix the height of Michael Bissels.
+   + In content/pages/affiliates.md, who should they send an email to ask to be added to the private
+  affiliates channel.  Is this page linked from anywhere ? i.e. will people get to it?
 
 # Bring from other site
-    + Any left?
-    + [done] Put the events.rss file into this repos.
+   + Any left?
+   + [done] Put the events.rss file into this repos.
 
 
-# Content
-+ FAQ  
-    + change "rooms"
-    + rephrase courses item.
-+  !! Image for workshop and also unseminar series for carousel.	
-+  Person for the FDA project in collaboration.md
-+ Add working groups.
+
