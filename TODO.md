@@ -115,14 +115,31 @@ merge all calendars of events.
 
 
 # Miscellaneous
-   + Get images for the remaining affiliates.
-   + Fix the height of Michael Bissels.
+   + Move People tab to come after the About tab and before the Research tab
+   + Get images for the remaining affiliates. Nick Ulle, Ken Wang, Lida Anita, Abbie Poppa (check name spelling), Ryan Peek, Ismail, Yuefeng, Nick Ellinwood, Eric Kalosa-Kenyon, Ehsan Gholami, Shaun Geer; fix name Michael Bissell (add L to end)
+   + Fix the height of Michael Bissell photo
+   + Add photos for Titus and Andrew to faculty affiliates page
    + In content/pages/affiliates.md, who should they send an email to ask to be added to the private
   affiliates channel.  Is this page linked from anywhere ? i.e. will people get to it?
-
+	+ Add photos to Admin page for D, N, C, P & M
+	+ Add YEAR to all events on the "Past Posts" Events Page and organize by date (most recent on top). Change page name to "Past Announcements"??
+	+ Add the D-RUG website https://d-rug.github.io/  to page http://dsi.ucdavis.edu/posts/OfficeHours/davis-r-users-group-informal-drop-in-work-session20170820.html. 
+	+ When you click "propose a project" it takes you to the collaborations page, which is okay but it's a bit unclear where to propose on that page. 
+	+ Font all over the entire website is small....
+	+ Top of the Office Hours page, get rid of Spring 2017 and instead write: "Below are our typical weekly office hours. If you plan to come, we encourage you to contact us in advance because our hours are subject to change, especially during the summer."
+	+ Move "Space" page from under Research to About.
+	+ Workshops tab under Events just takes you to the homepage. Suggest moving it from Research to under Events.
+	+ For the Suggest a Workshop, "this form" link says special permissions are needed. PRobably okay, but not sure why if won't let me access it on campus. https://docs.google.com/forms/d/1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA/formrestricted?edit_requested=true
+	
 # Bring from other site
    + Any left?
    + [done] Put the events.rss file into this repos.
 
-
+# BROKEN LINKS
+	+ People->faculty members->membership page http://www.dsi.ucdavis.edu/About/Membership/  Should be http://dsi.ucdavis.edu/membership.html
+	+ Jobs: http://dsi.ucdavis.edu/posts/Job/faculty-position-for-data-studies-in-science-and-technology-studies-and-data-science20170901.html
+	+ Clicking on more for the FAQ is the DSI interested in collaborations link is broken, goes here: http://dsi.ucdavis.edu//Collaboration.html
+	+ Also under FAQm the Here for how to find out about events is broken, goes here: http://dsi.ucdavis.edu//Signup.html
+	+ Clicking on listserv on the Workshops page is broken, http://dsi.ucdavis.edu//signup.md. Spring 2017 and Winter 2017 are also broken.
+	
 
