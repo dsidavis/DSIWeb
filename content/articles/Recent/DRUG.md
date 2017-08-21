@@ -5,3 +5,6 @@ Tags: OfficeHours, DRUG
 Where: 362 Shields Library
 Category: OfficeHours
 
+
+Bring your R questions and projects, and we'll see you there!
+
