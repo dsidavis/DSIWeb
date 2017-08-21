@@ -113,9 +113,9 @@ graduate student, Political Science. <br/>
 Cory studies how political institutions influence the behavior of elected representatives (i.e., legislators, executives), and how differences in behavior affect policy outcomes related to climate change and the environment. She uses web-scraping, content analysis, and natural language processing (NLP) to obtain and analyze legislative speeches and spatial data to study behaviors across countries (including the United States, Australia, Chile, the UK, and New Zealand). Cory primarily uses R along with spatial methods to overlay political boundaries with relevant measures of "policy problems," such as the severity of drought. Cory is further developing her spatial and text mining skills.
 
 
-<img src="images/Affiliates_pics/MichaelBissel_c.jpg" title="mcbissell@ucdavis.edu"></img>
+<img src="images/Affiliates_pics/MichaelBissell_c.jpg" title="mcbissell@ucdavis.edu"></img>
 <a href="mcbissell@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
-<a href="http://www.vetmed.ucdavis.edu/gge/index.cfm">Michael Bissel</a>
+<a href="http://www.vetmed.ucdavis.edu/gge/index.cfm">Michael Bissell</a>
 graduate student, Epidemiology. <br/>
 <b> Predicting breast cancer risk with machine learning. </b>
 Michael has a background in statistics and applied mathematics. His research focuses on applying machine learning methods to improve predictions of breast cancer risk in unique populations. He would like to learn more about applying KNN, Random Forest, SVM, and other techniques to survival data.
