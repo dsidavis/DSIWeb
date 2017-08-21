@@ -12,20 +12,28 @@
 # Check
 1. Check all links
 1. Workshops links.
+1. carousel links - workshops.
+
+#### Done
+1. [done] Fix the news entries that appeared when we added.
+    Easy to introduce as a Category: Talk and not Past
+	
 
 # New Structured Pages
 1. Order the news item by some other criteria.
-	 + Currently you can set the Category to APriority.
-     + exclude items with nonews attribute set to true.
+    + Currently you can set the Category to APriority.
+    + exclude items with nonews attribute set to true.
 1. Template for workshops, seminars  - XML or Markdown or DCF
-    Figure out how to do group bys in the templates. Or do this in R.
+    + Figure out how to do group bys in the templates. Or do this in R.
 1. [started] Page for current jobs
     + See jobs.html.  Can build a new template file for this and just look at the categories named Jobs and either in
     + Format the resulting HTML page better to separate the current anb previous jobs.
     + [done] Recent or check for expired is defined.
-1. [low] In the carousel, have the text wrap around the image.
-
-### Done
+	
+#### Done	
+1. [done] In the carousel, have the text wrap around the image.
+    + See experiment
+	+ Sort out the column structure and offset
 1. [done] in categories.html (via the template) format the date/time better
    + [done] for jobs, drop the time
    + [done] drop the PST everywhere - see pelicanconf.py's DEFAULT_DATE_FORMAT variable.
@@ -43,7 +51,7 @@
 # Content
 Write or edit/complete
 1. Add in all the other events that are not in the .md files, 
-   + ie. from earlier. See events.xml from original web site
+   + ie. from earlier. See events.rss from original web site
    + and separate out the unseminar talks into separate files.
 1. [index.md] Rewrite the text on the first page
 1. Propose Projects link on home page - what is it supposed to go to? A form or the collaboration page?
@@ -78,9 +86,6 @@ merge all calendars of events.
 + generate events
 + display calendards in 
 
-
-# News
-[done] Arrange the news.
 
 # Jobs
    + [done] Add to menus under Resources.
