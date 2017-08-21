@@ -1,5 +1,6 @@
 Title: Bootcamp: Data Science in the Wild
 Tags: Bootcamp
+Date: 2015-10-3
 
 **Venue**: Auditorium 1005, Genome and Biomedical Sciences Facility (GBSF)   
 **Date**: Mon, October 3rd, 1:00 pm – 3:00 pm   

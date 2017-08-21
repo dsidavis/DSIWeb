@@ -1,7 +1,7 @@
 Title: LLNL-Davis Data Science Symposium
-Date: Fri Dec 5 12:41:14 PST 2014
+Date: 2014-12-3
 Tags: Symposium, Workshop
-
+Time: 3-6pm
 
 *Event date*: 12/03/2014, 3:00 - 6:00 pm   
 *Location*: 1005 Genome Center, UC Davis  
