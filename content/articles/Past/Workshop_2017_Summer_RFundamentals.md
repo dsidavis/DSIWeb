@@ -1,6 +1,7 @@
 Title: Mini-Course - R Fundamentals
 Date: 07/11/2017 09:00 
 Tags: Workshop, Tutorial, R
+Quarter: Summer
 
 #R Fundamentals
 A mini-course on the underlying computational model of the R language.

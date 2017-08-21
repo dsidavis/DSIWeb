@@ -2,9 +2,11 @@ Title: Workshop - Lessons from Binary Classification
 Date: 05/5/2017 12:00
 Time: 12:00 
 Tags: Workshop, Tutorial, Machine Learning
+Who: James Sharpnack
+Quarter: Spring
 
-May 5: __Lessons from Binary Classification, Part I: Overfitting and
-    Surrogate Losses__ (James Sharpnack)
+In this second session, we will continue to explore machine learning with
+data driven examples.
 
 Binary classification is the canonical machine learning task and its study
 has a rich history.  Much of the main principles of machine learning have
@@ -15,19 +17,8 @@ neural networks.  We will highlight the resultant methods and will
 accompany this with data driven examples.
     
 Prerequisites: Bring a laptop pre-loaded with Jupyter, Python, NumPy and
-    Scikit-Learn (they can be installed through [Anaconda][]).
+    Scikit-Learn (they can be installed through [Anaconda][https://anaconda.org/anaconda]).
 
 + [Resources](https://github.com/jsharpna/DavisSML/tree/master/lectures/classify)
 + [Video](https://www.youtube.com/watch?v=dHbze3AYG8I)
-
-	
-May 12: __Lessons from Binary Classification, Part II: Non-parametric
-    Methods and the Kernel Trick__ (James Sharpnack)
-
-In this second session, we will continue to explore machine learning with
-data driven examples.
-
-_Prerequisites: Attend the first session (May 5)._
-	
-+ [Resources](https://github.com/jsharpna/DavisSML/tree/master/lectures/classify)
 + [Video](https://www.youtube.com/watch?v=T64qdgdGRmw)

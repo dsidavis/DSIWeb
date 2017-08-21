@@ -2,6 +2,8 @@ Title: Workshop - Data Visualization principles
 Date: 06/09/2017 
 Time: 12:00 
 Tags: Workshop, Tutorial, Data Visualization
+Quarter: Spring
+Who: Duncan Temple Lang
 
 June 9, 2017: Data Visualization Principles (Duncan Temple Lang)
 

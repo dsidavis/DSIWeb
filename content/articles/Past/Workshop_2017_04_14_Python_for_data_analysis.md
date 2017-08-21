@@ -1,6 +1,8 @@
 Title: Workshop - Python for data analysis
 Date: 04/14/2017 12:00 
 Tags: Workshop, Tutorial, Python
+Quarter: Spring
+Who: Clark Fitzgerald
 
 April 14: __Overview of Python for Data Analysis, Part I__ (Clark Fitzgerald)
 
@@ -14,13 +16,3 @@ _Prerequisites: Come to the workshop with Python, pandas, and bokeh
 + [Resources](https://github.com/clarkfitzg/python_april_2017)
 + [Video](https://www.youtube.com/edit?o=U&video_id=sxcUKfZSbb4)
 
-April 21: __Overview of Python for Data Analysis, Part II__ (Nick Ulle)
-
-    This second of a two-part workshop will continue the hand on
-    activities using popular Python packages to perform an end-to-end data
-    analysis task.
-
-    _Prerequisites: Attend the first session (April 14th)._
-	
-	[Resources](https://github.com/nick-ulle/2017.04-python-workshop)	
-	([Video](https://www.youtube.com/watch?v=TBUlTESUQE8))
