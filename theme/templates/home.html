@@ -215,7 +215,7 @@
 <!-- show the category name	<p>{{ cat[0].name }}</p> -->
 	{% if cat[0].name in EVENTS_TAGS %}
           {% for article in cat[1]|sort(attribute='date') %}	
-    	    {% if article.nonews is not defined and article.expired is not defined %}
+    	    {% if article.nonews is not defined and article.expired is not defined and 'Recent' in article.source_path %}
 	<span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
       <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br/>
             {%endif%}
