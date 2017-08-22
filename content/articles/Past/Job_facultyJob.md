@@ -1,5 +1,6 @@
 Title: Tenure-track faculty position in "Data Studies"
 Tags: Job
+Category: Job
 
 Tenure-track faculty position in an emerging Data Studies minor program and research with Data Scientists.
 The position is expected to be 50% in Science &amp; Technology Studies (STS) and a new Data Science academic unit. Click

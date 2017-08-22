@@ -1,5 +1,6 @@
 Title: Full-time job: Academic Coordinator
 Tags: Job
+Category: Job
 
 Academic Coordinator   
 Data Science Initiative    

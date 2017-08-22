@@ -1,6 +1,7 @@
 Title: Workshop - Efficient Code in R
 Date: 04/28/2017 12:00 
 Tags: Workshop, Tutorial, R
+Category: Workshop
 
 
 April 28: __Efficient Code in R__ (Duncan Temple Lang)

@@ -1,6 +1,7 @@
 Title: Drop-in office hours by Prof. Temple Lang 
 Date: 2015-05-15 17:06
 Tags: OfficeHours, Fall2016
+Category: OfficeHours
 
 **Event date:** Wednesdays, 10 - 11 am      
 **Location:** [DSI conference room, 362 Shields Library]({filename}../../directions.md)     

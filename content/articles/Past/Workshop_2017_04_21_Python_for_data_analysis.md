@@ -5,6 +5,7 @@ Time: 12:00
 Tags: Workshop, Tutorial, Python
 Quarter: Spring
 Who: Nick Ulle
+Category: Workshop
 
 April 21: __Overview of Python for Data Analysis, Part II__ (Nick Ulle)
 

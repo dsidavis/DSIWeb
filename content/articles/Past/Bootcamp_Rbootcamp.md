@@ -1,6 +1,7 @@
 ﻿Title: Bootcamp: Introduction to data science using R
 Tags: Workshop, R
 Date: 2016-9-19
+Category: Workshop
 
 __Date__:  Sept 19th‐20th, 2016, 9 am ‐ 5 pm
 

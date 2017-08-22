@@ -1,8 +1,10 @@
 Title: Workshop - Machine Learning
-Date: 05/05/2017 12:00 
+Date: 05/5/2017
+Time: 12-1.30
 Tags: Workshop, Tutorial, Data Visualization
 Who: James Sharpnack
 Quarter: Spring
+Category: Workshop
 
 May 5 & 12, 2017: __Machine Learning__ (James Sharpnack)
 	

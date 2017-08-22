@@ -5,6 +5,7 @@ When: 12:00
 Tags: Workshop, Tutorial, Python
 Quarter: Spring
 Who: Clark Fitzgerald
+Category: Workshop
 
 April 14: __Overview of Python for Data Analysis, Part I__ (Clark Fitzgerald)
 

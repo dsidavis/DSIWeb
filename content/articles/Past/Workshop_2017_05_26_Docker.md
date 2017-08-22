@@ -5,6 +5,7 @@ Tags: Workshop, Tutorial, Docker, Titus Brown
 Summary: Learn how to use Docker in a workshop by Titus Brown
 Who: Titus Brown
 Quarter: Spring
+Category: Workshop
 
 __Topic__: Docker from 0 to 40
 __Presenter__: Titus Brown 
