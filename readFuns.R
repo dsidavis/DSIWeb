@@ -25,6 +25,8 @@ function(file, lines = readLines(file, warn = FALSE))
 
     if(!("Date" %in% names(meta)))
         meta$Date = format(file.info(file)[1, "mtime"], "%Y-%m-%d")
+
+    meta$file = file
     
     meta
 }
@@ -55,5 +57,36 @@ function(x)
     d[w] = as.POSIXct(strptime(x[w], "%Y-%m-%d %H:%M"))
     w = is.na(d)    
     d[w] = as.POSIXct(strptime(x[w], "%m/%d/%Y %H:%M"))
+    d
+}
+
+
+getCategory =
+function(article)
+{
+    if("Category" %in% names(article))
+        return(article$Category)
+
+    basename(dirname(article$file))
+}
+
+getSlug =
+function(x)
+{    
+    if("slug" %in% names(x))
+       x$slug
+    else
+       NA
+}
+
+
+getFileInfo =
+function(src = "build/filemap.html", lines = readLines(src, warn = FALSE))
+{
+    i = grep("^# (START|END)$", lines)
+    txt = lines[seq(i[1], i[2])]
+    con = textConnection(txt)
+    d = read.table(con, sep = ";", header = TRUE, stringsAsFactors = FALSE)
+    d$path = gsub(".*/content/", "content/", d$path)
     d
 }

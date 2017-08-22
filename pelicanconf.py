@@ -61,7 +61,7 @@ FAVICON = "images/favicon.ico"
 
 # DO NOT REMOVE THIS, this tells which template html should be generated
 # as part of build/
-DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'jobs')
+DIRECT_TEMPLATES = ('index', 'categories', 'archives', 'search', 'jobs', 'filemap')
 
 
 # PLUGINS

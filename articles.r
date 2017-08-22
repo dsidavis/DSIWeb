@@ -17,8 +17,16 @@ info$quarter[w] = computeQuarter(info[w,])
 
 info$title = sapply(arts, `[[`, "Title")
 info$tags = sapply(arts, `[[`, "Tags")
+info$category = sapply(arts, getCategory)
 
+info$slug = sapply(arts, getSlug)
+
+pinfo = getFileInfo()
+info$.build_file = pinfo$saveas[ match( info$file, pinfo$path) ]
 
 i = grep("workshop|tutorial|bootcamp", tolower(info$tags))
 
 byq = with(info[i, ], split(info[i,] , list(year, quarter)))
+
+
+

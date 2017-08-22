@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+# START
+path;category;date;slug;saveas;title;url
+{% for a in articles %}
+{{ a.source_path }};{{ a.category }};{{a.date}};{{a.slug}};{{a.save_as}};{{a.title}};{{a.url}}
+{% endfor %}
+# END
+{% endblock %}
+    
