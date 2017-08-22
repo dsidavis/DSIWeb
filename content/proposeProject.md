@@ -10,5 +10,6 @@ fields to projects that require research-level innovations in data science itsel
 Ideally, projects will  have tangible outcomes in 
 the form of papers, grant proposals, important insights,
 but we are very open to more nascient, speculative projects.
+
 [Contact us](mailto:datascience@ucdavis.edu) to propose a collaborative project.
 
