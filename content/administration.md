@@ -35,7 +35,7 @@ Author: DSI UC Davis
 * [Mark Redican](http://dsi.ucdavis.edu/)
 
 
-The DSI is supported by the University of California Office of the President. Logistical support is provided by the [UC Davis Library](https://www.library.ucdavis.edu/).
+The DSI is supported by the Provost. Logistical support is provided by the [UC Davis Library](https://www.library.ucdavis.edu/).
 
 ## Governance
 
