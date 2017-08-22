@@ -9,4 +9,4 @@ Author: DSI
 Interested in becoming a DSI faculty member? See our [membership page](membership.html) and
 contact us at <mailto:datascience@ucdavis.edu>
 
-[membership page]: http://www.dsi.ucdavis.edu/membership.html
+[membership page]: membership.html

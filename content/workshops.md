@@ -13,8 +13,8 @@ expertise. Workshops are announced here and on our [listserv](signup.html).
 
 # Workshops
 
-* [Spring 2017](http://dsi.ucdavis.edu/Spring17.html)
-* [Winter 2017](http://dsi.ucdavis.edu/Winter17.html)
+* [Spring 2017](Spring17Workshops.html)
+* [Winter 2017](Winter17Workshops.html)
 
 
 ### Suggest a Workshop

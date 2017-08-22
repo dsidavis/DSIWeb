@@ -49,7 +49,7 @@ Authors: DSI
 # Graduate Student & Postdoctoral Affiliates
 
 Graduate students and postdoctoral scholars from departments and groups across
-UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affiliate? See our [membership page](http://www.dsi.ucdavis.edu/About/Membership/) to apply.
+UC Davis engage, learn and work in the DSI. Interested in becoming a DSI affiliate? See our [membership page](membership.html) to apply.
 
 ## Postdocs 
 
