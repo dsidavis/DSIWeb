@@ -11,7 +11,7 @@
 
 # Check
 1. Check all links
-    + unseminars.html from index.html
+    + [created - please edit] unseminars.html from index.html
     + .edu/pages/main/Collaboration
 1. Workshops links.
 1. carousel links - workshops.
