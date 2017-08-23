@@ -1,5 +1,10 @@
 # Web site
 
+
+## To add
+1. add a link to the categories.html page somewhere, maybe just in a sitemap.
+1. Add the two visitors from NAIST to our faculty affiliates.
+
 ## Appearance
 1. !! If the window is too small, the menus disappear.
      Remove the @class in <div class="nav-collapse collapse">
@@ -116,7 +121,9 @@ merge all calendars of events.
 
 
 # Miscellaneous
-   + Move People tab to come after the About tab and before the Research tab.  I (DTL) don't agree;     I moved it from there
+   + Move People tab to come after the About tab and before the Research tab.  I (DTL) don't agree;
+     I moved it from there
+	   Doesn't it actually belong under About ?
    + Get images for the remaining affiliates. Nick Ulle, Ken Wang, Lida Anita, Abbie Poppa (check
      name spelling), Ryan Peek, Ismail, Yuefeng, Nick Ellinwood, Eric Kalosa-Kenyon, Ehsan Gholami,
      Shaun Geer; 
@@ -134,13 +141,14 @@ merge all calendars of events.
       it's a bit unclear where to propose on that page. 
 	   Yes, a new page needs to be written.
 	+ Font all over the entire website is small....
-	+ Top of the Office Hours page, get rid of Spring 2017 and instead write: "Below are our typical weekly office hours. If you plan to come, we encourage you to contact us in advance because our hours are subject to change, especially during the summer."
+	+ [done] Top of the Office Hours page, get rid of Spring 2017 and instead write: "Below are our typical weekly office hours. If you plan to come, we encourage you to contact us in advance because our hours are subject to change, especially during the summer."
 	+ [moved] Workshops tab under Events just takes you to the homepage.
 	    [done] Suggest moving it from Research to under Events. - It was in both.
 		Need to generate workshop.html page (programmatically).
 	+ For the Suggest a Workshop, "this form" link says special permissions are needed. PRobably okay, but not sure why if won't let me access it on campus. https://docs.google.com/forms/d/1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA/formrestricted?edit_requested=true
     + Mark Redican in people.md has a link to dsi.ucdavis.edu.
 
+	
 #### Done
 1. [done] Move "Space" page from under Research to About.
 1. [done] fix name Michael Bissell (add L to end)
