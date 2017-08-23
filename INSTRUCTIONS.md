@@ -7,7 +7,8 @@ Quarter: Fall
 ```
 noshow: true
 ```
-in the metadata
+in the metadata.
+We could probably  use draft and exclude these.
 
 1. To have an entry appear in the first group of the News feed, set the category
 to `APriority`.
@@ -24,3 +25,12 @@ edit pelicanconf.py and add the name to EVENTS_TAGS
 
 
 
+
+
+
+
+
+
+1. Before creating any of the pages for previous seminars, workshops, etc. , 
+   build the web site. This generates build/filemap.html which provides the 
+   mapping from original md file to the html file in build.

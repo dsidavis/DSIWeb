@@ -4,6 +4,10 @@
 ## To add
 1. add a link to the categories.html page somewhere, maybe just in a sitemap.
 1. Add the two visitors from NAIST to our faculty affiliates.
+1. Roland Fong as an affiliate?
+1. All of the collaborators as affiliates?
+1. Reach out to other potential affiliates- advisory group, Raissa D'Souza, Mark Goldman, 
+   Some CS folks. Xin Liu, Chen-Nee Chuah, ...
 
 ## Appearance
 1. !! If the window is too small, the menus disappear.
