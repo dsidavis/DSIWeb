@@ -20,6 +20,7 @@ Authors: DSI
 * [Innovating Communication in Scholarship](http://icis.ucdavis.edu/)
 * [CITRIS](http://citris-uc.org/)
 * [Keck Caves](http://keckcaves.org/)
+* [Computational Infrastructure for Geodynamics (CIG)](https://geodynamics.org/)
 * [Center for Spatial Sciences](http://spatial.ucdavis.edu/)
 
 #### News Outlets
