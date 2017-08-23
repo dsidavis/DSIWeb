@@ -4,7 +4,7 @@ Title: Winter 2017 Workshops
 
 
 
-# Workshops
+# Winter 2017 Workshops
 
 1. Fri. 03, February  [Slash and Burn Command Line and Git](posts/Workshop/Gi20170203.html)
 1. Fri. 03, February  [Text Mining Fundamentals](posts/Workshop/TextMining120170203.html)

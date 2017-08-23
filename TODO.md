@@ -2,12 +2,24 @@
 
 
 ## To add
-1. add a link to the categories.html page somewhere, maybe just in a sitemap.
+1. [now in Events but not great place] add a link to the categories.html page somewhere, maybe just in a sitemap.
 1. Add the two visitors from NAIST to our faculty affiliates.
-1. Roland Fong as an affiliate?
-1. All of the collaborators as affiliates?
-1. Reach out to other potential affiliates- advisory group, Raissa D'Souza, Mark Goldman, 
-   Some CS folks. Xin Liu, Chen-Nee Chuah, ...
+1. Faculty Affiliates
+   + Roland Fong as an affiliate?
+   + All of the collaborators as affiliates?
+   + Reach out to other potential affiliates- advisory group, Raissa D'Souza, Mark Goldman, 
+      Some CS folks. Xin Liu, Chen-Nee Chuah, ...
+1. Integrate the following content - maybe already linked, but should have centralized place
+   + Climate Refuge event.  In 
+   + NSFWorkshops - dsi.ucdavis.edu/NSFWorkshops
+   + R bootcamp '16 - dsi.ucdavis.edu/BootcampSep2016
+   + D3 materials  - dsi.ucdavis.edu/D3materials
+   + RFundamentals  - dsi.ucdavis.edu/RFundamentals
+1. Get Carl's slides from talk on Text/NLP processing and have a page that links to all the
+   materials, recordings, etc.
+1. Materials from other talks.
+1. Get the remaining unseminar talks from Winter and were there any from Fall 2016?
+   There were a few from 2015, some of which are in the Past/
 
 ## Appearance
 1. !! If the window is too small, the menus disappear.
@@ -158,7 +170,8 @@ merge all calendars of events.
 1. [done] fix name Michael Bissell (add L to end)
    
 # Bring from other site
-   + Any left?
+   + Jobs.
+   + NSF workshops.
    + [done] Put the events.rss file into this repos.
 
 # BROKEN LINKS

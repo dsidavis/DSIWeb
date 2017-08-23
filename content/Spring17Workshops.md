@@ -4,7 +4,7 @@ Title: Spring 2017 Workshops
 
 
 
-# Workshops
+# Spring 2017 Workshops
 
 1. Fri. 14, April  [Python for data analysis 1](posts/Workshop/python120170414.html)
 1. Fri. 21, April  [Python for data analysis 2](posts/Workshop/python220170421.html)
