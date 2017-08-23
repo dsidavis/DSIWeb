@@ -7,24 +7,48 @@ d = mkWorkshopPage_md(s17)
 w17 = subset(info, quarter == "Winter" & year == 2017 & category == "Workshop")
 d = mkWorkshopPage_md(w17)    
 
+s17t = subset(info, quarter == "Spring" & year == 2017 & (category == "Talk" | grepl("Talk|un-seminar|unseminar|problem solving", tags)))
+d = mkTalkPage_md(s17t)
+
+#w17t = subset(info, quarter == "Winter" & year == 2017 & (category == "Talk" | grepl("Talk|un-seminar|unseminar|problem solving", tags)))
+#d = mkTalkPage_md(w17t)
+
+
 #    d = mkWorkshopPage(s17)
 #    saveXML(d, "content/Spring17Workshops.html")
 }
 
+mkTalkPage_md =
+function(data,
+         itemFun = mkTalkInfo_md,
+         quarter = unique(data$quarter), year = unique(data$year),
+         template = "content/talk_list.md",
+         outfile = sprintf("content/%s%sTalks.md", quarter, substring(year, 3)))
+{
+  mkWorkshopPage_md(data, itemFun, quarter, year, template, outfile)
+}
 
 mkWorkshopPage_md  =
-function(data, quarter = unique(data$quarter), year = unique(data$year),
+function(data,
+         itemFun = mkWorkshopInfo_md,
+         quarter = unique(data$quarter), year = unique(data$year),
          template = "content/workshop_list.md",
-         outfile = sprintf("content/%s%sWorkshops.md", quarter, substring(year, 3)))
+         outfile = sprintf("content/%s%sWorkshops.md", quarter, substring(year, 3)),
+         category = trim(gsub("# ", "", txt[idx])))
 {
     data = data[order(data$date),]
     tmpl = readArticle(template)
-    tmpl$Date = format(max(data$date),"%Y-%m-%d")
-    tmpl$Title = sprintf("%s %s Workshops", quarter, year)
-
-    entries = sapply(1:nrow(data), function(i) mkWorkshopInfo_md(data[i,]))
 
     txt = strsplit(tmpl$content, "\\n")[[1]]
+    idx = grep("# ", txt)
+    
+    tmpl$Date = format(max(data$date),"%Y-%m-%d")
+    tmpl$Title = sprintf("%s %s %s", quarter, year, category)
+    
+    entries = sapply(1:nrow(data), function(i) itemFun(data[i,]))
+
+    txt[idx] = sprintf("# %s %s %s", quarter, year, category)
+    
     ll = as.list(txt)
     i = grep("LIST HERE", txt)
     ll[[i]] = entries
@@ -41,7 +65,7 @@ function(doc, outfile)
 {
         con = file(outfile, "w")
         on.exit(close(con))
-        write.dcf(doc[1, !(names(tmpl) %in% c("file", "content"))], file = con)
+        write.dcf(doc[1, !(names(doc) %in% c("file", "content"))], file = con)
         cat("\n\n", doc$content, file = con, sep = "\n")
         outfile
 }
@@ -62,6 +86,13 @@ function(data, quarter = unique(data$quarter), year = unique(data$year), templat
 
 
 mkWorkshopInfo_md =
+function(info, date.format = "%a. %d, %B")
+{
+    # can create nodes or just text and then parse into nodes.
+  sprintf('1. %s  [%s](%s)', format(info$date, date.format), trim(gsub("Workshop( ?(-|on))?", "", info$title)),  mapFilename(info))
+}
+
+mkTalkInfo_md =
 function(info, date.format = "%a. %d, %B")
 {
     # can create nodes or just text and then parse into nodes.
