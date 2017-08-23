@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel xmlns:dsi="http://dsi.ucdavis.edu">
+ <title>Data Science Related Events</title>
+ <description>Events at UC Davis or nearby related to Data Science</description>
+ <link>http://datascience.ucdavis.edu</link>
+ <lastBuildDate></lastBuildDate>
+ <pubDate></pubDate>
+ <ttl>1800</ttl>
+
+<!--
+<item id="">
+<eventType></eventType>
+<what></what>
+<who></who>
+<when>
+</when>
+<calendar></calendar>
+<where><dsi:conf/><dsi:class/></where>
+<description>
+</description>
+<expires>
+</expires>
+</item>
+-->
+
+<done>
+<item id="VizPrinciples">
+<when><font color="red">Changed: Friday, June 9 12 - 1.30</font></when>
+<where>DSI Seminar Room, 360 Shields Library</where>
+<title><font color="red">Date Changed</font> - Workshop: Data Visualization Principles</title>
+<description>
+Prof. Duncan Temple Lang
+<br/>
+In this workshop, we'll discuss best practices for displaying different types of static data.
+This is about designing data visualizations rather than the software and instructions we use to actually render them.
+We'll cover some basic principles to keep in mind, explore different types of plots, critique some good and bad examples of 
+displaying data and how to think about creating effective plots.
+</description>
+</item>
+</done>
+
+
+<done>
+<item id="CarterButts">
+<when>May 25, 12 - 1pm</when>
+<where><dsi:class/></where>
+<title>Seminar: From Conversation to Plant Carnivory: Using Data Science to Tackle Complex Systems</title>
+<description>
+Carter T. Butts, Professor of Sociology, Statistics, and EECS, UC Irvine
+<br/>
+Carter Butts’ research involves the development and application of mathematical, computational, and statistical
+techniques to theoretical and methodological problems within the areas of social and biological network analysis,
+mathematical sociology, quantitative methodology, and human judgment and decision making.
+</description>
+</item>
+
+<item id="Shilling">
+<title>Unseminar: Unique IDs, unique observations, and universal data management.</title>
+<when>May 30th, 12 - 1pm</when>
+<where>DSI Seminar Room, 360 Shields Library</where>
+<description>
+Fraser Shilling, Director of the Road Ecology Center.
+<br/> 
+Most environmental monitoring and investigation involves recording events or processes using discrete
+measurements. Universal standardization of unique event records would enhance data management and sharing. One approach
+we are considering is to use an observation in the form of an image and associate attribute information within the Exif
+data table, or as part of the file name, in a way that contains all relevant information for creating an observation
+record ingestible and useable across many data management systems and analytical frameworks. For example, ‘when, where,
+what, who, why’ could be recorded as attributes in the image file Exif data, which would make the image file a record
+and shareable object. Alternatively, we could store image files with standardized naming conventions encompassing those
+metadata. The advantages of these two approaches is that the record (image) and the event record (metadata) become the
+same thing. This approach would speed up queries and facilitate sharing across platforms and users. But is this the most
+elegant approach? Even with a low implementation cost, is the effort worth it to apply to large existing image databases
+or is there a better alternative?
+</description>
+</item>
+
+<item id="Docker">
+<when>Friday, May 26, 12 - 1.30</when>
+<where>DSI Seminar Room, 360 Shields Library</where>
+<title>Workshop: Introduction to Docker</title>
+<description>
+Prof. Titus Brown
+</description>
+</item>
+</done>
+
+<done>
+<item id="RecomputingSS">
+<when>Friday, May 19, 8.30am – 5pm</when>
+<where>Multipurpose Room @ Student Community Center</where>
+<title>Re-Computing Social Sciences</title>
+<description>
+Re-Computing Social Sciences: What Have We Learned After a Decade?"
+Featuring 12 invited guest speakers from Stanford, UC Berkeley, UPenn, UCLA, Illinois, etc., and 12 UC Davis faculty
+members. The workshop will be fast-paced and very interactive (the longest presentation will be 5 min long!) Please
+register (free breakfast and lunch will be provided…)
+</description>
+</item>
+
+
+<item id="GinaBloom">
+<when>Tuesday, May 23, 12 - 1</when>
+<where>362 Shields Library (DSI classroom)</where>
+<title>Data bodies at play: Analyzing the human movement and sound captured by a video game.</title>
+<description> 
+DSI Problem Solving Un-seminar Series.
+Gina Bloom, Professor of English.
+<a href="GinaBloomAbstract.html">abstract</a>
+</description>
+</item>
+
+
+
+<item id="DavidKyle">
+<when>Tuesday, April 18, 12 - 1</when>
+<where>362 Shields Library (DSI classroom)</where>
+<title>Unearthing 'creativity' from the creativeness corpus</title>
+<description>
+DSI Problem Solving Un-seminar Series.
+David Kyle, Professor of Sociology.
+</description>
+</item>
+
+<item id="PythonDSI">
+<when>Friday, April 14, 12 - 1.30</when>
+<where>362 Shields Library (DSI classroom)</where>
+<title>Data Science Tools in Python</title>
+<description>
+An introduction to Data Science tools in Python.
+This is the first of a two-part workshop, the second part next Friday, April 21.
+</description>
+</item>
+</done>
+
+ <item id="OfficeHoursDTL">
+ <title>Drop-in Office Hours</title>
+  <description>
+    Duncan Temple Lang (Director of the Data Science Initiative &amp; Professor, Dept. of Statistics)
+    will hold drop-in consulting/office hours on all things Digital  and Data Science (Statistics, Applied Computing, Visualization, Workflows, Reproducability, ...).
+   Stop by or, better yet, <a href="mailto:datascience@ucdavis.edu">email us</a> ahead of time.
+  </description>
+  <when>Thursday 12-1pm Spring Quarter</when>
+  <where>360 Shields Library</where>
+</item>
+
+ <item id="OfficeHoursAffiliates">
+ <title>Affiliates Drop-in Office Hours</title>
+  <description>
+    Several DSI Affiliates hold drop-in consulting/office hours
+  </description>
+  <when>Tuesday 1 - 3pm</when>
+  <where>360 Shields Library</where>
+</item>
+
+
+
+<done>
+ <item id="OfficeHoursCarl">
+ <title>DSI Humanities and Social Sciences Office Hours</title>
+  <description>
+    Carl Stahmer (Associated Director, DSI, Director Digital Scholarship)
+    will hold drop-in consulting/office hours. 
+   Stop by or, better yet, <a href="mailto:datascience@ucdavis.edu">email us</a> ahead of time.
+  </description>
+  <when>Mon &amp; Tue 10 -11, Spring Quarter</when>
+  <where>360 Shields Library</where>
+</item>
+</done>
+
+
+
+
+<done>
+<item id="DataRescueWarmup">
+<when>Tuesday, Jan 31, 1pm - 2.30pm</when>
+<where>360 Shields Library (DSI classroom)</where>
+<title>Warm-up for DataRescue</title>
+<description>
+We'll brainstorm about getting climate data from complicated Web pages/sites
+and learn about some "advanced" approaches, technologies, tools for programmatically
+getting that data.
+<p>
+<a href="DataRescueEvent.html">More information</a>.
+</p>
+</description>
+</item>
+
+
+<item id="DataRescue">
+<when>Thursday, Feb. 2nd 10am - 4pm</when>
+<where>360 Shields Library (DSI classroom)</where>
+<title>DataRescue for Climate Data</title>
+<description>
+We're holding a DataRescue event on Thursday, Feb 2nd between 10am and 4pm in 360 Shields Library
+to retrieve climate-related data and archive it for future use. This is important as the public availability
+of this data is under threat.
+You can drop in any time during the event and help a group work on
+one or more Web sites.
+You can help in various ways, regardless of your technical programming skills.
+You'll be doing something important and also learn about scraping data, both simple and advanced.
+
+<p>
+At 10am on Thursday, we'll have a 1-hour "training" session that will introduce the basic 
+approaches and tools for scraping (using R).
+After that, we'll work on getting climate data from Web pages and cataloging it.
+</p>
+<p>
+There will be snacks and drinks for participants.
+</p>
+<p>
+<a href="DataRescueEvent.html">More information and sample URLs</a>.
+</p>
+
+<p>
+Hosted by the UC Davis Library and the Data Science Initiative.
+</p>
+
+</description>
+</item>
+
+
+
+<item>
+<title>Debugging in R</title>
+<when>Friday, Feb. 24th 12pm - 1.30pm</when>
+<where>360 Shields Library (DSI classroom)</where>
+<description>
+We'll discuss strategies and tools for debugging R code, cover some examples
+and answer lots of questions.
+This will range from the basics to more advanced  topics in debugging.
+And we'll have a general Q&amp;A session also.
+</description>
+</item>
+
+
+<item id="NLP2">
+<when>Friday, March 3rd 12pm - 1.30pm</when>
+<where>360 Shields Library (DSI classroom)</where>
+<title>Natural Language Processing:  Form and Meaning</title>
+<description>
+This workshop will cover two NLP methods for assessing syntactic and semantic complexity and identifying key concepts represented in texts.  Specific topics covered will include:  hapax richness, author attribution, and Term Frequency-Inverse Document Frequency (TF-IDF) weighting.  Participants must have some programming experience in R and familiarity with the Unix command line and Git. (Participation in the January 20th workshop on Slash and Burn Command Line and Git and the February 3rd workshop on Text Mining Fundamentals will prepare you well for this workshop.) Please come to the workshop with a working R development environment and Git already installed and operational on your system.
+</description>
+</item>
+
+
+
+<item id="NLP3">
+<when>Friday, March 10th 12pm - 1.30pm</when>
+<where>360 Shields Library (DSI classroom)</where>
+<title>Natural Language Processing:  Text Classification</title>
+<description>
+This hands-on workshop will cover the theory and practice of Topic Modeling as a method of untrained text classification. We will run a variety of models on the same corpus, identifying and discussing the function of model parameters and their effect on output.  Validation practices will also be discussed.  Participants should have moderate experience R and Git. Familiarity with the R “TM” package will be beneficial but is not required.  (Participation in the previous four workshops in this series will prepare you well for this workshop.) Please come to the workshop with a working R development environment and Git already installed and operational on your system.
+</description>
+</item>
+
+
+
+<item id="WinterSchedule">
+<when>Each Friday from 12 - 1.30pm</when>
+<where>360 Shields Library (DSI classroom)</where>
+<title>Winter Quarter workshops</title>
+<description>
+<a href="Winter17.html">Schedule of workshops</a> for winter quarter
+</description>
+</item>
+
+
+
+<item id="HandsOnGit">
+<when>Friday, Feb. 3rd 10.30am - 12pm</when>
+<where>360 Shields Library (DSI classroom)</where>
+<title>Hands-on Introduction to Git</title>
+<description>
+A hands-on practicum on the UNIX/Linux command line and Git version
+control during which we'll learn the basics of getting around using a
+command line shell and using Git to manage files. No prior experience
+is necessary.  We’ll download all the needed software and get it
+installed on our machines together, have some directed play on the
+command line, connect to a remote Git repository, and push a repo and
+commits to our own, remote Git repositories.  We’ll spend very little
+time talking about what’s under the hood or investigating the many
+powerful tools that Git offers for advanced users.  The workshop is a
+boots-on-the-ground, get your hands dirty practicum designed to get
+you up and running on your own computer and give you skills necessary
+to start using command line Git.  (Note: if you don’t know what the
+command line is, you should definitely take this workshop.) No
+previous programming or Unix command line experience is necessary.
+This is a hands-on workshop, so participants must bring a laptop on
+which they have administrative privileges (the ability to install
+software) to the workshop.
+</description>
+</item>
+
+
+<item id="HandsOnGit">
+<when>Friday, Feb. 3rd 12pm - 1.30pm</when>
+<where>360 Shields Library (DSI classroom)</where>
+<title>Text Mining Fundamentals</title>
+<description>
+This workshop will introduce basic concepts in text mining and Natural Language processing through discussion and hands-on coding of text processing functions that lay the groundwork for nearly all text mining processes.  No prior programming experience is necessary to take the workshop; however, familiarity with the command line and Git is a prerequisite.  (Participation in the January 20th workshop on command line and Git will prepare you well for this workshop.)  We'll code together as a group, leaving no text-miner behind.  Topics covered will include:  Word frequency analysis, basic chunking/tokenization, token distribution, and keyword in context (KWIC) analysis.  Please come to the workshop with a working R development environment and Git already installed and operational on your system.
+</description>
+</item>
+</done>
+
+
+<done>
+<item id="danstandage">
+<when>Friday, Oct. 7, 1pm - 2.30pm</when>
+<where>360 Shields Library (DSI classroom)</where>
+<title>Talk: Software tools and strategies or Scientific Software Development</title>
+<description>
+<p>
+Speaker: Daniel Standage, Postdoc in the Lab for Data Intensive Biology
+</p>
+<p>
+(Pizza will be provided.)
+</p>
+<p>
+Although scientists in many fields are relying increasingly on
+software for simulation, modeling, and data analysis, most scientists
+have little or no formal training in software development and
+engineering. Successfully managing a scientific software project
+doesn't require you to become a professional software engineer, but
+learning and using a handful of software development tools and
+strategies can make a huge difference in the accuracy and usability of
+the research software and in the efficiency of the software
+development process.
+</p>
+<p>
+In this presentation, we'll discuss tools (including version control,
+code hosting services) and strategies (including project organization,
+automated testing, pair programming, code review) that every coding
+scientist should know about, as well as some considerations about
+funding and credit that are unique to scientific software projects.
+</p>
+</description>
+</item>
+
+
+
+<item id="brainstormingSeminar1">
+<where>360 Shields Library</where>
+<when>Oct 12, 11.50 - 1pm</when>
+<title>Talk: Problem Solving in Data Sciences</title>
+<description>
+Nov. 3 <b>Thursday</b> (note the different day), Video-based quantification of anxious behavior in nonhuman primates, Prof. Andrew Fox, Psychology
+Oct. 19 (Wed), Field Sampling for Efficient Mapping of the Subsurface Geology, Prof. Jason Dejong, Civil and Env. Eng.
+Oct 12 (Wed), EXPLORER:  A Total-Body PET Scanner for Biomedical Research, Martin Judenhofer (and others),
+Biomed. Eng. 
+<p>
+Andrew is a new faculty member in Psychology and the California National Primate Research Center.
+Andrew will talk about programmatically scoring videos for events that are currently done manually by different
+people, with different results. So the idea is how to the content of a video of primates interacting
+and identify the different events of interest in a reliable way.
+</p>
+<p>
+This is just the kind of seminar you've always hoped would be held. Each seminar presenter will sketch out a current
+problem that they are working on, and seminar participants are expected to brainstorm with presenters on ways the
+problem could be tackled. Material from a variety of disciplines will be presented. The seminar is fun, enlightening,
+highly multidisciplinary and about
+work in progress.
+</p>
+<p>
+Future talks this quarter:
+<ul>
+<li>Oct. 19 (Wed), Field Sampling for Efficient Mapping of the Subsurface Geology, Prof. Jason Dejong, Civil and Env. Eng.</li>
+<li>Nov 30 (Wed), Finding Patterns in Media Framing of Policy Issues over Time, Prof. Amber Boydstun, Political Science</li>
+</ul>
+</p>
+</description>
+</item>
+
+
+
+<item>
+<title>Workshop: UNIX shell</title>
+<when>Thursday morning, Oct 6th</when>
+<where>1043 Valley Hall</where>
+<description><p>
+This half day workshop will provide an introduction to the bash shell.
+The shell is a very powerful tool for using scientific software and
+working with large data sets.  It is primarily used to manage files
+and run programs, and it allows for automation of repetitive tasks.
+</p>
+<p>For more information, to view the materials, and to register, please visit:
+<a
+    href="https://dib-training.readthedocs.io/en/pub/2016-10-06-shell-halfday.html">https://dib-training.readthedocs.io/en/pub/2016-10-06-shell-halfday.html</a>
+</p>
+</description>
+</item>
+
+
+
+
+<item id="academiccoordinator">
+<when>Ongoing</when>
+<title>Full-time Job: Academic Coordinator</title>
+<description>
+<p>
+<font color="red">If you are thinking of applying but unsure if you are an appropriate fit,
+please APPLY! We are ideally looking for unusual skills in one person and want to 
+interested people that have a PhD and high-level knowledge of data science concepts to apply.
+So don't eliminate yourself!</font>
+</p>
+
+<p>Academic Coordinator<br/>
+Data Science Initiative<br/>
+University of California, Davis
+</p>
+<p>
+The University of California, Davis, Data Science Initiative (DSI) is looking for an innovative, enterprising individual
+with a passion for bringing data science to researchers and students and developing programs to build and support a
+vibrant, multidisciplinary data science community and culture on campus. The Academic Coordinator will work closely with
+the DSI Directors to further develop and realize the goals and plans for the initiative and also to coordinate the many
+varied activities of the initiative. The incumbent will engage with researchers from across campus, identify
+collaboration opportunities, develop and manage projects, and organize research. The Academic Coordinator will play a
+significant role in planning the long-term structure of data science services on campus. She/he will also develop
+working relationships with industry affiliates and other institutions, including national laboratories.
+</p>
+<p>
+Salary: $64,920-$126,468 (Appointment rank and salary based on qualifications and experience).
+</p>
+<p>
+For additional details and information on how to submit an online application, please visit
+<a href="https://www.lib.ucdavis.edu/ul/about/jobs/dsi-academic-coordinator.php">https://www.lib.ucdavis.edu/ul/about/jobs/dsi-academic-coordinator.php</a>
+</p>
+<p>
+Candidates applying by October 12, 2016, will receive first consideration. The position will remain open until filled.
+</p>
+<p>
+UC Davis is an Affirmative Action/Equal Opportunity Employer.
+UC Davis is a smoke- and tobacco free campus effective January 1, 2014.
+</p>
+</description>
+</item>
+
+
+<item id="EntrepeneurDataSci">
+<title>Data Science in the Wild</title>
+<when>Mon, October 3rd, 1:00 pm – 3:00 pm</when>
+<where>Auditorium 1005, Genome and Biomedical Sciences Facility (GBSF)</where>
+<description>
+<para>
+Are you a postdoctoral researcher or PhD candidate looking to transition into a career in industry? Do you want a career
+that leverages your quantitative experience in a fast-growing and in-demand field?
+</para>
+<para>
+We invite you to attend an interactive workshop with Katie Amrine and Wafa Soofi, program directors and data scientists
+at Insight Data Science in Silicon Valley. The workshop will focus on the topic: "What makes a good data science
+project?"  We will also touch on general tips for preparing for a data science interview.
+</para>
+<para>
+Insight is an intensive, seven-week postdoctoral training fellowship that bridges the gap between academia and a career
+in data science. Based in Silicon Valley, Boston, and NYC, the program enables scientists to learn the industry specific
+skills needed to work in the growing field of big data at leading technology companies.
+</para>
+<para>
+This workshop is intended for anyone who is interested in data science; all backgrounds are welcome!  We have limited
+available seats. Please <a href="https://goo.gl/forms/j0mdLgTpY23z1zwk1">RSVP ASAP</a>. 
+</para>
+<para>
+Speakers: Katie Amrine, PhD and Wafa Soofi, PhD
+</para>
+<para>
+Sponsored by The Davis Postdoc Entrepreneurship and Career group (DPEC)
+</para>
+</description>
+
+</item>
+
+
+
+
+<item id="STSFac">
+<category>job</category>
+<title>Tenure-track faculty position in "Data Studies"</title>
+<description>
+Tenure-track faculty position in an emerging Data Studies minor program and research with Data Scientists.
+The position is expected to be 50% in Science &amp; Technology Studies (STS) and a new Data Science academic unit.
+<a href="https://recruit.ucdavis.edu/apply/JPF01228">job description and application</a>
+</description>
+</item>
+
+<item id="affiliates">
+<when>Ongoing</when>
+<title>Call for DSI postdoc/grad. student affiliates</title>
+<description>
+Apply to be a DSI affiliate to be part of a data science community.
+Those selected will be able to use the DSI office space and interact
+with others of a like mind across many disciplines.
+Apply <a href="https://docs.google.com/forms/d/18Tj5jMgueVm2eqfgxKh1AWxsNi3ZgoS-x7WribUzFj8/viewform">here</a>.
+</description>
+</item>
+</done>
+
+
+<done>
+<item id="hpcseminar">
+<when>Friday, 1.30-2.30, Sep. 30</when>
+<where>360 Shields Library, Data Science Initiative space</where>
+<title>Introduction to HPC/Cluster Computing Seminar<a href="hpc_seminar_flyer.pdf">flyer</a></title>
+<description>
+<p>
+Biweekly seminar on Fridays at 1:30-2:30 PM, starting September 30th.
+</p>
+<p>
+The seminar will be aimed at graduate students getting started in high performance computing and using HPC resources on
+the UC Davis Campus, but all members of the UC Davis Community are welcome to attend. Topics to be addressed include:
+SLURM (for submitting and managing jobs), Software Repositories and version control(GitHub), Makefiles, compiling code, optimizing
+code, profiling code... suggestions on other topics welcome.
+</p>
+<p>
+Please e-mail mibillen@ucdavis.edu for question AND to indicate intention to attend.
+</p>
+<p>
+Sponsored by Math and Physical Sciences (MPS) and the Data Science Initiative (DSI).
+</p>
+</description>
+</item>
+
+
+
+<item id="Fall16Courses">
+<title><a href="Courses.html#Fall16">Fall16 Topics Courses</a></title>
+<description>
+Topics courses in Data-Science related topics that might be of interest.
+</description>
+</item>
+
+
+
+<item id="iidata">
+<title>iidata Data Science Convention</title>
+<description>
+iidata, a full-day experience dedicated to promoting Data Science and Statistics, features many exciting events
+including tutorials/workshops, talks, competitions, research exhibition.
+See <ulink url="http://www.iidata.net/workshops/"/>
+</description>
+<when>May 21st</when>
+</item>
+
+
+
+<item>
+<title>Talk by Naoki Saito on an Approach for analyzing Term Document Matrices</title>
+<when>Tuesday, June 14rd,  11.30 - 12.45</when>
+<where>DSI seminar room, 360 Shields Library</where>
+<description>
+</description>
+</item>
+
+<item id="D3workgroup">
+<title>D3 work group</title>
+<when>Tuesday, June 14rd,  9am - 12</when>
+<where>DSI space, Shields Library</where>
+<description>
+We are meeting to discuss and hack on visualization and D3-related projects.
+</description>
+</item>
+
+<item id="D3materials">
+<title>D3 workshop materials</title>
+<description>
+<ulink url="http://dsi.ucdavis.edu/D3materials">Web page</ulink>
+and <ulink url="https://github.com/duncantl/D3materials">git repos</ulink>
+</description>
+</item>
+
+
+
+<item id="D3">
+<title>D3 Workshop</title>
+<when>Friday June 3rd,  9am - 12</when>
+<where>DSI seminar room, 360 Shields Library</where>
+<description>
+Register: <a href="https://docs.google.com/a/ucdavis.edu/forms/d/10cDnM12aphQODNpdB_02J8R4ie0P5SzDGAaKcChrCcA/viewform">here</a>
+<p>
+This short workshop will provide two things:
+1. a brief introduction to creating "canned" dynamic, interactive plots from R, and
+2. an overview of D3, its computational model, HTML, CSS, JavaScript and Web developer tools so that you can adapt D3
+plots to do new things or to new data, and create entirely new D3 displays yourself.
+This will quickly introduce you to the different technologies used in creating dynamic, interactive displays.
+</p>
+<p>
+If there is sufficient interest,  we can have a "hacking" or Q&amp;A session after the workshop to explore more details.
+Also, if participants want, this can be the catalyst to start a D3 "reading group".
+</p>
+<p>
+IMPORTANT, please sign up for the workshop if you intend to participate. Given the unusual timing (dead day), if there
+aren't enough people attending, we'll move it to another time.
+</p>
+</description>
+</item>
+
+
+
+
+ <item id="OfficeHoursCS">
+ <title>Drop-in Office Hours Tue 1.30 - 3pm</title>
+  <description>
+    Carl Stahmer (Director, Digital Scholarship &amp; Associate Director of the Data Science Initiative for Humanities)
+    will hold drop-in consulting/office hours.
+  </description>
+  <when>Tue 1.30 - 3pm</when>
+  <where>362 Shields Library</where>
+  </item>
+
+
+ <item id="OfficeHoursNA">
+ <title>Drop-in Office Hours Mon 1 - 3pm</title>
+  <description>
+    Nick Anderson (Associate Director of the Data Science Initiative for Health &amp; Assoc. Professor,  Department of
+    Public Health Sciences )
+    will hold drop-in consulting/office hours.
+  </description>
+  <when>Mon 1 - 3pm</when>
+  <where>362 Shields Library</where>
+  </item>
+</done>
+
+
+<done>
+<item id="DockerHW">
+<title>HackerWithin: Capturing software builds with Docker</title>
+<description>The next Hacker Within meetup topic is on "Capturing software builds with Docker" where Karen Ng,
+UCD Physics PhD Candidate, will give us an introduction.
+<p>
+<a href="http://www.thehackerwithin.org/davis/posts/docker">http://www.thehackerwithin.org/davis/posts/docker</a>
+</p>
+</description>
+<where>DSI, 360 Shields Library</where>
+<when>Thursday, April 14th 5.10pm - 7pm</when>
+</item>
+</done>
+
+<done>
+<item id="RFP">
+<when>Ongoing</when>
+<title>Call for 1- or 2- quarter Projects</title>
+<description>
+The DSI team will work with selected groups on projects that would significantly benefit
+from data science skills.
+See <a href="DSICallForProjects-1.pdf">here for more information</a> about how to apply.
+We will continue to accept proposals after April 1st.
+</description>
+</item>
+
+
+
+<item id="AdvBegPython">
+<title>Advanced Beginner Python</title>
+<where>1043 Valley Hall, UC Davis Campus</where>
+<when>April 4, 2016, 9 - 12.15</when>
+<description>
+<p>So you've written some Python code and it works! Now what?</p>
+<p>
+This half day workshop will explore "next steps" in Python
+programming -
+<ul>
+<li> reusing code by placing it in importable modules;</li>
+<li> code organization overall;</li>
+<li>handling command line arguments with argparse;</li>
+<li>simple testing strategies and tools, including code coverage;</li>
+<li>using virtualenv to install isolated collections of software on
+  shared machines;</li>
+</ul>
+Attendees should have some Python experience, but need not be experts.
+</p>
+</description>
+</item>
+
+
+
+<item id="beginGit">
+<title>Beginner Git</title>
+<description>
+<p>
+Description: Git and related systems are key for replicability when doing any kind of computational analysis. This
+introductory workshop will cover creating a repository, recording and viewing changes to files, ignoring files, working
+with GitHub online, resolving conflicts, open licenses, and where to host work.
+</p><p>
+This workshop will be taught remotely and broadcast to our classroom
+via Google Hangouts on Air. We will have helpers in our local room to
+facilitate the lesson. The lesson will also be streamed to YouTube and
+saved there for viewing at a later time.
+</p>
+<p>
+For more information, including VT information: http://dib-training.readthedocs.org/en/pub/2016-04-06-intro-git-br.html
+</p><p>
+Davis participants register here (only if planning to come to the classroom):
+https://www.eventbrite.com/e/introductory-git-version-control-your-workflow-tickets-24030735577
+</p>
+</description>
+<where>DSI classroom, 360 Shields Library</where>
+<when>April 6, 2016, 9 - 12.15</when>
+</item>
+
+
+
+
+<item id="cmdlineGit">
+<title>Ultra-Basic Introduction to the Command Line and Git</title>
+<when>April 8, 9 - 12</when>
+<description>
+Basic skills using the Unix/Linux command line and the Git version control system are prerequisite to the application of
+nearly all digital methods.  This workshop will offer a down and dirty, no holds barred introduction to both.  While
+both technologies are rich and multi-faceted, this workshop does not, by design, aim towards comprehensiveness nor
+complete mastery.   Rather, it is designed to introduce participants to a basic toolkit that will allow them to perform
+most tasks regularly required of beginning developers.
+</description>
+</item>
+
+
+
+<item id="googleEarthEngine">
+<title>Google Earth Engine</title>
+<when>April 8, 1 - 4.30</when>
+<description>
+<pre>
+1:10 – 2.00 PM: Introductory talk by Nick Clinton, Developer Advocate, Google Earth Engine
+2.30 – 4:30 PM: Hands-on workshop (RSVP required)
+</pre>
+Full event details: <a href="http://spatial.ucdavis.edu/google-earth-engine-workshop-at-uc-davis/">http://spatial.ucdavis.edu/google-earth-engine-workshop-at-uc-davis/</a>
+<br/>
+RSVP: Click <a href="https://docs.google.com/a/ucdavis.edu/forms/d/1quG7fGyArIwplq_eNXLzvtsdTJs-nkYkcnnWwOUBHQA/viewform">here to
+register</a>
+<br/>
+Sponsors: 
+<ul>
+<li>Center for Spatial Sciences</li>
+<li>Data Science Initiative</li>
+<li>Geography Graduate Group</li>
+</ul>
+Feel free to forward this invitation to any of your colleagues who may be interested.
+<p>
+If you have a question about the workshop please email Aniruddha Ghosh (anighosh@ucdavis.edu).
+</p>
+</description>
+</item>
+
+
+
+
+
+<item id="introTextMining">
+<title>Introductory Text Mining</title>
+<when>April 15, 9 - 12</when>
+<where>360 Shields Library, DSI seminar room</where>
+<description>
+An entry-level workshop that introduces key concepts in text mining and basic tools and programming skills needed to
+implement foundational methods.  In addition to examining what can and cannot be discovered through computational text
+analysis, a hands on component will include an introduction to the R programming language as well as coding some basic
+analysis functions including word frequency, token distribution, and key word in context.  Participants should must have
+a basic knowledge of the Unix/Linux command line and the Git version control system, but noprior programming experience
+is needed to successfully engage in the workshop. We will write code communally, one step at a time, as a way of
+introducing technical skills while achieving computational results.
+</description>
+</item>
+
+
+
+<item id="intermediateTextMining">
+<title>Intermediate Text Mining</title>
+<when>April 29, 9 - 12</when>
+<where>360 Shields Library, DSI seminar room</where>
+<description>
+This is mid-level workshop will introduce concepts that drive more advanced text mining methods and their
+implementation.  Through a mix of lecture and practicum, participants will learn about and implement methods such as
+stemming and lemmatization, segmentation, and term frequency-inverse document frequency analysis.  Workshop participants
+need not be proficient programmers, but should have experience using R to perform basic forms of analysis such as word
+frequency and key word in contect.  We will write code communally, one step at a time, as way of introducing technical
+skills while achieving computational results.
+</description>
+</item>
+
+
+
+<item id="advancedTextMining">
+<title>Advanced Text Mining</title>
+<when>May 27, 9 - 12</when>
+<where>360 Shields Library, DSI seminar room</where>
+<description>
+This workshop will take both a conceptual and practical deep dive into clustering and classification methods, broadly
+known as topic modeling.  We examine the application of a variety of Natural Language Processing (NLP) techniques,
+including a discussion of the statistical methods behind the curtain in order learn how and when to apply a particular
+method.  The workshop will involve both discussion and practical application.  Prior experience with R and intermediate
+text mining techniques is required. 
+</description>
+</item>
+
+
+
+<item id="IntimacyInterface">
+<title>Intimacy &amp; Interface: Software Prototyping for a New Media</title>
+<description>
+<p>This talk will explore the implications of "intimacy" and how it rubs against the dogma of automation in the computer
+science field. A selection of prototypes, work and sketches will be shown, re-imagining our relationship to archive and
+media, through a discussion about what it means to "interface" with the past, with the present, and with one
+another. Several audiovisual tools for analysis and exploration will also be shared and installed in the Digital
+Scholarship and Data Science Labs, for research uses within the campus community.
+</p>
+<p>
+Robert M. Ochshorn is a Berlin-based artist, programmer, and researcher developing media interfaces for extending human
+perceptive and expressive capabilities. Ochshorn has a computer science background and consults for the Communications
+Design Group (CDG) Lab in San Francisco, founded by Alan Kay and Bret Victor on the model of Xerox PARC. He has worked
+in the Interrogative Design Group at MIT and Harvard, and has held fellowships in the Design Department of Jan van Eyck
+Academie and the Akademie Schloss Solitude.
+</p>
+</description>
+<when>Thu, April 21st 2-4 p.m.</when>
+<where>DSI 360 Shields Library</where>
+</item>
+
+
+
+
+<item id="GeneExpressionR">
+<title>Differential Gene Expression using R</title>
+<when> April 27, 2016, 9:15 am - 12:15 pm PST</when>
+<who>Meeta Mistry</who>
+<where>DSI Space, UC Davis Campus</where>
+<description>
+<p>For RNA-seq data, the strategy taken is to count the number of reads 
+that fall into annotated genes and to perform statistical analysis on 
+the table of counts to discover quantitative changes in expression 
+levels between experimental groups. Easy, right? Not exactly.
+</p>
+
+<p>
+1. We have integer counts and not continuous measurements. Data is 
+not normally distributed, so statistical methods we applied to microarray 
+data don't work here.
+</p>
+<p>
+2. Replication levels in designed RNAseq experiments tend to be modest, 
+often not much more than two or three. As a result, there is a need for 
+statistical methods that perform well in small sample situations.
+</p>
+<p>
+3. There is a dependence of variance on the mean (which changes with increasing 
+number of replicates)
+</p>
+
+<p>
+Solution: Appropriate modeling of the mean-variance relationship in DGE data is 
+important for making inferences about differential expression. Employing methods 
+which assess the mean-variance relationship to help with the problem of estimating 
+biological variability for experiments with a small number of replicates.
+</p>
+
+<p>
+In this module, learners will use R Statistical Software to walk through activities 
+designed to compare the performance of different tools (edgeR, DESeq2, limma-voom) 
+for differential expression analysis of RNA-Seq data, and how the mean-variance 
+relationship is addressed in datasets with increasing number of replicates.
+</p>
+<p>
+This workshop will be taught remotely and broadcast to our classroom via Google 
+Hangouts on Air. We will have helpers in our local room to facilitate the lesson. 
+The lesson will also be streamed to YouTube and saved there for viewing at a later time.
+</p>
+<p>
+For more information, see: <a href="http://dib-training.readthedocs.org/en/pub/2016-04-27-diff-exp-br.html">http://dib-training.readthedocs.org/en/pub/2016-04-27-diff-exp-br.html</a>
+</p>
+<p>
+Davis participants register here (only if planning to come to the classroom):
+<a href="https://www.eventbrite.com/e/differential-expression-workshop-tickets-24603796618">https://www.eventbrite.com/e/differential-expression-workshop-tickets-24603796618</a>
+</p>
+
+<p>
+<b>Attendance policy:</b> 
+If you register for this workshop but cannot attend, please release your spot on 
+EventBrite or contact Jessica Mizzi (jessica.mizzi@gmail.com). If you register but 
+do not attend (which takes up a spot that could have gone to someone on our waitlist!), 
+you may not be able to register for future workshops.
+</p>
+</description>
+</item>
+
+
+
+
+
+<item id="OpenScience">
+<title>Open Science Framework Workshop</title>
+<description>
+There are many actions researchers can take to increase the openness and reproducibility of their work. Please join us
+for a workshop, hosted by the Center for Open Science, to learn easy, practical steps researchers can take to increase
+the reproducibility of their work. The workshop will be hands­ on. Using example studies, attendees will actively
+participate in creating a reproducible project from start to finish.
+<p> 
+Topics covered:
+<ul>
+<li>Project documentation</li>
+<li>Version control</li>
+<li>Pre-Analysis plans</li>
+<li>Open source tools, such as the Center for Open Science's Open Science Framework, which can be thought of as an
+electronic notebook that easily integrates the aforementioned concepts in a workflow.</li>
+</ul>
+</p>
+This workshop is aimed at faculty, staff, and students across disciplines, who are engaged in quantitative research. The
+workshop does not require any specialized knowledge of programming. Participants will gain a foundation for
+incorporating reproducible, transparent practices into their current workflows.
+</description>
+<when>May 4th, 9 am - 12 pm (morning session) or 1 pm - 4 pm (afternoon session)</when>
+<where>360 Shields Library, DSI seminar room</where>
+</item>
+
+
+
+<item id="hack4sac">
+<title>Hack4Sac data competition</title>
+<description>
+<a href="http://hack4sac.saccounty.net/">Hack4Sac data competition details</a>
+A 6 week event with multiple competitions for working with Sacramento's open data portal.
+</description>
+<when>Starts March 1</when>
+</item>
+
+
+
+<item id="Sphinx">
+<title>Sphinx, Webhooks, and Bitbucket workshop</title>
+<description>This workshop will cover using webhooks with Bitbucket to create Web sites that automatically update when
+you make changes in a Bitbucket repository. Sphinx and reStructuredText will be used to build the underlying Web site.
+This workshop will be taught remotely and broadcast to UC Davis via Google Hangouts. It will also be streaming on
+YouTube.
+Register at: 
+<a href="https://www.eventbrite.com/e/sphinx-webhooks-and-bitbucket-half-day-workshop-tickets-20041061354">https://www.eventbrite.com/e/sphinx-webhooks-and-bitbucket-half-day-workshop-tickets-20041061354</a>
+</description>
+<when>February 29th, 2016, 9:15 am - 12:25pm</when>
+<url>http://dib-training.readthedocs.org/en/pub/2016-02-29-sph-webh-bitb-lr.html</url>
+</item>
+
+
+
+<item id="AWS">
+<title>Amazon Web Services workshop</title>
+<description>Workshop on using Amazon Web Service for cloud computing.
+Amazon Web Services is one of a number of cloud computing services that offers “rental compute” - a way to buy compute
+time as you need it.  This is an increasingly common way for scientists to scale up their work, and it also has a number
+of benefits for reproducibility and teaching.
+<br/>
+This tutorial will introduce people to using Amazon Web Services to run programs on a Linux computer rented through
+their Web interface (“EC2”). I’ll demonstrate the basic process, discuss different options and pricing schemes, and
+cover the use of AWS disk storage. I’ll also demonstrate S3 (Simple Storage Service) which is a way to store and
+distribute large files.
+<br/>
+Attendees will need to pay their own AWS costs - it will be less than $5 total for the workshop. You will need a
+reasonably modern computer and there will be some software to pre-install (but not much).
+<br/>
+This workshop will be taught locally at UC Davis and broadcast via Google Hangouts on Air/YouTube for those who wish to
+participate remotely.
+<br/>
+This workshop is open to everyone, including graduate students,
+postdocs, staff, faculty, and community members.
+<br/>
+Register at:
+<a href="https://www.eventbrite.com/e/amazon-web-services-tickets-21073317861">https://www.eventbrite.com/e/amazon-web-services-tickets-21073317861</a>
+</description>
+<when>March 7, 2016 9.15am - 12:25pm</when>
+<url>http://dib-training.readthedocs.org/en/pub/2016-03-03-aws-br.html</url>
+</item>
+
+
+
+<item id="HackerWithin">
+<title>HackerWithin series, 5 - 6.45pm, 11th February 360 Shields</title>
+<description>
+Mike Hannon on Git Internals &amp; 2 lightning talks
+<br/>
+Jason Moore, Richard Feltstykket and the DSI are starting
+a set of tutorials and get-togethers related to scientific computing &amp; data technologies. 
+We encourage people to attend and also to volunteer to give talks/tutorials
+on interesting topics.  See <a href="http://www.thehackerwithin.org/davis/posts/git-internals">http://www.thehackerwithin.org/davis/posts/git-internals</a>.
+</description>
+</item>
+
+
+
+
+
+
+<item id="titusAdvShell">
+<title> Advanced Beginner Shell workshop, January 13</title>
+<description>
+Advanced Beginner Shell
+<p>
+Who: Titus Brown<br/>
+When: January 13, 2016<br/>
+Times: 9:15am-12:15pm<br/>
+Where: Valley Hall, UC Davis campus. (Room TBD)
+</p>
+<p>
+This half-day workshop will continue from the end of the Beginning Shell lesson
+(see materials here: https://github.com/ngs-docs/2015-shell-genomics/blob/gh-pages/README.rst).
+We will cover loops, if statements, scripting, and I/O redirection (&gt;, &lt;, etc.).
+We will also talk a bit about how to put together shell scripts for job submission
+on queuing systems (`qsub' etc.).
+</p>
+<p>
+This workshop is open to everyone, including graduate students,
+postdocs, staff, faculty, and community members. We have reserved
+space for UC Davis VetMed affiliates; please contact the lead
+instructor if you are affiliated with the SVM.  These spaces will
+be released a week before the workshop.
+</p>
+<p>
+More at:
+<a  href="http://dib-training.readthedocs.org/en/pub/2016-01-13-adv-beg-shell.html">http://dib-training.readthedocs.org/en/pub/2016-01-13-adv-beg-shell.html</a>
+</p>
+</description>
+</item>
+
+
+
+
+<item id="SoftwareCredit">
+<title>Crediting Software for Science: Scholarship beyond the research article</title>
+<rsvp>events@geodynamics.org</rsvp>
+<when>Monday, June 1, 11:30am - 1:30pm</when>
+<where>Library Instruction Room (LIR), 205, Shields Library</where>
+<description>
+What do you do to promote software citation in your scientific community? <br/>
+We invite you to come together with other investigators on campus spanning the rich diversity of campus research in addressing this question. The goal of this brown box lunch is to create a campus community of and start a conversation amongst research software developers to share practices and needs in the area of software citation.  The luncheon will open with a lightening round of introductions from all participants which we hope will invigorate both large and small group discussion over an informal lunch.
+</description>
+
+</item>
+
+
+
+
+
+<item id="BrownBag">
+ <title>Informal Brainstorming Problem Solving Talk Tue. May 12th 12 - 1pm</title>
+ <description>Cody Ross, Anthropology UCD &amp; Santa Fe Institute.
+<br/>
+Aficionados of the game of Chess have compiled and digitized millions of top-level professional games over the last 40 years. Such data provide an unprecedented record of individual-level information on human behavior, cultural norms, and the dynamics underlying their change. I'll talk about challenges in the application of Bayesian methods to very large datasets like the EvoChess database I have released on GitHub.
+</description>
+ <when>Tuesday May 12th 12 - 1pm</when>
+ <where>Library Instruction Lab, 165 Shields Library</where>
+</item>
+
+
+
+
+<item id="BrownBag2">
+ <title>Informal Brainstorming Problem Solving Talk Thu. May 28th 12 - 1pm</title>
+ <description>Graham Coop, Evolution &amp; Ecology UCD.
+<br/>
+Large amounts of population genomic data are now being generated for many individuals across many species. This offers a great opportunity to learn about the geographic properties of genetic variation. I'll talk about both opportunities and problems arising from the application of spatial statistics to population genomics data.
+</description>
+ <when>Thursday May 28th 12 - 1pm</when>
+ <where>Library Instruction Lab, 165 Shields Library</where>
+</item>
+
+
+
+<ignore>
+<old>
+<item id="LLNLInterns">
+<title><a href="http://careers-ext.llnl.gov/jobs/4421119-computation-student-intern--2">Computational internships at Lawrence Livermore National Lab</a></title>
+<description>
+<a href="http://careers-ext.llnl.gov/jobs/4421119-computation-student-intern--2">Computational internships at Lawrence Livermore National Lab</a>
+There are openings for projects related to high-performance computing and / or data analysis.
+The application should be turned in late Jan / Feb 2016 for the best chance of acceptance.
+</description>
+</item>
+</old>
+</ignore>
+
+
+<!--
+<item id="DSSG">
+<title><a href="http://dssg.uchicago.edu">UC Chicago's Data Science for Social Good</a> summer program</title>
+<description>
+Applications for the Summer 2016 program are due Feb 1, 2016
+</description>
+</item>
+-->
+
+
+
+
+<item id="VizWorkshopNotes">
+<html>
+<a href="http://datascience.ucdavis.edu/NSFWorkshops/Visualization">Materials from Data Visualization Workshop</a>
+</html>
+<title>Materials from Data Visualization Workshop</title>
+<description>
+Slides, Annotated documents, Videos, screencasts from the Data Visualization Workshop,
+April 25th, 2015.
+</description>
+<url label="Materials">http://datascience.ucdavis.edu/NSFWorkshops/Visualization</url>
+</item>
+
+
+
+<item id="ISSLaunch">
+<title>ISS 3-part Conference</title>
+<description>
+The Institute for Social Sciences is holding its inaugural conference
+on three consecutive Fridays, starting 24th April.
+</description>
+<when>Each Friday 24th April, May 1 and 8.</when>
+<url label="Web site">http://socialscience.ucdavis.edu/events/iss-conference</url>
+</item>
+
+
+
+<item id="VizWorkshop">
+<title>Visualization Workshop</title>
+<description>1-day workshop on visualization with R and Web Technologies, co-funded with NSF and ISS.
+Information <a href="http://datascience.ucdavis.edu/NSFWorkshops/Visualization.html">here</a></description>
+<when>April 25th, 9.45 - 4.30</when>
+<where><ulink url="http://campusmap.ucdavis.edu/">Medical Science C</ulink>, UC Davis</where>
+<url>http://datascience.ucdavis.edu/NSFWorkshops/Visualization.html</url>
+</item>
+
+
+
+<item id="MemeCentralAd">
+<title>RA Position, Summer 2015</title>
+<description>
+<html>
+Graduate Student Summer Research Opportunity
+<p>
+A graduate student researcher is being sought for 2 to 2.5 months during summer 2015 to work on a project titled, "Music-evoked remembering in the age of Big Data." The project is being supervised by Dr. Petr Janata (Psychology) in association with Drs. Duncan Temple Lang (Statistics), Raul Aranovich (Linguistics), and Arne Ekstrom (Psychology). 
+</p>
+<p>
+<a href="http://socialscience.ucdavis.edu/research/music-evoked-remembering-in-the-age-of-big-data">Project Description</a>
+</p>
+
+<p>
+The project combines psychology, neuroscience, linguistics, statistics, and computer science.  We are seeking a student who can contribute to the technical core of the project, which has social media, semantic web, and neuroimaging components. The successful candidate will have skills that cover some number of the following programming and query languages, protocols, and toolkits: Python, JavaScript,  R, MATLAB, RDF/RDFS/OWL, SPARQL, Prolog, nltk, TXM, and d3.  Experience working in the Amazon Web Services environment is desirable but not required.  Excellent programming and documentation practices are mandatory.
+</p>
+<p>
+To apply, please submit a letter of interest to pjanata@ucdavis.edu that states why you are interested in this project and how it interfaces with your current or future research interests.  Enumerate your relevant skills.  Indicate your availability between the end of Spring Quarter 2015 and the start of Fall Quarter 2015.
+</p>
+<p>
+All applications received by the end of the day, Friday, May 1, 2015, will be considered.
+</p>
+<p>
+For more information, please contact Petr Janata (pjanata@ucdavis.edu)
+</p>
+</html>
+</description>
+</item>
+
+
+
+
+
+
+<item id="ScrapingWorkshopNotes">
+<html>
+<a href="http://datascience.ucdavis.edu/NSFWorkshops/WebScraping">Materials from Web Scraping &amp; Services Workshop</a>
+</html>
+<title>Materials from Web Scraping &amp; Services Workshop</title>
+<description>
+Slides, Annotated documents, Videos, screencasts from the Web Scraping &amp; Web Services Workshop,
+April 4th, 2015.
+</description>
+<url label="Materials">http://datascience.ucdavis.edu/NSFWorkshops/WebScraping</url>
+</item>
+
+
+
+<item id="ScrapingWorkshop">
+<title>Web Scraping &amp; Web Services Workshop</title>
+<description>1-day workshop on scraping data from Web pages and accessing Web services with R, co-funded with NSF and ISS.
+Information <a href="http://datascience.ucdavis.edu/NSFWorkshops/WebScraping.html">here</a></description>
+<when>Saturday, April 4th, 9.45 - 4.30</when>
+<where>Student Community Center, Multi-purpose Room</where>
+<url>https://docs.google.com/a/ucdavis.edu/forms/d/1v25EijG5Z3AuQPyG2P5yjRj5v_hfvaiXeRgt0kDJREk/</url>
+</item>
+
+
+</done>
+
+
+<!--
+<item id="STA101">
+<title>Statistics/Data Science Course in Spring - STA242</title>
+<description>
+Data Science Computing topics. (R, computational efficiency, parallel computing, interfacing to C, 
+shell filtering, Hadoop, statistical methods). Instructor: Duncan Temple Lang
+</description>
+<when>9 - 10.50, Tuesday &amp; Thursday, Spring Quarter</when>
+</item>
+
+
+<item id="STA101">
+<title>New Statistics Course in Spring - STA101</title>
+<description>
+There is a new course being taught in Statistics this Spring Quarter, STA101
+</description>
+<when>Spring Quarter</when>
+</item>
+-->
+
+<!-- 
+<item id="Workday">
+<title>Liang Huang, Data Scientist</title>
+<description>What data science is all about at Workday.
+<ulink url="https://www.facebook.com/events/932958976754124/"/></description>
+<when>Tuesday, Mar 10, 2015, 7:00 pm - 8:30pm</when>
+<where>Giedt Hall, Room 1006</where>
+</item>
+
+
+
+
+<item id="CSISPlantin">
+<title>CSIS: Seminar Jan 27th</title>
+<description>
+More Data, More People, More Conflicts. The Power of Visualization Technologies in a Big Data Era.
+<i>Jean-Christophe Plantin</i>,  Communication Studies Department, U Michigan</description>
+<when>Tuesday January 27th from 4:10 - 5:30 PM </when>
+<where>126 Voorhies</where>
+</item>
+
+<item id="PlantSciMa">
+<title>Plant Sciences Seminar: Jan 28</title>
+<description>From "Big Data" to biological pathways - gene networks and protein microarrays to understand plant signaling systems.
+<i>Shisong Ma</i>, Dinesh-Kumar Lab, UCD.  </description>
+<when>Wednesday, Jan. 28, 12:10 – 1:00</when>
+<where>PES 3001</where>
+</item>
+
+
+ <item id="LLNLSymposium">
+  <title>Joint Davis &amp; LLNL Data Science Symposium &amp; Reception</title>
+  <description></description>
+  <when>December 3rd, 3 - 6pm  including reception</when>
+  <where>Genome Center Auditorium (1005), UC Davis</where>
+  <description>
+    Learn about Data Science activities at UC Davis and LLNL
+       and opportunities for collaboration and internships.
+      <ul>
+	<li> Overview of Data Science at Davis and LLNL - Patrice Koehl and Jim Brase</li>
+	<li> Opportunities for Internship at LLNL</li> 
+	<li> 4 short Data Science Research talks <br/>
+	       Ilias Tagkopoulos and Carl Stahmer from Davis
+	       and 2 speakers from LLNL (TBA).
+         </li>
+      </ul>
+  </description>
+  <link></link>
+  <guid></guid>
+  <pubDate></pubDate>
+ </item>
+-->
+
+<!--
+ <item id="DataRights">
+  <title>Data Rights &amp; Data Wrongs</title>
+  <html><a href="Events.html#DataRights">Data Rights &amp; Data Wrongs!</a></html>
+  <when>Wednesday, December 10, 2014</when>
+  <url>https://www.eventbrite.com/e/data-rights-data-wrongs-tickets-14079810091</url>
+  <description>
+   A workshop organized by Innovating Communication in Scholarship (ICIS), University of California, Davis.
+  </description>
+ </item>
+
+
+ <item id="TownHall">
+  <title>Data Science Town Hall Discussion</title>
+  <description>
+   We invite faculty, researchers, postdocs and grad students with any interest
+   in Data Science on campus to participate in a discussion about what
+   the Data Science Initiative can do to foster and promote an inter-disciplinary community
+   and its activities.  We really want to hear your suggestions and priorities.
+   This will be held in the Nelle Branch room on the 2nd floor of Shields Library.
+   <a href="http://www.lib.ucdavis.edu/ul/about/locations/?map=shields-floor-2">map</a>
+  </description>
+  <when>January 13th,  12 - 1.15 (lunch provided)</when>
+  <url davisOnly="true">https://docs.google.com/a/ucdavis.edu/forms/d/1L_3xzhcsawWX5D-H9NYYl2Xgx43UiWtY0BzljPOlF1c/viewform?usp=send_form</url>
+  <where></where>
+ </item>
+-->
+
+<!--
+ <item id="OfficeHours">
+ <title>Drop-in Office Hours</title>
+  <description>
+    Carl Stahmer (Director of Digital Scholarship) &amp;
+    Duncan Temple Lang (Interim Director of the Data Science Initiative &amp; Professor, Dept. of Statistics)
+  will hold drop-in consulting/office hours on all things  Digital  and Data Science (Statistics, Applied Computing, Visualization, Workflows, Reproducability, ...).
+   Stop by or, better yet, <a href="mailto:datascience@ucdavis.edu">email us</a> ahead of time.
+  </description>
+  <when>Each Thursday, 10 - 11am</when>
+  <where>Room 362a, Shields Library (follow signs for the old Inter Governmental Affairs space)</where>
+  <period>January 22nd - March 19th</period>
+ </item>
+-->
+
+<!--
+
+ <item id="PythonMiniCourse">
+  <title>Python for Data Analysis Mini-course</title>
+  <description>
+This mini-course is primarily intended for statistics students, but open to others as space permits.
+We will meet twice a week for 4 weeks.
+PhD graduate students Clark Fitzgerald and Nick Ulle will be the primary instructors,
+with support from Profs. Duncan Temple Lang and Wolfgang Polonik.
+This is sponsored jointly by the Statistics <a href="http://www.stat.ucdavis.edu/research/nsf-rtg/index.html"><b title="Research Training Grant">RTG</b></a> and
+the Data Science Initiative.
+  </description>
+  <when>Tuesday &amp; Thursday,  2 - 3.30 </when>
+  <where>Math Sciences Building, 1147</where>
+  <period>Jan 13th - Feb 5th</period>
+  <url>https://docs.google.com/forms/d/1oPzK1PwbyoonaSiPOAvHqwKe7uDOYoDP95TVw8GBppA/viewform?usp=send_form</url>
+ </item>
+
+ <item id="BrownBagSeminar">
+  <title>Brown Bag Seminar</title>
+  <when>Winter Quarter</when>
+ </item>
+-->
+<!--
+ <item id="Workshop">
+  <title>Workshop</title>
+  <when>Winter Quarter</when>
+ </item>
+-->
+ 
+</channel>
+</rss>
