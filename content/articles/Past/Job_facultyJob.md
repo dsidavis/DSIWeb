@@ -1,4 +1,4 @@
-Title: Tenure-track faculty position in "Data Studies"
+Title: Tenure-track faculty position in Data Studies
 Tags: Job
 Category: Job
 
