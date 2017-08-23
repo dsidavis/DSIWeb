@@ -84,7 +84,7 @@ getFileInfo =
 function(src = "build/filemap.html", lines = readLines(src, warn = FALSE))
 {
     i = grep("^# (START|END)$", lines)
-    txt = lines[seq(i[1], i[2])]
+    txt = lines[seq(i[1]+1, i[2]-1)]
     con = textConnection(txt)
     d = read.table(con, sep = ";", header = TRUE, stringsAsFactors = FALSE)
     d$path = gsub(".*/content/", "content/", d$path)
