@@ -90,3 +90,32 @@ function(src = "build/filemap.html", lines = readLines(src, warn = FALSE))
     d$path = gsub(".*/content/", "content/", d$path)
     d
 }
+
+
+
+readArticleInfo =
+function(ff = getArticleFiles(), arts = lapply(ff, readArticle), pinfo = getFileInfo())
+{
+
+    dt = sapply(arts, `[[`, "Date")
+    dt = as.POSIXlt(d <- parseDate(dt))
+    info = data.frame(date = d, year = 1900 + dt$year, month = dt$mon, 
+                      day = dt$mday, dow = dt$wday, yday = dt$yday,
+                      file = ff, stringsAsFactors = FALSE)
+
+    qt = sapply(arts, `[[`, "Quarter")
+    info$quarter = sapply(qt, function(x) if(is.null(x)) NA else x)
+
+    w = is.na(info$quarter)
+    info$quarter[w] = computeQuarter(info[w,])
+
+    info$title = sapply(arts, `[[`, "Title")
+    info$tags = sapply(arts, `[[`, "Tags")
+    info$category = sapply(arts, getCategory)
+
+    info$slug = sapply(arts, getSlug)
+
+    info$.build_file = pinfo$saveas[ match(info$file, pinfo$path) ]
+
+    info
+}
