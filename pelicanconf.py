@@ -134,9 +134,10 @@ MENUITEMS = [
     ]),
     ('Events', [
         ('Announcements', 'category/recent.html'),
-        ('Past Events', 'category/past.html'),
         ('Workshops/Training', 'workshops.html'),
-        ('Calendar', 'calendar.html')
+        ('Calendar', 'calendar.html'),
+        ('Past Events', 'category/past.html'),
+        ('Categories', 'categories.html')        
     ]),
 #    ('News', ''),
     ('People', [
