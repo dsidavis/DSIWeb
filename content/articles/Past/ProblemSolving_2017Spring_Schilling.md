@@ -1,4 +1,4 @@
-Title: Talk Series: Problem Solving with Data Science
+Title: Unique IDs, unique observations, and universal data management
 Authors: DSI
 Date: 2017-05-30
 Time: 12:00

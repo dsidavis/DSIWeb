@@ -1,4 +1,4 @@
-Title: Talk Series: Problem Solving with Data Science
+Title: Data bodies at play - Analyzing the human movement and sound captured by a video game
 Authors: DSI
 Date: 2017-05-23
 Time: 12:00
