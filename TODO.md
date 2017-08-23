@@ -88,6 +88,7 @@ Write or edit/complete
    different aspects.
     So show research, collaboration, software, training, academic programs, affiliates, etc. as nodes.
 
+
 #### Done
 1. [done] FAQ
     + [done] change "rooms"
@@ -126,14 +127,16 @@ merge all calendars of events.
    + [done] Unlink the opportunities   
 
 
-# [OKAY] Affiliates  content/affiliates.md -
-   + Grid layout?
+# Affiliates  content/affiliates.md -
+   + Grid layout? PLR - looks fine as is, I'd leave it as a list.
    + Blurb has a "read more" to expand inline, or a popup or bring to a different page.
-
+   + Check why photos of Shaun Geer, Ehsan Gholami, Luiz Carlos Irber, Eric Kalosa-Kenyon, Nicholas Ellinwood, Yuefeng Liang, Ryan Peek, Abbie Poppa, Lida Anita To, Nick Ulle, Ken Wang, and Ismail not showing up. (Filenames are ex: ShaunGeer_c.jpg) .
+   + get rid of  word "postdoc, " before "Visiting postdoc" 
    + [done] Single colun layout
    + [done] Automate the page generation.
    + [done] fix the errors.
-
+   + PLR needs to get blurbs and photos from the most newly admitted affiliates (Julie, etc.).
+   + Add Alumni section???
 
 
 # Miscellaneous
