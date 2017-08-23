@@ -1,7 +1,7 @@
 Title: DSI Hackathon September 2016
 Category: Hackathon
 Tags: Hackathon
-Date: 2016/9/9
+Date: 2016-9-9
 
 
 A couple of the DSI affiliates will gather for a mini hack day to work on 

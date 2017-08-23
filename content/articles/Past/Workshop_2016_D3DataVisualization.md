@@ -3,7 +3,6 @@ Date: 2016-06-03 17:06
 Tags: Workshop, Tutorial, R, D3.js, Data Visualization
 Category: Workshop
 
-*Event date:* Tuesday, June 14th, 9 am - 12 pm     
 *Location:* [DSI workspace, 360 Shields Library]({filename}../../directions.md)     
 *Lecturer:* Duncan Temple Lang, Director of the DSI   
 
@@ -21,5 +20,5 @@ IMPORTANT, please sign up for the workshop if you intend to participate. Given t
 aren't enough people attending, we'll move it to another time.
 
 
-Link to the [workshop materials](http://dsi.ucdavis.edu/D3materials/).   
-Link to the [GitHub repository](https://github.com/duncantl/D3materials).   
+Link to the [workshop materials](http://dsi.ucdavis.edu/D3materials/). 
+Link to the [GitHub repository](https://github.com/duncantl/D3materials). 

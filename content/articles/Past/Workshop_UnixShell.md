@@ -3,7 +3,7 @@ Tags: Workshop
 Quarter: Fall
 Date: 2016-10-6
 Category: Workshop
-DSI: false
+dsi: false
 
 __Venue__: 1043 Valley Hall   
 __Date__: Thursday 9:15am-12:15 pm, Oct 6th   

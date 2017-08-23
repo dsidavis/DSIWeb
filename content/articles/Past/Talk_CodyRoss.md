@@ -1,6 +1,6 @@
 Title: Analyzing the EvoChess Databases
 Date: 2015-5-12
-Cateogry: Talk
+Category: Talk
 Tags: Talk, BrownBag
 
 
