@@ -4,9 +4,9 @@ Tags: CFP
 Category: CFP
 nonews: true
 
-###**Call for Collaborative Data Science Projects**
+#Call for Collaborative Data Science Projects
 
-##*Is there a data-driven research project you’d love to pursue but feel limited because you don’t have the skills to get or work with the data?
+*Is there a data-driven research project you’d love to pursue but feel limited because you don’t have the skills to get or work with the data?
 If so, the Data Science Initiative (DSI) at UC Davis might be able to help.*
 
 
@@ -19,13 +19,13 @@ _**Your challenge**_ is to propose a novel, short-term project (1-3 quarter long
 We seek projects that would not happen without either a mix of disciplines or different skillsets. Projects can range from shaping a new, ambitious research direction, to adding the necessary skills to complete an existing vision, or leveraging advanced technical know-how to overcome obstacles in existing projects. Successful projects have included concrete plans for completing a new or existing project, as well as more vague but compelling project ideas with clear goals for development of feasible, fundable grant proposals. Projects may involve (but are not limited to): 
 
 
-..*	applying statistical machine learning to a novel problem, 
-..* developing a non-trivial data analysis or workflow pipeline,
-..* making computations feasible by significantly improving performance,
-..* developing new software for data analysis, visualization or simulation,
-..* publishing data via an API,
-..* integrating valuable complex data sets,
-..* scoping and planning ambitious new data-driven research.
+* applying statistical machine learning to a novel problem, 
+* developing a non-trivial data analysis or workflow pipeline,
+* making computations feasible by significantly improving performance,
+* developing new software for data analysis, visualization or simulation,
+* publishing data via an API,
+* integrating valuable complex data sets,
+* scoping and planning ambitious new data-driven research.
 
 
 _**We want to work with you.**_ These are collaborative projects, with the intensity of the collaboration dictated by the nature of your research challenges. The skills the DSI offers range across the entire data science pipeline, including:
@@ -33,12 +33,12 @@ _**We want to work with you.**_ These are collaborative projects, with the inten
 
 ..* data acquisition, cleaning, record matching (Web scraping, database queries, extraction),
 ..* exploratory data analysis & visualization,
-..* statistical/machine learning and modeling,
-..* text mining and natural language processing,
-..* scaling computations and high-performance computing,
-..* data technologies,
-..* presentation visualization,
-..* software engineering.
+* statistical/machine learning and modeling,
+* text mining and natural language processing,
+* scaling computations and high-performance computing,
+* data technologies,
+* presentation visualization,
+* software engineering.
 
 
 The data for the project may come from your own work, from combining different available sources of data, and/or from simulations. For examples of prior and ongoing collaborative projects, see our [Collaborations](http://dsi.ucdavis.edu/collaboration.html) page.
@@ -47,7 +47,7 @@ The data for the project may come from your own work, from combining different a
 _**We expect**_ you to regularly meet with us, participate in DSI events (seminars, workshops), engage with our affiliates program, and spend time working in the DSI space. This is a terrific opportunity to exchange interdisciplinary ideas and learn new methods, technologies, skills and perspectives for all concerned. With several different projects evolving simultaneously, we will create a stimulating, multi-disciplinary short-term home for your group to engage within the larger data science community on campus.
 
 
-###How to Apply
+##How to Apply
 
 Interested researchers from all disciplines and backgrounds should apply, regardless of their technical skills. The key is collaboration, where the combination of a good research question and skills between your team and ours makes the projects possible. Campus centers and institutes are also eligible to apply.
 
@@ -68,7 +68,9 @@ The initial proposal (**3 pages or less**, not including CVs) should:
 For first consideration, [email us](mailto:datascience@ucdavis.edu) with the subject “DSI Project Proposal” **by September 27th, 2017**. You are welcome to contact us in advance of the deadline to discuss your proposal ideas.
 
 
-**What happens next?** Finalists will be invited to present at our fall “Problem Solving with Data Science” un-Seminar series (Tuesdays noon-1pm; October 10-December 12). These are informal, flipped design talks where speakers rapidly (< 15 minutes) outline their research challenges followed by audience brainstorming of solutions. This is an excellent way to get immediate feedback on your research and has helped to solve some research challenges on the spot. _**All finalist are strongly encouraged to attend the entire talk series, which is open to the entire UC Davis community.**_ The DSI will onboard a selected set of proposed projects in 2018.
+##What happens next?
+
+Finalists will be invited to present at our fall “Problem Solving with Data Science” un-Seminar series (Tuesdays noon-1pm; October 10-December 12). These are informal, flipped design talks where speakers rapidly (< 15 minutes) outline their research challenges followed by audience brainstorming of solutions. This is an excellent way to get immediate feedback on your research and has helped to solve some research challenges on the spot. _**All finalist are strongly encouraged to attend the entire talk series, which is open to the entire UC Davis community.**_ The DSI will onboard a selected set of proposed projects in 2018.
 
 
 
