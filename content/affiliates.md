@@ -145,7 +145,7 @@ graduate student, Statistics. <br/>
 Clark is working on improving R through parallel computing. He'd like to learn about interesting applications and related data sets.
 
 
-<img src="images/incognito.png" title="scgeer@ucdavis.edu"></img>
+<img src="images/Affiliates_pics/ShaunGeer_c.jpg" title="scgeer@ucdavis.edu"></img>
 <a href="scgeer@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://sociology.ucdavis.edu/people/scgeer">Shaun Geer</a>
 graduate student, Sociology <br/>
@@ -163,7 +163,7 @@ graduate student, Physics <br/>
 Adam has a general background in information technology and programming experience (C++, Python, C#, Lisp, Clojure, and F#, among others). Adam has experience with running MCMC (Monte Carlo Markov Chain) and related methods. Adam wants to learn R and more statistics, data science methods, and anything else related to collating/analyzing large data sets.
 
 
-<img src="images/incognito.png" title="egholami@ucdavis.edu"></img>
+<img src="images/Affiliates_pics/EhsanGholami_c.jpg" title="egholami@ucdavis.edu"></img>
 <a href="egholami@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.ece.ucdavis.edu/">Ehsan Gholami</a>
 graduate student, Electrical and Computer Engineering <br/>
@@ -239,7 +239,7 @@ He uses R to work with the Soil Survey Geographic Database (SSURGO), the most co
 Scott wants to learn advanced programming and the skills to work with challenging and complex data sets, many of which have spatial and temporal dimensions.
 
 
-<img src="images/incognito.png" title="nellinwood@ucdavis.edu"></img>
+<img src="images/Affiliates_pics/NicholasEllinwood_c.jpg" title="nellinwood@ucdavis.edu"></img>
 <a href="nellinwood@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.ucdmc.ucdavis.edu/pharmacology/">Nicholas Ellinwood</a>
 graduate student, Pharmacology and Toxicology <br/>
@@ -305,7 +305,7 @@ He is exploring the advancements of deep learning in the field of computer visio
 He wants to learn all the cool things my other colleagues at DSI can offer. On a technical level, Ismail wants to get involved in open source development in Artificial Intelligence/Deep learning.
 
 
-<img src="images/incognito.png" title="rapeek@ucdavis.edu"></img>
+<img src="images/Affiliates_pics/RyanPeek_c.jpg" title="rapeek@ucdavis.edu"></img>
 <a href="rapeek@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="ryanpeek.github.io">Ryan Peek</a>
 graduate student, Ecology <br/>
@@ -324,7 +324,7 @@ He recently uploaded his dissertation data to postgres, and conducted user analy
 Ryan wants to engage with like-minded data scientists and continue to learn about the latest advances in the field.
 
 
-<img src="images/incognito.png" title="ampopa@ucdavis.edu"></img>
+<img src="images/Affiliates_pics/AbbiePopa_c.jpg" title="ampopa@ucdavis.edu"></img>
 <a href="ampopa@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="www.linkedin.com/in/abbiepopa">Abbie Popa</a>
 graduate student, Neuroscience <br/>
@@ -363,7 +363,7 @@ Ozan is working on data analysis and visualization via interactive platforms, de
 He wants to learn about deep learning and its applications in the high dimensional time series prediction problems, and improve his python coding skills
 
 
-<img src="images/incognito.png" title="LATO@ucdavis.edu"></img>
+<img src="images/Affiliates_pics/LidaAnitaTo_c.jpg" title="LATO@ucdavis.edu"></img>
 <a href="LATO@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://lidaanitato.org">Lida Anita To</a>
 graduate student, Integrative Genetics & Genomics <br/>
