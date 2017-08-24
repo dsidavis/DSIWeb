@@ -3,17 +3,11 @@ Author: DSI UC Davis
 
 # DSI Administration
 
-* Director: __[Duncan Temple Lang][]__  
-  (Professor, Statistics)
-* Associate Director for Health Sciences: __[Nick Anderson][]__  
-  (Associate Professor, School of Medicine)
-* Associate Director for Humanities: __[Carl Stahmer][]__  
-  (Director of Digital Scholarship, UC Davis Library)
+* Director: __[Duncan Temple Lang](http://www.stat.ucdavis.edu/~duncan)__  (Professor, Statistics)
+* Associate Director for Humanities: __[Carl Stahmer](http://www.carlstahmer.com/)__   (Director of Digital Scholarship, UC Davis Library)
+* Associate Director for Health Sciences: __[Nick Anderson](http://www.ucdmc.ucdavis.edu/publish/providerbio/search/11634)__  (Associate Professor, School of Medicine)
 * Academic Coordinator: __[Pamela Reynolds](mailto: plreynolds@ucdavis.edu)__
 
-[Duncan Temple Lang]: http://www.stat.ucdavis.edu/~duncan
-[Nick Anderson]: http://www.ucdmc.ucdavis.edu/publish/providerbio/search/11634
-[Carl Stahmer]: http://www.carlstahmer.com/
 
 # Postdoctoral Scholar
 * __[Matthew Espe](mailto: mespe@ucdavis.edu)__
@@ -32,11 +26,7 @@ Author: DSI UC Davis
 * [Viji Murali](http://vpiet.ucdavis.edu/)
 * [MacKenzie Smith](http://www.lib.ucdavis.edu/ul/about/meetnewul.php)
 * [Tony Tyson](http://tyson.ucdavis.edu/)
-* [Mark Redican](http://dsi.ucdavis.edu/)
-
+* Mark Redican
 
 The DSI is supported by the Provost. Logistical support is provided by the [UC Davis Library](https://www.library.ucdavis.edu/).
 
-## Governance
-
-The DSI's Advisory Board is selected by the Executive Committee and meets quarterly to propose research and training directions and funding priorities. The Executive Committee consists of the Director, Associate Directors and Coordinator. The Director chairs the Executive Committee and reports to the University Head Librarian.

@@ -1,10 +1,11 @@
+Title: Affiliates
+Authors: DSI
+
 <!-- DO NOT EDIT affiliates.md directly.  
      Edit this template and regenerate affiliates.md with
        cd content
   	   Rscript -e 'source("../funs.R") ; mkAffiliates_md()'
 -->
-Title: Affiliates
-Authors: DSI
 
 <style>
   .imglist {
