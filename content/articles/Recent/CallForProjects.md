@@ -55,14 +55,14 @@ Interested researchers from all disciplines and backgrounds should apply, regard
 The initial proposal (**3 pages or less**, not including CVs) should:
 
 
-..* Describe the big picture questions, motivation and relevance of the project. Include enough background information to justify the novelty of the proposed research.
-..* Provide contact information and 2-page short format CV for the project lead, who will be the primary contact and commit to spending time in the DSI space to work on the project. 
-..* Identify, as best as possible, which data science skills are needed and why the DSI’s help will make the project feasible.
-..* Outline the expected outcomes (publications, Web sites, APIs, software, visualizations, grant proposals, etc.). Be as specific as possible.
-..* Include an ideal start date (e.g., winter, spring, summer term) and tentative timeline for the work. The project lead should note their overall availability and other research and teaching obligations, important grant deadlines, etc.
-..* List the names of the other researchers who will be joining the team to undertake the project, along with their short format CVs. If a grad student will be lead on the project, a letter of support and commitment to engage is necessary from their primary supervisor. The proposed project cannot directly be the student’s dissertation research.
-..* Detail the format and availability of the project data. This should include a description of the size of the data, any issues related to privacy and access, and any necessary integration of different data sources. 
-..* A brief statement regarding your prior collaborative research experience.
+* Describe the big picture questions, motivation and relevance of the project. Include enough background information to justify the novelty of the proposed research.
+* Provide contact information and 2-page short format CV for the project lead, who will be the primary contact and commit to spending time in the DSI space to work on the project. 
+* Identify, as best as possible, which data science skills are needed and why the DSI’s help will make the project feasible.
+* Outline the expected outcomes (publications, Web sites, APIs, software, visualizations, grant proposals, etc.). Be as specific as possible.
+* Include an ideal start date (e.g., winter, spring, summer term) and tentative timeline for the work. The project lead should note their overall availability and other research and teaching obligations, important grant deadlines, etc.
+* List the names of the other researchers who will be joining the team to undertake the project, along with their short format CVs. If a grad student will be lead on the project, a letter of support and commitment to engage is necessary from their primary supervisor. The proposed project cannot directly be the student’s dissertation research.
+* Detail the format and availability of the project data. This should include a description of the size of the data, any issues related to privacy and access, and any necessary integration of different data sources. 
+* A brief statement regarding your prior collaborative research experience.
 
 
 For first consideration, [email us](mailto:datascience@ucdavis.edu) with the subject “DSI Project Proposal” **by September 27th, 2017**. You are welcome to contact us in advance of the deadline to discuss your proposal ideas.
