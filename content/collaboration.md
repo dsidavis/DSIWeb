@@ -20,8 +20,11 @@ to have a specific product outcome from each collaboration, whether that's
 generating pilot results for a grant proposal or complete results for a 
 paper, developing new custom software, etc.
 
+## Call for Projects
+
 We have periodic calls for proposals, which will be posted on our [Announcements](http://dsi.ucdavis.edu/category/recent.html) page
-and on our [mailing list](http://dsi.ucdavis.edu/signup.html). But, don't hesitate to contact us if you have a brilliant idea outside of the collaboration call periods.
+and on our [mailing list](http://dsi.ucdavis.edu/signup.html). Our most recent call can be found [here](http://dsi.ucdavis.edu/category/recent/CallForProjects.html). But, don't hesitate to contact us if you have a brilliant idea outside of the collaboration call periods.
+
 
 ## Current Interdisciplinary Collaborative Projects:
 
@@ -148,7 +151,8 @@ and on our [mailing list](http://dsi.ucdavis.edu/signup.html). But, don't hesita
 ## Grants:
 
 * __Data Science for the Built Environment, [NSF NRT-IGE Grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1545193)__
-  to Debbie Niemeier, Annamaria Amenta, Jonathan Eisen, Duncan Temple Lang, Megan Welsh 
+  <br/>
+   Debbie Niemeier, Annamaria Amenta, Jonathan Eisen, Duncan Temple Lang, Megan Welsh 
   <br/>
   This National Science Foundation Research Traineeship (NRT) award in the Innovations in Graduate
   Education (IGE) Track to the University of California-Davis will pilot, test, and compare modes of
@@ -156,7 +160,7 @@ and on our [mailing list](http://dsi.ucdavis.edu/signup.html). But, don't hesita
   development of new learning platforms designed to cultivate robust computational, statistical, and
   data reasoning skills in engineering graduate students.
   <br/>
-  The project will implement a hybrid short-course approach that 1) bridges existing code camps and
+    The project will implement a hybrid short-course approach that 1) bridges existing code camps and
   semester long classes, and 2) is coupled with a formal user group experience. A robust evaluation
   will be conducted to identify the individual effects of code camps, short courses, and users groups,
   as well as the effect of participating in combinations of experiences. In addition, learning gains,
