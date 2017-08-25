@@ -1,12 +1,23 @@
-﻿Title: Faculty
-Author: DSI
+﻿<html>
+<head>
+<title>Faculty Members</title>
+<meta name="title" content="Faculty Members"/>
+</head>
 
-# Faculty Members
+<h2>Faculty Members</h2>
 
-* [Titus Brown](http://ivory.idyll.org/blog/)
-* [Andrew Latimer](http://www.plantsciences.ucdavis.edu/plantsciences_faculty/latimer/)
+<ul>
+<li> <div><a href="images/Faculty/TitusBrown_c.jpg"><img src="images/Faculty/TitusBrown_c.jpg"/
+  class="thumbnail"></a> <a href="http://ivory.idyll.org/blog/">Titus Brown</a>
+</div></li>
+<li><div>
+ <img src="images/Faculty/AndrewLatimer_c.jpg" class="thumbnail" style="width: 150px; height:
+  150px; float: left;"/>
+  <a href="http://www.plantsciences.ucdavis.edu/plantsciences_faculty/latimer/">Andrew Latimer</a>
+</div></li>
+</ul>
 
-Interested in becoming a DSI faculty member? See our [membership page](membership.html) and
-contact us at <mailto:datascience@ucdavis.edu>
-
-[membership page]: membership.html
+<p>
+Interested in becoming a DSI faculty member? See our 
+<a href="membership.html">membership page</a> and
+contact us at <a href="mailto:datascience@ucdavis.edu">datascience@ucdavis.edu</a>
