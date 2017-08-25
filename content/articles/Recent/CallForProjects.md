@@ -2,9 +2,9 @@ Title: Call for Collaborative Projects
 Date: 2017-8-22
 Tags: CFP
 Category: CFP
-nonews: true
+xnonews: true
 
-#Call for Collaborative Data Science Projects
+# Call for Collaborative Data Science Projects
 
 *Is there a data-driven research project you’d love to pursue but feel limited because you don’t have the skills to get or work with the data?
 If so, the Data Science Initiative (DSI) at UC Davis might be able to help.*
@@ -68,7 +68,7 @@ The initial proposal (**3 pages or less**, not including CVs) should:
 For first consideration, [email us](mailto:datascience@ucdavis.edu) with the subject “DSI Project Proposal” **by September 27th, 2017**. You are welcome to contact us in advance of the deadline to discuss your proposal ideas.
 
 
-##What happens next?
+## What happens next?
 
 Finalists will be invited to present at our fall “Problem Solving with Data Science” un-Seminar series (Tuesdays noon-1pm; October 10-December 12). These are informal, flipped design talks where speakers rapidly (< 15 minutes) outline their research challenges followed by audience brainstorming of solutions. This is an excellent way to get immediate feedback on your research and has helped to solve some research challenges on the spot. _**All finalist are strongly encouraged to attend the entire talk series, which is open to the entire UC Davis community.**_ The DSI will onboard a selected set of proposed projects in 2018.
 
