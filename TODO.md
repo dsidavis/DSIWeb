@@ -21,6 +21,7 @@
 1. Materials from other talks.
 1. Get the remaining unseminar talks from Winter and were there any from Fall 2016?
    There were a few from 2015, some of which are in the Past/
+1. Add page unseminar.md file (but where?), which describes the format of the un-seminars   
 
 ## Appearance
 1. !! If the window is too small, the menus disappear.
@@ -171,7 +172,7 @@ merge all calendars of events.
 		Need to generate workshop.html page (programmatically).
 	+ For the Suggest a Workshop, "this form" link says special permissions are needed. Probably okay, but not sure why if won't let me access it on campus. https://docs.google.com/forms/d/1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA/formrestricted?edit_requested=true
     + Mark Redican in people.md has a link to dsi.ucdavis.edu. - For now, removed the link.  Mark keeps a very low profile!
-
+    + Change Category for "Talk" to "Un-Seminar" for consistency across the website?
 	
 #### Done
 1. [done] Move "Space" page from under Research to About.
