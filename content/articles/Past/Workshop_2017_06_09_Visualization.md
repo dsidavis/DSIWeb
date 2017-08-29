@@ -6,7 +6,7 @@ Quarter: Spring
 Who: Duncan Temple Lang
 Category: Workshop
 
-June 9, 2017: Data Visualization Principles (Duncan Temple Lang)
+# June 9, 2017: Data Visualization Principles (Duncan Temple Lang)
 
 In this workshop, we'll discuss best practices for displaying different
 types of static data. This is about designing data visualizations rather
