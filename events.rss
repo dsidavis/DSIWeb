@@ -40,83 +40,7 @@ register (free breakfast and lunch will be provided…)
 </item>
 
 
-
-
 <done>
-<item id="danstandage">
-<when>Friday, Oct. 7, 1pm - 2.30pm</when>
-<where>360 Shields Library (DSI classroom)</where>
-<title>Talk: Software tools and strategies or Scientific Software Development</title>
-<description>
-<p>
-Speaker: Daniel Standage, Postdoc in the Lab for Data Intensive Biology
-</p>
-<p>
-(Pizza will be provided.)
-</p>
-<p>
-Although scientists in many fields are relying increasingly on
-software for simulation, modeling, and data analysis, most scientists
-have little or no formal training in software development and
-engineering. Successfully managing a scientific software project
-doesn't require you to become a professional software engineer, but
-learning and using a handful of software development tools and
-strategies can make a huge difference in the accuracy and usability of
-the research software and in the efficiency of the software
-development process.
-</p>
-<p>
-In this presentation, we'll discuss tools (including version control,
-code hosting services) and strategies (including project organization,
-automated testing, pair programming, code review) that every coding
-scientist should know about, as well as some considerations about
-funding and credit that are unique to scientific software projects.
-</p>
-</description>
-</item>
-
-
-
-
-
-
-
-
-
-<item id="EntrepeneurDataSci">
-<title>Data Science in the Wild</title>
-<when>Mon, October 3rd, 1:00 pm – 3:00 pm</when>
-<where>Auditorium 1005, Genome and Biomedical Sciences Facility (GBSF)</where>
-<description>
-<para>
-Are you a postdoctoral researcher or PhD candidate looking to transition into a career in industry? Do you want a career
-that leverages your quantitative experience in a fast-growing and in-demand field?
-</para>
-<para>
-We invite you to attend an interactive workshop with Katie Amrine and Wafa Soofi, program directors and data scientists
-at Insight Data Science in Silicon Valley. The workshop will focus on the topic: "What makes a good data science
-project?"  We will also touch on general tips for preparing for a data science interview.
-</para>
-<para>
-Insight is an intensive, seven-week postdoctoral training fellowship that bridges the gap between academia and a career
-in data science. Based in Silicon Valley, Boston, and NYC, the program enables scientists to learn the industry specific
-skills needed to work in the growing field of big data at leading technology companies.
-</para>
-<para>
-This workshop is intended for anyone who is interested in data science; all backgrounds are welcome!  We have limited
-available seats. Please <a href="https://goo.gl/forms/j0mdLgTpY23z1zwk1">RSVP ASAP</a>. 
-</para>
-<para>
-Speakers: Katie Amrine, PhD and Wafa Soofi, PhD
-</para>
-<para>
-Sponsored by The Davis Postdoc Entrepreneurship and Career group (DPEC)
-</para>
-</description>
-
-</item>
-
-
 
 
 <item id="STSFac">
@@ -129,17 +53,8 @@ The position is expected to be 50% in Science &amp; Technology Studies (STS) and
 </description>
 </item>
 
-<item id="affiliates">
-<when>Ongoing</when>
-<title>Call for DSI postdoc/grad. student affiliates</title>
-<description>
-Apply to be a DSI affiliate to be part of a data science community.
-Those selected will be able to use the DSI office space and interact
-with others of a like mind across many disciplines.
-Apply <a href="https://docs.google.com/forms/d/18Tj5jMgueVm2eqfgxKh1AWxsNi3ZgoS-x7WribUzFj8/viewform">here</a>.
-</description>
-</item>
-</done>
+
+
 
 
 
