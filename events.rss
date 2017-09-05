@@ -26,40 +26,6 @@
 
 
 
-<done>
-<item id="RecomputingSS">
-<when>Friday, May 19, 8.30am – 5pm</when>
-<where>Multipurpose Room @ Student Community Center</where>
-<title>Re-Computing Social Sciences</title>
-<description>
-Re-Computing Social Sciences: What Have We Learned After a Decade?"
-Featuring 12 invited guest speakers from Stanford, UC Berkeley, UPenn, UCLA, Illinois, etc., and 12 UC Davis faculty
-members. The workshop will be fast-paced and very interactive (the longest presentation will be 5 min long!) Please
-register (free breakfast and lunch will be provided…)
-</description>
-</item>
-
-
-<done>
-
-
-<item id="STSFac">
-<category>job</category>
-<title>Tenure-track faculty position in "Data Studies"</title>
-<description>
-Tenure-track faculty position in an emerging Data Studies minor program and research with Data Scientists.
-The position is expected to be 50% in Science &amp; Technology Studies (STS) and a new Data Science academic unit.
-<a href="https://recruit.ucdavis.edu/apply/JPF01228">job description and application</a>
-</description>
-</item>
-
-
-
-
-
-
-
-
 <item id="Fall16Courses">
 <title><a href="Courses.html#Fall16">Fall16 Topics Courses</a></title>
 <description>
@@ -113,73 +79,6 @@ We will continue to accept proposals after April 1st.
 
 
 
-<item id="AdvBegPython">
-<title>Advanced Beginner Python</title>
-<where>1043 Valley Hall, UC Davis Campus</where>
-<when>April 4, 2016, 9 - 12.15</when>
-<description>
-<p>So you've written some Python code and it works! Now what?</p>
-<p>
-This half day workshop will explore "next steps" in Python
-programming -
-<ul>
-<li> reusing code by placing it in importable modules;</li>
-<li> code organization overall;</li>
-<li>handling command line arguments with argparse;</li>
-<li>simple testing strategies and tools, including code coverage;</li>
-<li>using virtualenv to install isolated collections of software on
-  shared machines;</li>
-</ul>
-Attendees should have some Python experience, but need not be experts.
-</p>
-</description>
-</item>
-
-
-
-<item id="beginGit">
-<title>Beginner Git</title>
-<description>
-<p>
-Description: Git and related systems are key for replicability when doing any kind of computational analysis. This
-introductory workshop will cover creating a repository, recording and viewing changes to files, ignoring files, working
-with GitHub online, resolving conflicts, open licenses, and where to host work.
-</p><p>
-This workshop will be taught remotely and broadcast to our classroom
-via Google Hangouts on Air. We will have helpers in our local room to
-facilitate the lesson. The lesson will also be streamed to YouTube and
-saved there for viewing at a later time.
-</p>
-<p>
-For more information, including VT information: http://dib-training.readthedocs.org/en/pub/2016-04-06-intro-git-br.html
-</p><p>
-Davis participants register here (only if planning to come to the classroom):
-https://www.eventbrite.com/e/introductory-git-version-control-your-workflow-tickets-24030735577
-</p>
-</description>
-<where>DSI classroom, 360 Shields Library</where>
-<when>April 6, 2016, 9 - 12.15</when>
-</item>
-
-
-
-
-<item id="cmdlineGit">
-<title>Ultra-Basic Introduction to the Command Line and Git</title>
-<when>April 8, 9 - 12</when>
-<description>
-Basic skills using the Unix/Linux command line and the Git version control system are prerequisite to the application of
-nearly all digital methods.  This workshop will offer a down and dirty, no holds barred introduction to both.  While
-both technologies are rich and multi-faceted, this workshop does not, by design, aim towards comprehensiveness nor
-complete mastery.   Rather, it is designed to introduce participants to a basic toolkit that will allow them to perform
-most tasks regularly required of beginning developers.
-</description>
-</item>
-
-
-
-
-
 <item id="hack4sac">
 <title>Hack4Sac data competition</title>
 <description>
@@ -203,14 +102,6 @@ Register at:
 <when>February 29th, 2016, 9:15 am - 12:25pm</when>
 <url>http://dib-training.readthedocs.org/en/pub/2016-02-29-sph-webh-bitb-lr.html</url>
 </item>
-
-
-
-
-
-
-
-
 
 
 
