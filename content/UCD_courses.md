@@ -56,6 +56,14 @@ This is a list of courses offered at UC Davis with content related to data scien
 # Special Topics Courses
 These are some "special topics" courses which are not taught regularly and/or the focal topic is subject to change.
 
+### Fall 2017
+ * PLS 298: Applied statistical modeling for the environmetnal sciences, Latimer
+
+### Spring 2017
+ 
+### Winter 2017
+* [ECL290](http://environmentalpolicy.ucdavis.edu/files/cepb/Social%20Ecological%20Systems%20Syllabus%20Winter%202014_0.pdf): Computational methods in population biology using R, Peek & Lubell  
+ 
 ### Fall 2016
  * [Evolutionary Algorithms](Courses/Fall2016/eci289I-announcement.pdf), Herman
  * [Topology of Data](Courses/Fall2016/DataTopology.txt), Tsuruga
@@ -65,6 +73,7 @@ These are some "special topics" courses which are not taught regularly and/or th
 * [ECS 253/MAE 253](http://mae.engr.ucdavis.edu/dsouza/ecs253): Network Theory, D'Souza
 
 ### Winter 2016
+* ECL 298: 
 * [ANT291](http://xcelab.net/rm/?page_id=596): Statistical Rethinking - A Bayesian Course with Examples in R and Stan, [McElreath](http://xcelab.net/rm/) 
 * [PHY 256](http://csc.ucdavis.edu/~chaos/courses/ncaso/): Physics of Information and Computation, Crutchfield
 * [STA 250](http://www.stat.ucdavis.edu/~chohsieh/teaching/STA250_Winter2016/main.html):  Numerical Optimization, Hsieh
