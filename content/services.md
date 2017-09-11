@@ -6,7 +6,7 @@ Modified: 2017-05-03 10:33
 
 The Data Science Initiative provides training, advice and collaboration services to
 researchers (faculty, postdocs, graduate students, staff) on all aspects of
-the data-driven and data-enabled reserch, including:
+the data-driven and data-enabled research, including:
 
 * Developing research questions and grant proposals
 * Using Data Science tools (see [languages](languages.html)
@@ -20,7 +20,7 @@ the data-driven and data-enabled reserch, including:
   (web based visualization, dashboards, etc.)
 * Computational issues (e.g., parallel computing, algorithmic and software
   development)
-* Data sharing and availablility (via Web APIs, bulk-download, etc.)
+* Data sharing and availability (via Web APIs, bulk-download, etc.)
 * Reproducibility and provenance
 * Other Data Science education and implementation resources at UC Davis
 
@@ -33,8 +33,8 @@ matters related to Data Science. Check our calendar as office hours are subject 
 change.
 
 If you have general questions regarding data management plans and/or GIS, we
-will also refer you to the [Data Management Program][] at the university
-library. For general statistics we can also refer you to [courses at UC
+will also refer you to the [Data Management Program][] at the University
+Library. For general statistics we can also refer you to [courses at UC
 Davis][] and the [Statistics Lab][] on campus. 
 
 [Data Management Program]: https://www.library.ucdavis.edu/service/data-management/
@@ -45,7 +45,7 @@ Davis][] and the [Statistics Lab][] on campus.
 
 We aim to help meet the growing industry and academic need for graduates with
 Data Science skills by training researchers throughout their career to be
-skilled at working with data at all stages of the reserach pipeline. To that
+skilled at working with data at all stages of the research pipeline. To that
 end, we are developing mini-courses and offer workshops (short seminars, half to full day, or multiple day
 modules) that complement the material taught in regular courses, provide
 hands-on applications, and present cutting-edge new topics and under development techniques.
