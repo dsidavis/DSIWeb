@@ -33,7 +33,7 @@ matters related to Data Science. Check our calendar as office hours are subject 
 change.
 
 If you have general questions regarding data management plans and/or GIS, we
-will also refer you to the [Data Management Program][] at the University
+will also refer you to the [Data Management Program][] at the UC Davis
 Library. For general statistics we can also refer you to [courses at UC
 Davis][] and the [Statistics Lab][] on campus. 
 
