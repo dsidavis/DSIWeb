@@ -37,7 +37,9 @@
     + [created - please edit] unseminars.html from index.html
     + .edu/pages/main/Collaboration
 1. Workshops links.
-1. carousel links - workshops.
+1. carousel links - workshops. 
+1. Link to propose a workshop form on Workshops page says "you need permission" (links to https://docs.google.com/forms/d/1PJN-ifhOdUsFIX5cGl7y1pSldPsOfnT1MCO4Fat2DWA/formrestricted?edit_requested=true) 
+1. Propose a project link on homepage is broken (http://dsi.ucdavis.edu/pages/main/Collaboration.html)
 
 #### Done
 1. [done] Fix the news entries that appeared when we added.
