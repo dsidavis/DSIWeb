@@ -1,5 +1,9 @@
-Data Science Affiliate Program
-Call for new graduate student & postdoc affiliates
+Title: Data Science Affiliate Program
+Date: 9/26/2017
+
+
+# Data Science Affiliate Program
+## Call for new graduate student & postdoc affiliates
 
 The Data Science Initiative (DSI) is building a cross-cutting, interdisciplinary, campus community centered on the exciting area of Data Science. We invite graduate students and postdocs from any discipline who are involved in data-driven research to apply to the DSI affiliates program. We accept affiliates from across the University with varying backgrounds, experience and interest in data science, from the Humanities, Social Sciences to Math, Engineering, Biology, Epidemiology, etc.
 
