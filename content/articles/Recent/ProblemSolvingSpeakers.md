@@ -1,9 +1,9 @@
-Title: Speakers for Problem Solving Seminar
+Title: Call for Speakers for Problem Solving Seminar
 Date: 2017-12-10
 Tags: Talk, Speakers
 Category: APriority
 
-# Seeking Speakers for Fall Problem Solving Seminar
+# Call for Speakers for Fall Problem Solving Seminar
 
 The DSI holds an "unseminar" series and we are seeking speakers.
 These are researchers from **any discipline** that are struggling

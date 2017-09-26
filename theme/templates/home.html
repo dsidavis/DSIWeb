@@ -127,7 +127,7 @@
 
 	  <!-- col-sm-3 col-md-2 -->
           <div class="col-xs-5 " style="float: right;">
-		 <img src="{{ SITEURL }}/images/DSI_pics/classroom.JPG" class="img-thumbnail" style="float: right;">
+		 <a href="{{ SITEURL }}/images/DSI_pics/classroom.JPG"><img src="{{ SITEURL }}/images/DSI_pics/classroom.JPG" class="img-thumbnail" style="float: right;"></a>
           </div>	  
 	     <p style="font-size: 100%">
 	   DSI runs a series of novel "un-seminars" -  
@@ -210,6 +210,9 @@
     </div>
     
     <div class="panel-body">
+<!--	
+	<b style="color: red;">This week's Thursday Office Hours (Sep 14) have been cancelled. Please email datascience@ucdavis.edu if you have a question.</b><br/>
+-->
 	{#	{% for article in categories[1][1] %} #}
 	{% for cat in categories %}
 <!-- show the category name	<p>{{ cat[0].name }}</p> -->

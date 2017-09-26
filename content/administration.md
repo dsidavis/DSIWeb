@@ -10,8 +10,8 @@ Author: DSI UC Davis
 
 
 # Postdoctoral Scholar
-* __[Matthew Espe](mailto: mespe@ucdavis.edu)__
-
+* [Matthew Espe](https://mespe.github.io/)
+* [Daniel Hicks](http://dhicks.github.io/)
 
 ## Advisory Committee
 
