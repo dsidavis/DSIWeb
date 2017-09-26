@@ -13,8 +13,10 @@ This is great opportunity to
 + ask questions about how to get started with different software.
 
 Experts will be around to help overcome problems, discuss different software, and help get you
-started.
-Everyone will learn something new.
+started. Everyone will learn something new.
+
+This is focused on getting people over hurdles with Data Science software.
+This is NOT intended as technical support for general computer issues.
 
 Examples of software include (*but not limited to*)
 + R & RStudio
@@ -36,5 +38,3 @@ Examples of software include (*but not limited to*)
 
 And we can help with other software. 
 
-This is focused on getting people over hurdles with Data Science software.
-This is NOT intended as technical support for general computer issues.
