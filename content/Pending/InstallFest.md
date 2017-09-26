@@ -24,6 +24,7 @@ Examples of software include (*but not limited to*)
 + Git (version control)
 + GIS (Geographical Information Systems)
 + TensorFlow
++ GPU toolkits, e.g., CUDA, OpenCL
 + Text Editors, plugins and customization
 + Natural Language Processing software & related Python/R packages (e.g., tm, rJava)
 + SSH and remote logins
@@ -32,7 +33,6 @@ Examples of software include (*but not limited to*)
 + JavaScript
 + Virtual Machines and installing additional operating systems
 + Docker
-+ GPU toolkits, e.g., CUDA, OpenCL
 
 And we can help with other software. 
 
