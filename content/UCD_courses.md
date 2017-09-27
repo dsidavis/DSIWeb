@@ -20,7 +20,7 @@ This is a list of courses offered at UC Davis with content related to data scien
 
 ### [STATISTICS](http://www-stat.ucdavis.edu/courses/index.html)
 * STA 138:  Categorical Data Analysis
-* STA 141:  An Introduction to Statistical Computing
+* STA 141:  An Introduction to Statistical Computing (141A includes an introduction to R)
 * STA 206:  Statistical Methods for Research I
 * STA 207:  Statistical Methods for Research II  
 * STA 208:  Statistical and Machine Learning Topics
@@ -30,6 +30,7 @@ This is a list of courses offered at UC Davis with content related to data scien
 * STA 243:  Computational Statistics
 
 ### [COMPUTER SCIENCE](http://www.cs.ucdavis.edu/courses/descriptions/)
+* [List of 2017-2018 computer science course offerings](http://www.cs.ucdavis.edu/wp-content/uploads/2014/09/2017-2018-Tentative-Schedule-7.pdf)
 * [ECS 116](http://www.cs.ucdavis.edu/blog/ecs-116-databases-non-majors/):  Databases for Non-Majors
 * ECS 132:  Probabilistic and Statistical Modeling
 * ECS 145:  Scripting Languages
@@ -49,20 +50,26 @@ This is a list of courses offered at UC Davis with content related to data scien
 * [ECS 275B](http://www.cs.ucdavis.edu/blog/ecs-275b-advanced-computer-graphics/): Advanced Computer Graphics
 
 ### OTHER
-* [ANT291](http://xcelab.net/rm/?page_id=596):  Statistical Rethinking - A Bayesian Course with Examples in R and Stan, [Richard McElreath](http://xcelab.net/rm/) 
+* [ANT291](http://xcelab.net/rm/?page_id=596):  Statistical Rethinking - A Bayesian Course with Examples in R and Stan, [Richard McElreath](http://xcelab.net/rm/). Currently not taught, but link contains reference material. 
 * [PHY 256](http://csc.ucdavis.edu/~chaos/courses/ncaso/):  Physics of Information and Computation
 
 
 # Special Topics Courses
-These are some "special topics" courses which are not taught regularly and/or the focal topic is subject to change.
+These are some "special topics" courses which are not taught regularly, the focal topic is subject to change, and/or may of particular interest.
+
+### Winter 2018
+* CEE/GEO 254: Introduction to R, Niemeier 
 
 ### Fall 2017
  * PLS 298: Applied statistical modeling for the environmetnal sciences, Latimer
-
+ * EPI 202: Quantitative epidemiology, Harvey
+ * PCS 205C: Structural equation modeling, Rhemtulla
+ * [ECS 265A](https://faculty.engineering.ucdavis.edu/sadoghi/teaching/): Distributed Database Systems, Sadoghi 
+  
 ### Spring 2017
  
 ### Winter 2017
-* [ECL290](http://environmentalpolicy.ucdavis.edu/files/cepb/Social%20Ecological%20Systems%20Syllabus%20Winter%202014_0.pdf): Computational methods in population biology using R, Peek & Lubell  
+* [ECL290](http://environmentalpolicy.ucdavis.edu/files/cepb/Social%20Ecological%20Systems%20Syllabus%20Winter%202014_0.pdf): Data wrangling for ecologists, Peek & Lubell  
  
 ### Fall 2016
  * [Evolutionary Algorithms](Courses/Fall2016/eci289I-announcement.pdf), Herman
@@ -84,4 +91,5 @@ These are some "special topics" courses which are not taught regularly and/or th
 ### Winter 2015
 * [ANT291](http://xcelab.net/rm/?page_id=596): Statistical Rethinking - A Bayesian Course with Examples in R and Stan, [McElreath](http://xcelab.net/rm/) 
 * [MAT280]: Topics in Convex Optimization 
+* [PLS205](http://www.plantsciences.ucdavis.edu/agr205/): Design, analysis and interpretation of experiments, Dubcovsky
  
