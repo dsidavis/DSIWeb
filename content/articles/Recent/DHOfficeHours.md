@@ -10,4 +10,4 @@ Dan Hicks is a postdoc at the DSI conducing research in data-driven academic ins
 During office hours, Dan can provide feedback on:
 * Bibliometrics -- Scopus web interface and API
 * Beginner through intermediate skills in R -- including ggplot for plotting, igraph for network analysis, dplyr for SQL-like data wrangling
-* Philosophical issues in statistics and Data Science -- everything from deciding between frequentist or Bayesian methods, what to do about P-hacking and alpha cutoffs, and estimate reporting to picking the right tests.
+* Philosophical issues in statistics and Data Science (How do you decide between frequentist or Bayesian methods? What should you do about P-hacking and alpha cutoffs? How do you know you've picked the right test? Etc.)
