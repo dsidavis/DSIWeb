@@ -1,9 +1,7 @@
-Title: Precision Medicine Informatics Faculty Search
+Title: Faculty Position: Precision Medicine Informatics
 Tags: Job
 Date: 10/15/2017
 Category: Job
-
-
 
 (Full Description & Application)[https://recruit.ucdavis.edu/apply/JPF01825]
 

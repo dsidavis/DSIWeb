@@ -1,4 +1,4 @@
-Title: Data Science Affiliates Office Hours - 360 Shields Library Tuesdays 1-3pm
+Title: Data Science - Affiliates Office Hours - 360 Shields Library Tuesdays 1-3pm
 Date: 2017-12-12
 Time: Mondays, Tuesdays, Thursdays
 Where: 360 Shields Library
