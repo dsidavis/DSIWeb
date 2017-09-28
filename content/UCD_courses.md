@@ -1,5 +1,6 @@
-Title: Courses
+Title: Data-Science-related Courses
 Author: DSI
+Tags: Courses
 
 # Courses at UC Davis
 This is a list of courses offered at UC Davis with content related to data science.

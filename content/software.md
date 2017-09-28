@@ -64,6 +64,14 @@ Subsequently, the ropensci group developed the [rscopus](https://github.com/musc
 package that is also worth using.
 
 
+## Interface to Disease Outbreak API - Raido
+This R package provides functionality to query information about
+individual disease outbreaks, the number of people affected over time,
+the duration, and the location.
+The API is Analytics for Investigation of Disease Outbreaks (AIDO)
+at https://aido.bsvgateway.org/api/.
+
+
 ## XML to CSV Files
 Converting simple XML documents to CSV files 
 is a convenient way to convert, for example,
@@ -71,7 +79,6 @@ StackOverflow data dump files.
 We developed code at (https://github.com/dsidavis/SAX2CSV) to enable this.
 
 ## Web Scraping Hadiths
-
 
 ## Interfacing to HYDRUS1D Hydrodynamic Simulation Software
 

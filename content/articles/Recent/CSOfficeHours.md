@@ -1,5 +1,5 @@
 Title: Data Science Office Hours - Carl Stahmer, Thursdays 1 - 2pm, 362 Shields Library 
-Date: 2017-10-05
+Date: 2017-12-12
 Time: 1-2pm
 Where: 362 Shields Library
 Tags: OfficeHours

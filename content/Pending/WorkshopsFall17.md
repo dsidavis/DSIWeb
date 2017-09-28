@@ -1,18 +1,26 @@
+Title: Fall 17 Workshops
+Date: 12/12/2017
+Tags: Workshop
+Category: Workshop
+
 All workshops are in 362 Shields Library, the DSI classroom [directions](http://dsi.ucdavis.edu/directions.html).
 They are on Friday 10-12 unless otherwise noted.
 
-|When|||
+|Date|Title|Instructor|
 |----|----|----|
-|Oct 6||
-|Oct 13||
-|Oct 20||
-|Oct 27|When to use a Database and which technology|Carl Stahmer|
+|Oct 6 |Install-Fest|Data Science Initiative|
+|Oct 13|Web Scraping & APIs|Duncan Temple Lang|
+|Oct 20|Getting & Working with Bibliometric Data|Dan Hicks|
+|Oct 27|When to use a Database and Which Technology to Use|Carl Stahmer|
+|Nov 3 |Writing & Publishing R Packages|Matt Espe & Duncan Temple Lang|
+|Nov 10|Parallel Computing in R|Duncan Temple Lang|
+|Nov 17||
+|Dec 1 ||
 
+<!--
+|Dec 8 |||
 |Bill Broadley|High Performance Computing|
-|Duncan Temple Lang|Parallel Computing in R|
-|Dan Hicks||
-|Writing R Packages|Matt Espe & Duncan Temple Lang|
-|Duncan Temple Lang||
+-->
 
 <!--
 Carl 1 (DB[csv,relational,nosql,graph])  October 27th 9 - 12
@@ -21,5 +29,4 @@ Duncan  4  (parallel, Web, Web Scraping, Regular Expressions & Cleaning Data)
 Dan Hicks 5 (scopus, API - wants to do ggplot or dplyr)
 Matt 6 - R packages.
 Adam  - git intermediate branching, conflicts, detached head, workflow?
-
 -->
