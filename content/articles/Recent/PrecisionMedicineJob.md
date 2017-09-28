@@ -1,7 +1,7 @@
 Title: Precision Medicine Informatics Faculty Search
 Tags: Job
-Date: October 15th, 2017
-expired: fals
+Date: 10/15/2017
+
 
 (Full Description & Application)[https://recruit.ucdavis.edu/apply/JPF01825]
 

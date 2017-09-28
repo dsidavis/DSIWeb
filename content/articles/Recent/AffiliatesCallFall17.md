@@ -1,7 +1,8 @@
 Title: Data Science Affiliate Program
-Date: 9/26/2017
+Date: 12/12/2017
 Category: Affiliates
 Tags: Affiliates
+
 
 
 # Data Science Affiliate Program
