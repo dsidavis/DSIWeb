@@ -1,9 +1,14 @@
+Title: Fall 17 Workshops
+Date: 12/12/2017
+Tags: Workshop
+Category: Workshop
+
 All workshops are in 362 Shields Library, the DSI classroom [directions](http://dsi.ucdavis.edu/directions.html).
 They are on Friday 10-12 unless otherwise noted.
 
-|When|||
+|Date|Title|Instructor|
 |----|----|----|
-|Oct 6||
+|Oct 6|||
 |Oct 13||
 |Oct 20||
 |Oct 27|When to use a Database and which technology|Carl Stahmer|

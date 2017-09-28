@@ -2,7 +2,7 @@ Title: Faculty position for Data Studies in Science and Technology Studies and D
 Tags: Job, Faculty
 Date: 2017-9-1
 Category: Job
-nonews: true
+expired: false
 
 Tenure-track faculty position in an emerging Data Studies minor program and research with Data Scientists.
 The position is expected to be 50% in Science & Technology Studies (STS) and a new Data Science academic unit.
