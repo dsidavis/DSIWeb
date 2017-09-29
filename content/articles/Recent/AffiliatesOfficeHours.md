@@ -37,6 +37,8 @@ The possibility to automatically analyze large collections of texts has opened m
     including carbon policy. His work has focused on high frequency time series
     modelling and cross-sectional and panel data models, and he has experience
     in visualizations in various platforms. 
+	* __[Zac Harmany](mailto:ztharmany@ucdavis.edu)__: Python, MATLAB, Git, LaTeX, Image Processing
+	Zac is a PhD and researcher in Biomedical Engineering at the Center for Molecular and Genomic Imaging. His background is in statistical signal processing, image processing, machine learning, and optimization. He programs in Python and MATLAB, uses Git to manage projects, and uses LaTeX to write math-heavy papers. Zac can also help with the basics of Bash and command line.
 	
 ## Thursdays 10-12pm
 *  __[Ryan Peek](mailto:rapeek@ucdavis.edu)__: R & RStudio
