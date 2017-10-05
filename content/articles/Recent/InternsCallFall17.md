@@ -29,6 +29,6 @@ The scope of the internship will be dictated by the available projects and the n
 We will consider undergraduate, Masters, and PhD students for a variety of different positions.  Internships can be renewed quarterly based on DSI project workload and intern performance.
 
 ##To Apply:
-Submit a cover letter, resume and unofficial transcript to datascience@ucdavis.edu with the subject “DSI Internship Application”. In your cover letter, tell us about your background and interest in data science, how this internship relates to your academic and career goals, and your availability.
+Submit a cover letter, resume and unofficial transcript to [datascience@ucdavis.edu](mailto:datascience@ucdavis.edu) with the subject “DSI Internship Application”. In your cover letter, tell us about your background and interest in data science, how this internship relates to your academic and career goals, and your availability. Competitive applicants will be invited to interview for the open positions.
 
 Contact [datascience@ucdavis.edu](mailto:datascience@ucdavis.edu) with any questions.
