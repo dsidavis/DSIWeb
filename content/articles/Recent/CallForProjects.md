@@ -49,7 +49,7 @@ _**We expect**_ you to regularly meet with us, participate in DSI events (semina
 
 ##How to Apply
 
-Interested researchers from all disciplines and backgrounds should apply, regardless of their technical skills. The key is collaboration, where the combination of a good research question and skills between your team and ours makes the projects possible. Campus centers and institutes are also eligible to apply.
+Interested researchers from all disciplines and backgrounds should apply, regardless of their technical skills. The key is collaboration, where the combination of a good research question and skills between your team and ours makes the projects possible. Campus centers and institutes are also eligible to apply. _**We have annual calls for proposals with submission due dates for projects seeking to be onboarded during the following academic quarter. However, we consider new proposals on a rolling basis throughout the year as our resources permit.**_ [Contact us](mailto:datascience@ucdavis.edu) if you'd like to discuss your project ideas prior to submission.
 
 
 The initial proposal (**3 pages or less**, not including CVs) should:
