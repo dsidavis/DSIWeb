@@ -20,4 +20,4 @@ See the [Current Affiliates](http://dsi.ucdavis.edu/affiliates.html) for a list 
 
 Faculty who are interested in becoming affiliates should email us at datascience@ucdavis.edu.
 
-For first consideration for this academic year, apply by Wednesday, October 4th, 2017: https://goo.gl/forms/l3egEWUIjsbcCtEV2.
+Prospective affiliates can apply at any time: https://goo.gl/forms/l3egEWUIjsbcCtEV2.. New affiliates will be onboarded at select times during the academic year.
