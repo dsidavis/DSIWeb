@@ -1,8 +1,6 @@
-Title: Drop-in office hours by Prof. Nick Anderson 
-Slug: officeHourNickAnderson
+Title: Data Science Office Hours - Nick Anderson
 Status: draft
-Tags: OfficeHours
-Category: OfficeHours
+Tags: Office Hours
 
 *Event date:* Mondays, 1:00 - 3:00 pm    
 *Location:* [DSI conference room, 362 Shields Library]({filename}../../directions.md)     

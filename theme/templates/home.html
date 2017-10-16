@@ -253,31 +253,31 @@
     </div>
   </div>
 
-
-
+<!-- ==================== OFFICE HOURS ==================== -->
   <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">Office Hours</h4>
-    </div>
-    
-    <div class="panel-body">
-	{#	{% for article in categories[1][1] %} #}
-	{% for cat in categories %}
-<!-- show the category name	<p>{{ cat[0].name }}</p> -->
-	{% if cat[0].name == 'OfficeHours' %}
-        {% for article in cat[1]|sort(attribute='date') %}	
-    	{% if article.nonews is not defined and article.expired is not defined and
-	    article.draft is not defined and 'Recent' in article.source_path %}
-	<span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title.replace('Office Hours', '').replace('Data Science', 'DSI') }}</a><br/>
-            {%endif%}
-      {% endfor %}
-        {%endif%}
-       {% endfor %}
-    </div>
-	</div>
-  
+  <div class="panel-heading">
+    <h4 class="panel-title">Office Hours</h4>
   </div>
+  <div class="panel-body">
+  <table class="table table-striped table-condensed">
+	{% for category, articles in categories if category.name == 'OfficeHours' %}
+  {% for article in articles | sort(attribute='who') %}	
+  <tr>
+    <td><span class="{{ GLYPHICON[article.tags[0].name] }}"></span></td>
+    <td><a href="{{ SITEURL }}/{{ article.url }}">
+    {{ article.who }}
+    </a></td>
+    <td>{{ article.day }}</td>
+    <td>{{ article.time }}</td>
+    <td>{{ article.location.replace(' Library', '') }}</td>
+  </tr>
+  {% endfor %}
+  {% endfor %}
+  </table>
+  </div>
+	</div>
+  </div>
+<!-- ==================== ============ ==================== -->
 
   
   {# if article.tags[0].name in OPPORTUNITIES_TAGS #}{# endif #}

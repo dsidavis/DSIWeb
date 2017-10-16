@@ -1,12 +1,16 @@
-Title: Data Science - Affiliates Office Hours - 360 Shields Library Tuesdays 1-3pm
+Title: Data Science Office Hours - Affiliates
+Who: Affiliates (DSI)
+Day: Mon, Tue, Thu
+Location: 360 Shields Library
+Tags: Office Hours
 Date: 2017-12-12
-Time: Mondays, Tuesdays, Thursdays
-Where: 360 Shields Library
-Tags: OfficeHours
-Category: OfficeHours
 
 # Affiliate Office Hours
-DSI affiliates are available for drop-in office hours in the DSI Classroom to help with your data science problems. Drop ins are welcome, but it is recommended that you email the individual you want to meet with in advance in case of any schedule changes.
+
+DSI affiliates are available for drop-in office hours in the DSI Classroom to
+help with your data science problems. Drop ins are welcome, but it is
+recommended that you email the individual you want to meet with in advance in
+case of any schedule changes.
 
 ## Mondays 11am-noon
 * __[Ryan Philips](mailto:rcphilips@ucdavis.edu)__: SQL. 
