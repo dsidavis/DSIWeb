@@ -11,4 +11,4 @@ The ideal candidate will conduct innovative research in computational and data a
 
 Completed applications must be received no later than December 15, 2017, in order to be considered. Interested applicants are required to submit 1) a cover letter; 2) curriculum vitae; 3) research statement; 4) teaching statement; 5) diversity statement; 6) two publications; and, 7) three letters of reference electronically uploaded by the letter writers.
 
-Full job description and application instructions can be found here: https://aprecruit.ucmerced.edu/apply/JPF00550. 
+Full job description and application instructions can be found [here](https://aprecruit.ucmerced.edu/apply/JPF00550). 
