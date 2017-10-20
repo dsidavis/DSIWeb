@@ -1,6 +1,6 @@
 Title: Assistant Professor of Cognitive & Information Sciences
 Date: 10/17/2017
-Tags: Jobs, UC Merced, Cognitive Science, Information, Science, Data Science, Faculty job, Assistant Professor
+Tags: Jobs, UC Merced, Cognitive Science, Information, Science, Data Science, Faculty job, Assistant Professor, Opportunity
 Category: Jobs
 
 # Job Announcement: Assistant Professor of Cognitive & Information Sciences at UC Merced
