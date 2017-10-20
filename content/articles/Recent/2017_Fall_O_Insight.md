@@ -8,6 +8,8 @@ nonews: true
 
 # Insight Data Fellows Programs 
 
+**Below is a courtesy post for the Insight training program. If you are interested in the program and want to talk to UC Davis students who are former Insight fellows, [contact us at the DSI](mailto:datascience@ucdavis.edu) and we'll connect you.**
+
 Insight is accepting applications for the January 2018 fellowships in Data Science, Health Data Science, Data Engineering, and Artificial Intelligence. 
 
 Insight Fellows Programs: 
