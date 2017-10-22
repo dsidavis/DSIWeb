@@ -1,7 +1,7 @@
 Title: cmdlineGit
 Time: 9-12
 Date: 2016-4-8
-Quarter: Spring
+Quarter: 2016 Spring
 Category: Workshop
 Tags: Workshop, Git, Tutorial
 Who: Carl Stahmer

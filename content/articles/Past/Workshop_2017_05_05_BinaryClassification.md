@@ -3,7 +3,7 @@ Date: 5/12/2017 12:00
 Time: 12:00 
 Tags: Workshop, Tutorial, Machine Learning
 Who: James Sharpnack
-Quarter: Spring
+Quarter: 2017 Spring
 Category: Workshop
 
 In this second session, we will continue to explore machine learning with

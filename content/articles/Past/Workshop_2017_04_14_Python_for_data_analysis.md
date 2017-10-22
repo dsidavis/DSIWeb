@@ -3,7 +3,7 @@ Date: 04/14/2017
 slug: python1
 When: 12:00 
 Tags: Workshop, Tutorial, Python
-Quarter: Spring
+Quarter: 2017 Spring
 Who: Clark Fitzgerald
 Category: Workshop
 

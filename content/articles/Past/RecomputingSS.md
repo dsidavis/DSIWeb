@@ -1,7 +1,7 @@
 Title: RecomputingSS
 Time: 9-12
 Date: 2017-5-19
-Quarter: Spring
+Quarter: 2017 Spring
 Category: Workshop
 Tags: Social sciences, event, workshop
 nonews: true

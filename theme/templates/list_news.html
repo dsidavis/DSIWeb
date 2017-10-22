@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}News - {{ SITENAME }}{% endblock %}
+
+{% block breadcrumbs %}
+    {% if DISPLAY_BREADCRUMBS %}
+    <ol class="breadcrumb">
+        <li><a href="{{ SITEURL }}" title="{{ SITENAME }}"><i class="fa fa-home fa-lg"></i></a></li>
+        <li class="active">Categories</li>
+    </ol>
+    {% endif %}
+{% endblock %}
+
+{% block content %}
+<section id="News">
+<h1>All News</h1>
+<div class="panel-group" id="accordion">
+
+  {% for name, group in articles | selectattr('quarter', 'defined')
+    | groupby('quarter') | reverse %}
+  {% set slug = name.lower().replace(' ', '-') %}
+  <div class="panel panel-default">
+  
+  <div class="panel-heading">
+  <h4 class="panel-title">
+  <a data-toggle="collapse" data-parent="#accordion"
+    href="#collapse-{{ slug }}">
+    {{ name }} 
+    <span class="badge pull-right">{{ group|count }}</span>
+  </a>
+  </h4>
+  </div>
+  
+  <div id="collapse-{{ slug }}" class="panel-collapse collapse">
+  <div class="panel-body">
+    {% for article in group %}
+    <p><span class="categories-timestamp">
+      {% if not article.category.name in ['Job', 'CFP'] %}			    
+        <time datetime="{{ article.date.isoformat() }}">
+          {{ article.date.strftime('%d %B %Y') }}
+          {% if article.time is defined %} @ {{ article.time }}{% endif %}
+        </time>
+      {% endif %}
+    </span>
+    <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a>
+    </p>
+    {% endfor %}
+  </div>
+  </div>
+  
+  </div>
+  {% endfor %}
+
+</div>
+</section>
+{% endblock %}

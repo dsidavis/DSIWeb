@@ -1,7 +1,7 @@
 Title: AdvBegPython
 Time: 9-12:15
 Date: 2016-4-4
-Quarter: Spring
+Quarter: 2016 Spring
 Category: Workshop
 Tags: workshop, tutorial, Git
 nonews: true

@@ -3,7 +3,7 @@ slug: python2
 Date: 04/21/2017
 Time: 12:00 
 Tags: Workshop, Tutorial, Python
-Quarter: Spring
+Quarter: 2017 Spring
 Who: Nick Ulle
 Category: Workshop
 

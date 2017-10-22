@@ -4,7 +4,7 @@ Time: 12:00
 Tags: Workshop, Tutorial, Docker, Titus Brown
 Summary: Learn how to use Docker in a workshop by Titus Brown
 Who: Titus Brown
-Quarter: Spring
+Quarter: 2017 Spring
 Category: Workshop
 
 __Topic__: Docker from 0 to 40

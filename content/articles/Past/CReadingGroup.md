@@ -1,6 +1,6 @@
 Title: C/C++ Working Group
 Date: 2017-12-1
-Quarter: Winter
+Quarter: 2017 Winter
 Tags: Working Group, C, C++
 Category: WorkingGroup
 

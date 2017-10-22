@@ -1,6 +1,6 @@
 Title: Unix Shell Workshop
 Tags: Workshop
-Quarter: Fall
+Quarter: 2016 Fall
 Date: 2016-10-6
 Category: Workshop
 dsi: false
