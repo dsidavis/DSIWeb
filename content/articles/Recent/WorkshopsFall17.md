@@ -17,13 +17,12 @@ Generally, they are on Fridays from 10-12 unless otherwise noted.
 |Oct 20|Computing on Clusters|Bill Broadley|
 |Oct 27|When to use a Database and Which Technology to Use|Carl Stahmer|
 |Nov3|Getting & Working with Bibliometric Data|Dan Hicks|
-|Nov 10|Writing & Publishing R Packages|Matt Espe & Duncan Temple Lang|
+|Nov 10|No workshop - UC Holiday Veteran's Day||
 |Nov 17|Parallel Computing in R|Duncan Temple Lang|
 |Dec 1 |Reading & Cleaning Complex Data with Regular Expressions|Matt Espe & Duncan Temple Lang|
 
 <!--
-|Dec 8 |||
-|Bill Broadley|High Performance Computing|
+Writing & Publishing R Packages|Matt Espe & Duncan Temple Lang
 -->
 
 <!--
