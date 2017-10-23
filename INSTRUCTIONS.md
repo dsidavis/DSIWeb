@@ -10,18 +10,20 @@ noshow: true
 in the metadata.
 We could probably  use draft and exclude these.
 
-1. To have an entry appear in the first group of the News feed, set the category
-to `APriority`.
-Unfortunately, this means that it is no longer in the original category!
+1. To have an entry appear in the first group of the News feed, set the
+`Priority` attribute (the value does not matter).
 
-
-
-1. Introduce a new category with 
+1. Use tags for labelling rather than categories. Set tags with:
 ```
-Category: name
+Tags: tag1, tag2
 ```
-If you want this to be considered for the News on the front page,
-edit pelicanconf.py and add the name to EVENTS_TAGS
+The first tag may receive special treatment.
+
+1. Categories are used for structure and set by subdirectory names in the
+`articles/` directory. Only set the `Category` attribute as an override.
+
+1. If you want an article to be considered for the News on the front page,
+place it in `articles/News/`.
 
 
 

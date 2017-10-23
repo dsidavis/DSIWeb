@@ -1,8 +1,8 @@
 Title: Workshop 12/1 - Reading & Cleaning Complex Data 
 Date: 12/01/2017
-Time: 10-12pm
+Time: 10-12 pm
 Where: DSI Classroom, 360 Shields Library
-Category: Workshop
+Category: Events
 Tags: Workshop, Fall 2017, Regular Expressions, R
 xnonews: true
 

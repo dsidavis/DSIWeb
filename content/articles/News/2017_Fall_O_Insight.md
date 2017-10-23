@@ -1,7 +1,7 @@
 Title: Insight Data Fellows Program
 Date: 10/23/2017
-Time: NA
-Where: NA
+Time:
+Where:
 Category: Opportunity
 Tags: Opportunity, Insight, Training
 nonews: true

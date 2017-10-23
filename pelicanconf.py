@@ -103,9 +103,11 @@ RECENT_POST_COUNT = 20  # number of posts displayed on homepage banner
 # The tags displayed in the `News` columns on the homepage
 # APriority is to put this first alphabetically.
 EVENTS_TAGS = ['APriority', 'CFP', 'Job', 'Workshop', 'Bootcamp', 'Talk', 'Symposium', 'Seminar', 'OfficeHours', 'Recent', 'WorkingGroup']
+
+NEWS_CATEGORIES = ['CFP', 'News']
+
 OPPORTUNITIES_TAGS = ['Job']
 RESOURCES_TAGS = ['OfficeHours', 'CFP']
-
 
 # Menu Bar Options
 # ----------------------------------------
@@ -158,16 +160,20 @@ SOCIAL = () # menu bar buttons
 
 # ARTICLE GLYPHICONS, they come by default with bootstrap flatly theme
 GLYPHICON = {
-    "Workshop": "glyphicon glyphicon-education",
-    "Bootcamp": "glyphicon glyphicon-education",
-    "WorkingGroup": "glyphicon glyphicon-education",    
-    "Job": "glyphicon glyphicon-briefcase",
-    "Talk": "glyphicon glyphicon-blackboard",
-    "Symposium": "glyphicon glyphicon-blackboard",
-    "Announcement": "glyphicon glyphicon-bullhorn",
-    "Video": "glyphicon glyphicon-film",
-    "Collaboration": "glyphicon glyphicon-link",
+    # Categories
     "OfficeHours": "glyphicon glyphicon-comment",
-    "CFP": "glyphicon glyphicon-comment",    
-    "Courses": "glyphicon glyphicon-book"
+    "Jobs": "glyphicon glyphicon-briefcase",
+
+    # Tags - Working Groups
+    "Study Group": "glyphicon glyphicon-book",
+    "Working Group": "glyphicon glyphicon-wrench",
+    # Tags - Events
+    "Bootcamp": "glyphicon glyphicon-education",
+    "Workshop": "glyphicon glyphicon-education",
+    "unSeminar": "glyphicon glyphicon-comment",
+    "Symposium": "glyphicon glyphicon-blackboard",
+    "Talk": "glyphicon glyphicon-blackboard",
+    # Tags - Other
+    "News": "glyphicon glyphicon-bullhorn",
+    "CFP": "glyphicon glyphicon-comment"
 }

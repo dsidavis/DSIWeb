@@ -1,8 +1,6 @@
 Title: Data Science Internships
-Date: 12/12/2017
-Tags: Job
-Category: Job
-
+Date: 2017-12-12
+Tags: Job, Internship
 
 # Data Science Internships
 ## Call for new DSI interns

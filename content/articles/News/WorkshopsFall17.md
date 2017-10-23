@@ -1,7 +1,6 @@
 Title: Fall 17 Workshops Schedule
 Date: 12/12/2017
 Tags: Workshop, Fall 2017
-Category: Workshop
 
 **Tentative Schedule.  Some of the both the topics and dates may change**
 

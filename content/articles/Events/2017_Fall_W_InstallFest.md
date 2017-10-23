@@ -1,8 +1,8 @@
-Title: Workshop 10/6 - Install-Fest
+Title: Install-Fest
 Date: 10/6/2017
-Time: 10-1pm
+Time: 10-1 pm
 Where: DSI Classroom, 360 Shields Library
-Category: Workshop
+Category: Events
 Tags: Workshop
 
 Fall 2017's kick-off event for the Data Science Initiative is a community #InstallFest.  Come with

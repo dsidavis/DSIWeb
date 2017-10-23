@@ -1,8 +1,8 @@
 Title: Workshop 11/03 - Bibliometrics
 Date: 11/03/2017
-Time: 10-12pm
+Time: 10-12 pm
 Where: DSI Classroom, 360 Shields Library
-Category: Workshop
+Category: Events
 Tags: Workshop, Fall 2017, Bibliometric Data, R
 xnonews: true
 

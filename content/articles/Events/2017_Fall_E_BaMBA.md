@@ -2,7 +2,7 @@ Title: BaMBA Meeting
 Date: 11/18/2017
 Time: 9am-6pm
 Where: Genentech Hall, UCSF
-Category: Event
+Category: Events
 Tags: Event, UCSF, Bay Area, Biology, Mathematics, Meeting
 nonews: true
 

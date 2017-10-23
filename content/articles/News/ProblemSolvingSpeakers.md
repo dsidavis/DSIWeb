@@ -1,7 +1,8 @@
 Title: Call for Speakers for Problem Solving Seminar
 Date: 2017-12-10
-Tags: Talk, Speakers
-Category: APriority
+Tags: News, Talk, Speakers
+Priority:
+Category: News
 
 # Call for Speakers for Fall Problem Solving Seminar
 

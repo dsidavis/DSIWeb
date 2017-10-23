@@ -1,8 +1,8 @@
-Title: unSeminar 10/31 - Parallel Conversations on CRISPR
-Date: 10/31/2017
-Time: 12:10-1pm
+Title: Aligning Parallel Discourse
+Date: 11/14/2017
+Time: 12:10-1 pm
 Where: DSI Classroom, 360 Shields Library
-Category: unSeminar
+Category: Events
 Tags: unSeminar, feminist studies, Twitter, problem solving
 xnonews: true
 

@@ -199,61 +199,117 @@
 
 {% block content %}
 <section id="content" class="body">
-
-{# News / Events Feed #}
 <div class="row" style='margin-bottom:10px'>
 
-  <div class="col-sm-5">
+<div class="col-sm-5">
+{# ==================== OPPORTUNITIES ==================== #}
   <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">News & Events</h4>
-    </div>
-    
-    <div class="panel-body">
-<!--	
-	<b style="color: red;">This week's Thursday Office Hours (Sep 14) have been cancelled. Please email datascience@ucdavis.edu if you have a question.</b><br/>
--->
-	{#	{% for article in categories[1][1] %} #}
-	{% for cat in categories %}
-<!-- show the category name	<p>{{ cat[0].name }}</p> -->
-	{% if cat[0].name in EVENTS_TAGS and not cat[0].name in ['Job', 'OfficeHours'] %}
-        {% for article in cat[1]|sort(attribute='date') %}	
-    	{% if article.nonews is not defined and article.expired is not defined and
-	    article.draft is not defined and 'Recent' in article.source_path %}
-	<span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br/>
-            {%endif%}
-      {% endfor %}
-        {%endif%}
-       {% endfor %}
-    </div>
+  <div class="panel-heading">
+    <h4 class="panel-title">Opportunities</h4>
+  </div>
+  <div class="panel-body">
+  <table class="table table-striped table-condensed">
+  {% for article in articles | sort(attribute='date')
+    if article.category == 'Jobs'
+    and article.nonews is not defined and article.expired is not defined %}	
+  <tr>
+    <td><span class="{{ GLYPHICON[article.category.name] }}"></span></td>
+    <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+  </tr>
+  {% endfor %}
+  </table>
+  </div>
+  </div>
+{# ==================== NEWS ==================== #}
+  <div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title">News</h4>
+  </div>
+  <div class="panel-body">
+  <table class="table table-striped table-condensed">
+  {% set news = articles
+    | rejectattr('nonews', 'defined') | rejectattr('expired', 'defined') 
+    | sort(attribute='date') %}
+
+  {# Priority News #}
+  {% for article in news if article.category in NEWS_CATEGORIES
+    and article.priority is defined %}
+  <tr>
+    <td><span class="{{ GLYPHICON[article.tags[0].name] }}"></span></td>
+    <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+  </tr>
+  {% endfor %}
+
+  {# Regular News #}
+  {% for article in news if article.category in NEWS_CATEGORIES
+    and article.priority is not defined %}
+  <tr>
+    <td><span class="{{ GLYPHICON[article.tags[0].name] }}"></span></td>
+    <td><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></td>
+  </tr>
+  {% endfor %}
+
+  </table>
+  </div>
 	</div>
-  </div>
-
-  <div class="col-sm-7">
+{# ==================== WORKING GROUPS ==================== #}
   <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">Positions</h4>
-    </div>
-    
-    <div class="panel-body">
-	{#	{% for article in categories[1][1] %} #}
-	{% for cat in categories %}
-<!-- show the category name	<p>{{ cat[0].name }}</p> -->
-	{% if cat[0].name == 'Job' %}
-        {% for article in cat[1]|sort(attribute='date') %}	
-    	{% if article.nonews is not defined and article.expired is not defined and
-	    article.draft is not defined and 'Recent' in article.source_path %}
-	<span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-      <a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a><br/>
-            {%endif%}
-      {% endfor %}
-        {%endif%}
-       {% endfor %}
-    </div>
+  <div class="panel-heading">
+    <h4 class="panel-title">Working Groups</h4>
   </div>
+  <div class="panel-body">
+  <table class="table table-striped table-condensed">
+	{% for category, articles in categories
+    if category.name == 'WorkingGroups' %}
+  {% for article in articles | sort(attribute='title') %}	
+  <tr>
+    <td><span class="{{ GLYPHICON[article.tags[0].name] }}"></span></td>
+    <td><a href="{{ SITEURL }}/{{ article.url }}">
+    {{ article.title.split('-', 1)[-1] }}
+    </a></td>
+    {% if article.private is not defined %}
+    <td>{{ article.day }}</td>
+    <td>{{ article.time }}</td>
+    {#
+    <td>{{ article.where.split(',', 1)[-1].replace(' Library', '') }}</td>
+    #}
+    {% endif %}
+  </tr>
+  {% endfor %}
+  {% endfor %}
+  </table>
+  </div>
+	</div>
+{# ==================== ============ ==================== #}
+</div> {# end of .col-sm-5 #}
 
-<!-- ==================== OFFICE HOURS ==================== -->
+<div class="col-sm-7">
+{# ==================== EVENTS ==================== #}
+  <div class="panel panel-default">
+  <div class="panel-heading">
+    <h4 class="panel-title">Events</h4>
+  </div>
+  <div class="panel-body">
+  <table class="table table-striped table-condensed">
+  {% for category, articles in categories if category.name == 'Events' %}
+  {% for article in articles | sort(attribute='date')
+    if article.nonews is not defined and article.expired is not defined
+    and article.date > article.date.now(article.date.tzinfo) %}
+  <tr>
+    <td><span class="{{ GLYPHICON[article.tags[0].name] }}"></span></td>
+    <td>{{ article.date.strftime('%d %b') }}</td>
+    <td><a href="{{ SITEURL }}/{{ article.url }}">
+    {{ article.title }}
+    </a></td>
+    <td>{{ article.time }}</td>
+    <td>{{ article.where.split(',', 1)[-1].replace(' Library', '') }}</td>
+  </tr>
+  {% endfor %}
+  {% endfor %}
+  </table>
+  </div>
+	</div>
+{# ==================== OFFICE HOURS ==================== #}
   <div class="panel panel-default">
   <div class="panel-heading">
     <h4 class="panel-title">Office Hours</h4>
@@ -263,7 +319,7 @@
 	{% for category, articles in categories if category.name == 'OfficeHours' %}
   {% for article in articles | sort(attribute='who') %}	
   <tr>
-    <td><span class="{{ GLYPHICON[article.tags[0].name] }}"></span></td>
+    <td><span class="{{ GLYPHICON[article.category.name] }}"></span></td>
     <td><a href="{{ SITEURL }}/{{ article.url }}">
     {{ article.who }}
     </a></td>
@@ -276,61 +332,10 @@
   </table>
   </div>
 	</div>
-  </div>
-<!-- ==================== ============ ==================== -->
+{# ==================== ============ ==================== #}
+</div> {# end of .col-sm-7 #}
 
-  
-  {# if article.tags[0].name in OPPORTUNITIES_TAGS #}{# endif #}
-
- <!-- categories[0] is past categories[1] is Recent. -->
-<!--
-  <div class="col-sm-6">
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">Upcoming Events</h4>
-    </div>
-    
-    <div class="panel-body">
-	<table>
-	    {% for article in categories[0][1] %}
-{## {%if article.date is %}	    {% endif %}       ##}
-      <tr>
-
-      {# Time #}
-      <td style="text-align: right;">
-        <span class="categories-timestamp">
-          <time datetime="{{ article.date.isoformat() }}">
-            {{ article.date.strftime('%-I:%M') }}
-          </time>
-        </span>
-      </td>
-
-      {# Date #}
-      <td style="text-align: right;">
-        <span class="categories-timestamp">
-          <time datetime="{{ article.date.isoformat() }}">
-            {{ article.date.strftime('%b %-d') }}
-          </time>
-        </span>
-      </td>
-
-      <td>
-        {# Title #}
-	      <span class="{{ GLYPHICON[article.tags[0].name] }}"></span>
-        <a href="{{ SITEURL }}/{{ article.url }}">
-          {# FIXME: Use CSS to truncate rather than Python, so site is dynamic. #}
-          {{ article.title[:50] + (article.title[50:] and '...') }}
-        </a>
-      </td>
-      </tr>
-	    {% endfor %}
-      </table>
-    </div>
-   </div>
-  </div>
-
--->
-</div> {# end .row #}
+</div> {# end of .row #}
 
 <div class="entry-content">
   {{ page.content }}

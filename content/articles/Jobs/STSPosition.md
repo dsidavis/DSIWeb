@@ -1,7 +1,6 @@
 Title: Faculty Position: Data Studies in Science and Technology Studies & Data Science
 Tags: Job, Faculty
-Date: 2017/11/15
-Category: Job
+Date: 2017-11-15
 
 
 STS Position in Data Studies - Assistant/Associate Professor
