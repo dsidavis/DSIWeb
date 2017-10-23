@@ -1,7 +1,7 @@
 Title: Data Science Office Hours - Affiliates
 Who: Affiliates (DSI)
+Where: 360 Shields Library
 Day: Mon, Tue, Thu
-Location: 360 Shields Library
 Tags: Office Hours
 Date: 2017-12-12
 

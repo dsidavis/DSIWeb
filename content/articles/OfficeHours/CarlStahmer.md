@@ -1,8 +1,8 @@
 Title: Data Science Office Hours - Carl Stahmer
 Who: Carl Stahmer (DSI)
+Where: 362 Shields Library
 Day: Thu
 Time: 1-2 pm
-Location: 362 Shields Library
 Tags: Office Hours
 Date: 2017-12-12
 

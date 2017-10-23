@@ -1,8 +1,8 @@
 Title: Drop-in Work Session - Davis R Users Group
 Who: Davis R Users Group
+Where: 360 Shields Library
 Day: Thu
 Time: 10-12 noon
-Location: 360 Shields Library
 Tags: Office Hours, DRUG
 Date: 2017-8-10
 

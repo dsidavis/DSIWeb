@@ -1,8 +1,8 @@
 Title: Data Science Office Hours - Duncan Temple Lang
 Who: Duncan Temple Lang (DSI)
+Where: 362 Shields Library
 Day: Thu
 Time: 12-1 pm
-Location: 362 Shields Library
 Tags: Office Hours
 Date: 2017-12-12
 

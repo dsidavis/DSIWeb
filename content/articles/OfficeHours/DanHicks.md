@@ -1,8 +1,8 @@
 Title: Data Science Office Hours - Dan Hicks
 Who: Dan Hicks (DSI)
+Where: 360 Shields Library
 Day: Tue
 Time: 1-3 pm
-Location: 360 Shields Library
 Tags: Office Hours
 Date: 2017-09-22
 
