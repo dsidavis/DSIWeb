@@ -30,7 +30,7 @@ OUTPUT_PATH = 'build'
 # Site-wide Configuration
 # ----------------------------------------
 # Metadata
-SITENAME = "UC Davis Data Science Initiatve"  # configure at publishconf.py
+SITENAME = "UC Davis Data Science Initiative"  # configure at publishconf.py
 SITEURL = ""   # configure at publishconf.py
 AUTHOR = "UC Davis DSI"  # default author
 DEFAULT_LANG = "en"
