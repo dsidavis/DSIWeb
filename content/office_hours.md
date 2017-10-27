@@ -13,12 +13,10 @@ While drop-ins are encouraged, hours are subject to change and thus we recommend
 
 ## Director's Office Hours (DSI Conference Room, Shields 362)
 ### Thursdays 12-1pm 
-* __[Dr. Duncan Temple Lang](mailto:dtemplelang@ucdavis.edu)__: DSI Director and Statistics Professor
-Duncan provides expertise in advanced topics in data science.
+* __[Dr. Duncan Temple Lang](mailto:dtemplelang@ucdavis.edu)__: DSI Director and Statistics Professor. Duncan provides expertise in advanced topics in data science.
 
 ### Thursdays 1-2pm 
-*__[Dr. Carl Stahmer](mailto:cstahmer@ucdavis.edu)__*: DSI Associate Director for the Humanities and Director of Digital Scholarship at the UC Davis Library. 
-Carl provides expertise on natural language processing (NLP) and other methods of text mining and language processing.
+* __[Dr. Carl Stahmer](mailto:cstahmer@ucdavis.edu)__*: DSI Associate Director for the Humanities and Director of Digital Scholarship at the UC Davis Library. Carl provides expertise on natural language processing (NLP) and other methods of text mining and language processing.
 
 
 ## Affiliate & Postdoc Office Hours (DSI Classroom, Shields 360)
@@ -47,6 +45,7 @@ Dan's postdoc at the DSI focuses on data-driven academic institutional effective
     in pursuing data science. Her background includes Veterinary medicine,
     epidemiology and public health. Her interests also include science
     communication and videography.
+	
 *   __[Nick Bowden](mailto:nsbowden@ucdavis.edu)__: R, Python, visualization. 
     Nick is available for introductory (installations and getting started) with R
     and Python for web scraping, visualization and geocoding. Nick is in the
@@ -56,5 +55,6 @@ Dan's postdoc at the DSI focuses on data-driven academic institutional effective
     including carbon policy. His work has focused on high frequency time series
     modelling and cross-sectional and panel data models, and he has experience
     in visualizations in various platforms. 
-	* __[Zac Harmany](mailto:ztharmany@ucdavis.edu)__: Python, MATLAB, Git, LaTeX, Image Processing. 
+	
+* __[Zac Harmany](mailto:ztharmany@ucdavis.edu)__: Python, MATLAB, Git, LaTeX, Image Processing. 
 	Zac is a PhD and researcher in Biomedical Engineering at the Center for Molecular and Genomic Imaging. His background is in statistical signal processing, image processing, machine learning, and optimization. He programs in Python and MATLAB, uses Git to manage projects, and uses LaTeX to write math-heavy papers. Zac can also help with the basics of Bash and command line.
