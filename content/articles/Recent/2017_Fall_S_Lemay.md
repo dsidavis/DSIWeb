@@ -1,4 +1,4 @@
-Title: MultiOmics Data Integration
+Title: un-Seminar 11/7 - MultiOmics Data Integration
 Date: 11/07/2017
 Time: 12:10-1pm
 Where: DSI Classroom, 360 Shields Library

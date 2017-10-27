@@ -1,4 +1,4 @@
-Title: Parallel Computing in R
+Title: Workshop 11/17 - Parallel Computing in R
 Date: 11/17/2017
 Time: 10-12pm
 Where: DSI Classroom, 360 Shields Library

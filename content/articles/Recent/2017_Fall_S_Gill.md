@@ -1,4 +1,4 @@
-Title: Predicting Twitter Conversations
+Title: unSeminar 11/21 - Predicting Twitter Conversations
 Date: 11/21/2017
 Time: 12:10-1pm
 Where: DSI Classroom, 360 Shields Library

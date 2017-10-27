@@ -1,4 +1,4 @@
-Title: Databases
+Title: Workshop 10/27 - Databases
 Date: 10/27/2017
 Time: 10-12pm
 Where: DSI Classroom, 360 Shields Library

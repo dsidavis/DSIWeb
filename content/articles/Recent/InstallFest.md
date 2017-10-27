@@ -1,4 +1,4 @@
-Title: Install-Fest
+Title: Workshop 10/6 - Install-Fest
 Date: 10/6/2017
 Time: 10-1pm
 Where: DSI Classroom, 360 Shields Library

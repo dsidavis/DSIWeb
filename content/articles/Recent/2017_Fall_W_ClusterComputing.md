@@ -1,4 +1,4 @@
-Title: Cluster Computing
+Title: Workshop 10/21 - Cluster Computing
 Date: 10/20/2017
 Time: 10AM
 Where: DSI Classroom, 360 Shields Library

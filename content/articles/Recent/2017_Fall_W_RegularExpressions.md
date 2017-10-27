@@ -1,4 +1,4 @@
-Title: Regular Expressions
+Title: Workshop 12/1 - Regular Expressions
 Date: 12/01/2017
 Time: 10-12pm
 Where: DSI Classroom, 360 Shields Library
