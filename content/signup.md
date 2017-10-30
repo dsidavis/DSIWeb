@@ -6,8 +6,7 @@ Authors: DSI
 <h1>Data Science Mailing List</h1>
 
 To receive email about Data Sciences news and events,
-<a
-href="mailto:sympa@sympa.ucdavis.edu?subject=Subscribe%20datascience-announce%20&lt;firstname&gt;%20&lt;lastname&gt;">register
+<a href="mailto:sympa@sympa.ucdavis.edu?subject=Subscribe%20datascience-announce%20&lt;firstname&gt;%20&lt;lastname&gt;">register
 by sending email</a> to `sympa@sympa.ucdavis.edu`.
 The subject of the email should be
 <pre>
