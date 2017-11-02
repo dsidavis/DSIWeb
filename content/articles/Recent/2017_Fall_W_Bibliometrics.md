@@ -30,3 +30,6 @@ Prerequisites:
 Bring your laptop with R installed and working to follow along. The first portion of the workshop (using the Scopus web interface) will also be helpful to those who do not have a programming background.
 
 [Register here](https://www.eventbrite.com/e/dsi-workshop-november-3-getting-working-with-bibliometric-data-tickets-38741305287?aff=erelpanelorg). All are welcome to attend, but DSI Affiliates have priority registration.
+
+[Resources](https://github.com/dsidavis/bibliometrics-workshop)
+[Video](https://www.youtube.com/channel/UCTooXK1RiSHNbWsmeqz0W6g)
