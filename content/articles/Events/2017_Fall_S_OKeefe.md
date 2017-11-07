@@ -1,5 +1,5 @@
 Title: Aligning Parallel Discourse
-Date: 11/14/2017
+Date: 10/31/2017
 Time: 12:10-1 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events
