@@ -8,7 +8,7 @@ xnonews: true
 
 # unSeminar: "Predicting conversation length of protest-related discussions on Twitter” 
 
-## Presented by Teresa Gill and [Cuihua Shen](http://communication.ucdavis.edu/people/cuishen).
+## Presented by Teresa Gil-Lopez and [Cuihua Shen](http://communication.ucdavis.edu/people/cuishen).
 
 ## Key Words: *text mining, sentiment analysis, record matching, database design, modeling, prediction*
 
