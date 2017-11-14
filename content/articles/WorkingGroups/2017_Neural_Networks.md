@@ -2,12 +2,9 @@ Title: Study Group - Neural Networks
 Who: Hugo Mailhot
 Where: DSI Classroom, 360 Shields Library
 Day: Fri
-Time: 3 - 6 pm
+Time: 3:15 - 6 pm
 Private:
 Tags: Study Group, Neural Networks
 Date: 2017-10-22
 
-A study group for the [Neural Networks for Machine Learning][1] lectures by
-Geoffrey Hinton. Each week we watch a new lecture and discuss.
-
-[1]: https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9
+A study group for the Convolutional Neural Networks for Visual Recognition lectures by Fei-Fei Li at Stanford. Focus is put on understanding the fundamentals of neural networks, rather than on the applications specific to image processing.
