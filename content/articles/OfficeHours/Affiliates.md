@@ -43,3 +43,8 @@ The possibility to automatically analyze large collections of texts has opened m
     in visualizations in various platforms. 
 * __[Zac Harmany](mailto:ztharmany@ucdavis.edu)__: Python, MATLAB, Git, LaTeX, Image Processing. 
 	Zac is a PhD and researcher in Biomedical Engineering at the Center for Molecular and Genomic Imaging. His background is in statistical signal processing, image processing, machine learning, and optimization. He programs in Python and MATLAB, uses Git to manage projects, and uses LaTeX to write math-heavy papers. Zac can also help with the basics of Bash and command line.
+
+## Tuesdays 4-5pm
+* __[Ruijuan Li](mailto:rzlli@ucdavis.edu)__: bioinformatics, R, git/github. 
+Ruijuan is a postdoc in Plant Sciences. Her background is in plant genomics and bioinformatics. She has experience in R programming and RNA-sequencing data analysis, particularly for sequence alignment, expression analysis, variant calling, genome wide association study, QTL analysis, and genomic prediction.
+
