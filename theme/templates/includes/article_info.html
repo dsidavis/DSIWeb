@@ -1,51 +1,62 @@
 <footer class="post-info">
 
-{% if article.category == 'OfficeHours' %}
-  <span class="label label-default">Who</span>
-  {{ article.who }}
-  <span class="label label-default">Day(s)</span>
-  {{ article.day }}
-  {% if article.time is defined %}
-    <span class="label label-default">Time</span>
-    {{ article.time }}
-  {% endif %}
-
-{% else %}
-  <span class="label label-default">Last modified</span>
+{# Show Date or Day but not both. #}
+{%if article.category == 'Events' %}
+  <span class="label label-default">Date</span>
   <span class="published">
-    <i class="fa fa-calendar"></i>
     <time datetime="{{ article.date.isoformat() }}">
       {{ article.locale_date }}
     </time>
   </span>
+{% endif %}
 
-  {% if SHOW_SERIES %}
-    {% if article.series %}
-      <span class="label label-default">Series</span>
-      Part {{ article.series.index}} of {{ article.series.name }}
-    {% endif %}
+{% if article.day is defined %}
+  <span class="label label-default">Day(s)</span>
+  {{ article.day }}
+{% endif %}
+
+{% if article.time is defined %}
+  <span class="label label-default">Time</span>
+  {{ article.time }}
+{% endif %}
+
+{% if article.where is defined %}
+  <span class="label label-default">Where</span>
+  {{ article.where }}
+{% endif %}
+
+{% if article.category == 'OfficeHours' %}
+  <span class="label label-default">Who</span>
+  {{ article.who }}
+{% endif %}
+
+{# ------------------------------------------------------------ #}
+{# Defaults. Most of these should be off in the Pelican settings. #}
+{% if SHOW_SERIES %}
+  {% if article.series %}
+    <span class="label label-default">Series</span>
+    Part {{ article.series.index}} of {{ article.series.name }}
   {% endif %}
+{% endif %}
 
-  {% if SHOW_ARTICLE_AUTHOR %}
-    {% if article.author %}
-      <span class="label label-default">By</span>
-			{{ article.author }}
-    {% endif %}
+{% if SHOW_ARTICLE_AUTHOR %}
+  {% if article.author %}
+    <span class="label label-default">By</span>
+		{{ article.author }}
   {% endif %}
+{% endif %}
 
-  {% if SHOW_ARTICLE_CATEGORY %}
-    <span class="label label-default">Category</span>
-     <a href="{{ SITEURL }}/{{ article.category.url }}">
-       {{ article.category }}
-    </a>
-  {% endif %}
+{% if SHOW_ARTICLE_CATEGORY %}
+  <span class="label label-default">Category</span>
+   <a href="{{ SITEURL }}/{{ article.category.url }}">
+     {{ article.category }}
+  </a>
+{% endif %}
 
-  {% if PDF_PROCESSOR %}
-      <span class="label label-default">
-          <a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">PDF</a>
-      </span>
-  {% endif %}
-
+{% if PDF_PROCESSOR %}
+    <span class="label label-default">
+        <a href="{{ SITEURL }}/pdf/{{ article.slug }}.pdf">PDF</a>
+    </span>
 {% endif %}
 
 {% include 'includes/taglist.html' %}

@@ -38,7 +38,8 @@ DEFAULT_LANG = "en"
 # Time
 DEFAULT_DATE = 'fs'
 CHECK_MODIFIED_METHOD = 'mtime'
-DEFAULT_DATE_FORMAT = '%a %b %d %I:%M%p %Y'
+#DEFAULT_DATE_FORMAT = '%a %b %d %I:%M%p %Y'
+DEFAULT_DATE_FORMAT = '%a %b %d'
 TIMEZONE = 'America/Los_Angeles'
 
 # Feed generation is usually not desired when developing
@@ -86,9 +87,9 @@ DEFAULT_PAGINATION = 8
 ARTICLE_SAVE_AS = 'posts/{tags[0]}/{slug}{date:%Y%m%d}.html'
 ARTICLE_URL = 'posts/{tags[0]}/{slug}{date:%Y%m%d}.html'
 USE_FOLDER_AS_CATEGORY = True
-SHOW_ARTICLE_CATEGORY = True
-SHOW_ARTICLE_AUTHOR = True
-SHOW_DATE_MODIFIED = True
+SHOW_ARTICLE_CATEGORY = False
+SHOW_ARTICLE_AUTHOR = False
+SHOW_DATE_MODIFIED = False
 
 # Page settings
 PATH_METADATA = '(?P<path_no_ext>.*)\..*'
