@@ -267,13 +267,6 @@
     <td><a href="{{ SITEURL }}/{{ article.url }}">
     {{ article.title.split('-', 1)[-1] }}
     </a></td>
-    {% if article.private is not defined %}
-    <td>{{ article.day }}</td>
-    <td>{{ article.time }}</td>
-    {#
-    <td>{{ article.where.split(',', 1)[-1].replace(' Library', '') }}</td>
-    #}
-    {% endif %}
   </tr>
   {% endfor %}
   {% endfor %}
