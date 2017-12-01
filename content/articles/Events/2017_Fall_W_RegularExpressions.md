@@ -16,3 +16,6 @@ Prerequisites:
 Bring your laptop with R installed and working. This workshop is geared for intermediate to advanced R users.
 
 [Register here](https://www.eventbrite.com/e/dsi-workshop-december-1-regular-expressions-tickets-38741487833?aff=erellivmlt). All are welcome to attend, but DSI Affiliates have priority registration.
+
+[Recording](https://youtu.be/VNUizaTVQAU)
+[Resources](https://github.com/dsidavis/data_cleaning_w_r)

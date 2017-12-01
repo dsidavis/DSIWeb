@@ -13,3 +13,5 @@ Bill Broadly, KeckCAVES Information Architect and MPS cluster manager, will disc
 Registration is not required for this workshop, but highly encouraged.
 
 [Register Here](https://www.eventbrite.com/e/dsi-workshop-oct-20-computing-on-clusters-tickets-38741180915)
+
+[Recording](https://youtu.be/KtUqgRdPOy4)
