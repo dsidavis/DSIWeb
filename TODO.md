@@ -192,5 +192,15 @@ merge all calendars of events.
 	+ [fixed] Clicking on more for the FAQ is the DSI interested in collaborations link is broken, goes here: http://dsi.ucdavis.edu//Collaboration.html
 	+ [fixed] Also under FAQ the Here for how to find out about events is broken, goes here: http://dsi.ucdavis.edu//Signup.html
 	+ [fixed] Clicking on listserv on the Workshops page is broken, http://dsi.ucdavis.edu//signup.md. Spring 2017 and Winter 2017 are also broken.
+	+	RFundamentals: Notes & Outline link is broken
+	+	Visualization Principals: Slides is broken (http://dsi.ucdavis.edu/posts/Workshop/Visualizatio20170609.html)
+	+	Efficient Code in R: Resources is broken (http://dsi.ucdavis.edu/posts/Workshop/workshop-efficient-code-in-r20170428.html)
+	+	Machine learning session 1: The link isn't broken, but needs a parenthesis removed to make the hyperlink functional (http://dsi.ucdavis.edu/posts/Workshop/MachineLearnin20170505.html)
+	+	D3 Workshop: Link to Workshop Materials is broken (http://dsi.ucdavis.edu/posts/Workshop/D3DataVisualizatio20160603.html)
+	+	Advanced Beginner Python (main link is broken)
+	+	Data Visualization Workshop: materials here is broken (http://dsi.ucdavis.edu/posts/Workshop/DataVisualizatio20150425.html)
+	+	Web Scraping and Services: Materials here link is broken (http://dsi.ucdavis.edu/posts/Workshop/WebScraping201520150404.html)
+	+	Workshop on accessing data from API's: Link to materials is broken (http://dsi.ucdavis.edu/posts/Workshop/WebScraping201420140929.html)
+
 	
 
