@@ -9,13 +9,13 @@ Below is the current schedule for DSI office hours.
 While drop-ins are encouraged, hours are subject to change and thus we recommend you contact us in advance when possible. Including a very brief description of your problem/questions in your email is helpful.
 
 
-## FALL 2017
+## WINTER 2018
 
 ## Director's Office Hours (DSI Conference Room, Shields 362)
 ### Thursdays 12-1pm 
 * __[Dr. Duncan Temple Lang](mailto:dtemplelang@ucdavis.edu)__: DSI Director and Statistics Professor. Duncan provides expertise in advanced topics in data science.
 
-### Thursdays 1-2pm 
+### Tuesdays & Thursdays 11-noon 
 * __[Dr. Carl Stahmer](mailto:cstahmer@ucdavis.edu)__*: DSI Associate Director for the Humanities and Director of Digital Scholarship at the UC Davis Library. Carl provides expertise on natural language processing (NLP) and other methods of text mining and language processing.
 
 
