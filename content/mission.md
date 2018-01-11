@@ -1,33 +1,39 @@
-Title: DSI Mission 
+Title: DSI Background 
 Author: DSI UC Davis
 Date: 2017-05-10 17:06
 
-# About the Data Science Initiative
-Across domains, we are at a threshold of an era in which hypothesis-driven science is being complemented and enabled by data-driven discovery. Advances in technology have led to an exponential growth in the size, dimensionality and heterogeneity of data. This ‘Big Data’ and its application through Data Science and the process of Data-Driven Discovery (the "Fourth Paradigm") has become prevalent, adding value to theoretical and applied research questions from health to the humanities, engineering to the environment. This rapidly evolving landscape of data-enabled research proposes challenges and opportunities to combine and leverage existing knowledge to tackle complex theoretical and applied problems, to generate new tools to do so more effectively, and to teach their implementation and development. The UC Davis Data Science Initiative (DSI ) provides services, collaborations, and training to foster a Data Science community that complements and strengthens the research groups, academic units, and other related efforts across the university. The DSI partners with researchers across UC Davis to push the envelope both within and across disciplines to perform qualitatively novel, interdisciplinary research that is driven and enabled by data. 
+# Data Science at UC Davis
 
-# What is Data Science?
-Data Science is an interdisciplinary field focused on generating data-enabled knowledge. This includes the development and study of novel computational methods and processes, and their research applications. Data Science encompasses the research lifecycle of data including data identification, acquisition, management, cleaning, exploration, modeling, and visualization as well as framing the relevant questions and interpreting the data-based results. Data governance, ethics, security and privacy are also important components of Data Science. Data Science touches all academic disciplines ranging from the traditionally quantitative and computationally heavy STEM fields to the social sciences and humanities. Therefore, developing a strategy for Data Science requires novel, broad, multi-disciplinary responses to promote sustained education, training and research.
+**“Data Science is now recognized as a new discipline, distinct from statistics or computer science, encompassing learning from data, or ‘data analysis’, and scientific studies of data analysis across the spectrum of academic disciplines.”** [Donoho, 50 years of Data Science, 2015](http://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf)
 
-# Mission
-The mission of the DSI is to foster, promote and facilitate the rigorous application of Data Science to enable and accelerate qualitatively new discovery at the frontiers of all disciplines at UC Davis. Through this process we aim to  help meet the growing industry and academic need for graduates with rigorous problem solving and Data Science skills.
+Data Science is a broad, integrative, multidisciplinary and translational field that transforms data into knowledge and insights. At UC Davis we work across the entirety of the Data Science “pipeline,” moving beyond method and algorithm development and implementation, and into translational, high impact research across domains. It is both integrative and translational, and spans data technologies, statistical machine learning, high performance computing, and domain sciences.
 
-# Vision
-The DSI is an interdisciplinary resource for the entire university, providing cutting-edge training and collaboration to enable transformative data-intensive research. Our vision of Data Science includes discovery-focused development, engineering, computing, modeling, visualization, and domain knowledge in addition to data governance, sharing, provenance and publication. We focus on the Data Science process, and on bringing novel multidisciplinary Data Science approaches to solve real problems in new ways. The interdisciplinarity of the Data Science Initiative is key to its success.  
+This work includes the development and study of novel computational methods and processes, their research applications, and encompasses the research lifecycle of data including methods of data identification, acquisition, management, cleaning, exploration, modeling, and visualization as well as framing the relevant questions and interpreting the data-based results. Data governance, ethics, security and privacy are also important components of Data Science. Data Science touches all academic disciplines ranging from the traditionally quantitative and computationally heavy STEM fields to the social sciences and humanities. Therefore, developing a strategy for Data Science at UC Davis requires novel, broad, multidisciplinary responses to promote sustained education, training and research.
 
-# Values
- Our core values are excellence in learning, discovery and engagement to promote curiosity, diversity and innovation in the development and application of Data Science within and across disciplines.
+Today, all disciplines (and most careers) require significantly more Data Science literacy, requiring capabilities new to them. This poses challenges for both research and training at all levels and necessitates a centralized, multidisciplinary effort at UC Davis that complements and supports existing programs and provides expertise to enable and enhance research across the entire University. 
 
-# Goals
-* __Research__: Promote and enable excellence in interdisciplinary, data-driven research.
-* __Training__:  Promote academic and research excellence through quality programs, engaged researchers, and an innovative research and learning environment. 
-* __Community__: Foster and support a diverse, multi-disciplinary Data Science community. 
+UC Davis’ strategy for Data Science is focused on furthering qualitatively new research made possible by data. It examines the process, foundations and tools of data-driven research and their ultimate effectiveness. The Data Science Initiative was established in 2014 to address these challenges following the report of the [Big Data Implementation committee (2013)](http://provost.ucdavis.edu/local_resources/docs/Big%20Data%20Report.pdf). Funded by the Provost through the Library, the DSI is charged with identifying and supporting data-driven research on campus. Our approach to Data Science is both integrative and translational, spanning data technologies, statistics, machine learning and other aspects of computer science, and domain sciences.
+
+## Mission
+The mission of the DSI is to promote, facilitate and accelerate data-enabled research leading to qualitatively new insights within and across disciplines to improve UC Davis’ success for students and researchers.  
+
+## Vision
+The DSI is highly interdisciplinary venue for Data Science research, education, training, and practice at UC Davis, and fosters a broad community of Data Science practitioners across the entire university. Our vision of Data Science includes discovery-focused development, engineering, computing, modeling, visualization, and domain knowledge in addition to data governance, sharing, provenance and publication. We focus on the Data Science process, and on bringing novel multidisciplinary Data Science approaches to solve real problems in new ways. The interdisciplinarity of the Data Science Initiative is key to its success.  
+
+## Values
+ Our core values are excellence in learning, discovery and engagement to promote curiosity, diversity and innovation in the development and application of Data Science within and across domains.
+
+## Priorities
+* Increase UC Davis’ Research Impact via Data-Driven Expertise
+* Train the Next Generation of Data-Capable Researchers & Students
+* Foster a Diverse Community of Data Science Practitioners and Provide an Umbrella for Data Science-related Units at UC Davis
 
 The DSI will achieve these goals by complementing existing and developing research and education efforts at UC Davis
 to facilitate data-enabled research and provide a niche for students,
 faculty and professional researchers seeking to move beyond their individual
 programs to identify and develop new opportunities.
 
-# Activities
+## Activities
 The DSI is a bottom-up organization adapting to UC Davis' needs and
 opportunities, rising to fill identified gaps and support institutional
 excellence. As a hub of emerging activity on campus related to statistical and
