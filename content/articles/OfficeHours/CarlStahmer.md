@@ -1,10 +1,10 @@
 Title: Data Science Office Hours - Carl Stahmer
 Who: Carl Stahmer (DSI)
 Where: 362 Shields Library
-Day: Thu
-Time: 1-2 pm
+Day: Tues & Thu
+Time: 11-12 pm
 Tags: Office Hours
-Date: 2017-12-12
+Date: 2018-1-17
 
 Dr. Carl Stahmer holds drop-in office hours weekly in the DSI conference room.
 He provides expertise on natural language processing (NLP) and other methods of
