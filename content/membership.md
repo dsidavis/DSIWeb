@@ -101,36 +101,14 @@ UC Davis faculty may join if:
 * Their scientific contributions are of obvious merit and commensurate with
   those of current members.
 * They have contributed to or can be expected to
-  contribute to research, teaching, and activities of the DSI.
+  contribute to research, training, and other strategic activities of the DSI.
 
 #### Nomination
 
-Candidates for membership must be brought to the attention of the DSI director.
+Candidates for membership must be brought to the attention of the DSI Director.
 Candidates may self-nominate or be nominated by a current DSI faculty member.
 Nominations are accepted year round. To apply, send a copy of your CV to
 <mailto:datascience@ucdavis.edu>.
-
-#### Expectations
-
-Faculty members are expected to support the mission and goals of the DSI by:
-
-* Engaging in DSI events.
-* Attending, developing, leading and/or otherwise supporting DSI workshops and
-  tutorials. Attending DSI seminars.
-* Presenting a Problem Solving un-seminar other other talk. Faculty are
-  expected to give a talk within their first year of membership, but can
-  designate a student or research associate to present for their group in
-  subsequent years.
-* Other contributions to the Data Science community at UC Davis.
-
-#### Review & Termination of Membership
-
-DSI faculty membership will be reviewed every 3 years, at which time faculty
-can decide whether they seek to renew or terminate their membership. We view
-turnover and admittance of new members as a healthy mechanism by which to meet
-the growing and evolving data science needs of the UC Davis community and to
-accomodate changes in faculty research needs and career timing. 
-
 
 ### Professional Research Associates
 
@@ -139,4 +117,3 @@ Specialists, Academic Coordinators, and other non-faculty professionals. These
 individuals are often in the trenches and at the forefront of data science and
 provide continuity for ongoing research projects. Contact
 <mailto:datascience@ucdavis.edu> for more information.
-
