@@ -9,7 +9,7 @@ Author: DSI UC Davis
 * Academic Coordinator: __[Pamela Reynolds](mailto: plreynolds@ucdavis.edu)__
 
 
-# Postdoctoral Scholar
+# Postdoctoral Scholars
 * [Matthew Espe](https://mespe.github.io/)
 * [Daniel Hicks](http://dhicks.github.io/)
 
@@ -26,7 +26,7 @@ Author: DSI UC Davis
 * [Viji Murali](http://vpiet.ucdavis.edu/)
 * [MacKenzie Smith](http://www.lib.ucdavis.edu/ul/about/meetnewul.php)
 * [Tony Tyson](http://tyson.ucdavis.edu/)
-* Mark Redican
+* [Mark Redican](https://iet.ucdavis.edu/unit/communications-resources)
 
 The DSI is supported by the Provost. Logistical support is provided by the [UC Davis Library](https://www.library.ucdavis.edu/).
 
