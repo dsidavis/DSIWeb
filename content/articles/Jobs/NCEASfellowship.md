@@ -1,7 +1,8 @@
 Title: NCEAS Data Science Fellowship
-Tags: Fellowship, Job
+Tags: Fellowship, Jobs
 Date: 2017-09-04
-Expired:
+Category: Jobs
+xExpired: 2018-03-01
 
 The National Center for Ecological Analysis and Synthesis (NCEAS) and the Arctic Data Center are accepting applications for a 6-month Data Science Fellows Program in Santa Barbara, CA. This fellowship is likely of particular interest to those involved in earth and environmental sciences, library and information sciences, research data management, statistics, or computer science and individuals from all disciplines are encouraged to apply.
 

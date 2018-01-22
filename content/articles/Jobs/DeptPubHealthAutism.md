@@ -1,8 +1,8 @@
-Title: Depart. Public Health GSR & Postdoc
-Tags: job
+Title: Public Health GSR & Postdoc
+Tags: Jobs
 Date: 2017-9-4
 Category: Jobs
-expired:
+xExpired: 2018-03-01
 
 Department of Public Health Sciences at UC Davis has openings for positions in Genomics & Epigenomics of Autism Spectrum Disorder (ASD).
 

@@ -1,8 +1,9 @@
 Title: Data Science for Social Good Summer Fellowship
 Date: 12/18/2017
-Category: Job
-Tags: Job, Winter 2018, Fellowship
+Category: Jobs
+Tags: Jobs, Winter 2018, Fellowship
 xnonews: true
+Expired: 2018-01-30
 
 # Data Science for Social Good Summer Fellowship at the University of Chicago
 

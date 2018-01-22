@@ -1,7 +1,8 @@
 Title: Faculty Position: Data Studies in Science and Technology Studies & Data Science
-Tags: Job, Faculty
+Tags: Jobs, Faculty
+Category: Jobs
 Date: 2017-11-15
-
+Expired: 2018-01-30
 
 STS Position in Data Studies - Assistant/Associate Professor
 University of California, Davis

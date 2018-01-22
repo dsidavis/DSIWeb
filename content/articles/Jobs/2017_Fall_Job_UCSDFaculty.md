@@ -1,8 +1,9 @@
 Title: Assistant Teaching Professor in Data Science at UCSD
 Date: 12/09/2017
-Category: Job
-Tags: Job, UC San Diego, Fall 2017
+Category: Jobs
+Tags: Jobs, UC San Diego, Fall 2017
 xnonews: true
+Expired: 2017-12-09
 
 # Assistant Teaching Professor of Data Science/Programming at UC San Diego
 Department of Cognitive Science
