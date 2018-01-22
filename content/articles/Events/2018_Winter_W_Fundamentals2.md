@@ -8,6 +8,8 @@ xnonews: true
 
 # R Fundamentals - Part II
 
+To register, select the appropriate workshop [here](https://forms.library.ucdavis.edu/classes/descriptions.php#class174).
+
 ## Description:
 This 3-part workshop series led by DSI Director and Professor of Statistics Duncan Temple Lang explores the underlying computational model of the R language. It is strongly encouraged, although not required, that you attend all three sessions as they build upon each other. A longer version of this series was taught in the DSI as a [mini-course in summer 2017](http://dsi.ucdavis.edu/posts/Workshop/RFundamental20170711.html). 
 
@@ -26,4 +28,4 @@ with basic R syntax, and to have it pre-installed and running on their laptops.
 This series is appropriate for motivated beginners as well as intermediate 
 to advanced users who want a better understanding of base R. It is open
 to UC Davis faculty, graduate students, postdocs, staff, and undergraduates; 
-DSI affiliates will receive priority registration.
+DSI affiliates receive priority registration.
