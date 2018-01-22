@@ -3,7 +3,8 @@ Who: Madeline Weeks
 Where: DSI Conference Room, 362 Shields Library
 Day: Thu
 Time: 10 - 11:30 am
-Tags: Study Group, Statistics
+Tags: Working Group, Study Group, Statistics, Bayesian
+Category: WorkingGroups
 Date: 2017-10-22
 
 A reading group for [Statistical Rethinking, A Bayesian Course with Examples in

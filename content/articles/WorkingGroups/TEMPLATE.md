@@ -4,6 +4,7 @@ Where:
 Day:
 Time:
 Tags: Working Group
+Category: WorkingGroups
 Date: 2017-09-22
 Private:
 Status: draft

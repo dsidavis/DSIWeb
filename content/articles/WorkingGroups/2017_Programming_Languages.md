@@ -3,7 +3,8 @@ Who: Clark Fitzgerald
 Where:
 Day: Fri
 Time:
-Tags: Study Group, Programming Languages
+Tags: Working Group, Study Group, Programming Languages
+Category: WorkingGroups
 Date: 2017-09-11 
 
 A reading group on emerging technologies for high-level languages. The
