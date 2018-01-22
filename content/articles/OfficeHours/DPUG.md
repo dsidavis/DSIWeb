@@ -1,7 +1,7 @@
 Title: Drop-in Work Session - Davis Python Users Group
-Who: Davis R Users Group
+Who: Davis Python Users Group (D-PUG)
 Where: 360 Shields Library
-Day: Thursdays
+Day: Thu
 Time: 5-7pm
 Tags: Office Hours, DPUG
 Date: 2018-1-17
