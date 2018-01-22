@@ -1,6 +1,7 @@
 Title: Call for Graduate Student & Postdoc Affiliates
 Date: 12/12/2017
-Tags: News, Affiliates
+Tags: News, Affiliates, Call
+Category: News
 
 # Data Science Affiliate Program
 
