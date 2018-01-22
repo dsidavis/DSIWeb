@@ -4,7 +4,7 @@ Time: 10-12 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events
 Tags: Workshop, Fall 2017, Databases
-xnonews: true
+nonews: true
 
 # When to Use a Database & Which Technology to Use 
 
