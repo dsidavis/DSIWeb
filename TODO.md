@@ -187,6 +187,7 @@ merge all calendars of events.
    + [done] Put the events.rss file into this repos.
 
 # BROKEN LINKS
+	+ Subscribe for news of events on all pages goes to http://dsi.ucdavis.edu/posts/Office%20Hours/signup.html but is NOT FOUND; it should direct instead to http://dsi.ucdavis.edu/signup.html 
 	+ [position not live yet] Jobs: http://dsi.ucdavis.edu/posts/Job/faculty-position-for-data-studies-in-science-and-technology-studies-and-data-science20170901.html
 	+ [fixed] People->faculty members->membership page http://www.dsi.ucdavis.edu/About/Membership/  Should be http://dsi.ucdavis.edu/membership.html
 	+ [fixed] Clicking on more for the FAQ is the DSI interested in collaborations link is broken, goes here: http://dsi.ucdavis.edu//Collaboration.html
