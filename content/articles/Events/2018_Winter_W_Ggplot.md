@@ -8,6 +8,8 @@ xnonews: true
 
 # Exploratory Data Analysis with ggplot in R
 
+To register, select the appropriate workshop [here](https://forms.library.ucdavis.edu/classes/descriptions.php#class174).
+
 ## Description:
 
 This workshop will be led by DSI postdoc Dan Hicks. More information coming soon!
