@@ -5,6 +5,7 @@ Where: DSI Classroom, 360 Shields Library
 Category: Events
 Tags: Workshop, Winter 2018, Fundamentals, R
 xnonews: true
+slug: fundamentals2_18
 
 # R Fundamentals - Part II
 

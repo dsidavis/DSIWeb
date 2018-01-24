@@ -103,7 +103,7 @@ BANNER = 'images/dsi_banner.png' # the image for main homepage banner
 RECENT_POST_COUNT = 20  # number of posts displayed on homepage banner
 # The tags displayed in the `News` columns on the homepage
 # APriority is to put this first alphabetically.
-EVENTS_TAGS = ['APriority', 'CFP', 'Job', 'Workshop', 'Bootcamp', 'Talk', 'Symposium', 'Seminar', 'OfficeHours', 'Recent', 'WorkingGroup']
+EVENTS_TAGS = ['APriority', 'CFP', 'Job', 'Workshop', 'Bootcamp', 'Talk', 'Symposium', 'Seminar', 'OfficeHours', 'Recent', 'WorkingGroup', 'Coffee Hour']
 
 NEWS_CATEGORIES = ['CFP', 'News']
 
