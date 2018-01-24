@@ -1,9 +1,5 @@
 Title: Drop-in Work Session - Davis Python Users Group
-<<<<<<< HEAD
 Who: Davis Python Users Group (D-PUG)
-=======
-Who: Davis Python Users Group
->>>>>>> 41aea9d07d94914eef26621a3d2345ec7d918d4e
 Where: 360 Shields Library
 Day: Thu
 Time: 5-7pm
