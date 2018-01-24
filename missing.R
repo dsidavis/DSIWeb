@@ -3,3 +3,5 @@ info = file.info(ff)
 head(rownames(info[rev(order(info$mtime)), ]), 20)
 
 w = sapply(ff, function(x) any(grepl("Tags:", readLines(x, warn = FALSE))))
+
+w = sapply(ff, function(x) sum(grepl("Tags:", readLines(x, warn = FALSE))))

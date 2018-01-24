@@ -5,6 +5,7 @@ Where: DSI Classroom, 360 Shields Library
 Category: Events
 Tags: Talk, Winter 2018, Reproducibility, Replicability, Scientific Integrity
 xnonews: true
+slug: replicability3
 
 # Reproducibility, Replicability, & Scientific Integrity: Part III
 
