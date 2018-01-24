@@ -12,10 +12,10 @@ For more details and how to register, click on the workshop title.
 |Date|Title|Instructor|
 |----|----|----|
 |**Jan 19**|Working with and Creating R Packages|Duncan Temple Lang|
-|**Jan 26**|R Fundamentals 1 |Duncan Temple Lang|
-|**Feb 2 **|R Fundamentals 2 |Duncan Temple Lang|
-|**Feb 6 **|R Fundamentals 3 |Duncan Temple Lang|
-|**Feb 13**|No workshop today|
+|**Jan 26**|R Fundamentals 1|Duncan Temple Lang|
+|**Feb 2 **|R Fundamentals 2|Duncan Temple Lang|
+|**Feb 6 **|R Fundamentals 3|Duncan Temple Lang|
+|**Feb 13**|*No workshop today*|
 |**Feb 23**|[Projections for Spatial Data in R](http://dsi.ucdavis.edu/posts/Workshop/Projection20180223.html)|Michele Tobias|
 |**March 2**|Exploratory Data Analysis with ggplot|Dan Hicks|
 |**March 9**|[A gentle introduction to Bayesian inference](http://dsi.ucdavis.edu/posts/Workshop/Baye20180309.html)|Matt Espe|
