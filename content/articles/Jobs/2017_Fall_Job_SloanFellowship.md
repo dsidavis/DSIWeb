@@ -1,7 +1,7 @@
 Title: NYU Moore-Sloan Data Science Fellowship
 Date: 12/01/2017
 Category: Jobs
-Tags: Job, NYU, Moore, Sloan, Fellowship, Fall 2017
+Tags: Jobs, NYU, Moore, Sloan, Fellowship, Fall 2017
 xnonews: true
 xExpired: 2018-02-01
 

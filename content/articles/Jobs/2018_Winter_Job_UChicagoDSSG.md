@@ -1,7 +1,7 @@
 Title: Data Science for Social Good Summer Fellowship
 Date: 12/18/2017
 Category: Jobs
-Tags: Job, Winter 2018, Fellowship
+Tags: Jobs, Winter 2018, Fellowship
 xnonews: true
 Expired: 2018-01-30
 

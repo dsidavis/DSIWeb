@@ -1,5 +1,5 @@
 Title: Public Health GSR & Postdoc
-Tags: Job
+Tags: Jobs
 Date: 2017-9-4
 Category: Jobs
 xExpired: 2018-03-01

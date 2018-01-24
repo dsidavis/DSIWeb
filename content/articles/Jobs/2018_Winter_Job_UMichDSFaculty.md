@@ -1,7 +1,7 @@
 Title: Faculty Job Data Science for Sustainable Development at Univ. Michigan
 Date: 12/18/2017
 Category: Jobs
-Tags: Job, Winter 2018
+Tags: Jobs, Winter 2018
 xnonews: true
 xExpired: 2018-03-01
 

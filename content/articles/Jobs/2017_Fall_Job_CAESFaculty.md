@@ -1,7 +1,7 @@
 Title: Asst Professor of Applied Ecosystem Modeling at UC Davis
 Date: 12/08/2017
 Category: Jobs
-Tags: Job, UC Davis, Fall 2017
+Tags: Jobs, UC Davis, Fall 2017
 xnonews: true
 Expired: 2018-01-30
 

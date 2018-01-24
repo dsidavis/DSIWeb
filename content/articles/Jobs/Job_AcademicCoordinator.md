@@ -1,5 +1,5 @@
 Title: Full-time job: Academic Coordinator
-Tags: Job
+Tags: Jobs
 Category: Jobs
 nonews: true
 

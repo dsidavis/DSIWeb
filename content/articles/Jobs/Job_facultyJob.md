@@ -1,6 +1,6 @@
 Title: Tenure-track faculty position in Data Studies 2016
 Date: 2016-12-31
-Tags: Job
+Tags: Jobs
 Category: Jobs
 expired: true
 
