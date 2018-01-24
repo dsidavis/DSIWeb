@@ -1,5 +1,5 @@
 Title: Faculty Position: Data Studies in Science and Technology Studies & Data Science
-Tags: Jobs, Faculty
+Tags: Job, Faculty
 Category: Jobs
 Date: 2017-11-15
 Expired: 2018-01-30

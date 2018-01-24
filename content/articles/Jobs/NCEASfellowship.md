@@ -1,5 +1,5 @@
 Title: NCEAS Data Science Fellowship
-Tags: Fellowship, Jobs
+Tags: Job, Fellowship
 Date: 2017-09-04
 Category: Jobs
 xExpired: 2018-03-01

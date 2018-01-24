@@ -1,7 +1,7 @@
 Title: Postdoc or Software Developer Job for NIMBLE
 Date: 1/12/2018
 Category: Jobs
-Tags: Jobs, Postdoc, NIMBLE, UC Berkeley
+Tags: Job, Postdoc, NIMBLE, UC Berkeley
 xnonews: true
 xExpired: 2018-03-01
 
