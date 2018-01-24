@@ -1,6 +1,6 @@
 Title: Internship at the Lawrence Livermore National Laboratory
 Date: 01/23/2016 12:00 pm 
-Tags: Jobs
+Tags: Job
 Category: Jobs
 Expired: 2017-01-01
 

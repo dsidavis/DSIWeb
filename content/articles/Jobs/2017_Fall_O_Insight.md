@@ -3,7 +3,7 @@ Date: 10/23/2017
 Time:
 Where:
 Category: Jobs
-Tags: Jobs, Opportunity, Insight, Training
+Tags: Job, Opportunity, Insight, Training
 nonews: true
 Expired:
 
