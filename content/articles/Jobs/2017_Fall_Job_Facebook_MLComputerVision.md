@@ -1,7 +1,7 @@
 Title: Postdoc in Machine Learning at Facebook
 Date: 11/09/2017
 Category: Jobs
-Tags: Jobs, Facebook, Fall 2017
+Tags: Job, Facebook, Fall 2017
 xnonews: true
 Expired: 2017-12-04
 
