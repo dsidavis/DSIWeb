@@ -4,7 +4,7 @@ Quarter: 2017 Winter
 Tags: Working Group, C, C++
 Category: WorkingGroups
 
-Some of the affiliates and DTL are meeting to discuss different
+Some of the DSI Affiliates and the DSI Director, Duncan Temple Lang, meet to discuss different
 aspects  of development in C and C++, including make, cmake,
 compilers, linkers, loaders, debugging, OOP, ...
 
