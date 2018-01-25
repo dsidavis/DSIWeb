@@ -1,7 +1,9 @@
 Title: Full-time job: Academic Coordinator
 Tags: Job
+Date: 2016-12-31
 Category: Jobs
 nonews: true
+Expired: 2017-01-01 
 
 Academic Coordinator   
 Data Science Initiative    
