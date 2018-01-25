@@ -2,7 +2,7 @@ Title: Analyzing the EvoChess Databases
 Date: 2015-5-12
 Category: Talk
 Tags: Talk, BrownBag
-
+nonews: true
 
 Cody Ross, Anthropology UCD & Santa Fe Institute
 

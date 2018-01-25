@@ -3,6 +3,7 @@ Time: 10-4
 Category: Hackathon
 Tags: Hackathon
 Title: DataRescue for Climate Data
+nonews: true
 
 # DataRescue for Climate Data
 

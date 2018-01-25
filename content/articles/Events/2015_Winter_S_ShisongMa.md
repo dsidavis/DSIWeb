@@ -2,6 +2,7 @@ Title: Plant Sciences Seminar: From Big Data to biological pathways - gene netwo
 Date: 01/15/2015  12:00 
 Slug: PlantSciencesSeminar
 Tags: Talk
+nonews: true
 
 **Event date**: 01/28/2015, 12:10 - 1:00 pm   
 **Venue**: PES 3001   

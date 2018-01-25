@@ -2,6 +2,7 @@ Title: If a tree falls in the forest: spatiotemporal predictions of drought indu
 Date: 2017-4-25
 Category: Talk
 Tags: Talk, unseminar
+nonews: true
 
 # If a tree falls in the forest: spatiotemporal predictions of drought induced mortality from large,
   remote sensing datasets

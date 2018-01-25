@@ -2,6 +2,7 @@ Title: Image Analysis and Fast Indexing of Content
 Date: 2016-3-29
 Category: Talk
 Tags: Talk
+nonews: true
 
 # Image Analysis and Fast Indexing of Content
 ## Carl Stahmer

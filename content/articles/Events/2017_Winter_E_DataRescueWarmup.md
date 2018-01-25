@@ -4,6 +4,7 @@ Title: DataRescue Warmup
 Category: Workshop
 Tags: Category
 Who: Duncan Temple Lang
+nonews: true
 
 # DataRescue Warmup
 

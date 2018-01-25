@@ -3,6 +3,7 @@ Time: 9.15-12.15
 Category: Talk
 Tags: Talk, gene expression
 Title: Differential Gene Expression using R
+nonews: true
 
 # Differential Gene Expression using R
 

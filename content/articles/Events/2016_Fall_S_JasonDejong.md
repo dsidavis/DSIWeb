@@ -4,4 +4,5 @@ Dept: Civil and Environmental Engineering
 Date: 2016-10-19
 Tags: Talk, unseminar
 dsi: true
+nonews: true
 

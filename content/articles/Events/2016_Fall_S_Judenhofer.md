@@ -1,6 +1,7 @@
 Title: Talk series: Problem Solving in Data Sciences
 Tags: Talk
 Date: 2016-10-12 
+nonews: true
 
 __Talk title__: EXPLORER: A Total-Body PET Scanner for Biomedical Research   
 __Speaker__: Martin Judenhofer (and others), Biomed. Eng.   

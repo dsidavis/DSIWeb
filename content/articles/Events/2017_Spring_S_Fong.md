@@ -2,7 +2,7 @@ Title: Dynamic predictions of patients length of hospital stay
 Date: 2017-5-9
 Category: Talk
 Tags: Talk, unseminar
-
+nonews: true
 
 # Dynamic predictions of patients' length of hospital stay: multilevel modeling of electronic medical record data to augment clinician recommendations"
 ## Ronald L. Fong, Director, Family Medicine Residency Network, Department of Family & Community Medicine.
