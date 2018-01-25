@@ -1,4 +1,4 @@
-Title: Workshop: Bayesian Inference
+Title: DSI Workshop: Bayesian Inference
 Date: 3/09/2018
 Time: 9:30-12 pm
 Where: DSI Classroom, 360 Shields Library

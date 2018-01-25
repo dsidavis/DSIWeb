@@ -1,4 +1,4 @@
-Title:  Workshop: Working with and Creating R Packages
+Title:  DSI Workshop: Working with and Creating R Packages
 Date: 1/19/2018
 Time: 9:30-12 pm
 Where: DSI Classroom, 360 Shields Library

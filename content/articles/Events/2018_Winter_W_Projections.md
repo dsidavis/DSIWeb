@@ -1,4 +1,4 @@
-Title: Workshop: Projections for Spatial Data in R
+Title: DSI Workshop: Projections for Spatial Data in R
 Date: 2/23/2018
 Time: 9:30-12 pm
 Where: DSI Classroom, 360 Shields Library

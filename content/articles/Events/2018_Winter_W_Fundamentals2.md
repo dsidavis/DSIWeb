@@ -1,4 +1,4 @@
-Title:  Workshop: R Fundamentals - Part II
+Title:  DSI Workshop: R Fundamentals - Part II
 Date: 2/02/2018
 Time: 9:30-12 pm
 Where: DSI Classroom, 360 Shields Library

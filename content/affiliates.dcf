@@ -71,6 +71,13 @@ title: Economic environmental policy of energy and transportation.
 desc: Nick's background is in theoretical economics and econometrics. His research focuses on the electrification of transportation and carbon policy. He uses high frequency time series data collection and modeling of electric power and transportation systems. Nick is interested in learning programming skills for more efficient methods of compiling data from public and regulated entities. Because these data relate to stationary power sources for the use of stationary transportation networks, he is also interested in visualization of this data onto relevant geographic planes.  
 
 
+email: rpreta@ucdavis.edu
+name: Rinaldo Catta-Preta
+url:
+location: Integrative Genetics and Genomics
+title: Comprehensive, novel ways to define and integrate gene regulatory networks (GRNs) in early neurodevelopment.
+desc: Rinaldo is working on establishing and integrating GRNs for cortical interneuron proliferation, migration and specification, by associating gene co-expression with binding of transcription factors to DNA regulatory elements (promoters and enhancers), and chromatin states. He is interested in developing high-dimensional, deep learning approaches to generate systems-level, predictive models of regulatory element function and gene regulation during brain development; furthermore, he is interested in, having the models, back generate interpretable representations to drive further feature discovery. Rinaldo has a strong background in Perl and other ancillary languages, but is currently pursuing expertise in Python and R, and efficient HPC. Machine learning interests focus on neural nets, HMMs and deep learning.   
+
 
 email:kacorn@ucdavis.edu
 name: Katherine Corn
@@ -269,6 +276,7 @@ desc: Nistara is working with the PREDICT project at the One Health Institute, w
  She is learning PostgreSQl and PostGIS to facilitate her GIS work outside of and with R. She wrote an R package (XXX) for her research on contact tracing during outbreaks in humans.
  Nistara would like to learn more about parallel computing, python, NLP, machine learning, database management, data visualization and cloud computing. 
 
+ 
 email: shaoyiqun1992@gmail.com
 name: Yiqun Shao
 url: https://www.ucdavis.edu/majors/applied-mathematics/
@@ -285,6 +293,7 @@ title: Functional Data Analysis, highly dimensional time series, mathematical st
 desc: Ozan is working on data analysis and visualization via interactive platforms, develping Shiny Apps to process/visualize/analyze large data sets specifically for agricultural data, which are highly unbalanced and complex in nature.
  He wants to learn about deep learning and its applications in the high dimensional time series prediction problems, and improve his python coding skills 
 
+ 
 email: LATO@ucdavis.edu
 name: Lida Anita To
 url: http://lidaanitato.org
@@ -310,6 +319,15 @@ title: Compiling high-level scientific programming languages.
 desc: Nick studies compilers, the programs that rewrite or translate source code to make it more efficient. He has expertise with R and Julia and is interested in STEM pedagogy, interface design, and Monte Carlo methods. In addition to his primary research, Nick works on data extraction and analysis projects at the DSI, teaches statistical computing workshops, and offers advice about statistics, data science workflows, and several programming languages (R, Python, Lua, C, and Rust).
  Nick wants to learn more about natural language processing, network analysis, and graphical models.
 
+email: aqvining@ucdavis.edu
+name: Alexander Vining
+location: Animal Behavior
+url: https://github.com/aqvining
+title: Inferring memory and cognition from animal movement pathways.
+desc: Alexander studies the evolution of spatial memory and navigation in primates and other mammals. He uses a combination of agent based models, complexity analysis, and high resolution telemetry data to infer the cognitive processes driving animal movement. He is most experienced using R for geo-spatial and phylogenetic analyses, but also works in Python and C++.
+github: aqvining
+
+
 email: kenwang@ucdavis.edu
 name: Guangxing Ken Wang
 url: https://www.linkedin.com/in/ken-wang-9766a3114/
@@ -325,6 +343,15 @@ location: Geography
 title: Geographies of fine flavor cacao and chocolate sourcing, farmer livelihoods, gender equity.
 desc: Madeline uses mixed-methods including household surveys, network analysis, and qualitative interviews to cross-validate and synthesize different forms of data that can be applied to sustainability metrics and impact reporting.
  She hopes to bring her knowledge of small data into the big data world with an understanding of how to combine local with global measures. 
+ 
+email: elawhite@ucdavis.edu
+name: Ellie White
+url: https://twitter.com/wheatellie
+location: Civil and Environmental Engineering / Center for Watershed Sciences
+title: Predicting Environmental Data in Un-gauged Basins
+desc: Ellie's research aims to extract information from data for the better management of natural resources and the environment. Ellie works with large spatial and temporal datasets that are highly auto-correlated (e.g., precipitation, temperature, land cover, and hydrology). Her interests include: machine learning for predictive modeling, hydro-economic optimization modeling, and adaptation strategies to climate change.
+github: whiteellie
+
 
 email: ssyair@ucdavis.edu
 name: Sivan Yair
