@@ -1,5 +1,5 @@
 Title: #MaptimeDavis Workshop: Finding Remote Sensing Data
-Date: 2/28/2018
+Date: 2018-02-28
 Time: 10-12 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events

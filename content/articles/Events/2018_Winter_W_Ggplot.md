@@ -1,5 +1,5 @@
 Title: DSI Workshop: Exploratory Data Analysis with ggplot in R
-Date: 3/02/2018
+Date: 2018-03-02
 Time: 9:30-12 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events

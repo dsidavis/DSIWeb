@@ -1,5 +1,5 @@
 Title: #MaptimeDavis Workshop: Python for Geospatial
-Date: 1/17/2018
+Date: 2018-01-17
 Time: 10-12 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events

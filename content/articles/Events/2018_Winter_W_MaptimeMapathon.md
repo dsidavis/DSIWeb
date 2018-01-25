@@ -1,5 +1,5 @@
 Title: #MaptimeDavis Workshop: Mapathon
-Date: 2/14/2018
+Date: 2018-02-14
 Time: 10-12 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events

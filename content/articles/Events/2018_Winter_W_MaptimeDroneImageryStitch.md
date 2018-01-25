@@ -1,5 +1,5 @@
 Title: #MaptimeDavis Workshop: Drone Imagery Stitching
-Date: 2/7/2018
+Date: 02/07/2018
 Time: 10-12 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events

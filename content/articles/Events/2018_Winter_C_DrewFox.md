@@ -5,6 +5,7 @@ Where: DSI Classroom, 360 Shields Library
 Category: Events
 Tags: Coffee Hour
 xnonews: true
+slug: 2018CoffeeDrewFox
 
 # Affiliates Coffee Hour
 

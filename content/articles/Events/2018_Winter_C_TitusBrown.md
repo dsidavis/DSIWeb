@@ -1,10 +1,11 @@
-Title: Affiliates Coffee Hour
+Title: Affiliates Coffee Hour: Titus Brown
 Date: 2/20/2018
 Time: 11-12pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events
 Tags: Coffee Hour
 xnonews: true
+slug: 2018CoffeeTitusBrown
 
 # Affiliates Coffee Hour
 

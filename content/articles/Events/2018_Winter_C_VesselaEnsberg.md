@@ -1,10 +1,11 @@
-Title: Affiliates Coffee Hour
+Title: Affiliates Coffee Hour: Vessela Ensberg
 Date: 2/06/2018
 Time: 11-12pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events
 Tags: Coffee Hour
 xnonews: true
+slug: 2018CoffeeVessela
 
 # Affiliates Coffee Hour
 
