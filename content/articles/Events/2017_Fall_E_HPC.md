@@ -2,8 +2,8 @@ Title: HPC Presentation
 Date: 10/26/2017
 Time: 10AM-12PM
 Where: MBS 1147
-Category: Event
-Tags: Event, Fall 2017, Cluster Computing, HPC, Intel, Dell
+Category: Events
+Tags: Events, Fall 2017, Cluster Computing, HPC, Intel, Dell
 xnonews: true
 
 # Dell & Intel HPC Presentation

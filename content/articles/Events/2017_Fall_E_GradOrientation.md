@@ -2,8 +2,8 @@ Title: Grad Orientation
 Date: 2017-9-22
 Time: 2:30pm
 Where: DSI classroom (Shields room 360)
-Tags: Workshop
-Category: Workshop
+Tags: Events
+Category: Events
 xnonews: true
 
 # Graduate Student Orientation: Data Science & Management Workshop

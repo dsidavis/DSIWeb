@@ -22,11 +22,40 @@ understanding of this computational model makes programming in R much
 easier and more productive. Basically, we want you to understand how
 the R interpreter works. 
 
-##Prerequisites:
-This is not an introduction to R. Participants are expected to have an
+## Prerequisites:
+This is *not* an introduction to R. Participants are expected to have an
 elementary understanding and prior experience using R, be comfortable 
 with basic R syntax, and to have it pre-installed and running on their laptops. 
 This series is appropriate for motivated beginners as well as intermediate 
 to advanced users who want a better understanding of base R. It is open
 to UC Davis faculty, graduate students, postdocs, staff, and undergraduates; 
 DSI affiliates receive priority registration.
+
+[Materials](https://github.com/dsidavis/RFundamentals)
+
+## Notes:
+* Goal of this workshop series is to learn the grammar of the R language (not just the vocabulary!):
+	* how R actually works
+	* be able to reason about R code
+	* what R does and how to do things
+	* increase productivity and confidence in using R
+* Content:
+	* Part 1: 
+		* REPL: Read, Evaluate, Print, Loop
+			* Read includes parsing (R assesses whether the command is grammatically correct)
+			* It can be helpful to know whether an error is in the parse or eval step
+		* Parsing: grammatical construction
+			* If you get an error, use the parse() functionality to check
+			* class() tells you what an object is
+		* Evaluation, Function calls
+			* everything in R is a function call
+			* how do you ask if something is a function? Example: get("+") will tell you that + is a primitive
+			
+		
+		
+		
+		
+	* Part 2: Data types, subsetting
+	* Part 3: Functions, debugging formula, S3 & S4
+
+	
