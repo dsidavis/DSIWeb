@@ -5,11 +5,7 @@ url: http://www.ashander.info
 location:  Visiting postdoc, UCLA.
 role: postdoc
 title: Evolution and ecology of population dynamics under environmental change. 
-desc: Jamie is interested in how demography and evolutionary change affect traits and plastic responses of wild populations. Jamie blends theoretical modeling with computation, and develops software to
- confront theoretical models with heterogeneous data (e.g., trajectories of population abundance and trait values, diversity statistics calculated from genomic data). For his postdoctoral work he is
- developing methodology for using genomic data to inform demographic models of the desert tortoise to predict the effects development in the Mojave desert on its population viability. Jamie uses R
- for visualization, and python and C++ for simulations and statistical methods. Jamie is a Software Carpentry instructor. Jamie seeks to share his knowledge and learn about new tools and approaches,
- especially data engineering and the use of functional programming paradigms in data science.
+desc: Jamie is interested in how demography and evolutionary change affect traits and plastic responses of wild populations. Jamie blends theoretical modeling with computation, and develops software to confront theoretical models with heterogeneous data (e.g., trajectories of population abundance and trait values, diversity statistics calculated from genomic data). For his postdoctoral work he is developing methodology for using genomic data to inform demographic models of the desert tortoise to predict the effects development in the Mojave desert on its population viability. Jamie uses R for visualization, and python and C++ for simulations and statistical methods. Jamie is a Software Carpentry instructor. Jamie seeks to share his knowledge and learn about new tools and approaches, especially data engineering and the use of functional programming paradigms in data science.
 
 
 name: Teresa Filshtein
@@ -18,14 +14,7 @@ url: http://www.ucdmc.ucdavis.edu/alzheimers/
 location:   UC Davis Medical Center.
 role: postdoc
 title: Biostatistics and multi-response longitudinal data.
-desc: Teresa is a postdoc at the UC Davis Medical Center and works on
- problems related to Alzheimer's Disease and Dementia. For her postdoc
- she is using current data science techniques to advance the field of
- Alzheimer's Disease research. Teresa is pursuing advanced skills in
- web analytics, text mining, and python, and to gain more exposure to
- real life data problems and see how they are tackled from the ground
- up.
-
+desc: Teresa is a postdoc at the UC Davis Medical Center and works on problems related to Alzheimer's Disease and Dementia. For her postdoc she is using current data science techniques to advance the field of Alzheimer's Disease research. Teresa is pursuing advanced skills in web analytics, text mining, and python, and to gain more exposure to real life data problems and see how they are tackled from the ground up.
 
 
 email: zakimbekov@ucdavis.edu
@@ -33,11 +22,7 @@ name: Zamirbek Akimbekov
 url: https://akimbekov.com
 location:   Statistics. 
 title: Statistical and thermodynamic analysis of computationally predicted structures. 
-desc: Zamir teaches machines to learn. He is interested in the
- application of machine learning and statistics in pattern recognition,
- anomaly detection, and prediction. He wants to engage in collaborative
- data science projects with people from different backgrounds to
- experiment and learn new data science technologies.
+desc: Zamir teaches machines to learn. He is interested in the application of machine learning and statistics in pattern recognition, anomaly detection, and prediction. He wants to engage in collaborative data science projects with people from different backgrounds to experiment and learn new data science technologies.
 
 
 email: Mebates@ucdavis.edu
@@ -46,6 +31,7 @@ url: https://www.linkedin.com/in/mebates
 location:  Civil and Environmental Engineering. 
 title: Decision making under uncertainty. 
 desc: Matt has a background in computer science, software development, and water resources engineering. He is interested in methods of risk and decision in science, simulation and optimization. He is interested in the broad, data science workflow from ideation and requirements development to results visitation and dissemination. His current research includes data analysis related to engineered infrastructure. Matt wants to learn more about multivariate regression, machine learning, web scraping, and semantic analysis, and improve his expertise in Python and R.
+
 
 email: crbelden@ucdavis.edu
 name: Cory Belden
@@ -74,7 +60,7 @@ desc: Nick's background is in theoretical economics and econometrics. His resear
 email: rpreta@ucdavis.edu
 name: Rinaldo Catta-Preta
 url:
-location: Integrative Genetics and Genomics
+location: Integrative Genetics and Genomics.
 title: Comprehensive, novel ways to define and integrate gene regulatory networks (GRNs) in early neurodevelopment.
 desc: Rinaldo is working on establishing and integrating GRNs for cortical interneuron proliferation, migration and specification, by associating gene co-expression with binding of transcription factors to DNA regulatory elements (promoters and enhancers), and chromatin states. He is interested in developing high-dimensional, deep learning approaches to generate systems-level, predictive models of regulatory element function and gene regulation during brain development; furthermore, he is interested in, having the models, back generate interpretable representations to drive further feature discovery. Rinaldo has a strong background in Perl and other ancillary languages, but is currently pursuing expertise in Python and R, and efficient HPC. Machine learning interests focus on neural nets, HMMs and deep learning.   
 
@@ -86,6 +72,7 @@ location: Population Biology.
 title: Form, function and diversity of fishes.
 desc: Katherine is a macro-evolutionary biologist. She uses fish phylogenies for comparative analyses and is pursuing integrating mechanical models with kinematic data from high speed videos. She want to learn how to work effectively, efficiently and cleanly with large, messy phylogenetic and kinematic datasets.
 
+
 email: rcfitzgerald@ucdavis.edu
 name: Clark Fitzgerald
 url: https://www.stat.ucdavis.edu
@@ -94,17 +81,14 @@ title: Computational technologies that enable data science at scale.
 desc: Clark is working on improving R through parallel computing. He'd like to learn about interesting applications and related data sets.
 
 
-
-
 email: scgeer@ucdavis.edu
 name: Shaun Geer
 url: http://sociology.ucdavis.edu/people/scgeer
 location: Sociology
 title: The science of conducting science.
-desc: Shaun's research uses large datasets to examine how we do research in science and medicine.	
- He has experience with web crawling/scraping and computational linguistics.
- Shaun wants to learn more about Bayesian statistical techniques (e.g., MCMC).
+desc: Shaun's research uses large datasets to examine how we do research in science and medicine. He has experience with web crawling/scraping and computational linguistics. Shaun wants to learn more about Bayesian statistical techniques (e.g., MCMC).
 
+ 
 email: acgetchell@ucdavis.edu
 name: Adam Getchell
 url: https://keybase.io/adamgetchell
@@ -112,37 +96,39 @@ location: Physics
 title: Quantum gravity using computational models.
 desc: Adam has a general background in information technology and programming experience (C++, Python, C#, Lisp, Clojure, and F#, among others). Adam has experience with running MCMC (Monte Carlo Markov Chain) and related methods. Adam wants to learn R and more statistics, data science methods, and anything else related to collating/analyzing large data sets.
 
+
 email: egholami@ucdavis.edu
 name: Ehsan Gholami
 url: http://www.ece.ucdavis.edu/
 location: Electrical and Computer Engineering
 title: Online social media user behavior and purchasing patterns.
-desc: Ehsan is using business datasets combined with online social media information to predict user attributes based on user behavior.
-  Ehsan is interested in collaborating with colleagues from various departments to learn relevant information, techniques and tools that others find useful.
+desc: Ehsan is using business datasets combined with online social media information to predict user attributes based on user behavior. Ehsan is interested in collaborating with colleagues from various departments to learn relevant information, techniques and tools that others find useful.
 
+  
 email: dhagood@ucdavis.edu
 name: Danielle Hagood
 url: http://education.ucdavis.edu/dhagood
 location: Education
 title: Noncognitive constructs in K12 settings using computational psychometrics.
 desc: Danielle's research draws on intensive, multi-modal data to produce learning analytics offering individual-level insights and, in aggregate, informs teaching and policy. Her practice-embedded research
- foregrounds the needs of teachers and students, with a critical SES perspective. She uses data science approaches to structure messy data and creatively identify data sources.
- Danielle wants to learn more advanced programming for data in R and Python, and to engage in collaborative reading and working groups on applied machine learning.
+ foregrounds the needs of teachers and students, with a critical SES perspective. She uses data science approaches to structure messy data and creatively identify data sources. Danielle wants to learn more advanced programming for data in R and Python, and to engage in collaborative reading and working groups on applied machine learning.
 
+ 
 email: lcirberjr@ucdavis.edu
 name: Luiz Carlos Irber, Júnior
 url: http://luizirber.org
 location: Computer Science
 title: Genomic sequencing data, decentralized data sharing, computational skills.
-desc: Luiz is developing methods for biological data analysis in Python and C++ using Jupyter notebooks; pipelines with Spark, Dask and snakemake; and data distribution using IPFS and dat.
- Luiz wants to collaborate with researchers from other areas to find common methods and share experiences.
+desc: Luiz is developing methods for biological data analysis in Python and C++ using Jupyter notebooks; pipelines with Spark, Dask and snakemake; and data distribution using IPFS and dat. Luiz wants to collaborate with researchers from other areas to find common methods and share experiences.
 
+ 
 email: jnjoseph@ucdavis.edu
 name: Jared Joseph
 url: http://sociology.ucdavis.edu/people/jnjoseph
 location: Sociology
 title: Surveillance and crime using social network analysis and statistical analysis in R.
 desc: Jared has prior experience with SPSS and Stata, and is interested in big data, network data, and online environments (social networking sites, MMOs, online forums).
+
 
 email: ekal@ucdavis.edu
 name: Eric Kalosa-Kenyon
@@ -153,6 +139,7 @@ desc: Prior to grad school Eric worked as a Computational Research Associate in 
  His research is in mathematical statistics. Eric is especially interested in collaborating with domain scientists on pragmatic projects in pursuit of the University's mission 
  to improve the quality of life for everyone.
 
+ 
 email: mrkardish@ucdavis.edu
 name: Melissa Kardish
 url: melissakardish.wordpress.com
@@ -163,6 +150,7 @@ desc: Melissa has worked with terrestrial plants, ants, birds, and fungi, and no
  Melissa works with data describing microbial communities. She primarily uses R, but also with other languages to process and analyze sequencing data.
  Melissa credits her experience at the DSI with helping her to learn cleaner and more efficient workflows. She hope to learn new skills that she can apply later when facing problems in collaborations or in her own research.
 
+ 
 email: rjdhaliwal@ucdavis.edu
 name: Ranjodh Singh Dhaliwal
 url: http://english.ucdavis.edu/people/ranjodh
@@ -171,6 +159,7 @@ title: Quantitative digital humanities.
 desc: Ranjodh has a background in computer science and is interested in contemporary literature, art, videogame studies, science and technology studies, and new media theory. He uses topic modeling and Neural Networks for his natural language processing research. 
  He wants to explore the intersections between NLP and machine learning, and exploring theory in data science.
 
+ 
 email: smdevine@ucdavis.edu
 name: Scott Devine
 url: https://casoilresource.lawr.ucdavis.edu/
@@ -180,6 +169,7 @@ desc: Scott works in the Department of Land, Air, and Water resources. He has in
  He uses R to work with the Soil Survey Geographic Database (SSURGO), the most complete natural resources database in the United States. He is merging SSURGO with other geographic data to answer questions of broad relevance to society, agriculture, and the environment.
  Scott wants to learn advanced programming and the skills to work with challenging and complex data sets, many of which have spatial and temporal dimensions.  
 
+ 
 email: nellinwood@ucdavis.edu
 name: Nicholas Ellinwood
 url: http://www.ucdmc.ucdavis.edu/pharmacology/
@@ -188,6 +178,16 @@ title: Identifying optimal drug characteristics to improve pharmacological optio
 desc: Nick's research involves using computational approaches to reveal the cellular and molecular mechanisms of cardiac arrhythmias. 
  He is working to apply in vivo and in silico data related to healthy and diseased cardiac function to the clinical setting.
 
+ 
+email: clettinger@ucdavis.edu
+name: Cassie Ettinger
+url: https://seagrassmicrobiome.org/people/cassie-ettinger/
+location: Integrative Genetics & Genomics
+title: Seagrasses as models for studying adaptation of plant-fungi symbioses to marine ecosystems.
+desc: Cassie's interests include plant-microbe interactions and host-microbe co-evolution. Her projects involve analyzing a variety of types of high throughput sequencing data (16S/18 rRNA, ITS, genomics, metagenomics) from environmental microbial communities and cultured isolates using a combination of Python, R and Unix/bash. Cassie hopes to expand her knowledge of statistical modeling and machine learning algorithms to improve her research and enjoys learning more about data visualization and workflow reproducibility. 
+github: casett
+
+
 name: Zachary Harmany
 url: http://drz.ac/
 email: (mailto: ztharmany@ucdavis.edu
@@ -195,8 +195,9 @@ location: Biomedical Engineering
 role: project scientist
 title: Signal and image processing.
 desc: Zach holds a PhD in Electrical and Computer Engineering, and is currently working at the Center for [Molecular and Genomic Imaging](http://bme.ucdavis.edu/cmgi/). He focuses on reconstructing and analyzing imaging data to answer questions in biomedical sciences. He has expertise in machine learning, and is proficient in programming languages and development tools including MATLAB, Python, C, Bash, LaTeX, Git, SVN.
- Zach wants to learn more about research activities on campus related to data science, different ways of thinking about data processing, and tools to perform collaborative science. 
+ Zach wants to learn more about research activities on campus related to data science, different ways of thinking about data processing, and tools to perform collaborative science.
 
+ 
 email: sejoslin@ucdavis.edu
 name: Shannon Joslin
 url: http://igg.ucdavis.edu/
@@ -205,6 +206,7 @@ title: Heritable phenotypes, population genomics and disease risk in human popul
 desc: Shannon's research interests include population genomics, genome-wide association studies and metagenomics.
   She wants to learn about handling and visualizing big data.
 
+  
 email: nlashinsky@ucdavis.edu
 name: Nick Lashinsky
 url: http://paleoanthropology.ucdavis.edu/nikolai-veter.html
@@ -214,6 +216,7 @@ desc: Nick's research is at the intersection of biological anthropology and Baye
  He work primarily with character alignments (both continuous, e.g., linear measurements on the primate skeleton, and discrete, e.g., binary traits and nucleotide sequences), attempting to make inferences regarding the evolutionary processes that gave rise to them.
  Nick wants to learn new programming languages and software libraries/frameworks (e.g., Python, TensorFlow, Hadoop) and methods (e.g. artificial neural networks). He also wants to expand his toolkit to include machine learning and data visualization.
 
+ 
 email: frnliang@ucdavis.edu
 name: Yuefeng Liang
 url: http://www.stat.ucdavis.edu/
@@ -227,10 +230,9 @@ name: Hugo Mailhot
 url: http://www.cs.ucdavis.edu/
 location: Computer Science
 title: Computational linguistics and machine learning.
-desc: Prior to coming to UC Davis, Hugo was prototyping natural language processing (NLP) applications in industry. His research focuses on node attribute prediction in networks and network spreading dynamics, and requires a combination of network science, NLP, hard problem approximation, and machine learning.
- Hugo has a background in NLP and supervised learning, and has experience in web scraping, data management, data cleaning and exploratory analysis, primarily in Python. 
- Hugo wants to broaden his foundation in statistics, start playing around with neural networks, learn R, and build interactive visualizations such as web apps.
+desc: Prior to coming to UC Davis, Hugo was prototyping natural language processing (NLP) applications in industry. His research focuses on node attribute prediction in networks and network spreading dynamics, and requires a combination of network science, NLP, hard problem approximation, and machine learning. Hugo has a background in NLP and supervised learning, and has experience in web scraping, data management, data cleaning and exploratory analysis, primarily in Python. Hugo wants to broaden his foundation in statistics, start playing around with neural networks, learn R, and build interactive visualizations such as web apps.
 
+ 
 email: sismail@ucdavis.edu
 name: Shaikh Mohammed Ismail
 url: shaikhismail.github.io
@@ -240,6 +242,7 @@ desc: Ismail is studying how similar software source codes written by humans are
  He is exploring the advancements of deep learning in the field of computer vision and applying it to his research.
  He wants to learn all the cool things my other colleagues at DSI can offer. On a technical level, Ismail wants to get involved in open source development in Artificial Intelligence/Deep learning.
 
+ 
 email: rapeek@ucdavis.edu
 name:Ryan Peek
 url: ryanpeek.github.io
@@ -248,23 +251,24 @@ title: Effects of land-use change on the population genomics of sensitive frog s
 desc: Ryan is a watershed scientist who studies the effects of river regulation and landscape change in freshwater systems. Ryan works with many types of data, including genomic, hydrologic, biologic, and climate, both "tidying" and aggregating as well as modeling and visualization. Ryan coordinates the [Davis-R-Users-Group](https://d-rug.github.io/) and routinely uses bash and git.	
  Ryan enjoys learning new tools and methods and troubleshooting R problems. He's looking to continue learning novel and robust ways to analyze data. 
 
+ 
 email: rcphillips@ucdavis.edu
 name: Ryan Phillips
 url: http://davisig.org/members/ryanphillips/
 location: Neuroscience
 title: Analyzing attention lapses, emotional regulation, impulse control, and how these phenomena interact to shape how we behave and perceive the world.
-desc: Ryan is interested in the role of data science in relation to personal data collection, and is fascinated by SQL, machine learning, and artificial neural networks.
- He recently uploaded his dissertation data to postgres, and conducted user analytics for a startup (Remind) in San Francisco.
+desc: Ryan is interested in the role of data science in relation to personal data collection, and is fascinated by SQL, machine learning, and artificial neural networks. He recently uploaded his dissertation data to postgres, and conducted user analytics for a startup (Remind) in San Francisco.
  Ryan wants to engage with like-minded data scientists and continue to learn about the latest advances in the field.
 
+ 
 email: ampopa@ucdavis.edu
 name: Abbie Popa
 url: www.linkedin.com/in/abbiepopa 
 location: Neuroscience
-title: Effects of anxiety on teenager brains and behavior.
-desc: Abbie uses interview, behavioral, eye-tracking, MRI, ERP, and physiological data, and machine learning techniques including k-means clustering, ICA, and convolutional neural networks to better classify large datasets. 
- Abbie uses use a mix of R, Python, and MATLAB for her analyses, and version control using git. 
- She wants to learn more about SQL and noSQL for databases, and about dynamic visualization tools like shiny, D3, or bokeh.
+title: Behavior and EEG testing of teen anxiety.
+desc: Abbie is trained as a cognitive neuroscientist and studies how teenagers’ attention and inhibition are affected by anxiety they experience. Abbie collects and analyzes data from these teenagers including behavioral data, electroencephalography (EEG), and physiological data. She uses techniques including k-means clustering, independent components analysis, mixed effects linear models, and the jack-knife approach to organize, analyze, and interpret these messy, complex data. Abbie participates in the machine learning reading group and DSI un-seminars, and routinely uses Python (pandas, sklearn, h2o) and R (nlme, ggplot). Abbie is working to further her understanding of the underpinnings of machine learning, and learn interactive visualization tools.
+github: abbiepopa
+
 
 email: nrandhawa@ucdavis.edu
 name: Nistara Randhawa
@@ -273,8 +277,7 @@ location: Epidemiology
 title: Global surveillance for zoonotic viruses from bats.
 desc: Nistara is working with the PREDICT project at the One Health Institute, which is involved in a global surveillance for viruses that can spillover from animals to people. 
  Her research focuses on bat viruses in Tanzania, Uganda, and Rwanda. She tracks bat movements and simulates disease outbreak spread in humans using R and other GIS tools like ArcGIS and QGIS for data munging, analyses, and building network models. 
- She is learning PostgreSQl and PostGIS to facilitate her GIS work outside of and with R. She wrote an R package (XXX) for her research on contact tracing during outbreaks in humans.
- Nistara would like to learn more about parallel computing, python, NLP, machine learning, database management, data visualization and cloud computing. 
+ She is learning PostgreSQl and PostGIS to facilitate her GIS work outside of and with R. She wrote an R package (XXX) for her research on contact tracing during outbreaks in humans. Nistara would like to learn more about parallel computing, python, NLP, machine learning, database management, data visualization and cloud computing. 
 
  
 email: shaoyiqun1992@gmail.com
@@ -282,9 +285,9 @@ name: Yiqun Shao
 url: https://www.ucdavis.edu/majors/applied-mathematics/
 location: Applied Mathematics
 title: Graph theory, text mining and harmonic analysis.
-desc: Yiqun's background is in theoretical math and he is currently focusing on applied mathematics. He uses natural language processing and image processing.
- He is interested in learning more natural language processing and other topics related to data science.
+desc: Yiqun's background is in theoretical math and he is currently focusing on applied mathematics. He uses natural language processing and image processing.  He is interested in learning more natural language processing and other topics related to data science.
 
+ 
 email: osonmez@ucdavis.edu
 name: Ozan Sonmez
 url: https://www.stat.ucdavis.edu/people/grad-students.html
@@ -303,6 +306,7 @@ desc: Working on the largest genome sequences to-date, Lida is interested in rec
  She uses population genetic statistics, probability, and stochastic theory for analysis of large data structures (i.e., genomic DNA data) in Python, R, Perl, C++, and Unix/bash.
  Lida would like learn more about coding efficiency (unit-testing, other tips & tricks, etc.), handling of big data structures in R, Python, Perl, and C++, and machine learning.
 
+ 
 email: gmturco@ucdavis.edu
 name: Gina Turco
 url: http://www.sudogenes.com/ 
@@ -311,6 +315,7 @@ title: Modeling gene regulatory networks in plants as regulatory circuits.
 desc: Gina uses R, python and SQL for data analysis. She's taken classes and is interested in both control theory and Bayesian modeling.
  Gina is interested in learning more about machine learning and modeling. 
 
+ 
 email: naulle@ucdavis.edu
 name: Nick Ulle
 url: https://github.com/nick-ulle
@@ -319,6 +324,7 @@ title: Compiling high-level scientific programming languages.
 desc: Nick studies compilers, the programs that rewrite or translate source code to make it more efficient. He has expertise with R and Julia and is interested in STEM pedagogy, interface design, and Monte Carlo methods. In addition to his primary research, Nick works on data extraction and analysis projects at the DSI, teaches statistical computing workshops, and offers advice about statistics, data science workflows, and several programming languages (R, Python, Lua, C, and Rust).
  Nick wants to learn more about natural language processing, network analysis, and graphical models.
 
+ 
 email: aqvining@ucdavis.edu
 name: Alexander Vining
 location: Animal Behavior
@@ -333,22 +339,22 @@ name: Guangxing Ken Wang
 url: https://www.linkedin.com/in/ken-wang-9766a3114/
 location: Statistics
 title: Developing and implementing methods for highly dimensional, functional data.
-desc: Ken is developing new methods to work with infinitely dimensional functional data, and to make them implementable in common statistical computing languages.
-  He wants to learn how to efficiently handle different data structures,  various languages, and the big picture of data science.
+desc: Ken is developing new methods to work with infinitely dimensional functional data, and to make them implementable in common statistical computing languages. He wants to learn how to efficiently handle different data structures,  various languages, and the big picture of data science.
+
 
 email: mrweeks@ucdavis.edu
 name: Madeline Weeks
 url: http://geography.ucdavis.edu/student/madeline-weeks
 location: Geography
 title: Geographies of fine flavor cacao and chocolate sourcing, farmer livelihoods, gender equity.
-desc: Madeline uses mixed-methods including household surveys, network analysis, and qualitative interviews to cross-validate and synthesize different forms of data that can be applied to sustainability metrics and impact reporting.
- She hopes to bring her knowledge of small data into the big data world with an understanding of how to combine local with global measures. 
+desc: Madeline uses mixed-methods including household surveys, network analysis, and qualitative interviews to cross-validate and synthesize different forms of data that can be applied to sustainability metrics and impact reporting. She hopes to bring her knowledge of small data into the big data world with an understanding of how to combine local with global measures. 
+ 
  
 email: elawhite@ucdavis.edu
 name: Ellie White
 url: https://twitter.com/wheatellie
 location: Civil and Environmental Engineering / Center for Watershed Sciences
-title: Predicting Environmental Data in Un-gauged Basins
+title: Predicting environmental data in un-gauged basins.
 desc: Ellie's research aims to extract information from data for the better management of natural resources and the environment. Ellie works with large spatial and temporal datasets that are highly auto-correlated (e.g., precipitation, temperature, land cover, and hydrology). Her interests include: machine learning for predictive modeling, hydro-economic optimization modeling, and adaptation strategies to climate change.
 github: whiteellie
 
