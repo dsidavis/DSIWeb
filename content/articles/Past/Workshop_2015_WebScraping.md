@@ -2,7 +2,7 @@ Title: Web Scraping & Services Workshop
 Date: 04/04/2015 12:00
 Tags: Workshop, Tutorial, Web Technologies, R 
 Slug: WebScraping2015
-
+Category: Workshop
 
 
 Slides, Annotated documents, Videos, screencasts from the Web Scraping & Services Workshop. Materials are available [here](http://datascience.ucdavis.edu/NSFWorkshops/WebScraping/).
