@@ -1,5 +1,5 @@
 Title: Affiliates Coffee Hour: Matt Espe
-Date: 3/09/2018
+Date: 3/06/2018
 Time: 11-12pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events
