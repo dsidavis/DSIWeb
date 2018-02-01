@@ -1,7 +1,9 @@
 Title: Workshop - Efficient Code in R
-Date: 04/28/2017 12:00 
-Tags: Workshop, Tutorial, R
+Date: 04/28/2017 
+Time: 12:00-2pm 
+Tags: Workshop, Tutorial, R, Efficient Code
 Category: Workshop
+xnonews: true
 
 
 April 28: __Efficient Code in R__ (Duncan Temple Lang)
@@ -18,5 +20,5 @@ accessible.
 _Prerequisites: This is an intermediate/advanced workshop and attendees are
 expected to have a working knowledge of R._
 
-+ [Resources](http://dsi.ucdavis.edu/Workshops/EfficientR)
++ [Resources](https://github.com/dsidavis/EfficientR/blob/master/EfficientR.key.pdf)
 + [Video](https://www.youtube.com/watch?v=tJUUevlzoj0)
