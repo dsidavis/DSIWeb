@@ -19,6 +19,4 @@ Also, if participants want, this can be the catalyst to start a D3 "reading grou
 IMPORTANT, please sign up for the workshop if you intend to participate. Given the unusual timing (dead day), if there
 aren't enough people attending, we'll move it to another time.
 
-
-Link to the [workshop materials](http://dsi.ucdavis.edu/D3materials/). 
 Link to the [GitHub repository](https://github.com/duncantl/D3materials). 
