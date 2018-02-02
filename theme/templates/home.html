@@ -52,6 +52,16 @@
 
 
 {% block banner %}
+
+ <!--
+  <center>
+  <div style="color: red; font-size: 20pt; padding: 10pt">
+Duncan's office hours for Thursday, Feb 1st will be 10.45 - 11.45, 362 Shields Library
+  </div>
+  </center>
+-->
+
+    
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
 <div class="carousel-inner">
 
@@ -63,7 +73,6 @@
   </div>
 
 
- 
   
   <div class="item">
     <div class="row">
@@ -307,6 +316,7 @@
   <div class="panel-heading">
     <h4 class="panel-title">Office Hours</h4>
   </div>
+ 
   <div class="panel-body">
   <table class="table table-striped table-condensed">
 	{% for category, articles in categories if category.name == 'OfficeHours' %}
