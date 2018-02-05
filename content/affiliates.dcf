@@ -17,6 +17,15 @@ title: Biostatistics and multi-response longitudinal data.
 desc: Teresa is a postdoc at the UC Davis Medical Center and works on problems related to Alzheimer's Disease and Dementia. For her postdoc she is using current data science techniques to advance the field of Alzheimer's Disease research. Teresa is pursuing advanced skills in web analytics, text mining, and python, and to gain more exposure to real life data problems and see how they are tackled from the ground up.
 
 
+email: rushmore@ucdavis.edu
+name: Julie Rushmore
+url: http://julierushmore.wixsite.com/diseaseecology
+location: Vet Med 3b
+role: postdoc
+title: Social and ecological drivers of pathogen transmission dynamics. 
+desc: Julie is an epidemiologist that uses behavioral ecology and disease ecology to investigate social and ecological drivers of pathogen-transmission dynamics across a range of study systems including non-human primates, ungulates, arthropod vectors, and humans. Julie's work combines field-based empirical data and mathematical modeling to understand pathogen transmission at a local scale, and database analyses to investigate host-pathogen associations on a global scale. Julie uses R for network analysis, modeling, simulations, and data visualization. 
+
+
 email: zakimbekov@ucdavis.edu
 name: Zamirbek Akimbekov
 url: https://akimbekov.com
@@ -24,6 +33,13 @@ location:   Statistics.
 title: Statistical and thermodynamic analysis of computationally predicted structures. 
 desc: Zamir teaches machines to learn. He is interested in the application of machine learning and statistics in pattern recognition, anomaly detection, and prediction. He wants to engage in collaborative data science projects with people from different backgrounds to experiment and learn new data science technologies.
 
+
+email: rbarr@ucdavis.edu
+name: Ryan Barr
+url: https://www.linkedin.com/in/ryan-barr-5581469a/ 
+location: Energy
+title: Electrifying transportation to integrate renewable energy.
+desc: Ryan researches the potential for electric vehicle charging and stationary batteries to better integrate renewable energy, which will reduce the cost and environmental externalities associated with electricity and transportation systems. He is learning to use R and Python to collect, manipulate, and analyze data in order to run better models of the electricity grid. 
 
 email: Mebates@ucdavis.edu
 name: Matthew Bates
@@ -55,6 +71,15 @@ url: http://engineering.ucdavis.edu/ttp/
 location: Transportation Technology and Policy.
 title: Economic environmental policy of energy and transportation. 
 desc: Nick's background is in theoretical economics and econometrics. His research focuses on the electrification of transportation and carbon policy. He uses high frequency time series data collection and modeling of electric power and transportation systems. Nick is interested in learning programming skills for more efficient methods of compiling data from public and regulated entities. Because these data relate to stationary power sources for the use of stationary transportation networks, he is also interested in visualization of this data onto relevant geographic planes.  
+
+
+email: djcarlos@ucdavis.edu
+name: Dillon Carlos
+url: http://dilloncarlos.me
+location: Economics
+title: Economics of open source technology.
+desc: Dillon is a PhD student in Economics interested in the economics of open source software in enterprise, natural language processing, and machine learning. Dillon is a regular user of the python ecosystem, shell scripting, and relational databases to extract, clean, manage, and analyze data. He is interested in learning to scale machine learning models and taking advantage of cloud computing resources.
+github: dilloncarlos
 
 
 email: rpreta@ucdavis.edu
@@ -231,6 +256,15 @@ title: Research Focus: _Extreme multi-label classification.
 desc: Yuefeng has experience in machine learning, biostatistics, spatial statistics and high-dimensional statistics.	
  Yuefeng wants to learn more about natural language processing and imaging.
 
+ 
+email: mlovchikova@ucdavis.edu
+name: Marina Lovchikova
+url: http://economics.ucdavis.edu/
+location: Economics
+title: Technological change and macroeconomic policies.
+desc: Marina's background is in theoretical economics and applied statistics. Currently, she studies how technological change influences labor market policies. She uses R, MATLAB and Stata for model simulations and data analysis. Marina is interested in efficient data extraction techniques, text mining and natural language processing (NLP).
+
+
 email: hmailhot@ucdavis.edu
 name: Hugo Mailhot
 url: http://www.cs.ucdavis.edu/
@@ -248,7 +282,15 @@ desc: Ismail is studying how similar software source codes written by humans are
  He is exploring the advancements of deep learning in the field of computer vision and applying it to his research.
  He wants to learn all the cool things my other colleagues at DSI can offer. On a technical level, Ismail wants to get involved in open source development in Artificial Intelligence/Deep learning.
 
- 
+
+ email: slnoah@ucdavis.edu
+name: Sean Noah
+url: osf.io/h5crj
+location: Psychology
+title: Neural mechanisms of attention.
+desc: Sean studies the networks in the brain that control attention. Sean collects electroencephalography and functional magnetic resonance imaging data from human research participants while they perform various attention-intensive tasks, and uses signal processing, network analysis, and machine learning applications to model the underlying neural activity. Sean thinks that data science will be increasingly crucial to advancing neuroscience, especially as neural datasets grow rapidly in size and complexity.
+
+
 email: rapeek@ucdavis.edu
 name:Ryan Peek
 url: ryanpeek.github.io
@@ -299,10 +341,34 @@ url: http://nistara.net
 location: Epidemiology
 title: Global surveillance for zoonotic viruses from bats.
 desc: Nistara is working with the PREDICT project at the One Health Institute, which is involved in a global surveillance for viruses that can spillover from animals to people. 
- Her research focuses on bat viruses in Tanzania, Uganda, and Rwanda. She tracks bat movements and simulates disease outbreak spread in humans using R and other GIS tools like ArcGIS and QGIS for data munging, analyses, and building network models. 
- She is learning PostgreSQl and PostGIS to facilitate her GIS work outside of and with R. She wrote an R package (XXX) for her research on contact tracing during outbreaks in humans. Nistara would like to learn more about parallel computing, python, NLP, machine learning, database management, data visualization and cloud computing. 
+ Her research focuses on bat viruses in Tanzania, Uganda, and Rwanda. She tracks bat movements and simulates disease outbreak spread in humans using R and other GIS tools like ArcGIS and QGIS for data munging, analyses, and building network models. She is learning PostgreSQl and PostGIS to facilitate her GIS work outside of and with R. She wrote an R package (XXX) for her research on contact tracing during outbreaks in humans. Nistara would like to learn more about parallel computing, python, NLP, machine learning, database management, data visualization and cloud computing. 
+
+
+email: jrector@ucdavis.edu
+name: Jeff Rector
+location: Psychology
+title: Human and machine perception.
+desc: Jeff is a cognitive scientist interested in how we derive knowledge from the complex flow of information that reaches our eyes and ears, and how we detect the structure of the world using information from multiple senses. His current research examines how we track and remember patterns of change in events as they unfold over time. Jeff enjoys learning new ways to model data and gaining insight by approaching problems from different directions.
+
+
+email: tereiter@ucdavis.edu
+name: Taylor Reiter
+url: taylorreiter.github.io
+location: Food Science
+title: Olives & olive oil.
+desc: Taylor works with genomic, transcriptomic, and metabolomic data to draw insights about relationships between organisms and food. Taylor is a Software and Data Carpentry Instructor, helps at weekly Meet and Analyze Data sessions hosted by the Lab for Data intensive biology at UC  Davis, and uses bash, git, R, and sometimes python in her workflows. She enjoys helping others learn bioinformatics and data science practices, and likes learning about practices to make data science more repeatable. 
+github: taylorreiter
 
  
+email: ashsaboori@ucdavis.edu
+name: Ashkan Saboori
+url: https://ashkansaboori.github.io
+location: Civil and Environmental Engineering
+title: Developing predictive performance models for California's highway network using machine learning.
+desc: Ashkan is a PhD student in the Civil and Environmental Engineering department. He is currently working on large-scale performance data that is collected from California's highway network by Caltrans through automated pavement condition surveys (APCS) which covers close to 50 thousand lane-miles of roads. His research is focused on statistical analysis and machine learning models that can accurately predict the pavement condition with time. This is essential for optimizing the timing of system maintenance and minimizing system management costs. Ashkan is interested in statistical modeling and machine learning for data-driven decision making and optimization. He is also open to research projects in other fields to diversify his experience.
+github: AshkanSaboori
+
+
 email: shaoyiqun1992@gmail.com
 name: Yiqun Shao
 url: https://www.ucdavis.edu/majors/applied-mathematics/
