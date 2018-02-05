@@ -2,7 +2,8 @@ Title: Unique IDs, unique observations, and universal data management
 Authors: DSI
 Date: 2017-05-30
 Time: 12:00
-Tags: problem solving, un-seminar
+Tags: Talk, problem solving, un-seminar
+Category: Talk
 Summary: Unique IDs, unique observations, and universal data management
 nonews: true
 

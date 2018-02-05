@@ -2,7 +2,7 @@ Title: Cluster Computing
 Date: 10/20/2017
 Time: 10-12 noon
 Where: DSI Classroom, 360 Shields Library
-Category: Events
+Category: Workshop
 Tags: Workshop, Fall 2017, Cluster Computing, HPC
 xnonews: true
 

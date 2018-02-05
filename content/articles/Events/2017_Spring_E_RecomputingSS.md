@@ -2,7 +2,7 @@ Title: RecomputingSS
 Time: 9-12
 Date: 2017-5-19
 Quarter: 2017 Spring
-Category: Workshop
+Category: Event
 Tags: Social sciences, event, workshop
 nonews: true
 Where: Multipurpose Room @ Student Community Center

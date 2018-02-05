@@ -1,8 +1,8 @@
 Date: 2017-1-31
 Time: 1-2.30
 Title: DataRescue Warmup
-Category: Workshop
-Tags: Category
+Category: Event
+Tags: Event, Workshop
 Who: Duncan Temple Lang
 nonews: true
 

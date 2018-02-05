@@ -1,5 +1,6 @@
 Title: Talk: Software tools and strategies or Scientific Software Development
 Tags: Talk
+Category: Talk
 Date: 2016-10-7
 Time: 1-2.30pm
 nonews: true
