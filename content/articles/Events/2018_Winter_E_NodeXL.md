@@ -1,6 +1,6 @@
 Title: NodeXL Workshop for Twitter Data
-Date: 2/28/2018
-Time: 2-5 pm
+Date: 3/07/2018
+Time: 3-5 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events
 Tags: Workshop, Winter 2018, NodeXL, Twitter
@@ -25,8 +25,7 @@ A recent report co-authored with the Pew Research Center's Internet Project docu
 
 ## About Dr. Marc A. Smith
 
-Chief Social Scientist
-Connected Action Consulting Group
+Chief Social Scientist, Connected Action Consulting Group
 Marc@connectedaction.net  
 http://www.connectedaction.net
 http://delicious.com/marc_smith/ 
