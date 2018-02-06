@@ -167,7 +167,7 @@ desc: Prior to grad school Eric worked as a Computational Research Associate in 
  
 email: mrkardish@ucdavis.edu
 name: Melissa Kardish
-url: melissakardish.wordpress.com
+url: http://melissakardish.wordpress.com
 location: Population Biology
 title: Microbial ecology of seagrass communities.
 desc: Melissa has worked with terrestrial plants, ants, birds, and fungi, and now works with the plants, animals and microbes in the sea. 
@@ -275,7 +275,7 @@ desc: Prior to coming to UC Davis, Hugo was prototyping natural language process
  
 email: sismail@ucdavis.edu
 name: Shaikh Mohammed Ismail
-url: shaikhismail.github.io
+url: http://shaikhismail.github.io
 location: Computer Science
 title: Is software code a natural language?.
 desc: Ismail is studying how similar software source codes written by humans are to the natural language text. 
@@ -293,7 +293,7 @@ desc: Sean studies the networks in the brain that control attention. Sean collec
 
 email: rapeek@ucdavis.edu
 name:Ryan Peek
-url: ryanpeek.github.io
+url: http://ryanpeek.github.io
 location: Ecology
 title: Effects of land-use change on the population genomics of sensitive frog species.
 desc: Ryan is a watershed scientist who studies the effects of river regulation and landscape change in freshwater systems. Ryan works with many types of data, including genomic, hydrologic, biologic, and climate, both "tidying" and aggregating as well as modeling and visualization. Ryan coordinates the [Davis-R-Users-Group](https://d-rug.github.io/) and routinely uses bash and git.	
@@ -319,7 +319,7 @@ desc: Courtney studies early modern English literature and is specifically inter
 
 email: poncedeleon@ucdavis.edu
 name: Alejandro Ponce de León - Calero
-url: alejandroponcedeleon.co
+url: http://alejandroponcedeleon.co
 location: Cultural Studies
 title: “Thinking data”: Epistemological preliminaries for a qualitative analysis of the Big Data phenomenon.
 desc: Alejandro is a social scientist whose work stands at the crossroads between the humanities and data science. His work integrates different information sources and methodologies, ranging from interviews and ethnography to political panel data and statistics. Alejandro is interested in exploring how we, as scientists, think about the many expressions of correlation and causality. He likes to talk but, mostly, read.
@@ -328,7 +328,7 @@ github: a.ponce278
  
 email: ampopa@ucdavis.edu
 name: Abbie Popa
-url: www.linkedin.com/in/abbiepopa 
+url: https://www.linkedin.com/in/abbiepopa 
 location: Neuroscience
 title: Behavior and EEG testing of teen anxiety.
 desc: Abbie is trained as a cognitive neuroscientist and studies how teenagers’ attention and inhibition are affected by anxiety they experience. Abbie collects and analyzes data from these teenagers including behavioral data, electroencephalography (EEG), and physiological data. She uses techniques including k-means clustering, independent components analysis, mixed effects linear models, and the jack-knife approach to organize, analyze, and interpret these messy, complex data. Abbie participates in the machine learning reading group and DSI un-seminars, and routinely uses Python (pandas, sklearn, h2o) and R (nlme, ggplot). Abbie is working to further her understanding of the underpinnings of machine learning, and learn interactive visualization tools.
@@ -343,6 +343,15 @@ title: Global surveillance for zoonotic viruses from bats.
 desc: Nistara is working with the PREDICT project at the One Health Institute, which is involved in a global surveillance for viruses that can spillover from animals to people. 
  Her research focuses on bat viruses in Tanzania, Uganda, and Rwanda. She tracks bat movements and simulates disease outbreak spread in humans using R and other GIS tools like ArcGIS and QGIS for data munging, analyses, and building network models. She is learning PostgreSQl and PostGIS to facilitate her GIS work outside of and with R. She wrote an R package (XXX) for her research on contact tracing during outbreaks in humans. Nistara would like to learn more about parallel computing, python, NLP, machine learning, database management, data visualization and cloud computing. 
 
+ 
+email: nrandhawa@ucdavis.edu
+name: Nistara Randhawa
+url: https://nistara.net
+location: One Health Institute (http://www.vetmed.ucdavis.edu/ohi/)
+title: Bat movements and viruses, and network modeling of diseases.
+desc: Nistara is an Epidemiology PhD candidate working with the PREDICT project at the One Health Institute, which is involved in global surveillance for viruses that can spillover from animals to people. She tracks bat movements and simulates disease outbreaks across geospatial networks and uses R and other GIS tools like ArcGIS/QGIS/GRASS for data munging, analyses, and visualization. She’s looking to learn more on parallel computing, NLP, machine learning, and cloud computing.
+github: nistara
+
 
 email: jrector@ucdavis.edu
 name: Jeff Rector
@@ -353,7 +362,7 @@ desc: Jeff is a cognitive scientist interested in how we derive knowledge from t
 
 email: tereiter@ucdavis.edu
 name: Taylor Reiter
-url: taylorreiter.github.io
+url: http://taylorreiter.github.io
 location: Food Science
 title: Olives & olive oil.
 desc: Taylor works with genomic, transcriptomic, and metabolomic data to draw insights about relationships between organisms and food. Taylor is a Software and Data Carpentry Instructor, helps at weekly Meet and Analyze Data sessions hosted by the Lab for Data intensive biology at UC  Davis, and uses bash, git, R, and sometimes python in her workflows. She enjoys helping others learn bioinformatics and data science practices, and likes learning about practices to make data science more repeatable. 
@@ -455,7 +464,3 @@ location: Population Biology
 title: Population genomic theory and method development to characterize cases of introgression in natural systems.
 desc: Sivan develops statistical models and analyzes genomic data to address questions in population genetics theory and methodology including the strength and timing of selection, history of admixture, and context in which beneficial alleles successfully introgress. Sivan primarily works with R and shell.
  Sivan is interested in learning more efficient coding techniques, computational statistics, data visualization, new programming languages, and data science applications in other fields.
-
-
-
-
