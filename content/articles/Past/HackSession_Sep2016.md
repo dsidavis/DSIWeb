@@ -1,5 +1,5 @@
 Title: DSI Hackathon September 2016
-Category: Events, Hackathon
+Category: Events
 Tags: Hackathon
 Date: 2016-9-9
 
