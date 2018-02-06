@@ -3,6 +3,7 @@ Date: 1/23/2018
 Tags: Workshop, Winter 2018
 Category: News
 xnonews: true
+slug: Winter18Workshops
 
 All workshops are in 360 Shields Library, the DSI classroom 
 [directions](http://dsi.ucdavis.edu/directions.html).
