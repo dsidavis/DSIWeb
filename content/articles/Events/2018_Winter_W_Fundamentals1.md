@@ -2,7 +2,7 @@ Title:  DSI Workshop: R Fundamentals - Part I
 Date: 1/26/2018
 Time: 9:30-12 pm
 Where: DSI Classroom, 360 Shields Library
-Category: Events
+Category: Workshop
 Tags: Workshop, Winter 2018, Fundamentals, R
 xnonews: true
 slug: fundamentals1_18

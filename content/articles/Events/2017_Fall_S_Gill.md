@@ -2,7 +2,7 @@ Title: unSeminar 11/21 - Predicting Twitter Conversations
 Date: 11/21/2017
 Time: 12:10-1 pm
 Where: DSI Classroom, 360 Shields Library
-Category: Talk, Events
+Category: Talk
 Tags: Talk, unSeminar, Twitter, problem solving
 xnonews: true
 

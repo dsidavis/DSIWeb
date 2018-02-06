@@ -1,6 +1,6 @@
 Date: 2017-2-2
 Time: 10-4
-Category: Event
+Category: Events
 Tags: Event, Hackathon
 Title: DataRescue for Climate Data
 nonews: true

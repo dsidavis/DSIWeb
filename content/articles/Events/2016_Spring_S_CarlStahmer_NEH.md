@@ -3,7 +3,6 @@ Date: 2016-3-29
 Category: Talk
 Tags: Talk
 nonews: true
-Category: Talk
 
 # Image Analysis and Fast Indexing of Content
 ## Carl Stahmer
