@@ -2,7 +2,8 @@
 Authors: DSI
 Date: 2017-05-23
 Time: 12:00
-Tags: seminar
+Tags: Talk
+Category: Talk
 Summary: Seminar: "From Conversation to Plant Carnivory: Using Data Science to Tackle Complex Systems"
 nonews: true
 

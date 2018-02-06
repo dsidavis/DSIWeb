@@ -1,5 +1,6 @@
 Title: Talk series: Problem Solving in Data Sciences
 Tags: Talk
+Category: Talk
 Date: 2016-10-12 
 nonews: true
 

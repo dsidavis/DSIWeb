@@ -1,5 +1,5 @@
 Title: Affiliates Coffee Hour: Michele Tobias
-Date: 1/30/2018
+Date: 2/27/2018
 Time: 11-12pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events

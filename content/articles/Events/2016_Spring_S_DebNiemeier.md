@@ -1,7 +1,8 @@
-Category: Talk
-Tags: Talk
 Date: 2016-4-26
 Title:  Measuring Effectiveness in Transportation
+Category: Talk
+Tags: Talk
+nonews: true
 
 # Measuring Effectiveness in Transportation
 ## Deb Niemeier</h3>

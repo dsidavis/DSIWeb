@@ -2,7 +2,7 @@ Title: #MaptimeDavis Workshop: Accessing ArcGIS on Campus
 Date: 1/17/2018
 Time: 10-12 pm
 Where: DSI Classroom, 360 Shields Library
-Category: Events
+Category: Workshop
 Tags: Workshop, Winter 2018, #MaptimeDavis
 xnonews: true
 slug: MaptimeAccessArcGIS

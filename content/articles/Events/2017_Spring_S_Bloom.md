@@ -2,7 +2,8 @@ Title: Data bodies at play - Analyzing the human movement and sound captured by 
 Authors: DSI
 Date: 2017-05-23
 Time: 12:00
-Tags: problem solving, un-seminar, ModLab
+Tags: Talk, unseminar, problem solving, un-seminar, ModLab
+Category: Talk
 Summary: Data bodies at play: Analyzing the human movement and sound captured by a video game
 nonews: true
 

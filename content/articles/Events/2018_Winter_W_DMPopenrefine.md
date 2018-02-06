@@ -2,7 +2,7 @@ Title: DMP Workshop: OpenRefine
 Date: 1/31/2018
 Time: 1-3 pm
 Where: DSI Classroom, 360 Shields Library
-Category: Events
+Category: Workshop
 Tags: Workshop, Winter 2018, OpenRefine
 xnonews: true
 

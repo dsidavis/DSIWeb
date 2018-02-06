@@ -2,8 +2,8 @@ Title: un-Seminar 11/7 - MultiOmics Data Integration
 Date: 11/07/2017
 Time: 12:10-1 pm
 Where: DSI Classroom, 360 Shields Library
-Category: Events
-Tags: unSeminar, omics, problem solving
+Category: Talk
+Tags: Talk, unSeminar, omics, problem solving
 xnonews: true
 
 # unSeminar: “Development of methods for multi-omics data integration” 

@@ -2,7 +2,7 @@ Title: #MaptimeDavis Workshop: Data Visualization
 Date: 2018-01-31
 Time: 10-12 pm
 Where: DSI Classroom, 360 Shields Library
-Category: Events
+Category: Workshop
 Tags: Workshop, Winter 2018, #MaptimeDavis, Data Visualization
 xnonews: true
 slug: 20118MaptimeDataViz
