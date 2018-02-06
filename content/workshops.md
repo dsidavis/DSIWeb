@@ -12,10 +12,11 @@ expertise. Workshops are announced here and on our [listserv](signup.html).
 
 
 # Workshops
-
+* [Winter 2018](Winter18Workshops.html)
+* [Fall 2017](posts/Workshop/fall-17-workshops-schedule20171212.html)
 * [Spring 2017](Spring17Workshops.html)
 * [Winter 2017](Winter17Workshops.html)
-* [Fall 2017](posts/Workshop/fall-17-workshops-schedule20171212.html)
+
 
 ### Suggest a Workshop
 
