@@ -60,9 +60,9 @@ desc: Cory studies how political institutions influence the behavior of elected 
 email:mcbissell@ucdavis.edu
 name: Michael Bissell
 url: http://www.vetmed.ucdavis.edu/gge/index.cfm
-location:  Epidemiology. 
-title: Predicting breast cancer risk with machine learning. 
-desc: Michael has a background in statistics and applied mathematics. His research focuses on applying machine learning methods to improve predictions of breast cancer risk in unique populations. He would like to learn more about applying KNN, Random Forest, SVM, and other techniques to survival data.
+location: Epidemiology
+title: Differential effects of risk factors on breast cancer outcomes by race.
+desc: Michael has a background in statistics and applied mathematics.  His research focuses the on how the attribution of risk factors varies by race with regard to overall breast cancer, late stage breast cancer, and breast cancer mortality.  He would like to learn more about applying machine learning techniques in his research, especially with survival data.
 
 
 email:nsbowden@ucdavis.edu
@@ -139,6 +139,14 @@ desc: Danielle's research draws on intensive, multi-modal data to produce learni
  foregrounds the needs of teachers and students, with a critical SES perspective. She uses data science approaches to structure messy data and creatively identify data sources. Danielle wants to learn more advanced programming for data in R and Python, and to engage in collaborative reading and working groups on applied machine learning.
 
  
+email: lmhuang@ucdavis.edu
+name: Lisa Huang
+url: http://lisamhuang.wordpress.com/
+location: Psychology
+title: Social perception, impression formation, and decision making.
+desc: Lisa is a social psychologist who studies how social expectancies influence the ways that people form impressions of others. She is interested in using predictive modeling to understand and change human behavior. She wants to expand her knowledge in machine learning and build skills in R, SQL, and data visualization. 
+
+
 email: lcirberjr@ucdavis.edu
 name: Luiz Carlos Irber, JÃºnior
 url: http://luizirber.org
@@ -290,6 +298,22 @@ location: Psychology
 title: Neural mechanisms of attention.
 desc: Sean studies the networks in the brain that control attention. Sean collects electroencephalography and functional magnetic resonance imaging data from human research participants while they perform various attention-intensive tasks, and uses signal processing, network analysis, and machine learning applications to model the underlying neural activity. Sean thinks that data science will be increasingly crucial to advancing neuroscience, especially as neural datasets grow rapidly in size and complexity.
 
+email: jiochoa@ucdavis.edu
+name: Jose Ochoa
+url: http://biogeo.ucdavis.edu/people.html
+location: Geography
+title: Cropland detection in the Andes using moderate-high resolution satellite data.
+desc: Jose (Pepe) is a geographer who specializes in remote sensing applications for terrestrial ecosystems monitoring. His current research is focused on cropland expansion and ecosystem alteration in the Ecuadorian Andes, testing different land cover classification algorithms and climatic models. He mainly uses Google Earth Engine, ENVI IDL, and R as programming platforms. Jose wants to learn more about different geospatial and biophysical datasets used by other colleagues on campus. 
+
+
+email: rpauloo@ucdavis.edu
+name:Rich Pauloo
+url: richpauloo.github.io
+location: Hydrologic Science
+title: Numerical modeling of groundwater flow and contaminant transport.
+desc: Rich is a hydrologic scientist who studies how water management affects the sustainability of groundwater resources. In his research, Rich works with geospatial, chemical, timeseries, geophysical data, and enjoys dabbling in natural language processing on the side. He has made a few R Shiny apps, and is excited to learn more tools and techniques for modeling, visualizing and telling compelling stories with data. Rich primarily codes in R and git, and uses python on blue moons.
+github: richpauloo
+
 
 email: rapeek@ucdavis.edu
 name:Ryan Peek
@@ -307,6 +331,15 @@ location: Neuroscience
 title: Analyzing attention lapses, emotional regulation, impulse control, and how these phenomena interact to shape how we behave and perceive the world.
 desc: Ryan is interested in the role of data science in relation to personal data collection, and is fascinated by SQL, machine learning, and artificial neural networks. He recently uploaded his dissertation data to postgres, and conducted user analytics for a startup (Remind) in San Francisco.
  Ryan wants to engage with like-minded data scientists and continue to learn about the latest advances in the field.
+
+
+email: spizelo@ucdavis.edu
+name: Samuel Pizelo
+url: https://ucdavis.academia.edu/SamuelPizelo
+location: English Literature
+title: From early modern texts to game studies.
+desc: Samuel is a PhD student in the English department who focuses in Science and Technology Studies and Game Studies. He is interested in using computational tools critically to re-evaluate conventional disciplinary knowledge and archives. Currently, he is involved with a project using R to analyze Early Modern textbases. 
+github: sampizelo
 
 
 email: cmpollard@ucdavis.edu 
@@ -335,15 +368,6 @@ desc: Abbie is trained as a cognitive neuroscientist and studies how teenagersâ€
 github: abbiepopa
 
 
-email: nrandhawa@ucdavis.edu
-name: Nistara Randhawa
-url: http://nistara.net 
-location: Epidemiology
-title: Global surveillance for zoonotic viruses from bats.
-desc: Nistara is working with the PREDICT project at the One Health Institute, which is involved in a global surveillance for viruses that can spillover from animals to people. 
- Her research focuses on bat viruses in Tanzania, Uganda, and Rwanda. She tracks bat movements and simulates disease outbreak spread in humans using R and other GIS tools like ArcGIS and QGIS for data munging, analyses, and building network models. She is learning PostgreSQl and PostGIS to facilitate her GIS work outside of and with R. She wrote an R package (XXX) for her research on contact tracing during outbreaks in humans. Nistara would like to learn more about parallel computing, python, NLP, machine learning, database management, data visualization and cloud computing. 
-
- 
 email: nrandhawa@ucdavis.edu
 name: Nistara Randhawa
 url: https://nistara.net
