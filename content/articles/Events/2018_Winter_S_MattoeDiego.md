@@ -1,5 +1,5 @@
-Title: Un-Seminar: Over-Packaged: Ecology & Evolution of R Packages
-Date: 2/13/2018
+Title: NEW DATE - Un-Seminar: Over-Packaged: Ecology & Evolution of R Packages
+Date: 3/06/2018
 Time: 12:10-1pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events
