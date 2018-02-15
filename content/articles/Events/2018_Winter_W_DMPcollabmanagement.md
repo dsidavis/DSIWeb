@@ -1,5 +1,5 @@
 Title: DMP Workshop: Collaborative Data Management
-Date: 2/07/2018
+Date: 2/14/2018
 Time: 1-3 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events
