@@ -19,5 +19,6 @@ This basic/intermediate R workshop will introduce participants to exploratory da
 Prerequisites: 
 Basic R programming, basic understanding of plotting.
 
-* Recording (coming soon)
-* Resources (coming soon)
+* [Outline & Resources](https://github.com/dhicks/ggplot_workshop/blob/master/outline.md)
+
+Questions? Check out our [office hours](http://dsi.ucdavis.edu/office_hours.html).
