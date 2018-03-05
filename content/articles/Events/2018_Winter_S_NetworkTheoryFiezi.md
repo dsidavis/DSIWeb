@@ -16,7 +16,7 @@ Speaker: Soheil Feizi, Postdoc at Stanford University
 Title: *"Unsupervised Learning Revisited"*
 12:10-1pm in 1131 Kemper 
 
-Please contact Prof. D'Souza (raissa@cse.ucdavis.edu) if you are interested in meeting the speaker. 
+**Please contact [Prof. D'Souza](mailto:raissa@cse.ucdavis.edu) if you are interested in meeting the speaker.**
 
 Abstract: Modern datasets are massive, complex and often unlabeled. These attributes make unsupervised learning important in several data-driven application domains. This ever-growing area, although demonstrating excellent empirical performance, suffers from a major drawback. Unlike for classical learning methods, there is a lack of fundamental understanding of several modern approaches, hindering development of principled methods for improvement.
 
