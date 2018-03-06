@@ -3,7 +3,7 @@ Date: 11/30/2017
 Category: Jobs
 Tags: Job, Smithsonian, Postdoc, Fall 2017
 xnonews: true
-xExpired: 2018-03-01
+Expired: 2018-03-01
 
 # Postdocs in Machine Learning & Genomics at Smithsonian Institution's Data Science Lab
 

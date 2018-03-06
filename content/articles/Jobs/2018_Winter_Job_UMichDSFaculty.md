@@ -3,7 +3,7 @@ Date: 12/18/2017
 Category: Jobs
 Tags: Job, Winter 2018
 xnonews: true
-xExpired: 2018-03-01
+Expired: 2018-03-01
 
 # Faculty position in Data Science for Sustainable Development, University of Michican
 

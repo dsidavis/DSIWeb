@@ -3,7 +3,7 @@ Date: 1/12/2018
 Category: Jobs
 Tags: Job, Postdoc, NIMBLE, UC Berkeley
 xnonews: true
-xExpired: 2018-03-01
+Expired: 2018-03-01
 
 # [Postdoc or software developer position for NIMBLE at UC Berkeley](https://r-nimble.org/nimble-has-a-post-doc-or-software-developer-position-open)
 The [NIMBLE](https://R-nimble.org) statistical software project at the University of California, Berkeley is looking for a post-doc or statistical software developer. NIMBLE is a tool for writing hierarchical statistical models and algorithms from R, with compilation via code-generated C++. Major methods currently include MCMC and sequential Monte Carlo, which users can customize and extend. 
