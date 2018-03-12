@@ -12,3 +12,6 @@ To register, select the appropriate workshop [here](https://forms.library.ucdavi
 
 ## Description:
 DSI postdoc Matt Espe will cover the basic foundations of Bayes, and then dive into a few different tools for Bayesian inference. It will be both basic and high-level, and suited for someone with an introduction to statistics, but not a Bayesian master (i.e., more of a survey).
+
+[Recording](https://www.youtube.com/watch?v=kw397Ioru3U)
+[Slides/Resources](https://github.com/dsidavis/IntroBayesWorkshop)
