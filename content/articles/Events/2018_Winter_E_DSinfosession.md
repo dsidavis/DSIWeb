@@ -14,12 +14,11 @@ A conversation with the DSI's Director and Affiliates.
 * How can I start my career in data science?
 
 We are holding two info sessions:
-* March 2 @ 3:30pm: Undergraduates session
-* March 13 @ 11am: Graduate student & postdoc session
+* March 2 @ 3:30pm: Undergraduates session. [Slides](http://dsi.ucdavis.edu/DataScienceCareers/UGDataScientist.html#1)
+* March 13 @ 11am: Graduate Student & Postdoc session. [Slides](http://dsi.ucdavis.edu/GradDataScientist.html#1)
 
 Seats are limited; registration is required. [RSVP](https://forms.library.ucdavis.edu/classes)
 
 The event will be held in the DSI Classroom (Shields 360).
 
 [Flyer](http://dsi.ucdavis.edu/DS_InfoSession_2018_flyer.pdf)
-[Slides](http://dsi.ucdavis.edu/DataScienceCareers/UGDataScientist.html#1)
