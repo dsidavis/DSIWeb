@@ -1,4 +1,4 @@
-Title: Postdoc @ DSI
+Title: Postdoc @ UC Davis DSI
 Date: 2018-03-06
 Time: 9-5 pm
 Where: Data Science Initiative, UC Davis
