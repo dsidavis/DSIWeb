@@ -53,10 +53,11 @@
 
 {% block banner %}
 
- <!--
+<!--
   <center>
   <div style="color: red; font-size: 20pt; padding: 10pt">
-Duncan's office hours for Thursday, Feb 1st will be 10.45 - 11.45, 362 Shields Library
+      Duncan's office hours for Mar 12 - 16th will be Wednesday, Mar 14 (not Thursday)
+        midday - 1.30pm, 362 Shields Library
   </div>
   </center>
 -->
@@ -296,7 +297,7 @@ Duncan's office hours for Thursday, Feb 1st will be 10.45 - 11.45, 362 Shields L
   {% for category, articles in categories if category.name == 'Events' %}
   {% for article in articles | sort(attribute='date')
     if article.nonews is not defined and article.expired is not defined
-    and article.date > article.date.now(article.date.tzinfo) %}
+    and article.date > (article.date.now(article.date.tzinfo)) %}
   <tr>
     <td><span class="{{ GLYPHICON[article.tags[0].name] }}"></span></td>
     <td>{{ article.date.strftime('%d %b') }}</td>
