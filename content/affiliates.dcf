@@ -147,6 +147,13 @@ title: Social perception, impression formation, and decision making.
 desc: Lisa is a social psychologist who studies how social expectancies influence the ways that people form impressions of others. She is interested in using predictive modeling to understand and change human behavior. She wants to expand her knowledge in machine learning and build skills in R, SQL, and data visualization. 
 
 
+email: driltis@ucdavis.edu
+name: Dana Iltis
+location: Computer Science
+title: Machine Learning Techniques for Automated Software Testing.
+desc: Dana is a master's student in the Computer Science department. For her thesis she is working on improving existing automated software testing tools by using machine learning techniques to analyze program input/output data to gain insights into software behavior. Dana earned her BS in Math-Economics from UCLA, and she worked as a financial software developer for 4 years in Santa Barbara, CA before beginning her graduate degree. 
+
+
 email: lcirberjr@ucdavis.edu
 name: Luiz Carlos Irber, Júnior
 url: http://luizirber.org
@@ -226,17 +233,16 @@ title: Seagrasses as models for studying adaptation of plant-fungi symbioses to 
 desc: Cassie's interests include plant-microbe interactions and host-microbe co-evolution. Her projects involve analyzing a variety of types of high throughput sequencing data (16S/18 rRNA, ITS, genomics, metagenomics) from environmental microbial communities and cultured isolates using a combination of Python, R and Unix/bash. Cassie hopes to expand her knowledge of statistical modeling and machine learning algorithms to improve her research and enjoys learning more about data visualization and workflow reproducibility. 
 github: casett
 
-
-name: Zachary Harmany
-url: http://drz.ac/
-email: (mailto: ztharmany@ucdavis.edu
-location: Biomedical Engineering
-role: project scientist
-title: Signal and image processing.
-desc: Zach holds a PhD in Electrical and Computer Engineering, and is currently working at the Center for [Molecular and Genomic Imaging](http://bme.ucdavis.edu/cmgi/). He focuses on reconstructing and analyzing imaging data to answer questions in biomedical sciences. He has expertise in machine learning, and is proficient in programming languages and development tools including MATLAB, Python, C, Bash, LaTeX, Git, SVN.
- Zach wants to learn more about research activities on campus related to data science, different ways of thinking about data processing, and tools to perform collaborative science.
-
  
+email: driltis@ucdavis.edu
+name: Dana Iltis
+url:
+location: Computer Science
+title:
+desc:
+github:
+
+
 email: sejoslin@ucdavis.edu
 name: Shannon Joslin
 url: http://igg.ucdavis.edu/
@@ -281,6 +287,15 @@ title: Computational linguistics and machine learning.
 desc: Prior to coming to UC Davis, Hugo was prototyping natural language processing (NLP) applications in industry. His research focuses on node attribute prediction in networks and network spreading dynamics, and requires a combination of network science, NLP, hard problem approximation, and machine learning. Hugo has a background in NLP and supervised learning, and has experience in web scraping, data management, data cleaning and exploratory analysis, primarily in Python. Hugo wants to broaden his foundation in statistics, start playing around with neural networks, learn R, and build interactive visualizations such as web apps.
 
  
+email: jthmiller@ucdavis.edu
+name: Jeffrey Miller
+url:http://jthmiller.github.io/
+location: Pharmacology and Toxicology.
+title: Rapid evolutionary strategies in human-altered environments.
+Currently, Jeffrey is using gene expression and quantitative genomics to determine how separate populations of an estuary fish evolved resistance to toxic pollutants. Jeff is interested in teaching command line computational skills and learning more about the visualization and analysis of complex whole-genome/transcriptome/phenotype datasets with R, python, and Circos.
+github: jthmiller
+
+
 email: sismail@ucdavis.edu
 name: Shaikh Mohammed Ismail
 url: http://shaikhismail.github.io
@@ -291,7 +306,7 @@ desc: Ismail is studying how similar software source codes written by humans are
  He wants to learn all the cool things my other colleagues at DSI can offer. On a technical level, Ismail wants to get involved in open source development in Artificial Intelligence/Deep learning.
 
 
- email: slnoah@ucdavis.edu
+email: slnoah@ucdavis.edu
 name: Sean Noah
 url: osf.io/h5crj
 location: Psychology
