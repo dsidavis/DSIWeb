@@ -26,7 +26,7 @@ desc: The Brown lab focuses on genomic, transcriptomic, and metagenomic sequence
 name: Colin Cameron
 email:
 url: http://cameron.econ.ucdavis.edu/
-location: Economics
+location: Economics.
 role: Professor of Economics
 title:
 desc: Professor Cameron’s research speciality is economic theory and microeconmetrics for cross-section data, especially count data, with applications to labor and health economic data. 
@@ -38,18 +38,26 @@ location: Office of Research
 role: Associate Vice Chancellor for Interdisciplinary Research and Strategic Initiatives.
 title: desc: Dr. Dodd’s background is in nanoscale materials science and applied physics, and has worked at the interface of industry, academia for over 20 years. He administers the ten UC Davis Organized Research Units and is responsible for developing interdisciplinary research activities for the Davis campus including initiating, supporting and coordinating the development of new strategic research partnerships. You can read more about his background and the UC Davis interdisciplinary research and strategic initiatives, [here](http://research.ucdavis.edu/about-us/or-leadership/#avcirsi).
 
+name: Jonathan Eisen
+email: jaeisen@ucdavis.edu
+url: https://phylogenomics.me/
+location: Department of Evolution and Ecology, Genome Center, Center for Population Biology, Department of Medical Microbiology and Immunology, School of Medicine, Coastal and Marine Sciences Institute.
+role: Professor.
+title: Integration between data sources, data acquisition, statistical analysis, workflow management. 
+desc: Professor Eisen studies the ecology, evolution and function of microbes and microbial communities, and develops phylogeny-driven computational tools to analyze genomic and metagenomic sequence data.
+
 name: Andrew Fox
 email: dfox@ucdavis.edu
 url: http://foxlab.ucdavis.edu/
 location: Psychology
 role: Assistant Professor.
-title: 
+title: Integration between data sources, data acquisition, statistical analysis, workflow management. 
 desc: Professor Fox studies the neuroscience of social and emotional behavior in humans and non-human primates with a focus on emotional and social decision-making. He uses Python in his teaching and runs an informal Python Users Group through the DSI.
 
 name: Benjamin Houlton
 email:
 url: https://www.bzhoulton.com/
-location:
+location: JMIE.
 role: Chancellor's Fellow, Professor of Global Environmental Studies, and Director of the John Muir Institute for the Environment (JMIE). 
 title:
 desc: Professor Houlton’s research interests include ecosystem processes, climate change and the growing risks of human alterations to the global carbon, nitrogen, phosphorous cycles for enhanced energy and food production. As Director of JMIE, Professor Houlton catalyzes research discovery across more than 300 faculty-experts from across UC Davis to devise innovative solutions to the environmental sustainability challenges of the 21st century.
@@ -57,7 +65,7 @@ desc: Professor Houlton’s research interests include ecosystem processes, clim
 name: Louise Kellogg
 email: lhkellogg@ucdavis.edu
 url: http://geology.ucdavis.edu/people/faculty/kellogg.php
-location:
+location: Geology.
 role: Professor of Geophysics and Director of [Computational Infrastructure for Geodynamics](https://geodynamics.org/).
 title:
 desc: Professor Kellogg studies the dynamics of the solid Earth and similar planets, focusing on mantle convection and crustal deformation using computational models rooted in observation. She established the [W. M. Keck Center for Active Visualization in Earth Sciences (KeckCAVES)](http://keckcaves.org/) where her research includes interactive visualization of data from natural disaster sites, reconstructing paleoocean flow, and using virtual reality and augmented reality for research and outreach.
@@ -65,7 +73,7 @@ desc: Professor Kellogg studies the dynamics of the solid Earth and similar plan
 name: Patrice Koehl
 email:
 url: http://web.cs.ucdavis.edu/~koehl/
-location:
+location: Computer Science.
 role: Professor of Computer Science and Founding Director of the Data Science Initiative.
 title:
 desc: Professor Koehl’s interests lay at the interface of physics, geometry and biology. His research focuses on computational algorithmic developments and management of complex biological data as well as the quantification of biological systems (morphometry) and the formation (morphogenesis) and evolution (morphodynamics) of of molecular shapes. His research group develops new statistical algorithms for clustering post-genomic data, and geometric methods for processing image data for high-throughput comparisons of 3D-images.
@@ -73,13 +81,23 @@ desc: Professor Koehl’s interests lay at the interface of physics, geometry an
 name: Prasant Mohapatra
 email:
 url: https://faculty.engineering.ucdavis.edu/mohapatra/biography/ 
-location:
+location: Graduate Studies.
 role: Professor of Computer Science, Dean of Graduate Studies and Vice-Provost of Graduate Education. 
 title: 
 desc: Professor Mohapatra’s research interests focus on wireless networks, mobile communications, cybersecurity and internet protocols. Dr. Mohapatra is the Editor-in-Chief of the IEEE Transactions on Mobile Computing, and he has published over 300 research papers in his field.
+
+name: Chris Smith
+email: chmsmith@ucdavis.edu
+url: https://chrismsmithsociology.wordpress.com
+location: Sociology.
+role: Assistant Professor.
+title: Social Network Analysis.
+desc: 
+
 
 email:
 name:  Tony Tyson
 url: http://tyson.ucdavis.edu/ 
 role: Distinguished Professor of Physics.
+location: Physics.
 desc: Professor Tyson is an experimental physicist with research in cosmology including dark matter distribution, gravitational lens effects, cosmic shear, the nature of dark energy, and instrumentation for optical astronomy. He pioneered the field of weak gravitational lensing, and dark energy was discovered using one of his wide field CCD cameras. Prior to coming to UC Davis he worked in the physics division at Bell Labs.
