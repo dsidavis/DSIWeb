@@ -3,6 +3,7 @@
 
 ## To add
 1. Split "Events" into "DSI Events" and "Other Events." Other are things not co-sponsored by the DSI and/or not occurring in the DSI space. Will need a category for all events added notDSI: true.
+1.  Change so that homepage Events pulls from category Events AND Workshop (currently only pulls Events, which creates confusion for the drop-down Events by Category page as that needs category: workshop to appear in correct place).
 1. For front page Events, can it be set to pull from any of Category = Events, Workshop, Talk, or Meetup (versus now where it just pulls from Events)? And create new category for Meetup? This would help with the archiving. Currently, anything that we want on the front page goes into the Events for http://dsi.ucdavis.edu/categories.html and I have to manually change it after it occurs for it to go into the correct category (workshops, talk, etc.). Would also be great to have
 1. Administration in menus is a very austere word. How about something more inspiring.
 1. [now in Events but not great place] add a link to the categories.html page somewhere, maybe just in a sitemap.
