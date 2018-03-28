@@ -2,10 +2,11 @@ Title: Data, Informatics & Application Launch (DIAL) Grant
 Date: 2018-03-06
 Time: 
 Where:
-Category: News
-Tags: News, Grant, DIAL, UC Davis
+Category: Jobs
+Tags: Jobs, Grant, DIAL, UC Davis
 xnonews: true
 slug: 2018DIAL
+Expired: 2018-03-05
 
 # Data, Informatics & Application Launch (DIAL™) Grant Pilot Program: FY 2017-18
 
