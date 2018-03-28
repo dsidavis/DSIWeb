@@ -2,7 +2,7 @@ Title: Talk on Dilemmas of Data in Citizen Science
 Date: 4/04/2018
 Time: 12-1:30 pm
 Where: 1246 SS&H (STS/CSIS Room)
-Category: Event
+Category: Events
 Tags: Talk, Spring 2018, Citizen Science
 xnonews: true
 slug: 2018CitizenSci
