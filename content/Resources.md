@@ -43,7 +43,7 @@ Here are some helpful reads on various Data Science related topics:
 # Visualization
 Some classic background on data visualization:
 
-* [Edward Tufte, The Visual Display of Quantitative Information, 1942-c1983, Graphics Press, Cheshire Conneticut](https://search.library.ucdavis.edu:443/01UCD_V1:everything_scope:01UCD_ALMA21154294780003126)
+* [Edward Tufte, The Visual Display of Quantitative Information, 1942-c1983, Graphics Press, Cheshire Connecticut](https://search.library.ucdavis.edu:443/01UCD_V1:everything_scope:01UCD_ALMA21154294780003126)
 * [William S. Cleveland, The Elements of Graphing Data, 1943-c1985, Wadsworth Advanced Books and Software, Monterey CA](https://search.library.ucdavis.edu:443/01UCD_V1:everything_scope:01UCD_ALMA21219205520003126)
 
 # Competitions & Projects
@@ -52,7 +52,7 @@ Some classic background on data visualization:
 * [iiData](https://www.iidata.net/)
 * [HackDavis](https://hackdavis.io/)
 
-## Online :
+## Online:
 
 * [Kaggle](https://www.kaggle.com/)
 * [Data For Democracy](http://datafordemocracy.org/)
@@ -64,7 +64,6 @@ Some classic background on data visualization:
 * [Sacramento Women in Data](https://www.meetup.com/Sacramento-Women-in-Data/)
 * [Code for Sacramento](https://www.meetup.com/Code4Sac/)
 
-
 # The Job Search
 
 * [UC Davis Internship and Career Center](https://icc.ucdavis.edu/index.htm)
@@ -72,8 +71,15 @@ Some classic background on data visualization:
 * [CyberCoders](https://www.cybercoders.com/)
 * Indeed, Linked-in, etc.
 
-datascience listserv NY
-code4Sac
+# Newsletters
+* [BigData-Startups](http://www.bigdata-startups.com/)
+* [Center for Data Innovation](http://www.datainnovation.org/)
+* [Data Community DC](http://datacommunitydc.org/blog/newsletter/)
+* [Data Science Central](http://www.datasciencecentral.com/profiles/blogs/check-out-our-dsc-newsletter)
+* [Data Transparency Coalition](http://www.datacoalition.com/)
+* [DataScienceWeekly](http://www.datascienceweekly.org/)
+* [KDNuggets News](http://www.kdnuggets.com/news/subscribe.html?1_kne)
+* [Data Science Newsletter NYU](https://cds.nyu.edu/newsletter/)
 
 # Data Science News Sources & Blogs:
 
