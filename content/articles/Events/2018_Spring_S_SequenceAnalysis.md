@@ -2,7 +2,7 @@ Title: Workshop on Sequence Analysis
 Date: 4/03/2018
 Time: 10-11:20 am
 Where: Andrews Conference Room, 2203 SS&H
-Category: Event
+Category: Events
 Tags: Workshop, Spring 2018, Sequence Analysis
 xnonews: true
 slug: 2018SequenceAnalysis
