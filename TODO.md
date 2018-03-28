@@ -2,14 +2,15 @@
 
 
 ## To add
+1. Split "Events" into "DSI Events" and "Other Events." Other are things not co-sponsored by the DSI and/or not occurring in the DSI space. Will need a category for all events added notDSI: true.
+1. For front page Events, can it be set to pull from any of Category = Events, Workshop, Talk, or Meetup (versus now where it just pulls from Events)? And create new category for Meetup? This would help with the archiving. Currently, anything that we want on the front page goes into the Events for http://dsi.ucdavis.edu/categories.html and I have to manually change it after it occurs for it to go into the correct category (workshops, talk, etc.). Would also be great to have
 1. Administration in menus is a very austere word. How about something more inspiring.
 1. [now in Events but not great place] add a link to the categories.html page somewhere, maybe just in a sitemap.
 1. Add the two visitors from NAIST to our faculty affiliates.
 1. Faculty Affiliates
-   + Roland Fong as an affiliate?
-   + All of the collaborators as affiliates?
+   + Create new page from facultyaffiliates.md and list under the People tab.
    + Reach out to other potential affiliates- advisory group, Raissa D'Souza, Mark Goldman, 
-      Some CS folks. Xin Liu, Chen-Nee Chuah, ...
+      Some CS folks. Xin Liu, Chen-Nee Chuah, ... see ToDo google doc for linkt to spreadsheet with potential names.
 1. Integrate the following content - maybe already linked, but should have centralized place
    + Climate Refuge event.  In 
    + NSFWorkshops - dsi.ucdavis.edu/NSFWorkshops
@@ -18,12 +19,18 @@
    + RFundamentals  - dsi.ucdavis.edu/RFundamentals
 1. Get Carl's slides from talk on Text/NLP processing and have a page that links to all the
    materials, recordings, etc.
+ 1. Get links to Matt's materials from Bayes and add to workshop.
 1. Materials from other talks.
 1. Get the remaining unseminar talks from Winter and were there any from Fall 2016?
    There were a few from 2015, some of which are in the Past/
 1. Add page unseminar.md file (but where?), which describes the format of the un-seminars   
+1. Add all DSI workshops to the "Resources" tutorials page: http://dsi.ucdavis.edu/tag/tutorial.html.
+1.	Replace the current Courses page (http://dsi.ucdavis.edu/courses.html comes from courses.html file) with the new courses file (UCDcourses.md)
 
 ## Appearance
+1.	Move "People" tab to be listed after "About".
+1.	Under "Events", get rid of "Announcements" (http://dsi.ucdavis.edu/category/recent.html) (or re-direct to the home page) and "Past Events" (http://dsi.ucdavis.edu/category/past.html). Both are incomplete and redundant of content elsewhere on the site.
+1. Move Office Hours on homepage to the top left panel, above Opportunities.
 1. !! If the window is too small, the menus disappear.
      Remove the @class in <div class="nav-collapse collapse">
 	 But then it doesn't collapse, but goes vertical.
