@@ -3,7 +3,7 @@ Date: 2018-03-05
 Time: 4:10 pm
 Where: Room 55 Roessler Hall 
 Category: Events
-Tags: Event, Talk, Physics, Social Sciences
+Tags: Events, Talk, Physics, Social Sciences
 xnonews: true
 slug: SethFrey2018
 
