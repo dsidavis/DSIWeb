@@ -225,6 +225,14 @@ desc: Nick's research involves using computational approaches to reveal the cell
  He is working to apply in vivo and in silico data related to healthy and diseased cardiac function to the clinical setting.
 
  
+email: eestradaa@ucdavis.edu
+name: Eduardo Estrada
+url: (Lab) http://dynamics.ucdavis.edu/people.html
+location: Psychology.
+title: Longitudinal and dynamic data analysis for behavioral and health sciences.
+desc: Eduardo is interested in  tools and techniques to study change. Specifically, he is interested in advancing statistical methods for characterizing developmental change in psychological constructs (such as cognitive abilities) over time. He is particularly interested in applications of dynamical systems and differential equations to psychology, and the study of change at the individual level. He conducts most of his analyses in R, applying various forms of general linear models and structural equation models.
+
+ 
 email: clettinger@ucdavis.edu
 name: Cassie Ettinger
 url: https://seagrassmicrobiome.org/people/cassie-ettinger/
@@ -236,11 +244,10 @@ github: casett
  
 email: driltis@ucdavis.edu
 name: Dana Iltis
-url:
-location: Computer Science
-title:
-desc:
-github:
+location: Computer Science.
+title: Machine Learning Techniques for Automated Software Testing.
+desc: Dana is an MS student in the Computer Science department. For her thesis she is working on improving existing automated software testing tools by using machine learning techniques to analyze program input/output data to gain insights into software behavior. Dana earned her bachelor's in Math-Economics from UCLA, and she worked as a financial software developer for 4 years in Santa Barbara, CA before beginning her graduate degree. 
+github: driltis
 
 
 email: sejoslin@ucdavis.edu
@@ -250,6 +257,15 @@ location: Integrative Genetics and Genomics
 title: Heritable phenotypes, population genomics and disease risk in human populations.
 desc: Shannon's research interests include population genomics, genome-wide association studies and metagenomics.
   She wants to learn about handling and visualizing big data.
+
+  
+email: hkahl@ucdavis.edu
+name: Hanna Kahl
+url: https://hannakahl.com/
+location: Entomology.
+title: Using an ecoinformatics approach to improve citrus pest management.
+desc: I explore data collected from actual citrus fields in the San Joaquin valley for interesting trends that influence damage or yield of citrus fruits. Then I design experiments to assess the intricacies of the trends observed. I am especially interested in the variation in herbivore damage to citrus fruits across citrus variety. I primarily use R in exploring and analyzing my data but I am interested in becoming more proficient at Python and SQL. Broadly, I aim to use data science technologies to improve the economic gain and sustainability of agricultural production practices.
+github: https://github.com/kahlhm?tab=repositories
 
   
 email: nlashinsky@ucdavis.edu
@@ -279,6 +295,16 @@ title: Technological change and macroeconomic policies.
 desc: Marina's background is in theoretical economics and applied statistics. Currently, she studies how technological change influences labor market policies. She uses R, MATLAB and Stata for model simulations and data analysis. Marina is interested in efficient data extraction techniques, text mining and natural language processing (NLP).
 
 
+
+email: smaillie@ucdavis.edu
+name: Samantha Maillie
+url: https://www.stat.ucdavis.edu/people/grad-students.html
+location: Statistics.
+title: Applying statistics to healthcare and social sciences.
+desc: Samantha is a masters student interested in applying statistical methods to answer a variety of questions with a particular interest in problems in healthcare and social sciences. She hopes to develop a deeper understanding of machine learning, python and R through working with like minded individuals. 
+github: smaillie16.
+
+
 email: hmailhot@ucdavis.edu
 name: Hugo Mailhot
 url: http://www.cs.ucdavis.edu/
@@ -299,11 +325,20 @@ github: jthmiller
 email: sismail@ucdavis.edu
 name: Shaikh Mohammed Ismail
 url: http://shaikhismail.github.io
-location: Computer Science
+location: Computer Science.
 title: Is software code a natural language?.
 desc: Ismail is studying how similar software source codes written by humans are to the natural language text. 
  He is exploring the advancements of deep learning in the field of computer vision and applying it to his research.
  He wants to learn all the cool things my other colleagues at DSI can offer. On a technical level, Ismail wants to get involved in open source development in Artificial Intelligence/Deep learning.
+
+
+email: tsnelsen@ucdavis.edu
+name: Taylor Nelsen
+url: https://tnelsen.github.io/
+location: Horticulture and Agronomy.
+title: Proximal sensing for better nitrogen management. 
+desc: Taylor is working on improving nitrogen management through modeling grain response to nitrogen and developing nitrogen rate recommendations. She collects and uses traditional agronomic data in conjunction with many new technologies such as proximal sensing devices, high resolution imagery and GIS. Taylor primarily uses R and QGIS to analyze this data but wants to learn more about managing and incorporating data from different sources. 
+github:  tnelsen
 
 
 email: slnoah@ucdavis.edu
