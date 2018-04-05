@@ -107,8 +107,7 @@ UC Davis faculty may join if:
 
 Candidates for membership must be brought to the attention of the DSI Director.
 Candidates may self-nominate or be nominated by a current DSI faculty member.
-Nominations are accepted year round. To apply, send a copy of your CV to
-<mailto:datascience@ucdavis.edu>.
+Nominations are accepted year round. To apply, [contact us](mailto:datascience@ucdavis.edu) for the (brief) application link.
 
 ### Professional Research Associates
 
