@@ -19,3 +19,4 @@ Topics will include:
 
 Prerequisites: Beginner R skills and working R environment with the following packages installed: TM, Rweka, mahout, qdep, Korpus, openNLP, ggplot2, rJava. NOTE: rJava can be difficult to install as it requires specific R versions. Come to [Office Hours](http://dsi.ucdavis.edu/office_hours.html) prior to the workshop if you need help getting it installed.
 
+[Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
