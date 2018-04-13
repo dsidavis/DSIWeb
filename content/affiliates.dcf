@@ -452,6 +452,15 @@ desc: Ashkan is a PhD student in the Civil and Environmental Engineering departm
 github: AshkanSaboori
 
 
+email: sysanders@ucdavis.edu
+name: Soné Sanders
+url: http://igg.ucdavis.edu/
+location: Maloof Lab 
+title: Developing genomic prediction software for plant breeding.
+desc: Soné is implementing statistical models to forecast the best cross for superior progeny phenotypes for Brassica and, ideally, other plant species. She is also working to isolate genotype by environment predictors to inform plant breeders which of their existing plants could be bred to produce progeny that flourish outside of the normal environment. She works mainly in R and with some Python and is interested in increasing her forecasting and database skills.
+github: soneys
+
+
 email: shaoyiqun1992@gmail.com
 name: Yiqun Shao
 url: https://www.ucdavis.edu/majors/applied-mathematics/
