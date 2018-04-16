@@ -30,6 +30,14 @@ Dan's postdoc at the DSI focuses on data-driven academic institutional effective
 * __[Ryan Philips](mailto:cphillips88@gmail.com)__: SQL, R, Git
     Ryan is a PhD student in neuroscience and can help you get started with and use SQL. When it comes to large (1M+ rows) datasets, the SQL family of languages is the industry standard for data manipulation and subsetting, but it can also be used for smaller-scale data analysis. Ryan can also assist with introductory to intermediate questions in Python, Git, command line, and R. He can also talk about his experience working at a startup in San Francisco.
 
+### Tuesdays 10am-1pm
+*__[Hugo Mailhot](mailto:mailhot.hugo@gmail.com)__: NLP, text mining, Python, Jupyter
+Hugo is a PhD student on Computer Science specialized in natural language processing. He's happy to discuss any NLP topic. He can also help with Python programming, interactive data analysis and development with Jupyter, and command line tools such as Git, Vim, Tmux, SSH, bash, and zsh.
+
+### Wednesdays 11am-noon
+*__[Nick Bowden](nsbowden@ucdavis.edu)__:
+Nick is a PhD student in the Energy Graduate Group focusing on electric power system operations and economics. He works with R and Python to run cross-section, time series and panel data analysis with a focus on causal inference. He is using XML and web technologies like RCurl to pull information from html and pdf documents.
+
 ### Thursdays 5-6pm
 *__[Jared Joseph](jared.n.joseph@gmail.com)__: R, RStudio, Networks, Natural Language Processing
 Jared is a Ph.D. student in sociology who studies crime, networks and political corruption. He is proficient in R (though has little experience with the tidyverse), and uses it for his own work on networks. He is familiar with the tools surrounding computational social sciences, including openRefine, Unix, git, parallel processing in R, APIs, and basic web scraping.	
