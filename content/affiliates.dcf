@@ -65,7 +65,7 @@ title: Differential effects of risk factors on breast cancer outcomes by race.
 desc: Michael has a background in statistics and applied mathematics.  His research focuses the on how the attribution of risk factors varies by race with regard to overall breast cancer, late stage breast cancer, and breast cancer mortality.  He would like to learn more about applying machine learning techniques in his research, especially with survival data.
 
 
-email:nsbowden@ucdavis.edu
+email: nsbowden@ucdavis.edu
 name: Nicholas Bowden
 url: http://engineering.ucdavis.edu/ttp/
 location: Transportation Technology and Policy.
@@ -318,7 +318,7 @@ name: Jeffrey Miller
 url:http://jthmiller.github.io/
 location: Pharmacology and Toxicology.
 title: Rapid evolutionary strategies in human-altered environments.
-Currently, Jeffrey is using gene expression and quantitative genomics to determine how separate populations of an estuary fish evolved resistance to toxic pollutants. Jeff is interested in teaching command line computational skills and learning more about the visualization and analysis of complex whole-genome/transcriptome/phenotype datasets with R, python, and Circos.
+desc: Currently, Jeffrey is using gene expression and quantitative genomics to determine how separate populations of an estuary fish evolved resistance to toxic pollutants. Jeff is interested in teaching command line computational skills and learning more about the visualization and analysis of complex whole-genome/transcriptome/phenotype datasets with R, python, and Circos.
 github: jthmiller
 
 
@@ -401,6 +401,7 @@ desc: Courtney studies early modern English literature and is specifically inter
 
 
 email: poncedeleon@ucdavis.edu
+photo: AlejandroPoncedeLeon
 name: Alejandro Ponce de León - Calero
 url: http://alejandroponcedeleon.co
 location: Cultural Studies
@@ -478,7 +479,7 @@ desc: Ozan is working on data analysis and visualization via interactive platfor
  He wants to learn about deep learning and its applications in the high dimensional time series prediction problems, and improve his python coding skills 
 
 
- email: ataranov@ucdavis.edu
+email: ataranov@ucdavis.edu
 name: Aleksandra Taranov
 url: http://biostat.ucdavis.edu/about/students.html
 location: Biostatistics and International Agricultural Development
@@ -548,7 +549,7 @@ github: whiteellie
 
 
 email: ssyair@ucdavis.edu
-name: Sivan Yair
+name:  Sivan Yair
 url: https://cpb.ucdavis.edu
 location: Population Biology
 title: Population genomic theory and method development to characterize cases of introgression in natural systems.
