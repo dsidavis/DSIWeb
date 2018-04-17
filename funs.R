@@ -54,7 +54,7 @@ mkAffiliate =
 function(i)
 {
 
-    img = sprintf('<img src="%s" title="%s"></img>', getImage(i$name), i$email)
+    img = sprintf('<img src="%s" title="%s"></img>', getImage(i$name, i$photo), i$email)
     email = sprintf('<a href="%s"><img src="images/email400.png" class="emailIcon"></img></a>', i$email)
     c(img,
       email,
@@ -68,9 +68,11 @@ function(i)
 }
 
 getImage =
-function(name)
+function(name, photo)
 {
-    imgName = sprintf("images/Affiliates_pics/%s_c.jpg", gsub(" ", "", name))
+
+    imgName = sprintf("images/Affiliates_pics/%s_c.jpg", gsub(" ", "", if(!is.na(photo)) photo else name))
+#if(!is.na(photo)) message("photo for ", name)
     if(!file.exists(imgName))
         imgName = "images/incognito.png"
     
