@@ -1,4 +1,5 @@
 if(FALSE) {
+    # DONT USE THIS. See content/GNUmakefile.
 ll = readLines("affiliates.md")
 
 j = grep("(^| )\\*[^*].*\\*", ll)
