@@ -477,15 +477,22 @@ title: Functional Data Analysis, highly dimensional time series, mathematical st
 desc: Ozan is working on data analysis and visualization via interactive platforms, develping Shiny Apps to process/visualize/analyze large data sets specifically for agricultural data, which are highly unbalanced and complex in nature.
  He wants to learn about deep learning and its applications in the high dimensional time series prediction problems, and improve his python coding skills 
 
+
+ email: ataranov@ucdavis.edu
+name: Aleksandra Taranov
+url: http://biostat.ucdavis.edu/about/students.html
+location: Biostatistics and International Agricultural Development
+title: Stochastic Simulations for Plant Breeding Research
+desc: Aleks writes R packages that brings new statistical methods and machine learning techniques to the development of drought resistant crops. She'd like to continue developing her skills in C++ and rcpp and get some practice with data cleaning and wrangling.
+github: https://github.com/taranov2007
+
  
 email: LATO@ucdavis.edu
 name: Lida Anita To
 url: http://lidaanitato.org
 location: Integrative Genetics & Genomics
 title: Evolutionary history of conifers.
-desc: Working on the largest genome sequences to-date, Lida is interested in recreating the evolutionary histories of conifer species using population genomics and demographic inference models (such as Markov Chain Coalescent models).
- She uses population genetic statistics, probability, and stochastic theory for analysis of large data structures (i.e., genomic DNA data) in Python, R, Perl, C++, and Unix/bash.
- Lida would like learn more about coding efficiency (unit-testing, other tips & tricks, etc.), handling of big data structures in R, Python, Perl, and C++, and machine learning.
+desc: Working on the largest genome sequences to-date, Lida is interested in recreating the evolutionary histories of conifer species using population genomics and demographic inference models (such as Markov Chain Coalescent models). She uses population genetic statistics, probability, and stochastic theory for analysis of large data structures (i.e., genomic DNA data) in Python, R, Perl, C++, and Unix/bash. Lida would like learn more about coding efficiency (unit-testing, other tips & tricks, etc.), handling of big data structures in R, Python, Perl, and C++, and machine learning.
 
  
 email: gmturco@ucdavis.edu
