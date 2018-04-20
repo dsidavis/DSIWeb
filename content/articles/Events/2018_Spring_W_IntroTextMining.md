@@ -8,7 +8,7 @@ xnonews: true
 slug: 2018WorkshopTextMining
 
 #  “Practical introduction to text mining”
-This DSI workshop, lead by Associate Director Dr. Carl Stahmer, will focus on doing and interpreting basic text analyses. 
+This DSI workshop, led by Associate Director Dr. Carl Stahmer, will focus on doing and interpreting basic text analyses. 
 
 Topics will include:
 * word frequency and distribution

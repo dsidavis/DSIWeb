@@ -9,7 +9,7 @@ slug: 2018WorkshopTopicModeling
 
 #  Topic Modeling with Latent Dirichet Allocation (LDA)
 
-This DSI workshop, lead by Associate Director Dr. Carl Stahmer, takes an in depth look at hyper parameters - the math behind the algorithms and the effects of the tuning parameters. 
+This DSI workshop, led by Associate Director Dr. Carl Stahmer, takes an in depth look at hyper parameters - the math behind the algorithms and the effects of the tuning parameters. 
 
 Prerequisites: beginner R skills and a working R environment with the following packages installed: TM, topicmodels, ggplot2. If you have a corpus you want to work on, bring it in ascii form. If not, a practice corpus will be available for you to use. 
 
