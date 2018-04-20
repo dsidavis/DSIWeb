@@ -1,4 +1,4 @@
-Title: DSI Workshop: Object oriented concepts, flexible functions, & software design
+Title: DSI Workshop: Object oriented concepts, flexible functions, & software design (recorded)
 Date: 4/20/2018
 Time: 9:30-12 pm
 Where: DSI Classroom, 360 Shields Library
@@ -14,3 +14,6 @@ In this workshop led by Dr. Duncan Temple Lang, we'll discuss object-oriented pr
 Prerequisites: intermediate R skills and a working R environment. 
 
 [Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
+
+[Video](https://youtu.be/Gc-d96yQmyU)
+[Slides](https://github.com/dsidavis/ROOPWorkshop)
