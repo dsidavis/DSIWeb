@@ -14,6 +14,12 @@ location: Graduate School of Management.
 role: Professor, MBSA Program Chair, Jerome and Elise Suran Chair in Technology Management
 desc: Professor Bhargava is an expert in technology management and the information technology industry. He also studies the use of IT in clinical health care, and has previously worked on data-driven and analytical decision making in organizations.
 
+name: Amber Boydstun
+email: aboydstun@ucdavis.edu
+url: http://www.amber-boydstun.com/
+location:  Political Science
+role: Associate Professor
+desc: Professor Boydstun conducts research on media framing and public opinion data. Her projects have involved text mining, machine learning, and visualization for exploratory data analysis. 
 
 name: Titus Brown
 email: ctbrown@ucdavis.edu
@@ -45,6 +51,14 @@ url: https://phylogenomics.me/
 location: Department of Evolution and Ecology, Genome Center, Center for Population Biology, Department of Medical Microbiology and Immunology, School of Medicine, Coastal and Marine Sciences Institute.
 role: Professor
 desc: Professor Eisen studies the ecology, evolution and function of microbes and microbial communities, and develops phylogeny-driven computational tools to analyze genomic and metagenomic sequence data. He is interested in the integration between data sources, acquisition,  analysis, eithics and workflow management. 
+
+
+name: Emilio Ferrer
+email: 
+url:
+location:
+role:
+desc:
 
 
 name: Andrew Fox
@@ -86,6 +100,20 @@ location: Graduate Studies.
 role: Professor of Computer Science, Dean of Graduate Studies and Vice-Provost of Graduate Education
 desc: Professor Mohapatra’s research interests focus on wireless networks, mobile communications, cybersecurity and internet protocols. Dr. Mohapatra is the Editor-in-Chief of the IEEE Transactions on Mobile Computing, and he has published over 300 research papers in his field.
 
+
+name: Deb Niemeier
+email: dniemeier@ucdavis.edu
+url: https://faculty.engineering.ucdavis.edu/dniemeier/biography/
+location: Civil & Environmental Engineering, and School of Education
+role: Professor
+desc: Professor Niemeier's research focuses on integrating models for estimating mobile source emissions with transportation modeling. She is the PI on a NSF NRT grant on [Data Science for the Built Environment](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1545193). Dr. Niemeier is an AAAS fellow and a member of the National Academy of Engineering. She has taught ECI 298: Introduction to Transportation Data and Analysis Using R.
+
+name: Caitlin Palter
+email: patler@ucdavis.edu
+url: https://caitlinpatler.com
+location: Land, Air & Water Resources
+role: Assistant Professor
+desc:
 
 name: Chris Smith
 email: chmsmith@ucdavis.edu
