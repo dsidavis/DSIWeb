@@ -49,7 +49,7 @@ desc: The objective of Guna's research is to propose a big data processing frame
 email: rushmore@ucdavis.edu
 name: Julie Rushmore
 url: http://julierushmore.wixsite.com/diseaseecology
-location: Vet Med 3b
+location: Vet Med
 role: postdoc
 title: Social and ecological drivers of pathogen transmission dynamics. 
 desc: Julie is an epidemiologist that uses behavioral ecology and disease ecology to investigate social and ecological drivers of pathogen-transmission dynamics across a range of study systems including non-human primates, ungulates, arthropod vectors, and humans. Julie's work combines field-based empirical data and mathematical modeling to understand pathogen transmission at a local scale, and database analyses to investigate host-pathogen associations on a global scale. Julie uses R for network analysis, modeling, simulations, and data visualization. 
@@ -58,7 +58,7 @@ desc: Julie is an epidemiologist that uses behavioral ecology and disease ecolog
 email: zakimbekov@ucdavis.edu
 name: Zamirbek Akimbekov
 url: https://akimbekov.com
-location:   Statistics. 
+location:   Statistics
 title: Statistical and thermodynamic analysis of computationally predicted structures. 
 desc: Zamir teaches machines to learn. He is interested in the application of machine learning and statistics in pattern recognition, anomaly detection, and prediction. He wants to engage in collaborative data science projects with people from different backgrounds to experiment and learn new data science technologies.
 
