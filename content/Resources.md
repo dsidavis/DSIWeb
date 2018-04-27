@@ -40,6 +40,7 @@ Here are some helpful reads on various Data Science related topics:
 * [Data Science in R: A Case Studies Approach to Computational Reasoning and Problem Solving](http://rdatasciencecases.org/)
 * [Python for Informatics: Exploring Information (pdf)](http://www.pythonlearn.com/book.php)
 
+
 # Visualization
 Some classic background on data visualization:
 
