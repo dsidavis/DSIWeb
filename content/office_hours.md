@@ -30,7 +30,7 @@ Dan's postdoc at the DSI focuses on data-driven academic institutional effective
 * __[Ryan Philips](mailto:cphillips88@gmail.com)__: SQL, R, Git
     Ryan is a PhD student in neuroscience and can help you get started with and use SQL. When it comes to large (1M+ rows) datasets, the SQL family of languages is the industry standard for data manipulation and subsetting, but it can also be used for smaller-scale data analysis. Ryan can also assist with introductory to intermediate questions in Python, Git, command line, and R. He can also talk about his experience working at a startup in San Francisco.
 
-### Tuesdays 10am-1pm
+### Tuesdays 11am-1pm
 *__[Hugo Mailhot](mailto:mailhot.hugo@gmail.com)__: NLP, text mining, Python, Jupyter
 Hugo is a PhD student on Computer Science specialized in natural language processing. He's happy to discuss any NLP topic. He can also help with Python programming, interactive data analysis and development with Jupyter, and command line tools such as Git, Vim, Tmux, SSH, bash, and zsh.
 
