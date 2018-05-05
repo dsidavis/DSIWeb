@@ -13,4 +13,19 @@ In this workshop led by Dr. Duncan Temple Lang, we'll discuss how to use relatio
 
 Prerequisites: beginner R skills and a working R environment are helpful, but non-R users interested in SQL may also find this workshop helpful.
 
-[Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
+## Resources
+
+* [Slides](https://github.com/dsidavis/SQLworkshop)
+* [Recording](https://youtu.be/ipOGYFhofn4)
+* Other helpful readings:
+	* [SQL for Smarties](https://www.elsevier.com/books/joe-celkos-sql-for-smarties/celko/978-0-12-800761-7)
+	* [MySQL Cookbook](http://shop.oreilly.com/product/0636920032274.do)
+
+[Register for this and other DSI events](https://forms.library.ucdavis.edu/classes/descriptions.php)
+
+
+
+
+
+
+
