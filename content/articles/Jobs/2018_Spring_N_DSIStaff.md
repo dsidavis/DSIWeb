@@ -27,7 +27,7 @@ The Data Scientist will apply statistical and machine learning methods and other
 
 ### Minimum Qualifications: 
 
-* Bachelors degree in a data-analytic discipline (e.g., Data Science, Statistics, Computer Science, Mathematics, Engineering, or a data-driven disciplinary field), or equivalent experience, training and education. 
+* Bachelor's degree in a data-analytic discipline (e.g., Data Science, Statistics, Computer Science, Mathematics, Engineering, or a data-driven disciplinary field), or equivalent experience, training and education. 
 * Experience involving hands-on data science problem solving with real-world, complex (messy!) data sets. 
 * Problem-solving and data manipulation skills. 
 * Knowledge and experience applying statistical modeling and machine learning methods to real world problems. 
