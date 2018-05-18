@@ -6,7 +6,7 @@ Category: Jobs
 Tags: Jobs, Sandia, UC Davis
 xnonews: true
 slug: 2018Sandia
-xExpired: 2018-05-10
+Expired: 2018-05-10
 
 # Sandia National Laboratories on-campus interviews for MS, PHD and Postdocs
 

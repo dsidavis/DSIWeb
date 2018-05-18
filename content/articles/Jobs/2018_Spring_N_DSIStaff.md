@@ -1,14 +1,14 @@
 Title: Data Science Job @ UC Davis DSI
-Date: 2018-05-15
+Date: 2018-04-01
 Time: 9-5 pm
 Where: Data Science Initiative, UC Davis
 Category: Jobs
 Tags: Job, Data Science, UC Davis, Data Science Initiative
 xnonews: true
-slug: DSIPostdoc2018
+slug: DSIStaff2018
 xExpired: 2018-09-01
 
-# [The UC Davis Data Science Initiative is hiring a research data scientist!](www.employment.ucdavis.edu/applicants/Central?quickFind=79482)
+# [We're hiring a staff Data Scientist!](www.employment.ucdavis.edu/applicants/Central?quickFind=79482)
 
 ### [Apply now!](www.employment.ucdavis.edu/applicants/Central?quickFind=79482)
 

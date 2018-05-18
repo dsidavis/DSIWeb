@@ -1,4 +1,4 @@
-Title: UC National Lab In-Residence Graduate Fellowships
+Title: UC National Lab Graduate Fellowships
 Date: 5/31/2018
 Time: 
 Where: 
@@ -6,7 +6,7 @@ Category: Jobs
 Tags: Job, Spring 2018, National Lab, Fellowship, UC , Graduate, 2019
 xnonews: true
 slug: 2018NationalLabFellowships
-xExpired: 2018-05-31
+Expired: 2018-05-31
 
 # UC-National Laboratory In-Residence Graduate Fellowship
 

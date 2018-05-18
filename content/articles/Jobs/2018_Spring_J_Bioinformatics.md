@@ -6,7 +6,7 @@ Category: Jobs
 Tags: Job, UC Davis, UCDMC, Sacramento
 xnonews: true
 slug: 2018UCDMCBioinformatics
-xExpired: 2018-05-01
+Expired: 2018-05-01
 
 # Multiple Bioinformatics Jobs at UC Davis Medical Center
 

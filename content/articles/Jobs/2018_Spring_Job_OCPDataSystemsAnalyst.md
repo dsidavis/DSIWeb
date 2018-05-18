@@ -6,7 +6,7 @@ Category: Jobs
 Tags: Jobs, Sandia, UC Davis
 xnonews: true
 slug: 2018OCPDataSystemsAnalyst
-xExpired: 2018-05-16
+Expired: 2018-05-16
 
 # [Data Systems Analyst Job at UC Davis](www.employment.ucdavis.edu/applicants/Central?quickFind=79157)
 

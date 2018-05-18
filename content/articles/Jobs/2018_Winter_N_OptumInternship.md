@@ -6,7 +6,7 @@ Category: Jobs
 Tags: Job, Internship, UC, UCSF
 xnonews: true
 slug: 2018OptumLabsInternship
-xExpired: 2018-05-01
+Expired: 2018-05-01
 
 # OptumLabs Data Science Internship Program
 University of California, San Francisco 
