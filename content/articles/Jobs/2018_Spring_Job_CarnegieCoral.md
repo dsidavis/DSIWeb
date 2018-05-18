@@ -3,7 +3,7 @@ Date: 5/04/2018
 Category: Jobs
 Tags: Job, Stanford. Spring 2018
 xnonews: true
-Expired: 2018-07-01
+xExpired: 2018-07-01
 
 # Multiple Team Positions Available in Global Coral Reef Remote Sensing and Monitoring in Stanford
 

@@ -1,10 +1,11 @@
 Title: Health Informatics Summer Graduate Fellowship
-Date: 4/25/2018
+Date: 4-25-2018
 Time: 
 Where: 
 Category: Jobs
 Tags: Job, Spring 2018, Health Informatics, Fellowship, UC Davis, International, CITRIS
 xnonews: true
+Expired: 5-01-2018
 slug: 2018HealthInformatics
 
 # 2018 Call for Applications: International PhD /Graduate Fellowship Program 
