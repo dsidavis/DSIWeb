@@ -31,7 +31,7 @@ text by position, lines, etc.
 ## Optical Character Recognition
 A non-trivial number of data sources are scanned documents, 
 i.e. images of each page, not PDF or Word documents.
-We developed an R package (RTesseract)[https://github.com/duncantl/Rtesseract] 
+We developed an R package [RTesseract](https://github.com/duncantl/Rtesseract) 
 to provide an interface to the tesseract OCR engine to enable us to extract this data. 
 The interface provides rich access to information about the recognized text,
 i.e., the words, the individual characters, their locations, the confidence in the recognition
@@ -79,6 +79,7 @@ StackOverflow data dump files.
 We developed code at (https://github.com/dsidavis/SAX2CSV) to enable this.
 
 ## Web Scraping Hadiths
+Information coming soon!
 
 ## Interfacing to HYDRUS1D Hydrodynamic Simulation Software
 
