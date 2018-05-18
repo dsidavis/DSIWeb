@@ -5,6 +5,7 @@ Where: DSI Classroom, 360 Shields Library
 Category: News
 Tags: Talk, Winter 2018, Un-seminar
 xnonews: true
+Expired: 3/06/2018
 slug:2018newsoverpackaging
 
 # This Un-Seminar has been re-scheduled for March 6, 2018.

@@ -5,6 +5,7 @@ Where: L.J. Andrews Conference Room (2203 SS&H)
 Category: News
 Tags: News, Course, Spring 2018
 xnonews: true
+Expired: 5/01/2018
 slug: 2018SpringISSProseminar
 
 # ISS Graduate Proseminar: [“Knowledge Discovery in Social Sciences: A data-mining approach”](http://www.iss.ucdavis.edu/impact/Proseminars/KDSS) 

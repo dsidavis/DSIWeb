@@ -1,4 +1,4 @@
-Title: DSI Info Session - Data Science Internships
+Title: DSI Info Session: Data Science Internships
 Date: 5/31/2018
 Time: 3-5 pm
 Where: DSI Classroom, 360 Shields Library
