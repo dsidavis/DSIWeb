@@ -14,6 +14,7 @@ This two-part workshop series led by Dr. Duncan Temple Lang aims to provide an o
 Prerequisites: This is a largely conceptual workshop, no specific programming skills are required.
 
 [Slides & Resources](https://github.com/dsidavis/SurveyStatML)
+
 [Recording](https://youtu.be/1DSio_Tv6Hc)
 
 [Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
