@@ -9,14 +9,17 @@ slug: 2018InternInfoSession
 
 # DSI Information Session: Navigating Data Science Internships for Graduate Students & Postdocs
 
-Graduate students and postdocs working in a data science field, or looking to pivot into data science, increasingly need a "portfolio" to highlight the diversity and depth of their skill sets. Internships can be a good way to achieve this, but how do you find and manage working on an internship why pursuing your higher degree (or postdoctoral work)? This info session at the UC Davis Data Science Initiative will feature a panel of graduate student and postdoctoral scholars who will talk about their industry and government internship and fellowship experiences. After the panel there will be time to meet with the panelists and additional invited guests in small groups to ask specific questions about their experiences.
+Graduate students and postdocs working in a data science field, or looking to pivot into data science, increasingly need a "portfolio" to highlight the diversity and depth of their skill sets. Internships can be a good way to achieve this, but how do you find and manage working on an internship while pursuing your higher degree (or postdoctoral work)? This info session at the UC Davis Data Science Initiative will feature a panel of graduate student and postdoctoral scholars who will talk about their industry and government internship and fellowship experiences. After the panel there will be time to meet with the panelists and additional invited guests in small groups to ask specific questions about their experiences.
 
-Preliminary Panelists/Table Chair list:
+Panelists/Table Chair list:
+
 * Robert Bassett, Math (National Security Agency, Sandia National Laboratories)
 * Clark Fitzgerald, Statistics (Climate Corporation; R Consortium; LuLus)
+* Cassandra Jacobs, Psychology (Stitch Fix)
+* Dana Iltis (Finance)
 * Eric Kalos-Kenyon, Statistics (Lawrence Livermore National Laboratory)
-* Hugo Mailhot, Computer Science
-* Ryan Philips, Neuroscience (Insight)
+* Hugo Mailhot, Computer Science (Delphia; WANTED Technologies)
+* Ryan Philips, Neuroscience (Insight; Remind)
 
 ### Topics covered may include:
 
