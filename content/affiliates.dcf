@@ -375,7 +375,7 @@ github:  tnelsen
 
 email: slnoah@ucdavis.edu
 name: Sean Noah
-url: osf.io/h5crj
+url: http://osf.io/h5crj
 location: Psychology
 title: Neural mechanisms of attention.
 desc: Sean studies the networks in the brain that control attention. Sean collects electroencephalography and functional magnetic resonance imaging data from human research participants while they perform various attention-intensive tasks, and uses signal processing, network analysis, and machine learning applications to model the underlying neural activity. Sean thinks that data science will be increasingly crucial to advancing neuroscience, especially as neural datasets grow rapidly in size and complexity.
@@ -390,7 +390,7 @@ desc: Jose (Pepe) is a geographer who specializes in remote sensing applications
 
 email: rpauloo@ucdavis.edu
 name:Rich Pauloo
-url: richpauloo.github.io
+url: https://richpauloo.github.io
 location: Hydrologic Science
 title: Numerical modeling of groundwater flow and contaminant transport.
 desc: Rich is a hydrologic scientist who studies how water management affects the sustainability of groundwater resources. In his research, Rich works with geospatial, chemical, timeseries, geophysical data, and enjoys dabbling in natural language processing on the side. He has made a few R Shiny apps, and is excited to learn more tools and techniques for modeling, visualizing and telling compelling stories with data. Rich primarily codes in R and git, and uses python on blue moons.
