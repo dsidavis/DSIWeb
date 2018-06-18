@@ -8,7 +8,7 @@ xnonews: true
 slug: 2018OCPDataSystemsAnalyst
 Expired: 2018-05-16
 
-# [Data Systems Analyst Job at UC Davis](www.employment.ucdavis.edu/applicants/Central?quickFind=79157)
+# [Data Systems Analyst Job at UC Davis](http://www.employment.ucdavis.edu/applicants/Central?quickFind=79157)
 
 The UC Davis Offices of the Chancellor and Provost (OCP) is hiring a full time Data Systems Analyst (title code Data Systems  Analyst II). The position is responsible for providing database analysis and development across a variety of platforms. 
 

@@ -48,9 +48,9 @@ See the directions at this [page]({filename}directions.md).
   <p style="font-size:18px; padding-left:15px" class='transparency'>
   Our classroom can seat around 40 participants. We organize seminars
   and host Data Science events. <br>
-  See <a href="./Calendar.html">our calendar </a>to find out if the classroom 
+  See <a href="calendar.html">our calendar </a>to find out if the classroom 
 	is occupied. <br>
-	<a href="Signup.html"
+	<a href="signup.html"
 		class="btn btn-primary btn-md" role="button" >
 		Subscribe to DSI news
 	 </a>

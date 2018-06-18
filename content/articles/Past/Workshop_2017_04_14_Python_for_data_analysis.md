@@ -14,7 +14,7 @@ popular Python packages for scientific computing followed by hands on
 activities using these tools to perform an end-to-end data analysis task.
 
 _Prerequisites: Come to the workshop with Python, pandas, and bokeh
-  installed and running on your laptop. We recommend [Anaconda](https://www.continuum.io/downloads]).
+  installed and running on your laptop. We recommend [Anaconda](https://www.continuum.io/downloads).
 
 + [Resources](https://github.com/clarkfitzg/python_april_2017)
 + [Video](https://www.youtube.com/edit?o=U&video_id=sxcUKfZSbb4)

@@ -8,7 +8,7 @@ xnonews: true
 slug: DSIStaff2018
 xExpired: 2018-09-01
 
-# [We're hiring a staff Data Scientist!](www.employment.ucdavis.edu/applicants/Central?quickFind=79482)
+# [We're hiring a staff Data Scientist!](http://www.employment.ucdavis.edu/applicants/Central?quickFind=79482)
 
 ### [Apply now!](http://www.employment.ucdavis.edu/applicants/Central?quickFind=79482)
 
