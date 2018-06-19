@@ -35,11 +35,11 @@ Dan's postdoc at the DSI focuses on data-driven academic institutional effective
 Hugo is a PhD student on Computer Science specialized in natural language processing. He's happy to discuss any NLP topic. He can also help with Python programming, interactive data analysis and development with Jupyter, and command line tools such as Git, Vim, Tmux, SSH, bash, and zsh.
 
 ### Wednesdays 11am-noon
-*__[Nick Bowden](nsbowden@ucdavis.edu)__:
+*__[Nick Bowden](mailto:nsbowden@ucdavis.edu)__:
 Nick is a PhD student in the Energy Graduate Group focusing on electric power system operations and economics. He works with R and Python to run cross-section, time series and panel data analysis with a focus on causal inference. He is using XML and web technologies like RCurl to pull information from html and pdf documents.
 
 ### Thursdays 5-6pm
-*__[Jared Joseph](jared.n.joseph@gmail.com)__: R, RStudio, Networks, Natural Language Processing
+*__[Jared Joseph](mailto:jared.n.joseph@gmail.com)__: R, RStudio, Networks, Natural Language Processing
 Jared is a Ph.D. student in sociology who studies crime, networks and political corruption. He is proficient in R (though has little experience with the tidyverse), and uses it for his own work on networks. He is familiar with the tools surrounding computational social sciences, including openRefine, Unix, git, parallel processing in R, APIs, and basic web scraping.	
 	
 ### Fridays 8:30-9:30am

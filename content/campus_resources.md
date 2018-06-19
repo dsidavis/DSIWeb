@@ -20,7 +20,7 @@ Know of a group not listed here? [Email us][] and we'll add it to our list.
 ### Service Groups
 
 * _[Data Management Program][]__
-Located in Shields Library, contact [Vessela Ensberg](mailto: vensberg@ucdavis.edu) for an appointment. See the DMP website for a list of their services. 
+Located in Shields Library, contact [Vessela Ensberg](mailto:vensberg@ucdavis.edu) for an appointment. See the DMP website for a list of their services. 
 
 *__[GIS Resources][]__
 Drop-in office hours Wednesdays 2-4pm in the Map Room, lower level Shields Library, or by appointment with GIS curator [Michele Tobias](mailto:mmtobias@ucdavis.edu). Aso, join the geospatial@ucdavis.edu [listserv][], and see the [Center for Spatial Sciences][].
@@ -49,7 +49,7 @@ Meet most Wednesdays 3:15-5:30pm @ Bennett Room in VetMed.
 Contact them to subscribe to their listserv to stay updated on topics and day/time changes.
 
 *__Google Earth Engine work group__
-Thursday 12pm in Wickson 2124. Contact [José Ochoa](mailto: jiocha@ucdavis.edu) for more information.
+Thursday 12pm in Wickson 2124. Contact [José Ochoa](mailto:jiocha@ucdavis.edu) for more information.
 
 [Davis R-Users Group]: https://d-rug.github.io/)
 [Data Management Program]: https://www.library.ucdavis.edu/service/data-management/

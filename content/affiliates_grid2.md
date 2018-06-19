@@ -172,7 +172,7 @@ Scott wants to learn advanced programming and the skills to work with challengin
 Nick's research involves using computational approaches to reveal the cellular and molecular mechanisms of cardiac arrhythmias. 
 He is working to apply in vivo and in silico data related to healthy and diseased cardiac function to the clinical setting.
 
-** [Zachary Harmany](http://drz.ac/)** (mailto: ztharmany@ucdavis.edu), project scientist in Biomedical Engineering
+** [Zachary Harmany](http://drz.ac/)** (mailto:ztharmany@ucdavis.edu), project scientist in Biomedical Engineering
 *Signal and image processing*
 Zach holds a PhD in Electrical and Computer Engineering, and is currently working at the Center for [Molecular and Genomic Imaging](http://bme.ucdavis.edu/cmgi/). He focuses on reconstructing and analyzing imaging data to answer questions in biomedical sciences. He has expertise in machine learning, and is proficient in programming languages and development tools including MATLAB, Python, C, Bash, LaTeX, Git, SVN.
 Zach wants to learn more about research activities on campus related to data science, different ways of thinking about data processing, and tools to perform collabporative science. 

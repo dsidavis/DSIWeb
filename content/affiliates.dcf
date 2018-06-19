@@ -9,8 +9,8 @@ desc: Jamie is interested in how demography and evolutionary change affect trait
 
 
 name: Andrew K. Bradshaw
-email: akbradshaw@!ucdavis.edu
-url: www.andrewnomy.com
+email: akbradshaw@ucdavis.edu
+url: http://www.andrewnomy.com
 location: Physics
 role: postdoc
 title: CCD Imaging Instrumentation and Deep Surveys of the Sky
@@ -167,7 +167,7 @@ desc: Nick's research involves using computational approaches to reveal the cell
  
 email: eestradaa@ucdavis.edu
 name: Eduardo Estrada
-url: (Lab) http://dynamics.ucdavis.edu/people.html
+url: http://dynamics.ucdavis.edu/people.html
 location: Psychology.
 title: Longitudinal and dynamic data analysis for behavioral and health sciences.
 desc: Eduardo is interested in  tools and techniques to study change. Specifically, he is interested in advancing statistical methods for characterizing developmental change in psychological constructs (such as cognitive abilities) over time. He is particularly interested in applications of dynamical systems and differential equations to psychology, and the study of change at the individual level. He conducts most of his analyses in R, applying various forms of general linear models and structural equation models.
@@ -375,7 +375,7 @@ github:  tnelsen
 
 email: slnoah@ucdavis.edu
 name: Sean Noah
-url: osf.io/h5crj
+url: http://osf.io/h5crj
 location: Psychology
 title: Neural mechanisms of attention.
 desc: Sean studies the networks in the brain that control attention. Sean collects electroencephalography and functional magnetic resonance imaging data from human research participants while they perform various attention-intensive tasks, and uses signal processing, network analysis, and machine learning applications to model the underlying neural activity. Sean thinks that data science will be increasingly crucial to advancing neuroscience, especially as neural datasets grow rapidly in size and complexity.
@@ -390,7 +390,7 @@ desc: Jose (Pepe) is a geographer who specializes in remote sensing applications
 
 email: rpauloo@ucdavis.edu
 name:Rich Pauloo
-url: richpauloo.github.io
+url: https://richpauloo.github.io
 location: Hydrologic Science
 title: Numerical modeling of groundwater flow and contaminant transport.
 desc: Rich is a hydrologic scientist who studies how water management affects the sustainability of groundwater resources. In his research, Rich works with geospatial, chemical, timeseries, geophysical data, and enjoys dabbling in natural language processing on the side. He has made a few R Shiny apps, and is excited to learn more tools and techniques for modeling, visualizing and telling compelling stories with data. Rich primarily codes in R and git, and uses python on blue moons.
@@ -568,7 +568,7 @@ desc: Ken is developing new methods to work with infinitely dimensional function
 
 email: mrweeks@ucdavis.edu
 name: Madeline Weeks
-url: http://geography.ucdavis.edu/student/madeline-weeks
+url: http://geography.ucdavis.edu/people/madeline-weeks
 location: Geography
 title: Geographies of fine flavor cacao and chocolate sourcing, farmer livelihoods, gender equity.
 desc: Madeline uses mixed-methods including household surveys, network analysis, and qualitative interviews to cross-validate and synthesize different forms of data that can be applied to sustainability metrics and impact reporting. She hopes to bring her knowledge of small data into the big data world with an understanding of how to combine local with global measures. 
@@ -588,5 +588,4 @@ name:  Sivan Yair
 url: https://cpb.ucdavis.edu
 location: Population Biology
 title: Population genomic theory and method development to characterize cases of introgression in natural systems.
-desc: Sivan develops statistical models and analyzes genomic data to address questions in population genetics theory and methodology including the strength and timing of selection, history of admixture, and context in which beneficial alleles successfully introgress. Sivan primarily works with R and shell.
- Sivan is interested in learning more efficient coding techniques, computational statistics, data visualization, new programming languages, and data science applications in other fields.
+desc: Sivan develops statistical models and analyzes genomic data to address questions in population genetics theory and methodology including the strength and timing of selection, history of admixture, and context in which beneficial alleles successfully introgress. Sivan primarily works with R and shell. Sivan is interested in learning more efficient coding techniques, computational statistics, data visualization, new programming languages, and data science applications in other fields.

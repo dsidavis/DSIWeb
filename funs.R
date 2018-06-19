@@ -11,7 +11,7 @@ function(x)
 
     img = sprintf('<img src="%s" title="%s"></img>', imgName, email)
 
-    line = gsub("(\\(mailto:[^)]+\\))", sprintf('<a href="%s"><img src="images/email1600.png" class="emailIcon"></a>', email), x)   
+    line = gsub("(\\(mailto:[^)]+\\))", sprintf('<a href="mailto:%s"><img src="images/email1600.png" class="emailIcon"></a>', email), x)   
 
     c(img, line)
 }
@@ -43,7 +43,7 @@ mkDCFAffiliates =
 function(file = "affiliates.dcf", data = read.dcf(file, all = TRUE))
 {
    data[] = lapply(data, trim)    
-   sapply(1:nrow(data), function(i)mkAffiliate(data[i,]))
+   sapply(1:nrow(data), function(i)  mkAffiliate(data[i,]))
 }
 
 trim = 
@@ -55,7 +55,7 @@ function(i)
 {
 
     img = sprintf('<img src="%s" title="%s"></img>', getImage(i$name, i$photo), i$email)
-    email = sprintf('<a href="%s"><img src="images/email400.png" class="emailIcon"></img></a>', i$email)
+    email = sprintf('<a href="mailto:%s"><img src="images/email400.png" class="emailIcon"></img></a>', i$email)
     c(img,
       email,
       sprintf('<a href="%s">%s</a>', i$url, i$name),

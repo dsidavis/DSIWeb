@@ -106,7 +106,7 @@ and on our [mailing list](http://dsi.ucdavis.edu/signup.html). Our most recent c
  
 * __L2 Spanish Learners__
   <br/>
-  [Dr. Claudia Sánchez-Gutiérrez](https://spanish.ucdavis.edu/en/people/profile/2585), Department of Spanish and Portuguese
+  [Dr. Claudia Sánchez-Gutiérrez](https://spanish.ucdavis.edu/people/claudia-sanchez-gutierrez), Department of Spanish and Portuguese
   <br/>
   What specific vsual and auditory input do learners receive when learning a
   new language, and how does it relate to language acquisition? The DSI is

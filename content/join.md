@@ -24,7 +24,7 @@ We seek to bring together domain and methodological experts across the universit
 
 ### Visiting Scholars
 
-On a competitive basis, space is available for visiting researchers who would like to engage with the DSI. Interested individuals from both on and off campus should [contact us](mailto: datascience@ucdavis.edu).
+On a competitive basis, space is available for visiting researchers who would like to engage with the DSI. Interested individuals from both on and off campus should [contact us](mailto:datascience@ucdavis.edu).
 
 # Events
 The DSI sponsors seminars, trainings and social events. View our [news](annoucements.md) page and [calendar] to see our upcoming and past activities.

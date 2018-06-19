@@ -6,6 +6,17 @@ All the variables listed in this file are available to the HTML template files
 using Jinja2 syntax.
 """
 
+from datetime import timedelta
+
+def Yesterday(time):
+    return time - datetime.timedelta(1)
+
+#from jinja2 import Environment
+#env = Environment()
+#env.globals['Yesterday'] = Yesterday
+#Environment.filters['Yesterday'] = Yesterday
+
+
 # File Locations
 # ----------------------------------------
 # Where to find content files (markdown, html, ...):

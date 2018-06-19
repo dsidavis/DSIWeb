@@ -6,7 +6,7 @@ Author: DSI UC Davis
 * Director: __[Duncan Temple Lang](http://www.stat.ucdavis.edu/~duncan)__  (Professor, Statistics)
 * Associate Director for Humanities: __[Carl Stahmer](http://www.carlstahmer.com/)__   (Director of Digital Scholarship, UC Davis Library)
 * Associate Director for Health Sciences: __[Nick Anderson](http://www.ucdmc.ucdavis.edu/publish/providerbio/search/11634)__  (Associate Professor, School of Medicine)
-* Academic Coordinator: __[Pamela Reynolds](mailto: plreynolds@ucdavis.edu)__
+* Academic Coordinator: __[Pamela Reynolds](mailto:plreynolds@ucdavis.edu)__
 
 
 # Postdoctoral Scholars

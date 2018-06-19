@@ -23,7 +23,7 @@ These seminars are fun, enlightening, highly multidisciplinary, thought-provokin
  
 ## Got (data) problems? *Come give a talk!*
 
- Stuck on a research problem you just can’t figure out? Feel like you're trying to reinvent the wheel? Have a complex research question you don't know how to tackle but think that the tools must be out there, somewhere? Want to "talk it out" with an open group of researchers and gain new perspectives on your research? Consider applying to be a speaker at our Problem Solving with Data Science un-seminar series. This un-seminar flips the traditional seminar upside down with up to 15 minutes of presentation of a research problem followed by 45 minutes of discussion. You may just leave with more answers, and more questions, to pursue! All members of the UC Davis research community (faculty, graduate students, postdocs, staff scientists) are invited to apply to give a seminar. For more information, [contact us](mailto: datascience@ucdavis.edu).
+ Stuck on a research problem you just can’t figure out? Feel like you're trying to reinvent the wheel? Have a complex research question you don't know how to tackle but think that the tools must be out there, somewhere? Want to "talk it out" with an open group of researchers and gain new perspectives on your research? Consider applying to be a speaker at our Problem Solving with Data Science un-seminar series. This un-seminar flips the traditional seminar upside down with up to 15 minutes of presentation of a research problem followed by 45 minutes of discussion. You may just leave with more answers, and more questions, to pursue! All members of the UC Davis research community (faculty, graduate students, postdocs, staff scientists) are invited to apply to give a seminar. For more information, [contact us](mailto:datascience@ucdavis.edu).
 
  
 *Guidelines for Presenters*
@@ -51,7 +51,7 @@ You should:
 * Detail any possible solutions you have considered and your known constraints.
 * Try to identify and address possible questions the audience may raise that are not really relevant in order to keep the discussion focused on what is useful for you. 
  
-To reserve a spot in the upcoming Problem Solving with Data Science series, [send us](mailto: datascience@ucdavis.edu) a title for your seminar and brief paragraph (abstract) of your problem with 2-3 photos. Please also list several specific keywords that will help grab the attention of members of the data science community and help us advertise your talk (examples: machine learning, remote sensing, GIS, visualization, sampling design, Python, etc.).
+To reserve a spot in the upcoming Problem Solving with Data Science series, [send us](mailto:datascience@ucdavis.edu) a title for your seminar and brief paragraph (abstract) of your problem with 2-3 photos. Please also list several specific keywords that will help grab the attention of members of the data science community and help us advertise your talk (examples: machine learning, remote sensing, GIS, visualization, sampling design, Python, etc.).
  
 **A few examples of previous un-seminars:**
 

@@ -50,4 +50,4 @@ end, we are developing mini-courses and offer workshops (short seminars, half to
 modules) that complement the material taught in regular courses, provide
 hands-on applications, and present cutting-edge new topics and under development techniques.
 Workshop topics depend on the needs of our Data Science community and available
-expertise. Workshops are announced here and on our [listserv](signup.md). For a list of prior workshops and associated resources (videos, slides, repositories), see our (workshops page)[http://dsi.ucdavis.edu/workshops.html].
+expertise. Workshops are announced here and on our [listserv](signup.html). For a list of prior workshops and associated resources (videos, slides, repositories), see our (workshops page)[http://dsi.ucdavis.edu/workshops.html].

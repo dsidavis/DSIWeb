@@ -34,4 +34,4 @@ This event is for graduate students and postdocs at UC Davis. Seats are limited,
 
 ### [Click here for the registration application](https://goo.gl/forms/gceRpha4ypwcE4wg1)
 
-Questions? [Contact us](plreynolds@ucdavis.edu)
+Questions? [Contact us](mailto:plreynolds@ucdavis.edu)
