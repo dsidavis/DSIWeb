@@ -5,7 +5,7 @@ Day: Mon
 Time: 1-3pm
 Tags: Office Hours
 Date: 2018-01-29
-Status: draft
+Status: 
 nonews: true
 
 # DSI Postdoc Office Hours
