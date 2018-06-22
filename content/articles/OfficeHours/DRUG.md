@@ -1,5 +1,5 @@
 Title: Drop-in Work Session - Davis R Users Group
-Who: Davis R Users Group (D-RUG)
+Who: R Users Group (D-RUG)
 Where: 360 Shields Library
 Day: Mon
 Time: 10-12pm

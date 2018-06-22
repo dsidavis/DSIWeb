@@ -1,5 +1,5 @@
 Title: Office Hours for GIS
-Who: GIS (DMP)
+Who: Library's GIS (DMP)
 Where: Shields Map Room
 Day: Wed
 Time: 2-4pm

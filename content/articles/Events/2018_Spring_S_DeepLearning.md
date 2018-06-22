@@ -16,4 +16,6 @@ Abstract: Deep Learning has revolutionized the fields of computer vision, speech
 About:
 [Prabhat](http://www.nersc.gov/about/nersc-staff/data-analytics-services/prabhat/) leads the Data and Analytics Services team at NERSC. His current research interests include scientific data management, parallel I/O, high performance computing and scientific visualization. He is also interested in applied statistics, machine learning, computer graphics and computer vision. Prabhat received an ScM in Computer Science from Brown University (2001) and a B.Tech in Computer Science and Engineering from IIT-Delhi (1999). He is currently pursuing a PhD in the Earth and Planetary Sciences Department at U.C. Berkeley.
 
+[RECORDING](https://www.youtube.com/watch?v=o6gULMFtmlI&feature=youtu.be)
+
 [Register](https://forms.library.ucdavis.edu/classes/register.php?classid=2337)

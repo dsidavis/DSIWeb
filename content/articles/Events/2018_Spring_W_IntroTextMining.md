@@ -35,6 +35,5 @@ Prerequisites: Beginner R skills and working R environment with the following pa
 * rJava (Note: rJava can be tricky to install. Come to [Office Hours](http://dsi.ucdavis.edu/office_hours.html) prior to the workshop if you need help getting it running. For Windows, if you are having errors calling rJava and are on windows 64-bit machine, check that you have the latest version of R and the [64-bit version of Java installed](https://www.java.com/en/download/manual.jsp) as well as the 32-bit version. Then re-install the rJava package and load that library.)
 
 [Repository with R scripts and data files](https://github.com/cstahmer/text_mining_with_r)
-[Video](https://youtu.be/6I3OjePTG2U)
 
 [Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
