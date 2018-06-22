@@ -68,7 +68,7 @@ email: chuah@ece.ucdavis.edu
 url: http://faculty.engineering.ucdavis.edu/chuah/
 location: Electrical & Computer Engineering.
 role: Professor
-desc: Professor Chuah studies communications and computer networks, and wireless/mobie computing. Her research focuses on internet measurement and network management, data acquisition (e.g., sampling, streaming, online learning), data analytics (e.g., anomaly detection), routing & traffic engineering, and software defined networks. She is interested in collaborative, interdisciplinary research approaches applying data science to emerging societal-scale applications including massive online social platforms, intelligent transportation systems, and digital health.
+desc: Professor Chuah studies communications and computer networks, and wireless/mobie computing. Her research focuses on internet measurement and network management, data acquisition (e.g., sampling, streaming, online learning), data analytics (e.g., anomaly detection), routing & traffic engineering, and software defined networks. She is interested in collaborative, interdisciplinary research approaches applying data science to emerging societal-scale applications including massive online social platforms, intelligent transportation systems, and digital health. She teaches EEC274 (Internet Measurements, Modeling, and Analysis).
 
 
 name: Jim Crutchfield
@@ -76,7 +76,7 @@ email: crutchfield@ucdavis.edu
 url: http://physics.ucdavis.edu/people/faculty/james-crutchfield
 location: Physics.
 role: Professor
-desc: Professor Crutchfield's research focuses on nonlinear dynamics, condensed matter physics, physics of computation, evolutionary dynamics, pattern discovery, dynamics of learning, and distributed robotics. He is a faculty memeber of the [Complexity Science Center](http://csc.ucdavis.edu/Welcome.html).
+desc: Professor Crutchfield's research focuses on nonlinear dynamics, condensed matter physics, physics of computation, evolutionary dynamics, pattern discovery, dynamics of learning, and distributed robotics. He is a faculty memeber of the [Complexity Science Center](http://csc.ucdavis.edu/Welcome.html). He teaches Physics 256A (Physics of Information) and Physics 256B (Physics of Computation).
 
 
 email: pdodd@ucdavis.edu
@@ -108,7 +108,7 @@ email: eferrer@ucdavis.edu
 url: http://psychology.ucdavis.edu/people/eferrer
 location: Psychology.
 role: Professor
-desc: Professor Ferer is he is interested in how intra-individual dynamical information can be retained and used to explain inter-individual differences across a population. He is interested in methods deveopment and applications of of latent growth analysis and linear and nonlinear dynamical systems. In his Dynamics in Psychological Science Lab, he models dyadic interactions and multivariate processes associated wth reasoning and reading achievement from childhood to adolescence. Professor Ferrer is also a member of the Graduate Group in Biostatistics and an affiliate at the Center for Mind and Brain.
+desc: Professor Ferer is he is interested in how intra-individual dynamical information can be retained and used to explain inter-individual differences across a population. He is interested in methods deveopment and applications of of latent growth analysis and linear and nonlinear dynamical systems. In his Dynamics in Psychological Science Lab, he models dyadic interactions and multivariate processes associated wth reasoning and reading achievement from childhood to adolescence. Professor Ferrer is also a member of the Graduate Group in Biostatistics and an affiliate at the Center for Mind and Brain. He teaches psychology courses on statistics, longitudinal data analysis, and applied multivariate statistics.
 
 
 name: Ryan Finnigan
@@ -132,7 +132,7 @@ email: dfox@ucdavis.edu
 url: http://foxlab.ucdavis.edu/
 location: Psychology.
 role: Assistant Professor
-desc: Professor Fox studies the neuroscience of social and emotional behavior in humans and non-human primates with a focus on emotional and social decision-making. He uses Python in his teaching and runs an informal Python Users Group through the DSI.
+desc: Professor Fox studies the neuroscience of social and emotional behavior in humans and non-human primates with a focus on emotional and social decision-making. He uses Python in his teaching and runs an informal Python Users Group through the DSI. He teaches PSC 290 (Introduction to scientific programming for psychology).
 
 
 name: James Griesemer
@@ -148,7 +148,7 @@ email: jdherman@ucdavis.edu
 url: https://herman.ucdavis.edu/
 location: Civil & Environmental Engineering.
 role: Assistant Professor
-desc: Professor Herman's research focuses on water resources planning and management. His research goal is to improve computational methods for simulation and optimization of water resources systems, including climate adaptation planning under uncertainty, multi-objective reservoir control, and parameter sensitivity in flood and drought prediction. 
+desc: Professor Herman's research focuses on water resources planning and management. His research goal is to improve computational methods for simulation and optimization of water resources systems, including climate adaptation planning under uncertainty, multi-objective reservoir control, and parameter sensitivity in flood and drought prediction. He teaches ECI 273 (Water Resources Systems Engineering), which covers elements of web scraping, data cleaning and visualization with Python.
 
 
 name: Jacbo Hibel
@@ -156,14 +156,23 @@ email: jhibel@ucdavis.edu
 url: https://jhibel.faculty.ucdavis.edu/
 location: Sociology.
 role: Associate Professor
-desc: Professor Hibel uses sociological and demographic approaches to study the sources and implications of educational stratification. His research focuses on: special education inequalities, immigration and educational inequality, school readiness and early educational stratification, and education expansion and social change in contemporary China. He is working with the DSI on a collaborative project to extract data from California Local Control and Accountability Plans (LCAPs), a state-wide reporting tool that seeks to improve student outcomes.
+desc: Professor Hibel uses sociological and demographic approaches to study the sources and implications of educational stratification. His research focuses on: special education inequalities, immigration and educational inequality, school readiness and early educational stratification, and education expansion and social change in contemporary China. He is working with the DSI on a collaborative project to extract data from California Local Control and Accountability Plans (LCAPs), a state-wide reporting tool that seeks to improve student outcomes. He teaches SOC 106 (Intermediate Social Statistics) and SOC206 (Quantitative Data Analysis).
+
+
+
+name: Martin Hilbert
+email: hilbert@ucdavis.edu
+url: http://www.martinhilbert.net
+location: Communication.
+role: Associate Professor
+desc: Professor Hilbert studies the role of information, communication, and knowledge in the development of complex social systems. He teaches CMN150V (Computational Social Science graduate course on data science). 
 
 
 name: Robert Hijmans
 email: rhijmans@ucdavis.edu
 url: http://biogeo.ucdavis.edu/
 location: Environmental Science & Policy.
-role: Professor Hijmans studies international agricultural development and human health. He is particularly interested in the role of biodiversity in agriculture, and in climate change. He specializes in spatial analysis, ecological modeling and geo-informatics, and teaches a spatial data analysis and modeling course in geography. He is author of [raster](https://cran.r-project.org/web/packages/raster/), [dismo](https://cran.r-project.org/web/packages/dismo/), and [geosphere](https://cran.r-project.org/web/packages/geosphere/) packages in R.
+role: Professor Hijmans studies international agricultural development and human health. He is particularly interested in the role of biodiversity in agriculture, and in climate change. He specializes in spatial analysis, ecological modeling and geo-informatics, and teaches a spatial data analysis and modeling courses including GEO 200CN, ABT182, and ABT181N. He is author of [raster](https://cran.r-project.org/web/packages/raster/), [dismo](https://cran.r-project.org/web/packages/dismo/), and [geosphere](https://cran.r-project.org/web/packages/geosphere/) packages in R.
 
 
 name: Marcel Holyoak
@@ -221,12 +230,20 @@ role: Associate Professor
 desc: Professor Latimer studies plant ecological and evolutionary responses to environmental disturbance and variation. His core research interests include forest and grassland responses to climate change, fire and drought. He uses field and satellite data to model and predict environmental impacts at the trees and landscape level.
 
 
+name: Tim Lenoir
+email: lenoir@ucdavis.edu
+url: http://sts.ucdavis.edu/people/lenoir
+location: Science & Technology Studies, and Cinema & Digital Media
+role: Professor
+desc: Professor Lenoir studies the history of biomedicine, particularly on areas related to the impact of of computer technologies such as bioinformatics, robotics and artificial intelligence on contemporary biomedicine. He is interested in how federal programs and university-industry collaborations stimulate innovation in science, technology and medicine. 
+
+
 name: Siwei Liu
 email: sweliu@ucdavis.edu
 url: https://siweiliu.weebly.com/index.html
 location: Human Development & Family Studies.
 role: Assistant Professor
-desc: Professor Liu conducts research on statistical methods for analyzing intensive longitudinal data, in particular in the frameworks of multilevel modeling, structural equation modeling, time series analysis, and functional data analysis. Her research involves techniques for modeling synchrony and coregulatory processes in close relationships (e.g., parent-child, couples), and the applications of intensive longitudinal methods in health-related research (e.g., stress, physical activity, sleep). 
+desc: Professor Liu conducts research on statistical methods for analyzing intensive longitudinal data, in particular in the frameworks of multilevel modeling, structural equation modeling, time series analysis, and functional data analysis. Her research involves techniques for modeling synchrony and coregulatory processes in close relationships (e.g., parent-child, couples), and the applications of intensive longitudinal methods in health-related research (e.g., stress, physical activity, sleep). She has taught a course on Longitudinal Data Analysis in the Human Development Department.
 
 
 name: Frank Loge
@@ -243,6 +260,14 @@ url: http://www.des.ucdavis.edu/faculty/lubell/
 location: Environmental Science & Policy
 role: Professor
 desc: Professor Lubell studies cooperation problems and decision-making in environmental, agricultural, and public policy. His research topics include include water management, sustainable agriculture, adaptive decision-making, climate change policy, local government policy, transportation behavior, plant disease management, invasive species, and policy/social network analysis. In addition to field surveys he also uses simulations and behaivoral experiments to study cooperation. 
+
+
+name: Emily Merchant
+email: ekmerchant@ucdavis.edu
+url: http://www.emilyklancher.com
+location: Science & Technology Studies
+role: Assistant Professor
+desc: Professor Merchant is a historian of science, technology, and medicine. Her research combines methods of close and distant (algorithmic) reading of archival documents, oral history interviews, and published sources with approaches drawn from history, science and technology studies, the digital humanities, and the quantitative social sciences. She teaches an undergraduate course on Visualizing Society with Data, and a graduate leve course on using R for text analyses and mapping.
 
 
 name: Prasant Mohapatra
@@ -282,7 +307,7 @@ email: saito@math.ucdavis.edu
 url: https://www.math.ucdavis.edu/~saito/
 location: Mathematics.
 role: Professor
-desc: Professor Saito's research interests include topics including applied and computational harmonic analysis, statistical signal/image processing and analysis, feature extraction, pattern classification and recognition, and data compression. 
+desc: Professor Saito's research interests include topics including applied and computational harmonic analysis, statistical signal/image processing and analysis, feature extraction, pattern classification and recognition, and data compression. He teaches MAT 167 (Applied Linear Algebra), MAT 271 (Applied & Computational Harmonic Analysis), and MAT 280 (topics including: Harmonic Analysis on Graphs & Networks; Laplacian Eigenfunctions: Theory, Applications, and Computations)
 
 
 name: Jim Sanchirico
@@ -314,7 +339,7 @@ email: jsharpna@ucdavis.edu
 url: https://jsharpna.github.io/
 location: Statistics.
 role: Assistant Professor
-desc: Professor Sharpnack develops and studies computationally efficient statistical methodology for understanding complex phenomena in large datasets. He holds a PhD  in Machine Learning and Statistics from Carnegie Mellon University. Courses he teaches include Data & Web Technologies for Data Analysis (STA 141B) and Statistical Machine Learning (STA 208).
+desc: Professor Sharpnack develops and studies computationally efficient statistical methodology for understanding complex phenomena in large datasets. He holds a PhD  in Machine Learning and Statistics from Carnegie Mellon University. Courses he teaches include STA 141B (Data & Web Technologies for Data Analysis), STA 208 (Statistical Machine Learning), and STA 131A (Introduction to Probability Theory).
 
 
 name: Kim Shauman
@@ -322,7 +347,7 @@ email: kashauman@ucdavis.edu
 url: http://sociology.ucdavis.edu/people/kashauma
 location: Sociology.
 role: Professor
-desc: Professor Shauman's research focuses on social stratification, social demography, and family, kinship and gender. She is leading a collaborative project with the DSI to explore biases in UC hiring practices.
+desc: Professor Shauman's research focuses on social stratification, social demography, and family, kinship and gender. She is leading a collaborative project with the DSI to explore biases in UC hiring practices. She teaches quantitative methods classes in the Sociology Department.
 
 
 name: Chris Smith
@@ -330,7 +355,7 @@ email: chmsmith@ucdavis.edu
 url: https://chrismsmithsociology.wordpress.com
 location: Sociology.
 role: Assistant Professor
-desc: Professor Smith studies inequality in crime, criminal relationships, and criminal organizations. Her research specializations also include feminist criminology, historical research methods, police violence, sociology of gender, urban sociology, and social network analysis. 
+desc: Professor Smith studies inequality in crime, criminal relationships, and criminal organizations. Her research specializations also include feminist criminology, historical research methods, police violence, sociology of gender, urban sociology, and social network analysis. She has taught SOC 298 (Social Network Analysis for Social Scientists).
 
 
 name:  Mairaj Syed
@@ -338,7 +363,7 @@ email: msyed@ucdavis.edu
 url: http://mairajsyed.academia.edu/
 role: Associate Professor
 location: Religious Studies.
-desc: Professor Syed's research explores the history of Islamic legal and ethical thought, particularly areas dealing with public law, family law, and politics. He is also interested in the development of hadith literature and the social network that transmitted and preserved it in the first 250 years of Islamic history. He led a collaborative project with the DSI focused on accurate dating of hadiths.
+desc: Professor Syed's research explores the history of Islamic legal and ethical thought, particularly areas dealing with public law, family law, and politics. He is also interested in the development of hadith literature and the social network that transmitted and preserved it in the first 250 years of Islamic history. He led a collaborative project with the DSI focused on accurate dating of hadiths. He has taught RST 130 (Hadith, Social Networks, and Computational Analyses).
 
 
 name:  Tony Tyson
@@ -349,10 +374,20 @@ location: Physics.
 desc: Professor Tyson is an experimental physicist with research in cosmology including dark matter distribution, gravitational lens effects, cosmic shear, the nature of dark energy, and instrumentation for optical astronomy. He pioneered the field of weak gravitational lensing, and dark energy was discovered using one of his wide field CCD cameras. Prior to coming to UC Davis he worked in the physics division at Bell Labs.
 
 
+name: Jiayi Young
+email: jdyoung@ucdavis.edu
+url: https://www.jiayiyoung.info/
+role: Assistant Professor
+location: Design.
+desc: She teaches DES37 (Coding for Designers), which includes data visualization and generative design.
+
+
 name: Zhou Yu 俞舟
 email: joyu@ucdavis.edu
 url: http://www.cs.cmu.edu/~zhouyu/
 role: Assistant Professor
 location: Computer Science.
-desc: Professor Yu designs algorithms for real-time intelligent interactive systems that coordinate with user actions that are beyond spoken languages, including non-verbal behaviors to achieve effective and natural communications. In particular, her research focuses on ptimizing human-machine communication via studies of multimodal sensing and analysis, speech and natural language processing, machine learning and human-computer interaction. 
+desc: Professor Yu designs algorithms for real-time intelligent interactive systems that coordinate with user actions that are beyond spoken languages, including non-verbal behaviors to achieve effective and natural communications. In particular, her research focuses on ptimizing human-machine communication via studies of multimodal sensing and analysis, speech and natural language processing, machine learning and human-computer interaction. She teaches special topics in AI courses through the Departmnet of Computer Science.
+
+
 
