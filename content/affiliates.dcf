@@ -8,7 +8,7 @@ title: Evolution and ecology of population dynamics under environmental change.
 desc: Jamie is interested in how demography and evolutionary change affect traits and plastic responses of wild populations. Jamie blends theoretical modeling with computation, and develops software to confront theoretical models with heterogeneous data (e.g., trajectories of population abundance and trait values, diversity statistics calculated from genomic data). For his postdoctoral work he is developing methodology for using genomic data to inform demographic models of the desert tortoise to predict the effects development in the Mojave desert on its population viability. Jamie uses R for visualization, and python and C++ for simulations and statistical methods. Jamie is a Software Carpentry instructor. Jamie seeks to share his knowledge and learn about new tools and approaches, especially data engineering and the use of functional programming paradigms in data science.
 
 
-name: Andrew K. Bradshaw
+name: Andrew Bradshaw
 email: akbradshaw@ucdavis.edu
 url: http://www.andrewnomy.com
 location: Physics
@@ -247,6 +247,17 @@ location: Computer Science
 title: Genomic sequencing data, decentralized data sharing, computational skills.
 desc: Luiz is developing methods for biological data analysis in Python and C++ using Jupyter notebooks; pipelines with Spark, Dask and snakemake; and data distribution using IPFS and dat. Luiz wants to collaborate with researchers from other areas to find common methods and share experiences.
 
+  
+email: sismail@ucdavis.edu
+name: Shaikh Mohammed Ismail
+photo: ShaikhIsmail
+url: http://shaikhismail.github.io
+location: Computer Science.
+title: Is software code a natural language?.
+desc: Ismail is studying how similar software source codes written by humans are to the natural language text. 
+ He is exploring the advancements of deep learning in the field of computer vision and applying it to his research.
+ He wants to learn all the cool things my other colleagues at DSI can offer. On a technical level, Ismail wants to get involved in open source development in Artificial Intelligence/Deep learning.
+
  
 email: jnjoseph@ucdavis.edu
 name: Jared Joseph
@@ -296,6 +307,7 @@ desc: Melissa has worked with terrestrial plants, ants, birds, and fungi, and no
 
 email: hpheasant@ucdavis.edu
 name: HannahJoy Kennedy
+photo: HannahJoyKennedy
 location: Weed Science / IAD
 title: Weed vs. crop differentiation using crop marking systems. 
 desc: HannahJoy is an engineer who's thesis research is on using robots for weeding commercial vegetable fields. HannahJoy is interested in visual communication of data such as interactive maps.
@@ -353,17 +365,6 @@ desc: Currently, Jeffrey is using gene expression and quantitative genomics to d
 github: jthmiller
 
 
-email: sismail@ucdavis.edu
-name: Shaikh Mohammed Ismail
-photo: ShaikhIsmail
-url: http://shaikhismail.github.io
-location: Computer Science.
-title: Is software code a natural language?.
-desc: Ismail is studying how similar software source codes written by humans are to the natural language text. 
- He is exploring the advancements of deep learning in the field of computer vision and applying it to his research.
- He wants to learn all the cool things my other colleagues at DSI can offer. On a technical level, Ismail wants to get involved in open source development in Artificial Intelligence/Deep learning.
-
-
 email: tsnelsen@ucdavis.edu
 name: Taylor Nelsen
 url: https://tnelsen.github.io/
@@ -379,6 +380,7 @@ url: http://osf.io/h5crj
 location: Psychology
 title: Neural mechanisms of attention.
 desc: Sean studies the networks in the brain that control attention. Sean collects electroencephalography and functional magnetic resonance imaging data from human research participants while they perform various attention-intensive tasks, and uses signal processing, network analysis, and machine learning applications to model the underlying neural activity. Sean thinks that data science will be increasingly crucial to advancing neuroscience, especially as neural datasets grow rapidly in size and complexity.
+
 
 email: jiochoa@ucdavis.edu
 name: Jose Ochoa
