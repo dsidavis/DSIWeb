@@ -57,6 +57,7 @@ desc: The Brown lab focuses on genomic, transcriptomic, and metagenomic sequence
 
 name: Colin Cameron
 email: accameron@ucdavis.edu
+photo: Colin_Cameron
 url: http://cameron.econ.ucdavis.edu/
 location: Economics.
 role: Professor of Economics
@@ -144,7 +145,7 @@ role: Professor
 desc: Professor Griesemer's primary interests are philosophical, historical, and social understanding of the biological sciences, especially evolutionary biology, genetics, developmental biology, ecology and systematics. He is also a member of the [Science and Technology Studies Program](http://sts.ucdavis.edu/).
 
 
-name: Joathan Herman
+name: Jonathan Herman
 email: jdherman@ucdavis.edu
 url: https://herman.ucdavis.edu/
 location: Civil & Environmental Engineering.
@@ -152,7 +153,7 @@ role: Assistant Professor
 desc: Professor Herman's research focuses on water resources planning and management. His research goal is to improve computational methods for simulation and optimization of water resources systems, including climate adaptation planning under uncertainty, multi-objective reservoir control, and parameter sensitivity in flood and drought prediction. He teaches ECI 273 (Water Resources Systems Engineering), which covers elements of web scraping, data cleaning and visualization with Python.
 
 
-name: Jacbo Hibel
+name: Jacob Hibel
 email: jhibel@ucdavis.edu
 url: https://jhibel.faculty.ucdavis.edu/
 location: Sociology.
@@ -184,6 +185,7 @@ role: Professor Holyoak's research focuses on questions about the importance of 
 
 
 name: Benjamin Houlton
+photo: BenHoulton
 email: bzhoulton@ucdavis.edu
 url: https://www.bzhoulton.com/
 location: JMIE.
