@@ -131,7 +131,7 @@ Coming soon!
 ### Fall 2016
  * [Evolutionary Algorithms](Courses/Fall2016/eci289I-announcement.pdf), Herman
  * [Topology of Data](Courses/Fall2016/DataTopology.txt), Tsuruga
- * [Modern tools for data collection, management and analysis](Courses/Fall2016/dataCollectinAndManagement.pdf), Caillaud
+ * [Modern tools for data collection, management and analysis](Courses/Fall2016/dataCollectionAndManagement.pdf), Caillaud
  
 ### Spring 2016
 * [ECS 253/MAE 253](http://mae.engr.ucdavis.edu/dsouza/ecs253): Network Theory, D'Souza
