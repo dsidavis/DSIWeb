@@ -50,7 +50,7 @@ save_as: index.html
   <div class="col-sm-6 text-center">
     <h1><span class="glyphicon glyphicon-random"></span></h1>
 		<h4>Interdisciplinary Collaborations</h4>
-		<a href="pages/main/collaboration.html"
+		<a href="collaboration.html"
 		 class="btn btn-primary btn-md" role="button">Propose Projects</a>
 	</div>
 </div>
