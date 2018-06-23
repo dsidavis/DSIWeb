@@ -64,6 +64,7 @@ desc: Professor Cameron’s research speciality is economic theory and microecon
 
 
 name: Chen-nee Chuah
+photo: ChenNeeChuah
 email: chuah@ece.ucdavis.edu
 url: http://faculty.engineering.ucdavis.edu/chuah/
 location: Electrical & Computer Engineering.
@@ -71,7 +72,7 @@ role: Professor
 desc: Professor Chuah studies communications and computer networks, and wireless/mobie computing. Her research focuses on internet measurement and network management, data acquisition (e.g., sampling, streaming, online learning), data analytics (e.g., anomaly detection), routing & traffic engineering, and software defined networks. She is interested in collaborative, interdisciplinary research approaches applying data science to emerging societal-scale applications including massive online social platforms, intelligent transportation systems, and digital health. She teaches EEC274 (Internet Measurements, Modeling, and Analysis).
 
 
-name: Jim Crutchfield
+name: James Crutchfield
 email: crutchfield@ucdavis.edu
 url: http://physics.ucdavis.edu/people/faculty/james-crutchfield
 location: Physics.
@@ -143,7 +144,7 @@ role: Professor
 desc: Professor Griesemer's primary interests are philosophical, historical, and social understanding of the biological sciences, especially evolutionary biology, genetics, developmental biology, ecology and systematics. He is also a member of the [Science and Technology Studies Program](http://sts.ucdavis.edu/).
 
 
-name: John Herman
+name: Joathan Herman
 email: jdherman@ucdavis.edu
 url: https://herman.ucdavis.edu/
 location: Civil & Environmental Engineering.
@@ -191,6 +192,7 @@ desc: Professor Houlton’s research interests include ecosystem processes, clim
 
 
 name: Ryan Hubert
+photo: RyanHubert
 email: rhubert@ucdavis.edu
 url: http://www.ryanhubert.com/
 location: Political Science.
@@ -294,12 +296,12 @@ role: Professor
 desc: Professor Niemeier's research focuses on integrating models for estimating mobile source emissions with transportation modeling. She is the PI on a NSF NRT grant on [Data Science for the Built Environment](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1545193). Dr. Niemeier is an AAAS fellow and a member of the National Academy of Engineering. She has taught ECI 298: Introduction to Transportation Data and Analysis Using R.
 
 
-name: Caitlin Palter
+name: Caitlin Patler
 email: patler@ucdavis.edu
 url: https://caitlinpatler.com
 location: Land, Air & Water Resources
 role: Assistant Professor
-desc: Dr. Palter's reserch focuses on migration, inequality, and socio-legal studies. She is currently conducting two longitudinal and mixed-methods research studies on: 1) immigration detention, deportation, and the intersections of immigration and criminal law, and 2) the Deferred Action for Childhood Arrivals (DACA) program.
+desc: Dr. Patler's reserch focuses on migration, inequality, and socio-legal studies. She is currently conducting two longitudinal and mixed-methods research studies on: 1) immigration detention, deportation, and the intersections of immigration and criminal law, and 2) the Deferred Action for Childhood Arrivals (DACA) program.
 
 
 name: Naoki Saito
@@ -342,7 +344,7 @@ role: Assistant Professor
 desc: Professor Sharpnack develops and studies computationally efficient statistical methodology for understanding complex phenomena in large datasets. He holds a PhD  in Machine Learning and Statistics from Carnegie Mellon University. Courses he teaches include STA 141B (Data & Web Technologies for Data Analysis), STA 208 (Statistical Machine Learning), and STA 131A (Introduction to Probability Theory).
 
 
-name: Kim Shauman
+name: Kimberlee Shauman
 email: kashauman@ucdavis.edu
 url: http://sociology.ucdavis.edu/people/kashauma
 location: Sociology.
@@ -358,7 +360,7 @@ role: Assistant Professor
 desc: Professor Smith studies inequality in crime, criminal relationships, and criminal organizations. Her research specializations also include feminist criminology, historical research methods, police violence, sociology of gender, urban sociology, and social network analysis. She has taught SOC 298 (Social Network Analysis for Social Scientists).
 
 
-name:  Mairaj Syed
+name: Mairaj Syed
 email: msyed@ucdavis.edu
 url: http://mairajsyed.academia.edu/
 role: Associate Professor
@@ -366,7 +368,7 @@ location: Religious Studies.
 desc: Professor Syed's research explores the history of Islamic legal and ethical thought, particularly areas dealing with public law, family law, and politics. He is also interested in the development of hadith literature and the social network that transmitted and preserved it in the first 250 years of Islamic history. He led a collaborative project with the DSI focused on accurate dating of hadiths. He has taught RST 130 (Hadith, Social Networks, and Computational Analyses).
 
 
-name:  Tony Tyson
+name: Tony Tyson
 email: tyson@physics.ucadvis.edu
 url: http://tyson.ucdavis.edu/ 
 role: Distinguished Professor
@@ -383,6 +385,7 @@ desc: She teaches DES37 (Coding for Designers), which includes data visualizatio
 
 
 name: Zhou Yu 俞舟
+photo: ZhouYu
 email: joyu@ucdavis.edu
 url: http://www.cs.cmu.edu/~zhouyu/
 role: Assistant Professor
