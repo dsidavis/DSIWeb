@@ -14,7 +14,7 @@ time as you need it.  This is an increasingly common way for scientists to scale
 of benefits for reproducibility and teaching.
 <br/>
 This tutorial will introduce people to using Amazon Web Services to run programs on a Linux computer rented through
-their Web interface (“EC2”). I’ll demonstrate the basic process, discuss different options and pricing schemes, and
+their Web interface ("EC2"). I’ll demonstrate the basic process, discuss different options and pricing schemes, and
 cover the use of AWS disk storage. I’ll also demonstrate S3 (Simple Storage Service) which is a way to store and
 distribute large files.
 <br/>
