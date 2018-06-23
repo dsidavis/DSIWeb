@@ -156,7 +156,7 @@ MENUITEMS = [
 #    ('News', ''),
     ('People', [
         ('Administration', 'administration.html'),
-        ('Faculty', 'faculty.html'),
+        ('Faculty', 'facultyaffiliates.html'),
         ('Affiliates', 'affiliates.html'),
     ]),    
     ('Resources', [
