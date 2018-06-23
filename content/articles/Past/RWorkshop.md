@@ -15,6 +15,6 @@ the instructors.
 
 This will be officially advertized in early September and you can register
 to sign up then.  Keep an eye on annoucenments from your graduate coordinator
-and the [datascience annount mailing list](signup.html).
+and the [datascience announce mailing list](http://dsi.ucdavis.edu/signup.html).
 
 
