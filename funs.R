@@ -69,12 +69,14 @@ function(i, photoDir = getOption('PhotoDir', 'images/Affiliates_pics'))
 
     img = sprintf('<img src="%s" title="%s"></img>', getImage(i$name, i$photo, photoDir), i$email)
     email = sprintf('<a href="mailto:%s"><img src="images/email400.png" class="emailIcon"></img></a>', i$email)
-    c(img,
+    c('<div class="person">',
+      img,
       email,
       sprintf('<a href="%s">%s</a>', i$url, i$name),
       paste(if(is.na(i$role)) "graduate student" else i$role, ", ", i$location, " <br/>", collapse = "", sep = ""),
       paste("<b>", i$title, "</b>", collapse=  ""),
       i$desc,
+      "</div>",
       "",
       ""
      )
