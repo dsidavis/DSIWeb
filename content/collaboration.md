@@ -23,7 +23,7 @@ paper, developing new custom software, etc.
 ## Call for Projects
 
 We have periodic calls for proposals, which will be posted on our [Announcements](http://dsi.ucdavis.edu/category/recent.html) page
-and on our [mailing list](http://dsi.ucdavis.edu/signup.html). Our most recent call can be found [here](http://dsi.ucdavis.edu/category/recent/CallForProjects.html). But, don't hesitate to contact us if you have a brilliant idea outside of the collaboration call periods.
+and on our [mailing list](http://dsi.ucdavis.edu/signup.html). Our most recent call can be found [here](http://dsi.ucdavis.edu/pdfs/DSICallForProjects-1.pdf). But, don't hesitate to contact us if you have a brilliant idea outside of the collaboration call periods.
 
 
 ## Current Interdisciplinary Collaborative Projects:
