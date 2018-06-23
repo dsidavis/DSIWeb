@@ -1,6 +1,3 @@
-Title: Faculty Affiliates
-Authors: DSI
-
 <!-- DO NOT EDIT affiliates.md directly.  
      Edit this template and regenerate affiliates.md with
        cd content
@@ -45,11 +42,10 @@ Authors: DSI
 		 height: 15px;  
   }
   
-  p {
-	     float: right;
-	     pading-left: 10pt;
+  div.person {
+	     float: left;
   }  
 </style>
 
-# Faculty Affiliates
+
 
