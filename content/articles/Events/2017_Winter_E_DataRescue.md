@@ -24,7 +24,7 @@ After that, we'll work on getting climate data from Web pages and cataloging it.
 There will be snacks and drinks for participants.
 </p>
 <p>
-<a href="DataRescueEvent.html">More information and sample URLs</a>.
+<a href="http://dsi.ucdavis.edu/DataRescueEvent.html">More information and sample URLs</a>.
 </p>
 
 <p>
