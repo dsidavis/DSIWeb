@@ -1,3 +1,4 @@
+title: Faculty Affiliates
 <!-- DO NOT EDIT affiliates.md directly.  
      Edit this template and regenerate affiliates.md with
        cd content
