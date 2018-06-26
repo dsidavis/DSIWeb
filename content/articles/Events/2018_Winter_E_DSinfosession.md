@@ -21,4 +21,4 @@ Seats are limited; registration is required. [RSVP](https://forms.library.ucdavi
 
 The event will be held in the DSI Classroom (Shields 360).
 
-[Flyer](http://dsi.ucdavis.edu/DS_InfoSession_2018_flyer.pdf)
+[Flyer](http://dsi.ucdavis.edu/pdfs/DS_InfoSession_2018_flyer.pdf)
