@@ -75,11 +75,20 @@ function(i, photoDir = getOption('PhotoDir', 'images/Affiliates_pics'))
       sprintf('<a href="%s">%s</a>', i$url, i$name),
       paste(if(is.na(i$role)) "graduate student" else i$role, ", ", i$location, " <br/>", collapse = "", sep = ""),
       paste("<b>", i$title, "</b>", collapse=  ""),
-      i$desc,
+      convertMarkup(i$desc),
       "</div>",
       "",
       ""
      )
+}
+
+
+convertMarkup =
+function(x)
+{
+    x = gsub("\\*\\*([^*]+)\\*\\*", "<b>\\1</b>", x)
+    x = gsub("\\[([^]]+)\\]\\(([^)]+)\\)", '<a href="\\2">\\1</a>', x)
+    x
 }
 
 getImage =
