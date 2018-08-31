@@ -284,12 +284,12 @@ role: Professor of Computer Science, Dean of Graduate Studies and Vice-Provost o
 desc: Professor Mohapatra’s research interests focus on wireless networks, mobile communications, cybersecurity and internet protocols. Dr. Mohapatra is the Editor-in-Chief of the IEEE Transactions on Mobile Computing, and he has published over 300 research papers in his field.
 
 
-name: Jason Moore
-email: jasonmoore@ucdavis.edu
-url: http://www.moorepants.info/research/
+name: Jason K. Moore
+email: jkm@ucdavis.edu
+url: http://www.moorepants.info
 location: Mechanical & Aerospace Engineering
-role: Lecturer (LPSOE)
-desc: Dr. Moore is a full time lecturer with a focus on undergraduate teaching, curriculum design and improvement, accreditation assessment, and innovation in engineering education. His research interests center on how humans interact with machines and how humans can be described as machines. He is interested in first principles modeling, data centric modeling, experimentation, and software engineering. He co-founded the Davis Open Science group.
+role: Faculty (LPSOE)
+desc: Jason K. Moore is an assistant teaching professor with teaching and research interests in multibody dynamics, biomechanics, and engineering education. He is very active in the Scientific Python community where he is a core developer of the SymPy and PyDy projects. He has mentored numerous Google Summer of Code students over the last decade and hosts the College of Engineering's JupyterHub for their computing courses. He is currently an editor for both The Journal of Open Source Education and The Journal of Open Engineering.
 
 
 name: Deb Niemeier
