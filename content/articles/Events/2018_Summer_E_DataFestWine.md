@@ -13,9 +13,7 @@ slug: DataFest2018
 
 The DSI is holding a DataFest! We'll provide the problem and the data, and you’ll work in small teams to explore interesting approaches and solutions. UC Davis students, postdocs, and staff with all skill levels are encouraged to participate. Alumni, community members, and other UC and CSU students should [contact us](mailto:datascience@ucdavis.edu) to see if we have space.
 
-## SIGN UP
-
-https://goo.gl/forms/hWhrAGjLKK3AcbD02 
+## [SIGN UP](https://goo.gl/forms/hWhrAGjLKK3AcbD02)
 
 ## YOUR CHALLENGE
 
@@ -59,9 +57,9 @@ shy or hesitant to participate. Everyone's welcome and useful. Subtasks include 
 * Tuesday, Sept. 18th - Thursday, Sept. 20th (10am - 2pm): Work in the DSI. You're welcome to work in the DSI before and after this period.
 * Friday, Sept. 21st (10am-2pm): Finish the project in the morning. Teams present their results over lunch. Awards will be announced after the products are reviewed by the DSI and Library.
 
- ## LOCATION
+## LOCATION
 
- Data Science Initiative classroom (room 360 Shields Library), Davis campus.
+Data Science Initiative classroom (room 360 Shields Library), Davis campus.
 
 ## AWARDS
 
