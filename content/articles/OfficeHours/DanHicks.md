@@ -1,10 +1,10 @@
 Title: Data Science Office Hours - Dan Hicks
 Who: DSI Postdoc Dan Hicks
 Where: 360 Shields Library
-Day: Mon
-Time: 1-3pm
+Day: Weds
+Time: 10-noon
 Tags: Office Hours
-Date: 2018-01-29
+Date: 2018-09-25
 Status: draft
 nonews: true
 
@@ -19,5 +19,3 @@ During office hours, Dan can provide feedback on:
 * Bibliometrics: Scopus, CrossRef web interface and API
 * Beginner through intermediate skills in R: ggplot for plotting, igraph for network analysis, dplyr for SQL-like data wrangling, RStudio
 * Philosophical issues in statistics and Data Science (How do you decide between frequentist or Bayesian methods? What should you do about P-hacking and alpha cutoffs? How do you know you've picked the right test? etc.)
-
-Note: Dan will be traveling intermittently to conferences in Spring 2018, so we strongly recommend emailing him prior to attending his office hours.
