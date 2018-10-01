@@ -35,8 +35,8 @@ name: Gina Bloom
 email: gbloom@ucdavis.edu
 url: http://english.ucdavis.edu/people/gbloom
 location:  English
-role: Associate Professor
-desc: Professor Bloom's research nterest include early modern English literature, especially Shakespeare and drama, gender and feminist theory, theater history and performance, sound studies, digital arts/humanities, and education. She collaborates on the [ModLab](http://modlab.ucdavis.edu/) Shakespearean video game project [Play the Knave](http://english.ucdavis.edu/playtheknave.org), on which she is leading a collaborative research project with the DSI.
+role:  Professor
+desc: Professor Bloom's research interests include early modern English literature, especially Shakespeare and drama, gender and feminist theory, theater history and performance, sound studies, digital arts/humanities, and education. She collaborates on the [ModLab](http://modlab.ucdavis.edu/) Shakespearean video game project [Play the Knave](http://english.ucdavis.edu/playtheknave.org), on which she is leading a collaborative research project with the DSI.
 
 
 name: Amber Boydstun
@@ -89,6 +89,14 @@ role: Associate Vice Chancellor for Interdisciplinary Research and Strategic Ini
 desc: Dr. Dodd’s background is in nanoscale materials science and applied physics, and has worked at the interface of industry, academia for over 20 years. He administers the ten UC Davis Organized Research Units and is responsible for developing interdisciplinary research activities for the Davis campus including initiating, supporting and coordinating the development of new strategic research partnerships. You can read more about his background and the UC Davis interdisciplinary research and strategic initiatives, [here](http://research.ucdavis.edu/about-us/or-leadership/#avcirsi).
 
 
+name: Brittany Dugger
+email: bndugger@ucdavis.edu
+url: https://www.ucdmc.ucdavis.edu/pathology/our_team/faculty/duggerB.html
+location: Pathology and Laboratory Medicine
+role: Assistant Professor
+desc: Dr. Dugger's research focus on understanding heterogeneity within neurodegenerative diseases and the interaction of peripheral changes to aging and neurodegenerative diseases. She is the neuropathology core leader at the UC Davis Alzheimer's Disease Center. Prior to arriving at UC Davis she served as the neuropathology core leader for academic and drug discovery groups within the Institute of Neurodegenerative Diseases at the University of California San Francisco. She is interested in how developments in AI can revolutionize healthcare, and how to train clinicians to best utilize and interface with these emerging technologies.
+
+
 name: Jonathan Eisen
 email: jaeisen@ucdavis.edu
 url: https://phylogenomics.me/
@@ -137,6 +145,16 @@ role: Assistant Professor
 desc: Professor Fox studies the neuroscience of social and emotional behavior in humans and non-human primates with a focus on emotional and social decision-making. He uses Python in his teaching and runs an informal Python Users Group through the DSI. He teaches PSC 290 (Introduction to scientific programming for psychology).
 
 
+
+name: John Paul Graff
+photo: JohnPaulGraff
+email: jpgraff@ucdavis.edu
+url: http://www.ucdmc.ucdavis.edu/publish/providerbio/pathology/22164
+role: Assistant Professor
+location: Pathology and Laboratory Medicine
+desc: Dr. Graff 's research focuses on hematopathology including lymphoma, leukemia, and non-neopastic hematologic processes. He is interested in machine learning applications for pathology, including acute leukemia and flow cytometry, and in developing programs and computational models to improve pathology workflows and data collection.
+
+
 name: James Griesemer
 email: jrgriesemer@ucdavis.edu
 url: https://jrgriesemerucdavis.wordpress.com/
@@ -175,7 +193,8 @@ email: rhijmans@ucdavis.edu
 url: http://biogeo.ucdavis.edu/
 location: Environmental Science & Policy
 role: Professor
-desc: Professor Hijmans studies international agricultural development and human health. He is particularly interested in the role of biodiversity in agriculture, and in climate change. He specializes in spatial analysis, ecological modeling and geo-informatics, and teaches a spatial data analysis and modeling courses including GEO 200CN, ABT182, and ABT181N. He is author of [raster](https://cran.r-project.org/web/packages/raster/), [dismo](https://cran.r-project.org/web/packages/dismo/), and [geosphere](https://cran.r-project.org/web/packages/geosphere/) packages in R.
+desc: Professor Hijmans studies agriculture, ecology and and human health. He is particularly interested in the role of agricultural development in Africa, and in the role of biodiversity in agriculture. He specializes in spatial data science, ecological modeling and geo-informatics, and teaches spatial data analysis and modeling courses including GEO 200CN ("Quantitative geography"), and ABT181N and ABT182. He is author of a number of R packages, including ['raster'](https://cran.r-project.org/web/packages/raster/), ['dismo'](https://cran.r-project.org/web/packages/dismo/), and ['geosphere'](https://cran.r-project.org/web/packages/geosphere/), and maintains the the [WorldClim](worldclim.org), and [GADM](gadm.org) spatial databases.
+
 
 
 name: Marcel Holyoak
@@ -202,6 +221,14 @@ url: http://www.ryanhubert.com/
 location: Political Science
 role: Assistant Professor
 desc: Professor Hubert uses game theory, machine learning and text analysis to study U.S. political institutions, especially the federal courts. He is interested in how  the predictive power of machine learning can be leveraged for descriptive research. 
+
+
+name: Yufang Jin
+role: Associate Professor
+email: yujin@ucdavis.edu
+location: Land, Air and Water Resources
+url: http://jin.ucdavis.edu/
+desc: 
 
 
 name: Christine Kreuder Johnson
@@ -308,6 +335,14 @@ role: Assistant Professor
 desc: Dr. Patler's reserch focuses on migration, inequality, and socio-legal studies. She is currently conducting two longitudinal and mixed-methods research studies on: 1) immigration detention, deportation, and the intersections of immigration and criminal law, and 2) the Deferred Action for Childhood Arrivals (DACA) program.
 
 
+name: Gerald Quon
+email: gquon@ucdavis.edu
+url: https://qlab.faculty.ucdavis.edu/
+location: Molecular and Cellular Biology
+role: Assistant Professor
+desc: Dr. Quon's research interests include using both classic machine learning and deep neural networks to build quantitative models of the cell and address a wide range of questions, including how genetics influences a person's risk of complex diseases and how cells can be reprogrammed from one type to another for regenerative medicine.
+
+
 name: Naoki Saito
 email: saito@math.ucdavis.edu
 url: https://www.math.ucdavis.edu/~saito/
@@ -379,6 +414,13 @@ role: Distinguished Professor
 location: Physics
 desc: Professor Tyson is an experimental physicist with research in cosmology including dark matter distribution, gravitational lens effects, cosmic shear, the nature of dark energy, and instrumentation for optical astronomy. He pioneered the field of weak gravitational lensing, and dark energy was discovered using one of his wide field CCD cameras. Prior to coming to UC Davis he worked in the physics division at Bell Labs.
 
+name: Rick Wray
+email: rawray@ucdavis.edu
+url: http://www.ucdmc.ucdavis.edu/publish/providerbio/cancer/22157
+role: Assistant Professor
+location: Radiology
+desc: Dr. Wray is a molecular imaging specialist and nuclear medicine physician. His research focuses on machine learning and radiomics in oncologic molecular imaging. Utilizing novel dynamic PET/CT quantitative imaging features and biomarkers, he is creating imaging databases for use with modern ML/AI technologies to improve patient outcomes.
+
 
 name: Jiayi Young
 email: jdyoung@ucdavis.edu
@@ -395,6 +437,3 @@ url: http://www.cs.cmu.edu/~zhouyu/
 role: Assistant Professor
 location: Computer Science
 desc: Professor Yu designs algorithms for real-time intelligent interactive systems that coordinate with user actions that are beyond spoken languages, including non-verbal behaviors to achieve effective and natural communications. In particular, her research focuses on ptimizing human-machine communication via studies of multimodal sensing and analysis, speech and natural language processing, machine learning and human-computer interaction. She teaches special topics in AI courses through the Departmnet of Computer Science.
-
-
-
