@@ -3,7 +3,7 @@ Date: 5/22/2018
 Category: Jobs
 Tags: Job, NCSU, North Carolina, Spring 2018, library
 xnonews: true
-xExpired: 2018-07-01
+Expired: 2018-07-01
 Slug: 2018JobNCSULibrarian
 
 # Digital Technologies Development Librarian

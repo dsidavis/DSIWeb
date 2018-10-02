@@ -3,7 +3,7 @@ Date: 5/22/2018
 Category: Jobs
 Tags: Job, Internship, Two Sigma, Data Science for Good, Two Sigma, Spring 2018
 xnonews: true
-xExpired: 2018-07-01
+Expired: 2018-07-01
 Slug: 2018InternshipTwoSigma
 
 # Internship at Two Sigma Data Clinic - Data Science For Good - Part-Time Fall 2018

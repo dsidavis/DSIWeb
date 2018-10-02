@@ -6,7 +6,7 @@ Category: Jobs
 Tags: Job, Data Science, UC Davis, Data Science Initiative
 xnonews: true
 slug: DSIStaff2018
-xExpired: 2018-09-01
+Expired: 2018-09-01
 
 # [We're hiring a staff Data Scientist!](http://www.employment.ucdavis.edu/applicants/Central?quickFind=79482)
 

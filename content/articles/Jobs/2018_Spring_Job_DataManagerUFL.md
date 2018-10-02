@@ -3,7 +3,7 @@ Date: 5/22/2018
 Category: Jobs
 Tags: Job, Florida, Biology, Spatial, Spring 2018
 xnonews: true
-xExpired: 2018-07-01
+Expired: 2018-07-01
 slug: 2018JobUFL
 
 # Data Manager in Spatial Ecology Lab at University of Florida, Fort Lauderdale Research and Education Center

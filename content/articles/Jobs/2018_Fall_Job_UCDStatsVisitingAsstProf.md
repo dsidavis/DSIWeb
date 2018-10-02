@@ -1,7 +1,7 @@
 Title: Visiting Assistant Statistics Professor at UC Davis
 Date: 9/27/2018
 Category: Jobs
-Tags: Job, UC Davis, Fall 2018
+Tags: Job, UC Davis, Fall 2018, Statistics
 xnonews: true
 Expired: 2018-12-01
 

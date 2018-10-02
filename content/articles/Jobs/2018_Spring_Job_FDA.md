@@ -3,7 +3,7 @@ Date: 5/22/2018
 Category: Jobs
 Tags: Job, Harvard, FDA, Artificial Intelligence, AI, Machine Learning, Spring 2018
 xnonews: true
-xExpired: 2018-06-01
+Expired: 2018-06-01
 slug: 2018JobFDA
 # [Post-doctoral Fellowship in Artificial Intelligence and Machine Learning at Harvard Medical School and the Food and Drug Administration (Boston, MA and White Oak, MD](https://hitsedu.bamboohr.com/jobs/view.php?id=6)
 

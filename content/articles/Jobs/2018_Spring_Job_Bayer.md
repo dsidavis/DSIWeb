@@ -5,7 +5,7 @@ Where:
 Category: Jobs
 Tags: Job, statistics, Bayer, Statistics, Biostatistics, Spring 2018,
 xnonews: true
-xExpired: 8-01-2018
+Expired: 8-01-2018
 slug: 2018JobBayer
 
 # Biostatistics Scientist Job at Bayer CropScience, Sacramento

@@ -3,7 +3,7 @@ Date: 5/22/2018
 Category: Jobs
 Tags: Job, Georgetown, Washington DC, Spring 2018, statistics, public policy, political science, computer science
 xnonews: true
-xExpired: 2018-07-01
+Expired: 2018-07-01
 
 # Associate Director of the Data Science in Public Policy Program, McCourt School of Public Policy at Georgetown University
 

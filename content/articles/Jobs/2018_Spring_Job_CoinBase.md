@@ -3,7 +3,7 @@ Date: 5/22/2018
 Category: Jobs
 Tags: Job, San Francisco, coinbase, software engineer, Spring 2018
 xnonews: true
-xExpired: 2018-06-01
+Expired: 2018-06-01
 slug: 2018JobCoinbase
 
 # Senior Software Engineer in Machine Learning at Coinbase in San Francisco

@@ -3,7 +3,7 @@ Date: 5/02/2018
 Category: Jobs
 Tags: Job, Sacramento. Spring 2018
 xnonews: true
-xExpired: 2018-07-01
+Expired: 2018-07-01
 
 # Statistical Data Analyst Job at UCLA Policy Lab in Sacramento, CA
 

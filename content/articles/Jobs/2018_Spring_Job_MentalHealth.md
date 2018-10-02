@@ -5,7 +5,7 @@ Where:
 Category: Jobs
 Tags: Job, healthcare, San Francisco, Cambridge,  Spring 2018,
 xnonews: true
-xExpired: 8-01-2018
+Expired: 8-01-2018
 slug: 2018JobMentalHealth
 
 # Data Scientist Job, Mental Health in South San Francisco, CA or Cambridge, MA
