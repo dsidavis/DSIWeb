@@ -9,6 +9,14 @@ slug: IntroR2018
 
 # Introduction to R Bootcamp
 
+## Links to Recordings and Resources
+
+* [Slides and data](https://github.com/dsidavis/RIntro18)
+* [Recording Day 1](https://www.youtube.com/watch?v=0O9fjsxpqsQ) 
+* [Recording Day 2](https://www.youtube.com/watch?v=ZyWch5HAhqY) |
+
+## Information
+
 * Dates: September 24 (8:30am - 4pm with a break for lunch) and September 25 (8:30am - noon)
 * Instructor: Duncan Temple Lang
 * Location: Data Science Initiative classroom, Shields 360

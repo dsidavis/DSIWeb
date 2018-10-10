@@ -9,9 +9,13 @@ slug: DataFest2018
 
 # DSI DataFest 2018
 
+Website: [http://dsi.ucdavis.edu/WineCatalogs/)](http://dsi.ucdavis.edu/WineCatalogs/)
+
 ## September 14 - 21
 
 The DSI is holding a DataFest! We'll provide the problem and the data, and you’ll work in small teams to explore interesting approaches and solutions. UC Davis students, postdocs, and staff with all skill levels are encouraged to participate. Alumni, community members, and other UC and CSU students should [contact us](mailto:datascience@ucdavis.edu) to see if we have space.
+
+
 
 ## [SIGN UP](https://goo.gl/forms/hWhrAGjLKK3AcbD02)
 

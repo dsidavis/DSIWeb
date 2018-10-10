@@ -9,11 +9,21 @@ slug: BeyondBasicsR2018
 
 # DSI Workshop: Beyond Basics in R
 
+## Links to Workshop Recordings and Resources
+
+ * [Slides and code](https://github.com/dsidavis/RBeyondBasics) 
+ * [Recording part 1](https://www.youtube.com/watch?v=-cAxE62YMzU) 
+ * [Recording part 2](https://www.youtube.com/watch?v=YItBd02aaLU) 
+ * [Recording part 3](https://www.youtube.com/watch?v=e8CB9Ea8JCY) |
+
+## Information
+
 * Dates: September 10, 12, & 14 12:30-3:30pm
 * Instructor: Duncan Temple Lang
 * Location: Data Science Initiative classroom, Shields 360
 * Cost: Free to UC Davis students, postdocs, faculty and staff. DSI Affiliates have priority registration.
 
+## Description
 So you've learned how to use R, or maybe you've already been using it, but now what? The goals of this workshop are to improve your proficiency and confidence in using "best practices" for leveraging R and writing good code. This workshop focuses on why and how we do things in R, and not about learning specific function names.
 
 Topics covered will include:
@@ -37,7 +47,3 @@ The workshop will be a mix of presentation and hands on problem solving/working 
 ## Got Code?
 
 If you have code you want to make better (more efficient/simpler/faster), please contact datascience@ucdavis.edu ASAP and we can consider using it as a case study.
-
-## Apply NowComplete
-
-Complete this registration form to apply to attend: https://goo.gl/forms/VUFGSO29TdZkdlog2. Participants are expected to attend all three sessions. Acceptances will be notified by email. Space is limited; DSI Affiliates have priority registration.
