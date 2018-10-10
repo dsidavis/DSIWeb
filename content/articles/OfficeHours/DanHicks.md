@@ -5,8 +5,8 @@ Day: Weds
 Time: 10-noon
 Tags: Office Hours
 Date: 2018-09-25
-Status: draft
-nonews: true
+xStatus: draft
+xnonews: true
 
 Dan Hicks is a postdoc at the DSI conducing research in data-driven academic
 institutional effectiveness. He received his PhD in philosophy from Notre Dame

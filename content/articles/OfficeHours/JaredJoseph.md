@@ -1,19 +1,17 @@
 Title: Data Science Office Hours - Affiliates
-Who: DSI Graduate Student Affiliates
+Who: DSI Student Affiliates
 Where: 360 Shields Library
-Day: 
+Day:  Tues
+Time: 2:30-3:30pm
 Tags: Office Hours
 Date: 2018-5-17
-Status: draft
-nonews: true
+xStatus: draft
+xnonews: true
 
-# DSI Affiliate Office Hours
-
-DSI Affiliates are available for office hours in the DSI Classroom to
+DSI graduate student and postdoc affiliates are available for office hours in the DSI Classroom to
 help with your data science problems. Drop-ins are welcome, but *we
 recommended that you email the individual you want to meet with in advance* in
 case of any schedule changes.
-
 
 ## Tuesdays 2:30-3:30pm
 * __[Jared Joseph](mailto:jnjoseph@ucdavis.edu)__: R, social networks  
