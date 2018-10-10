@@ -228,7 +228,7 @@ role: Associate Professor
 email: yujin@ucdavis.edu
 location: Land, Air and Water Resources
 url: http://jin.ucdavis.edu/
-desc: 
+desc: Professor Jin's uses remote sensing from satellite, airborne, and UAV/drone platforms to monitor ecosystem dynamics, crop conditions and yields, and to study the associtated drivers and feedbacks. She is interested in landscape and regional scale phenomena occuring in both natural and managed ecosystems ranging from croplands, rangelands, savannas, and forests. She contributes to sustainable agriculture and natural resource use by providing advanced geospatial tools and delivering observation-based information to resource managers and farmers.
 
 
 name: Christine Kreuder Johnson
@@ -253,6 +253,14 @@ url: http://web.cs.ucdavis.edu/~koehl/
 location: Computer Science
 role: Professor of Computer Science and Founding Director of the Data Science Initiative
 desc: Professor Koehl’s interests lay at the interface of physics, geometry and biology. His research focuses on computational algorithmic developments and management of complex biological data as well as the quantification of biological systems (morphometry) and the formation (morphogenesis) and evolution (morphodynamics) of of molecular shapes. His research group develops new statistical algorithms for clustering post-genomic data, and geometric methods for processing image data for high-throughput comparisons of 3D-images.
+
+
+name: Matthias Köppe
+email: mkoeppe@math.ucdavis.edu
+url: https://www.math.ucdavis.edu/~mkoeppe/
+location: Mathematics
+role: Professor
+desc: Professor Köppe's research focuses on mathematical optimization (integer programming) and computational discrete mathematics. He teaches several courses on these topics, including MAT 168 (Optimization), MAT 258A (Numerical Optimization) and MAT 258B (Discrete and Mixed Integer Optimization). For more information on these and other classes (including some lecture recoredings), [see his website](https://www.math.ucdavis.edu/~mkoeppe/#uni-lectures).
 
 
 name: Andrew Latimer
@@ -343,6 +351,22 @@ role: Assistant Professor
 desc: Dr. Quon's research interests include using both classic machine learning and deep neural networks to build quantitative models of the cell and address a wide range of questions, including how genetics influences a person's risk of complex diseases and how cells can be reprogrammed from one type to another for regenerative medicine.
 
 
+name: Arman Rezaee
+email: abrezaee@ucdavis.edu
+url: https://armanrezaee.github.io/
+location: Economics
+role: Assistant Professor
+des: Professor Rezaee's research focuses on identifying and solving common market failures across the developing world in health, agricultural, labour, and cellular markets, and includes the use of information communication technology. He has run several large-scale randomized controlled trials in Pakistan, the Philippines, and Uganda, and pursues data-driven approaches, including machine learning, to address socio-economic issues.
+
+
+name: John Rundle
+email: jbrundle@ucdavis.edu
+url: http://rundle.physics.ucdavis.edu/
+location: Physics, Earth and Planetary Sciences
+role: Professor
+desc: Professor Rundle's research focuses on developing the theoretical and computational methods needed to understand classes of driven, non-equilibrium threshold systems. These primarily include networks of earthquake faults, but also can be applied to neural networks, superconductors and semiconductors, the World Wide Web, and political, social and ecological systems. He is particularly interested in computational tool development to simulate these high-dimensional complex systems within the context of web-based, HPC and other types of parallel, SMP machines. Computational simulations represent a major tool and a major focus of his lab's research.
+
+
 name: Naoki Saito
 email: saito@math.ucdavis.edu
 url: https://www.math.ucdavis.edu/~saito/
@@ -397,6 +421,14 @@ url: https://chrismsmithsociology.wordpress.com
 location: Sociology
 role: Assistant Professor
 desc: Professor Smith studies inequality in crime, criminal relationships, and criminal organizations. Her research specializations also include feminist criminology, historical research methods, police violence, sociology of gender, urban sociology, and social network analysis. She has taught SOC 298 (Social Network Analysis for Social Scientists).
+
+
+name: Dawn Sumner
+email: dysumner@ucdavis.edu
+location: Earth and Planetary Sciences
+url: https://geology.ucdavis.edu/people/faculty/sumner
+role: Professor
+desc: Professor Sumner's research focuses on reconstructing ancient environments on early Earth and Mars and the early evolution of bacteria, including the origin of oxygenic photosynthesis. Her group studies everything from the environmental settings, geochemistry and morphology of Archean microbialites to the morphology, climate response, and genomics of modern microbial communities growing in ice-covered Antarctic lakes to the stratigraphy and geochemistry of sedimentary rocks on Mars. Sumner is a member of NASA’s Mars Science Laboratory, helping the rover Curiosity explore ancient environments in Gale Crater on Mars.
 
 
 name: Mairaj Syed
