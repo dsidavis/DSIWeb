@@ -128,6 +128,13 @@ location: Integrative Genetics and Genomics.
 title: Comprehensive, novel ways to define and integrate gene regulatory networks (GRNs) in early neurodevelopment.
 desc: Rinaldo is working on establishing and integrating GRNs for cortical interneuron proliferation, migration and specification, by associating gene co-expression with binding of transcription factors to DNA regulatory elements (promoters and enhancers), and chromatin states. He is interested in developing high-dimensional, deep learning approaches to generate systems-level, predictive models of regulatory element function and gene regulation during brain development; furthermore, he is interested in, having the models, back generate interpretable representations to drive further feature discovery. Rinaldo has a strong background in Perl and other ancillary languages, but is currently pursuing expertise in Python and R, and efficient HPC. Machine learning interests focus on neural nets, HMMs and deep learning.   
 
+email: gmchodur@ucdavis.edu
+name: Gwen Chodur
+url: www.linkedin.com/in/gwen-chodur
+location: Nutritional Biology.
+title: Molecular mechanisms underlying response to diet.
+desc: Gwen has a background in public health and clinical nutrition. Her current research uses a systems biology approach incorporating multi-omics to understand molecular mechanisms underlying dietary responsiveness.
+
 
 email:kacorn@ucdavis.edu
 name: Katherine Corn
