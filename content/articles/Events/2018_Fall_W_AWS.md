@@ -1,4 +1,4 @@
-Title: DSI Workshop: Git
+Title: DSI Workshop: Amazon Web Services for Research
 Date: 11/02/2018
 Time: 9am-12 pm
 Where: DSI Classroom, 360 Shields Library
