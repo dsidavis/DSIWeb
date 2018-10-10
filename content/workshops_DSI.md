@@ -17,21 +17,21 @@ Interested in a specific topic? Complete [this form](https://docs.google.com/for
 
 # Current & Past Workshops
 
-** Click the workshop title to link to the full event page.*
+This is a list of the DSI workshops with related materials and video recordings. Additional training events, talks, etc. can be found under [Events](categories.html).
 
 
 ### Fall 2018 Workshops
-| *Date*    | *Title* | *Instructor* | *Resources* | *Recording* |: --------------- |
+| *Date*    | *Title* | *Instructor* | *Resources* | *Recording* |
 | :---------- | : ------ | : ------------- | : --------------- |: --------------- |
-| Oct 12 | InstallFest | DSI staff | | |
-| Oct 19 | Introduction to Git | Carl Stahmer | | |
-| Nov 2 | Amazon Web Services for Research | IET | | |
-| Nov 16 | Network Analysis in R | Jane Carlen | | |
+| Oct 12 | [InstallFest](posts/Workshop/2018WorkshopInstallFest20181012.html) | DSI staff | | |
+| Oct 19 | [Introduction to Git](posts/Workshop/2018WorkshopGit20181019.html) | Carl Stahmer | | |
+| Nov 2 | [Amazon Web Services for Research](posts/Workshop/2018WorkshopAWS20181102.html) | IET | | |
+| Nov 16 | [Network Analysis in R](posts/Workshop/2018WorkshopNetwork20181116.html) | Jane Carlen | | |
 
 
 ### Summer 2018 Workshops & Events ###
 
-| *Date*    | *Title* | *Instructor* | *Resources* |: --------------- |
+| *Date*    | *Title* | *Instructor* | *Resources* |: *Recording* |
 | :---------- | : ------ | : ------------- | : --------------- |: --------------- |
 | Sept 10, 11 & 14 | [Beyond Basics in R](posts/Workshop/BeyondBasicsR201820180910.html) | Duncan Temple Lang |  [Slides and code](https://github.com/dsidavis/RBeyondBasics) | [part 1](https://www.youtube.com/watch?v=-cAxE62YMzU) [part 2](https://www.youtube.com/watch?v=YItBd02aaLU) [part 3](https://www.youtube.com/watch?v=e8CB9Ea8JCY) |
 | Sept 14-21 | [DataFest](posts/DataFest/DataFest201820180914.html) | DSI | [website](http://dsi.ucdavis.edu/WineCatalogs/)  [Library link](https://digital.ucdavis.edu/search//%5B%5B%22isPartOf.%40id%22%2C%22or%22%2C%22%2Fcollection%2Fsherry-lehmann%22%5D%5D//10/) | |
@@ -40,7 +40,7 @@ Interested in a specific topic? Complete [this form](https://docs.google.com/for
 
 ### Spring 2018 Workshops
 
-| *Date*    | *Title* | *Instructor* | *Resources* |: --------------- |
+| *Date*    | *Title* | *Instructor* | *Resources* |: *Recording* |
 | :---------- | : ------ | : ------------- | : --------------- |: --------------- |
 | April 13 | [Approaces and Emerging Software for Extracting Structure from Text Documents](posts/Workshop/2018WorkshopPDFReading20180413.html) | |
 | April 20 | [Object Oriented Concepts, Flexible Functions, and Software Design in R](posts/Workshop/2018WorkshopObjOriented20180420.html) | Duncan Temple Lang |  [slides](https://github.com/dsidavis/ROOPWorkshop) | [recording](https://www.youtube.com/watch?v=Gc-d96yQmyU&feature=youtu.be) |
@@ -67,7 +67,7 @@ Interested in a specific topic? Complete [this form](https://docs.google.com/for
 
 ### Fall 2017 Workshops
 
-| *Date*    | *Title* | *Instructor* | *Resources* |: --------------- |
+| *Date*    | *Title* | *Instructor* | *Resources* |: *Recording* |
 | :---------- | : ------ | : ------------- | : --------------- |: --------------- |
 | Oct 6 | [Install-Fest](posts/Workshop/InstallFes20171006.html) | Data Science Initiative Affiliates | | 
 | Oct 13 | [Web Scraping & APIs]	| Duncan Temple Lang | |
@@ -85,56 +85,57 @@ Interested in a specific topic? Complete [this form](https://docs.google.com/for
 
 ### Spring 2017 Workshops
 
-| *Date*    | *Title* | *Instructor* | *Resources* |: --------------- |
+| *Date*    | *Title* | *Instructor* | *Resources* |: *Recording* |
 | :---------- | : ------ | : ------------- | : --------------- |: --------------- |
-| April 14 | [Python for Data Analysis 1](posts/Workshop/python120170414.html) | Clark Fitzgerald | |	
-| April 21 | [Python for Data Analysis 2](posts/Workshop/python220170421.html) | Nick Ulle | |
-| April 28 | [Efficient Code in R](posts/Workshop/workshop-efficient-code-in-r20170428.html) | Duncan Temple Lang | |
-| May 5 | [Machine Learning](posts/Workshop/MachineLearnin20170505.html) | Duncan Temple Lang | |
-| May 12 | [Lessons from Binary Classification](posts/Workshop/BinaryClassificatio20170512.html) | Duncan Temple Lang | |
-| May 26 | [Docker](posts/Workshop/Docke20170526.html) | Titus Brown | |
-| June 9 | [Data Visualization Principles](posts/Workshop/Visualizatio20170609.html) | Duncan Temple Lang | |
+| April 14 | [Python for Data Analysis 1](posts/Workshop/python120170414.html) | Clark Fitzgerald | |	|
+| April 21 | [Python for Data Analysis 2](posts/Workshop/python220170421.html) | Nick Ulle | | |
+| April 28 | [Efficient Code in R](posts/Workshop/workshop-efficient-code-in-r20170428.html) | Duncan Temple Lang | | |
+| May 5 | [Machine Learning](posts/Workshop/MachineLearnin20170505.html) | Duncan Temple Lang | | |
+| May 12 | [Lessons from Binary Classification](posts/Workshop/BinaryClassificatio20170512.html) | Duncan Temple Lang | | |
+| May 26 | [Docker](posts/Workshop/Docke20170526.html) | Titus Brown | | |
+| June 9 | [Data Visualization Principles](posts/Workshop/Visualizatio20170609.html) | Duncan Temple Lang | | |
 
 
 ### Winter 2017 Workshops
 
-| *Date*    | *Title* | *Instructor* | *Resources* |: --------------- |
+| *Date*    | *Title* | *Instructor* | *Resources* |: *Recording* |
 | :---------- | : ------ | : ------------- | : --------------- |: --------------- |
-| Jan 27 | [Slash and Burn Command Line and Git](posts/Workshop/Gi20170203.html) | Carl Stahmer | |
-| Feb 3 | [Text Mining Fundamentals](posts/Workshop/TextMining120170203.html) | Carl Stahmer | |
-| Feb 10 | [Introduction to Bayesian Modeling Using Stan](posts/Workshop/sta20170210.html) | Matt Espe | |
-| Feb 17 | [Natural Language Processing: Text Normalization and Entity Extraction](posts/Workshop/TextNormEntityExtraction20170217.html) | Carl Stahmer | |
-| Feb 24 | [Debugging in R](posts/Workshop/DebuggingIn20170224.html) | Duncan Temple Lang | |
-| March 3 | [Natural Language Processing: Form and Meaning](posts/Workshop/NLPFormMeaning20170303.html) | Carl Stahmer | |
-| March 10 | [Natural Language Processing: Text Classification](posts/Workshop/NLPTextClassification20170310.html) | Carl Stahmer | |
+| Jan 27 | [Slash and Burn Command Line and Git](posts/Workshop/Gi20170203.html) | Carl Stahmer | | |
+| Feb 3 | [Text Mining Fundamentals](posts/Workshop/TextMining120170203.html) | Carl Stahmer | | |
+| Feb 10 | [Introduction to Bayesian Modeling Using Stan](posts/Workshop/sta20170210.html) | Matt Espe | | |
+| Feb 17 | [Natural Language Processing: Text Normalization and Entity Extraction](posts/Workshop/TextNormEntityExtraction20170217.html) | Carl Stahmer | | |
+| Feb 24 | [Debugging in R](posts/Workshop/DebuggingIn20170224.html) | Duncan Temple Lang | | |
+| March 3 | [Natural Language Processing: Form and Meaning](posts/Workshop/NLPFormMeaning20170303.html) | Carl Stahmer | | |
+| March 10 | [Natural Language Processing: Text Classification](posts/Workshop/NLPTextClassification20170310.html) | Carl Stahmer | | |
 
 
 ### Fall 2016 Workshops
 
-| *Date*    | *Title* | *Instructor* | *Resources* |: --------------- |
+| *Date*    | *Title* | *Instructor* | *Resources* |: *Recording* |
 | :---------- | : ------ | : ------------- | : --------------- |: --------------- |
-| September 19-20 | [Introduction to Data Science Using R](posts/Workshop/Rbootcam20160919.html) | Duncan Temple Lang and Deb Niemeier | |
+| September 19-20 | [Introduction to Data Science Using R](posts/Workshop/Rbootcam20160919.html) | Duncan Temple Lang and Deb Niemeier | | |
 | September 30 | [Introduction to HPB/Cluster Computing](posts/Workshop/HPC120160930.html) | | | 
-| October 6 | [Unix Shell](posts/Workshop/UnixShel20161006.html) | Titus Brown | [recording and materials](https://dib-training.readthedocs.io/en/pub/2016-10-06-shell-halfday.html) |
+| October 6 | [Unix Shell](posts/Workshop/UnixShel20161006.html) | Titus Brown | [Materials](https://dib-training.readthedocs.io/en/pub/2016-10-06-shell-halfday.html) |  [Recording](https://dib-training.readthedocs.io/en/pub/2016-10-06-shell-halfday.html) |
 | October 14 | [Getting Started with Software Repositories, GitHub](posts/Workshop/HPC220161014.html) | | |
-| October 21 | [Introduction to SLURM](posts/Workshop/HPC220161014.html) | | |
-| October 28 | [Introduction to Makefiles](posts/Workshop/HPC420161028.html) | Duncan Temple Lang | |
-| Nov 18 | [Compiling/Optimizing Code for HPC Resources](posts/Workshop/HPC620161118.html) | | |
+| October 21 | [Introduction to SLURM](posts/Workshop/HPC220161014.html) | | | |
+| October 28 | [Introduction to Makefiles](posts/Workshop/HPC420161028.html) | Duncan Temple Lang | | |
+| Nov 18 | [Compiling/Optimizing Code for HPC Resources](posts/Workshop/HPC620161118.html) | | | 
 
 
 ### Spring 2016 Workshops
-| *Date*    | *Title* | *Instructor* | *Resources* |: --------------- |
+
+| *Date*    | *Title* | *Instructor* | *Resources* |: *Recording* |
 | :---------- | : ------ | : ------------- | : --------------- |: --------------- |
-| March 7 | Amazon Web Services |
-| April 4 | Advanced Beginning Python |
-| April 6 | [Beginner Git](posts/Workshop/beginner-git20160406.html] | Titus Brown | |
-| April 8 | [Introduction to Google Earth Engine](posts/Workshop/hands-on-introduction-to-google-earth-engine20160408.html) | Nick Clinton | |
-| April 8 | [Ultra-Basic Introduction to Command Line and Git](posts/Workshop/cmdlinegit20160408.html) | Carl Stahmer | [slides](http://ds.lib.ucdavis.edu/2016/04/01/48-ultra-basic-introduction-to-the-command-line-and-git-2/)  |
-| April 15 | [Introductory Text Mining](posts/Workshop/introductory-text-mining20160415.html) | Carl Stahmer | |
-| April 29 | [Intermediate Text Mining](posts/Workshop/intermediate-text-mining20160429.html) | Carl Stahmer | |
-| May 4 | [Open Science Framework](posts/Workshop/open-science-framework-workshop20160504.html) | Center for Open Science | |
-| May 27 | [Advanced Text Mining](posts/Workshop/advanced-text-mining20160527.html) | Carl Stahmer | |
-| June 3 | [D3](posts/Workshop/D3DataVisualizatio20160603.html) | Duncan Temple Lang | [materials](https://github.com/duncantl/D3materials) |
+| March 7 | Amazon Web Services | | | | |
+| April 4 | Advanced Beginning Python | | | |
+| April 6 | [Beginner Git](posts/Workshop/beginner-git20160406.html] | Titus Brown | | |
+| April 8 | [Introduction to Google Earth Engine](posts/Workshop/hands-on-introduction-to-google-earth-engine20160408.html) | Nick Clinton | | |
+| April 8 | [Ultra-Basic Introduction to Command Line and Git](posts/Workshop/cmdlinegit20160408.html) | Carl Stahmer | [slides](http://ds.lib.ucdavis.edu/2016/04/01/48-ultra-basic-introduction-to-the-command-line-and-git-2/)  | |
+| April 15 | [Introductory Text Mining](posts/Workshop/introductory-text-mining20160415.html) | Carl Stahmer | | |
+| April 29 | [Intermediate Text Mining](posts/Workshop/intermediate-text-mining20160429.html) | Carl Stahmer | | |
+| May 4 | [Open Science Framework](posts/Workshop/open-science-framework-workshop20160504.html) | Center for Open Science | | |
+| May 27 | [Advanced Text Mining](posts/Workshop/advanced-text-mining20160527.html) | Carl Stahmer | | |
+| June 3 | [D3](posts/Workshop/D3DataVisualizatio20160603.html) | Duncan Temple Lang | [materials](https://github.com/duncantl/D3materials) | |
 
 
 ### 2015 Workshops
