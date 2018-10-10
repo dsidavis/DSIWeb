@@ -11,15 +11,15 @@ We are available for at the DSI Classroom (Shiellds 360) to help with your data 
 
 ### Tuesdays 12:30-1:30pm
 
-*__[Dr. Pamela Reynolds](mailto:plreynolds@ucdavis.edu)__*: DSI Academic Coordinator. 
+* __[Dr. Pamela Reynolds](mailto:plreynolds@ucdavis.edu)__*: DSI Academic Coordinator. 
 
      Pamela can provide resources for learning and applying various topics in data science, and provide help getting started with R for reproducible research.
 
 ### Tuesdays 2:30-3:30pm
 
-*__[Jared Joseph](mailto:jared.n.joseph@gmail.com)__: DSI Graduate Student Affiliate. RStudio, Networks, Natural Language Processing.
+*__[Jared Joseph](mailto:jared.n.joseph@gmail.com)__*: DSI Graduate Student Affiliate. RStudio, Networks, Natural Language Processing.
 
-    Jared is a Ph.D. student in sociology who studies crime, networks and political corruption. He is proficient in R (though has little experience with the tidyverse), and uses it for his own work on networks. He is familiar with the tools surrounding computational social sciences, including openRefine, Unix, git, parallel processing in R, APIs, and basic web scraping. R
+     Jared is a Ph.D. student in sociology who studies crime, networks and political corruption. He is proficient in R (though has little experience with the tidyverse), and uses it for his own work on networks. He is familiar with the tools surrounding computational social sciences, including openRefine, Unix, git, parallel processing in R, APIs, and basic web scraping. R
 
 ### Wednesdays 10-noon
 
@@ -37,7 +37,7 @@ We are available for at the DSI Classroom (Shiellds 360) to help with your data 
 
 * __[Dr. Carl Stahmer](mailto:cstahmer@ucdavis.edu)__*: DSI Associate Director for the Humanities and Director of Digital Scholarship at the UC Davis Library. 
 
-        Carl provides expertise on natural language processing (NLP) and other methods of text mining and language processing. Note that his Friday hours are at the Blaisdel Medial Library on the UC Davis Health campus in Sacramento.
+     Carl provides expertise on natural language processing (NLP) and other methods of text mining and language processing. Note that his Friday hours are at the Blaisdel Medial Library on the UC Davis Health campus in Sacramento.
 
 ### Thursdays 3:15-5:15 pm
 
