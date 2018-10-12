@@ -593,3 +593,11 @@ url: https://cpb.ucdavis.edu
 location: Population Biology
 title: Population genomic theory and method development to characterize cases of introgression in natural systems.
 desc: Sivan develops statistical models and analyzes genomic data to address questions in population genetics theory and methodology including the strength and timing of selection, history of admixture, and context in which beneficial alleles successfully introgress. Sivan primarily works with R and shell. Sivan is interested in learning more efficient coding techniques, computational statistics, data visualization, new programming languages, and data science applications in other fields.
+
+
+email: zihe@ucdavis.edu
+name:  Ziyuan He
+url: https://neilhzy.github.io/
+location: California National Primate Research Center
+title: Biomedical data modeling and visualization
+desc: Ziyuan develops mechanistic models explaining the immune system dynamic and pathogen-host interactions. He also works on biomedical data analysis and visualization with Python (Pandas, matplotlib, bokeh). Ziyuan is interested learning more coding, SQL, statistical modeling and implication of data science into other domains. 
