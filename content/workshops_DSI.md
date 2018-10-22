@@ -24,7 +24,7 @@ This is a list of the DSI workshops with related materials and video recordings.
 | *Date*    | *Title* | *Instructor* | *Resources* | *Recording* |
 | :---------- | : ------ | : ------------- | : --------------- |: --------------- |
 | Oct 12 | [InstallFest](posts/Workshop/2018WorkshopInstallFest20181012.html) | DSI staff | | |
-| Oct 19 | [Introduction to Git](posts/Workshop/2018WorkshopGit20181019.html) | Carl Stahmer | | |
+| Oct 19 | [Introduction to Git](posts/Workshop/2018WorkshopGit20181019.html) | Carl Stahmer | | [recording](https://youtu.be/mIAetcXu0U4) |
 | Nov 2 | [Amazon Web Services for Research](posts/Workshop/2018WorkshopAWS20181102.html) | IET | | |
 | Nov 16 | [Network Analysis in R](posts/Workshop/2018WorkshopNetwork20181116.html) | Jane Carlen | | |
 
