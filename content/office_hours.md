@@ -5,7 +5,7 @@ Category: OfficeHours
 
 # Office Hours
 
-We are available for at the DSI Classroom (Shiellds 360) to help with your data science related reserach problems. While drop ins are welcome, hours are subject to change and we recommend you contact the individual you want to meet with in advance and send them a brief description of your problem/questions. Not sure who you should meet with? [Contact us](mailto:datascience@ucdavis.edu) and we'll refer you to one of our data scientists.
+We are available at the DSI Classroom (Shiellds 360) to help with your data science related reserach problems. While drop-ins are welcome, hours are subject to change and we recommend you contact the individual you want to meet with in advance with a brief description of your problem/questions. Not sure who you should meet with? [Contact us](mailto:datascience@ucdavis.edu) and we'll refer you to one of our data scientists.
 
 ## FALL 2018
 
