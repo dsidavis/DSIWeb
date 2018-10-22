@@ -1,7 +1,7 @@
 Title: Data Science Office Hours - Jane Carlen
 Who: DSI Postdoc Jane Carlen
 Where: 360 Shields Library
-Day: Thursday
+Day: Thurs
 Time: 3:15-5:15 pm
 Tags: Office Hours
 Date: 2018-09-25

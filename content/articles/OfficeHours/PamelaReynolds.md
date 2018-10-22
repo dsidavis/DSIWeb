@@ -1,7 +1,7 @@
 Title: Data Science Office Hours - Pamela Reynolds
 Who: DSI Academic Coordinator
 Where: 360 Shields Library
-Day: Tuesdays
+Day: Tues
 Time: 12:30-1:30pm
 Tags: Office Hours
 Date: 2018-09-27

@@ -1,7 +1,7 @@
 Title: Data Science Office Hours - Carl Stahmer
 Who: DSI Associate Director Carl Stahmer
 Where: 360 Shields Library
-Day: Thursdays & Fridays
+Day: Thurs & Fri
 Time: 1-2pm & 2-4pm
 Tags: Office Hours
 Date: 2018-09-25
