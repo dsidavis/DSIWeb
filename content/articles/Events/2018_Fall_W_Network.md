@@ -1,7 +1,7 @@
 Title: DSI Workshop: Network Analysis in R
 Date: 11/16/2018
 Time: 9am-12 pm
-Where: DSI Classroom, 360 Shields Library
+Where: DSI (Shields 360)
 Category: Events
 Tags: Workshop, Fall 2018, Network Analysis
 xnonews: true

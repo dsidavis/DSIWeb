@@ -1,7 +1,7 @@
 Title: DSI Workshop: Git
 Date: 10/19/2018
 Time: 9am-12 pm
-Where: DSI Classroom, 360 Shields Library
+Where: DSI (Shields 360)
 Category: Events
 Tags: Workshop, Fall 2018, Git, version control
 xnonews: true
@@ -18,7 +18,7 @@ Prerequisites: All participants must bring a laptop on which they have administr
 ## Resources
 
 * [Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-* [Recording]()
+* [Recording](https://www.youtube.com/watch?v=mIAetcXu0U4&feature=youtu.be)
 * [Slides]()
 * Recommended Readings: [Pro Git](https://git-scm.com/book)
 

@@ -1,7 +1,7 @@
-Title: unSeminar: 
+Title: unSeminar: Martin Hilbert
 Date: 10/25/2018
 Time: 2-3pm
-Where: DSI Classroom (Shields 360)
+Where: DSI (Shields 360)
 Category: Events
 Tags: Talk, unSeminar, Fall 2018
 xnonews: true

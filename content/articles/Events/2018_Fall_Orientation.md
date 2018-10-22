@@ -1,7 +1,7 @@
 Title: Data Science & Management Orientation
 Date: 9/18/2018
 Time:  3-4pm
-Where: DSI Classroom, 360 Shields Library
+Where: DSI (Shields 360)
 Category: Events
 Tags: Data science, data management, orientation, graduate student, graduate student orientation, fallwelcome
 xnonews: true

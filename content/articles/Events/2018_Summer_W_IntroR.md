@@ -1,7 +1,7 @@
 Title: DSI Bootcamp Intro to R
-Date: 9/24-25
+Date: 9/24/2018
 Time:  8:30am - 4pm
-Where: DSI Classroom, 360 Shields Library
+Where: DSI (Shields 360)
 Category: Events
 Tags: Workshop, R, Summer 2018
 xnonews: true

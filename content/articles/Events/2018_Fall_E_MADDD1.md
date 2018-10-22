@@ -1,5 +1,5 @@
-Title: Mathematics of Data & Decision at Davis Seminar
-Date: 10/01/2018
+Title: Seminar: Mathematics of Data & Decision at Davis
+Date: 10/29/2018
 Time: 4-5 pm
 Where: MSB 1147
 Category: Events

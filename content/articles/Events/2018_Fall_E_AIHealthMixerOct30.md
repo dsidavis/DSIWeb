@@ -5,7 +5,7 @@ Where: 4150 V Street, Suite G300, UCDH Sacramento, CA
 Category: Events
 Tags: Meetup, Fall 2018, machine learning, AI, artificial intelligence, healthcare
 xnonews: true
-slug: 2018AIHealthSymposium
+slug: 2018AIHealthMixerOct30
 
 # Artificial Intelligence (AI) and Healthcare Research and Clinical Mixer
 
