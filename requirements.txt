@@ -4,7 +4,7 @@ docutils==0.13.1
 feedgenerator==1.9
 invoke>=0.13.0
 Jinja2==2.9.6
-libsass==0.11.1
+libsass>=0.11.1
 Markdown==2.6.6
 MarkupSafe==1.0
 pelican==3.7.1
