@@ -601,3 +601,11 @@ url: https://neilhzy.github.io/
 location: California National Primate Research Center
 title: Biomedical data modeling and visualization
 desc: Ziyuan develops mechanistic models explaining the immune system dynamic and pathogen-host interactions. He also works on biomedical data analysis and visualization with Python (Pandas, matplotlib, bokeh). Ziyuan is interested learning more coding, SQL, statistical modeling and implication of data science into other domains. 
+
+
+email: swinsemius@ucdavis.edu
+name: Sara Winsemius
+url: https://www.linkedin.com/in/sarawinsemius/
+location: Ecology
+title: Montane carbon: evaluating key drivers and mapping probabilities for change in high elevation forests
+desc: Sara’s research seeks to understand the drivers of change in high elevation forest function (such as carbon storage and snowmelt rates) and predict future changes based on climate drivers, in order to inform better public land management. Sara uses remote sensing, primarily in R, Google Earth Engine, and ENVI, and is interested in learning more about machine learning, geospatial tools and methods, and climate models.
