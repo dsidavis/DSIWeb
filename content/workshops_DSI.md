@@ -26,6 +26,7 @@ This is a list of the DSI workshops with related materials and video recordings.
 | Oct 12 | [InstallFest](posts/Workshop/2018WorkshopInstallFest20181012.html) | DSI staff | | |
 | Oct 19 | [Introduction to Git](posts/Workshop/2018WorkshopGit20181019.html) | Carl Stahmer | | [recording](https://youtu.be/mIAetcXu0U4) |
 | Nov 2 | [Amazon Web Services for Research](posts/Workshop/2018WorkshopAWS20181102.html) | IET | | |
+| Nov 9 | [TBA]() | | | |
 | Nov 16 | [Network Analysis in R](posts/Workshop/2018WorkshopNetwork20181116.html) | Jane Carlen | | |
 
 
@@ -45,7 +46,7 @@ This is a list of the DSI workshops with related materials and video recordings.
 | April 13 | [Approaces and Emerging Software for Extracting Structure from Text Documents](posts/Workshop/2018WorkshopPDFReading20180413.html) | |
 | April 20 | [Object Oriented Concepts, Flexible Functions, and Software Design in R](posts/Workshop/2018WorkshopObjOriented20180420.html) | Duncan Temple Lang |  [slides](https://github.com/dsidavis/ROOPWorkshop) | [recording](https://www.youtube.com/watch?v=Gc-d96yQmyU&feature=youtu.be) |
 | April 27 | A Practical Introduction to Text Mining | Carl Stahmer | [code and data files](https://github.com/cstahmer/text_mining_with_r) | |
-| May 4 | Using Relational Databases and SQL in R | Duncan Temple Lang | [slides](https://github.com/dsidavis/SQLworkshop) | [recording](https://www.youtube.com/watch?v=ipOGYFhofn4&feature=youtu.be) |
+| May 4 | [Using Relational Databases and SQL in R](http://dsi.ucdavis.edu/posts/Workshop/2018WorkshopSQL20180504.html) | Duncan Temple Lang | [slides](https://github.com/dsidavis/SQLworkshop) | [recording](https://www.youtube.com/watch?v=ipOGYFhofn4&feature=youtu.be) |
 | May 11 | [A Survey of Statistical Machine Learning Concepts, part 1](posts/Workshop/2018WorkshopMachine120180511.html) | Duncan Temple Lang | [slides](https://github.com/dsidavis/surveystatml) | [recording](https://www.youtube.com/watch?v=16Aq_8JE0Vc&feature=youtu.be)  |
 | May 18 | [A Survey of Statistical Machine Learning Concepts, part 2](posts/Workshop/2018WorkshopMachine220180518.html) | Duncan Temple Lang | [slides](https://github.com/dsidavis/SurveyStatML) | [recording](https://www.youtube.com/watch?v=1DSio_Tv6Hc&feature=youtu.be)  |
 | June 1 | [Topic Modeling with Latent Dirichlet Allocation](posts/Workshop/2018WorkshopTopicModeling20180601.html) | Carl Stahmer |  | [recording](https://www.youtube.com/watch?v=rHp05tFPDDk) |
@@ -75,7 +76,7 @@ This is a list of the DSI workshops with related materials and video recordings.
 | Oct 27 | [When to use a Database and Which Technology to Use](posts/Workshop/Database20171027.html) | Carl Stahmer |  | [recording](https://www.youtube.com/watch?v=HJFV_w3MxrU&feature=youtu.be) |
 | Nov 3 | [Getting & Working with Bibliometric Data](posts/Workshop/Bibliometric20171103.html) | Dan Hicks | [recources](https://github.com/dsidavis/bibliometrics-workshop) |  [recording](https://www.youtube.com/watch?v=C1EnFjXXKho&t=2s  |
 | Nov 17 | [Parallel Computing in R](posts/Workshop/ParallelComputing20171117.html) | Duncan Temple Lang | [slides](https://github.com/dsidavis/parallelr) | [recording](https://www.youtube.com/watch?v=TTKSlhrSZ3g&feature=youtu.be) |
-| Dec 1 | [Reading & Cleaning Complex Data with Regular Expressions]( | Matt Espe & Duncan Temple Lang |  [slides](https://github.com/dsidavis/data_cleaning_w_r) | [recording](https://www.youtube.com/watch?v=VNUizaTVQAU) |
+| Dec 1 | [Reading & Cleaning Complex Data with Regular Expressions](posts/Workshop/RegularExpression20171201.html) | Matt Espe & Duncan Temple Lang |  [slides](https://github.com/dsidavis/data_cleaning_w_r) | [recording](https://www.youtube.com/watch?v=VNUizaTVQAU) |
 
 
 ### Summer 2017
@@ -90,8 +91,8 @@ This is a list of the DSI workshops with related materials and video recordings.
 | April 14 | [Python for Data Analysis 1](posts/Workshop/python120170414.html) | Clark Fitzgerald | |	|
 | April 21 | [Python for Data Analysis 2](posts/Workshop/python220170421.html) | Nick Ulle | | |
 | April 28 | [Efficient Code in R](posts/Workshop/workshop-efficient-code-in-r20170428.html) | Duncan Temple Lang | | |
-| May 5 | [Machine Learning](posts/Workshop/MachineLearnin20170505.html) | Duncan Temple Lang | | |
-| May 12 | [Lessons from Binary Classification](posts/Workshop/BinaryClassificatio20170512.html) | Duncan Temple Lang | | |
+| May 5 | [Lessons from Binary Classification: overfitting and surrogate losses](posts/Workshop/MachineLearnin20170505.html) | James Sharpnack | | |
+| May 12 | [Lessons from Binary Classification: non-parametric methods and the kernel trick](posts/Workshop/BinaryClassificatio20170512.html) | James Sharpnack | | |
 | May 26 | [Docker](posts/Workshop/Docke20170526.html) | Titus Brown | | |
 | June 9 | [Data Visualization Principles](posts/Workshop/Visualizatio20170609.html) | Duncan Temple Lang | | |
 
