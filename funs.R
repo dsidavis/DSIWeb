@@ -19,7 +19,7 @@ function(x)
 
 
 mkAffiliates_md =
-function(file = "affiliates.dcf", data = read.dcf(file, all = TRUE), template = "affiliates_template.md", outfile = "affiliates.md", photoDir = getOption('PhotoDir', 'images/Affiliates_pics'), title = NA)
+function(file = "affiliates.dcf", data = read.dcf(file, all = TRUE), template = "../LocalTemplates/affiliates_template.md", outfile = "affiliates.md", photoDir = getOption('PhotoDir', 'images/Affiliates_pics'), title = NA)
 {
    if(!("photo" %in% names(data)))
        data$photo = NA
