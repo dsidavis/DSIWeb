@@ -4,8 +4,8 @@ Time:
 Where: 
 Category: Jobs
 Tags: Job, statistics, Clemson, Genetics, Spring 2018,
-xnonews: true
-xExpired: 8-01-2018
+nonews: true
+Expired: 8-01-2018
 slug: 2018JobClemsonBioInformatician
 
 # Bioinformatician in Center for Human Genetics at Clemson University
