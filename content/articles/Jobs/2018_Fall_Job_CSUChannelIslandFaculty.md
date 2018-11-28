@@ -1,0 +1,16 @@
+Title: Asst Professor of Environmental Data Analytics & Visualization, CSU Channel Islands
+Date: 11/16/2018
+Category: Jobs
+Tags: Job, Faculty, CSU, Channel Islands, data analytics, visualization, environmental science, Fall 2018
+xnonews: true
+Expired: 2019-02-30
+slug: Job2018CSUCI
+
+# Assistant Professor of Environmental Data Analytics & Visualization, CSU Channel Islands
+
+## Description
+
+CSU Channel Islands (CSUCI) invites applicants for the position of Assistant Professor of Environmental Science and Resource Management. CSUCI seeks an energetic, innovative colleague interested in deepening our commitment to data artistry, big data analytics and visualization, and in making substantial contributions to our growing campus. The successful candidate should have a strong record of teaching, research, and service (or be able to provide strong evidence of their promise in each of those areas) and demonstrated proficiency with turning large or complex data sets into engaging, usable information via a variety of digital tools. We are particularly interested in candidates with two or more of the following disciplinary interests: coastal zone management, energy systems, climate science, big data, visual rhetoric, atmospheric science, water resource management, ecotoxicology, environmental justice, sustainability science, or conservation technologies. Candidates should have strong digital/methodological skills spanning both proprietary (Adobe Creative Suite, ArcGIS, Tableau, Matlab, Flourish, etc.) and open source (R, GitHub, MySQL, D3.js, Audacity, etc.) platforms, as well as experience or substantial interest in interpreting California’s coastal zone. CSUCI is the newest campus in the California State University system, with our main campus located in coastal Ventura County (between Santa Barbara and Los Angeles) at the interface of protected areas, agricultural zones, and urban cores. Many responses to our local environmental and social challenges have become templates outside our region, e.g., recovery of endangered species, sea level rise adaptation, farmworker protections, offshore energy regulation, marine protected area networks, and smart growth land use policies. All of these efforts have benefited from strong, data-based argumentation. The successful candidate will help us continue this tradition by augmenting our existing research efforts with new external funding and community collaborations. We are a Hispanic Serving Institution dedicated to serving our diverse student body and surrounding community while promoting interdisciplinary inquiry, strong community engagement, and an international focus; candidates are expected to share those commitments. A Ph.D. or terminal degree in Environmental Science, Ecology, Geosciences, Hydrology, Anthropology, Applied Statistics, Digital Design, Data Journalism, or a related field is required at the time of appointment. The successful candidate will join us for our Fall 2019 semester.
+
+Details and how to apply: http://esrm.zone/joinesrm/
+Invitation video: https://youtu.be/8YvxGeGCX-o
