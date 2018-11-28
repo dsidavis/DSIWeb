@@ -3,7 +3,7 @@ Date: 11/16/2018
 Category: Jobs
 Tags: Job, Faculty, CSU, Channel Islands, data analytics, visualization, environmental science, Fall 2018
 xnonews: true
-Expired: 2019-02-30
+xExpired: 2019-02-30
 slug: Job2018CSUCI
 
 # Assistant Professor of Environmental Data Analytics & Visualization, CSU Channel Islands
