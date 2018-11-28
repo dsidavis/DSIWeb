@@ -1,7 +1,7 @@
 Title: Data West Forum at SDSC
 Date: 12/5/2018
 Time: 
-Where: La Jolla, CA
+Where: La Jolla CA
 Category: Events
 Tags: Event, Forum, San Diego, Supercomputing, Fall 2018
 xnonews: true
