@@ -9,7 +9,7 @@ slug: 2018WorkshopAWS
 
 #  AWS (Amazon Web Services) for Research
 
-[Register](https://forms.library.ucdavis.edu/classes/descriptions.php#class216)
+[Recording](https://www.youtube.com/watch?v=Rjweg7T7n_I)
 
 This workshop will discuss the what, why and how of using [Amazon Web Services](https://aws.amazon.com/) to run your R, Pyton, etc. code for research in the cloud.
 
