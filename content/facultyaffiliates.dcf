@@ -145,6 +145,13 @@ role: Assistant Professor
 desc: Professor Fox studies the neuroscience of social and emotional behavior in humans and non-human primates with a focus on emotional and social decision-making. He uses Python in his teaching and runs an informal Python Users Group through the DSI. He teaches PSC 290 (Introduction to scientific programming for psychology).
 
 
+name: Seth Frey
+email: sfrey@ucdavis.edu
+url: https://enfascination.com/research
+location: Communication, Computational Communication Group
+role: Assistant Professor
+desc: Professor Frey study human decision behavior in designed social environments, such as sports, games, and laboratory settings. He works between data science, behavioral experiments, and modeling. He teaches programming for social scientists, modeling of social systems, web science, and data analysis in R, Python, and database.
+
 
 name: John Paul Graff
 photo: JohnPaulGraff
