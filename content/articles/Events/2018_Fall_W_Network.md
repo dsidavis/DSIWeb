@@ -9,7 +9,8 @@ slug: 2018WorkshopNetwork
 
 #  Nework Analysis in R
 
-[Register](https://forms.library.ucdavis.edu/classes/descriptions.php#class215)
+[Recording](https://youtu.be/H6IkFnykX1s)
+[Github repo with notes, code and data](https://github.com/jcarlen/network_analysis_in_R)
 
 Do you have network data that you're not sure what to do with? A network-based analysis in mind but you're not sure how to implement it? Do you want to build network data from scratch or from other data types? Want to come learn about network analyses and whether it's appropriate for your data?
 
