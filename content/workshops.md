@@ -25,7 +25,7 @@ This is a list of the DSI workshops with related materials and video recordings.
 | Oct 12 | [InstallFest](posts/Workshop/2018WorkshopInstallFest20181012.html) | DSI staff |   | |
 | Oct 19 | [Introduction to Git](posts/Workshop/2018WorkshopGit20181019.html) | Carl Stahmer |  [recording](https://youtu.be/mIAetcXu0U4) |
 | Nov 2 | [Amazon Web Services for Research](posts/Workshop/2018WorkshopAWS20181102.html) | IET | [recording](https://www.youtube.com/watch?v=Rjweg7T7n_I) |
-| Nov 30 | [Network Analysis in R](posts/Workshop/2018WorkshopNetwork20181116.html) | Jane Carlen | |
+| Nov 30 | [Network Analysis in R](posts/Workshop/2018WorkshopNetwork20181116.html) | Jane Carlen | [recording](https://youtu.be/H6IkFnykX1s)|
 | **SUMMER 2018** | | |
 | Sept 10-14 | [Beyond Basics in R](posts/Workshop/BeyondBasicsR201820180910.html) | Duncan Temple Lang |  [Slides and code](https://github.com/dsidavis/RBeyondBasics), [recording 1](https://www.youtube.com/watch?v=-cAxE62YMzU), [2](https://www.youtube.com/watch?v=YItBd02aaLU), [3](https://www.youtube.com/watch?v=e8CB9Ea8JCY) |
 | Sept 14-21 | [DataFest](posts/DataFest/DataFest201820180914.html) | DSI | [website](http://dsi.ucdavis.edu/WineCatalogs/), [Library link](https://digital.ucdavis.edu/search//%5B%5B%22isPartOf.%40id%22%2C%22or%22%2C%22%2Fcollection%2Fsherry-lehmann%22%5D%5D//10/) |
