@@ -1,10 +1,11 @@
 Title: Data Science Office Hours - Affiliates
 Who: DSI Graduate Student Affiliates
 Where: 360 Shields Library
-Day: 
+Day: Weds
+Time: 12:15-1:15pm
 Tags: Office Hours
 Date: 2018-5-17
-Status: draft
+xStatus: draft
 nonews: true
 
 # DSI Affiliate Office Hours
@@ -15,6 +16,10 @@ recommended that you email the individual you want to meet with in advance* in
 case of any schedule changes.
 
 
-## Tuesdays 2:30-3:30pm
-* __[Jared Joseph](mailto:jnjoseph@ucdavis.edu)__: R, social networks  
-	Jared is a PhD student in Sociology focusing on applying computational methods to social networks.
+## Wednesdays 12:15-1:15pm
+
+*__[Dana Iltis](mailto:driltis@ucdavis.edu)__: Python.
+	Dana is a master's student in computer science. She is proficient in Python and uses it for her research projects. 
+	
+* __[Jared Joseph](mailto:jnjoseph@ucdavis.edu)__: R, social networks, Natural Language Processing.
+	Jared is a Ph.D. student in sociology who studies crime, networks and political corruption. He is proficient in R, and uses it for his own work on networks. He is familiar with the tools surrounding computational social sciences, including openRefine, Unix, git, parallel processing in R, APIs, and basic web scraping.
