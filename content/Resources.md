@@ -4,12 +4,14 @@ Authors: DSI
 Tags: resources
 
 # Resources Related to Data Science
+
 This is a non-exhaustive list generated from suggestions by our faculty, graduate student and postdoc Affiliates and staff. Note that the DSI does not endorse any of these links specifically and is providing them here as a community-driven resource.
 
 If there is a resource that you've found helpful that is not on this list please [tell us about it](mailto:datascience@ucdavis.edu).
 
 
 # Languages
+
 There are many programming languages used in Data Science. They all have important, but quite different, roles, and have various
 advantages and disadvantages. Primary languages we use at the DSI include:
 
@@ -29,6 +31,7 @@ advantages and disadvantages. Primary languages we use at the DSI include:
 * [SQL](http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html)
 
 # Books
+
 Here are some helpful reads on various Data Science related topics:
 
 * [The Elements of Statistical Learning: Data Mining, Inference and Prediction (pdf)](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
@@ -42,12 +45,14 @@ Here are some helpful reads on various Data Science related topics:
 
 
 # Visualization
+
 Some classic background on data visualization:
 
 * [Edward Tufte, The Visual Display of Quantitative Information, 1942-c1983, Graphics Press, Cheshire Connecticut](https://search.library.ucdavis.edu:443/01UCD_V1:everything_scope:01UCD_ALMA21154294780003126)
 * [William S. Cleveland, The Elements of Graphing Data, 1943-c1985, Wadsworth Advanced Books and Software, Monterey CA](https://search.library.ucdavis.edu:443/01UCD_V1:everything_scope:01UCD_ALMA21219205520003126)
 
 # Competitions & Projects
+
 ## UC Davis:
 
 * [iiData](https://www.iidata.net/)
@@ -62,6 +67,8 @@ Some classic background on data visualization:
 * [TunedIt](http://tunedit.org/)
 
 # Local Hack/Meetups
+
+* [Davis R-Users Group](https://d-rug.github.io/)
 * [Sacramento Women in Data](https://www.meetup.com/Sacramento-Women-in-Data/)
 * [Code for Sacramento](https://www.meetup.com/Code4Sac/)
 
