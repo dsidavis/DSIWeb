@@ -1,6 +1,6 @@
 Title: DSI Workshop: Interactive, Dynamic Visualization in R and JavaScript
 Date: 3/1/2019
-Time: 10am-12 pm
+Time: 9:30am-12:30pm
 Where: DSI (Shields 360)
 Category: Events
 Tags: Workshop, Winter 2019, Data Visualization, R, JavaScript, Dynamic Visualization
@@ -18,16 +18,16 @@ slug: 2019WorkshopDataVizDynamic
 Building off of the concepts in the earlier workshops this quarter, DSI Director Professor Duncan
 Temple Lang and postdoc Jane Carlen will introduce packages for creating interactive data
 visualizations using JavaScript/D3 with implementations in R and/or Python. The workshop will
-present illustrative examples of the functionality of each package (plotly, bokeh, highcharter,
-crosstalk) and walk through the R code used to build example interactive visualizations. 
+present illustrative examples of the functionality of several different packages and walk through the R code used to build example interactive visualizations. 
 
 The second part of the workshop will explore what underlies these plots, 
 specifically the JavaScript code and libraries such as D3.
-We'll show how to explores these in the Web browser and modify aspects
-of the plots by adding some JavaScript code.  This provides the foundations
-for thinking about customizing these plots and building more general and customized dynamic, interactive
-Web pages and applications.
+We'll show how to explore these in the Web browser and modify aspects
+of the plots.  This provides the foundations
+for thinking about customizing plots and building more general and customized dynamic, interactive
+Web pages and applications. 
 
+The last half hour of the workshop will allow time for individual Q&A.
 
 After this workshop learners should be able to:
 
@@ -39,4 +39,4 @@ After this workshop learners should be able to:
 
 ## Prerequisites & Target audience
 
-This workshop is aimed at researchers (students, postdoctoral scholars, faculty, staff) who are working with data and using graphics for exploratory analyses and scholarly communication (i.e., publications). Learners should attend or view recordings of the prior workshops in the series.earners should be comfortable working in R and should bring a laptop with a working version of R and RStudio installed. Prior to attending, learners should pre-install the R packages: [plotly for R](https://cran.r-project.org/web/packages/plotly/index.html) , [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html), [rbokeh](https://cran.r-project.org/web/packages/rbokeh/index.html), [crosstalk](https://cran.r-project.org/web/packages/crosstalk/index.html), and [highcharter](https://cran.r-project.org/web/packages/highcharter/index.html). 
+This workshop is aimed at researchers (students, postdoctoral scholars, faculty, staff) who are working with data and using graphics for exploratory analyses and scholarly communication (i.e., publications). Learners should attend or view recordings of the prior workshops in the series. Learners should be comfortable working in R and should bring a laptop with a working version of R and RStudio installed. Prior to attending, registered learners will receive an email with a list of R packages to pre-install.

@@ -1,6 +1,6 @@
 Title: DSI Workshop: Geospatial Data Visualization
 Date: 2/22/2019
-Time: 10am-12 pm
+Time: 9:30am-12:30pm
 Where: DSI (Shields 360)
 Category: Events
 Tags: Workshop, Winter 2019, Data Visualization
@@ -22,6 +22,8 @@ At the end of this workshop learners should be able to:
 * Identify different types of data (levels of measurement) and the implications for geospatial data visualization
 * Identify different geometries and the implications for geospatial data visualization
 * Apply best practices in geospatial data visualization to their own work
+
+The last 30 minutes of this workshop are open for individual Q&A.
 
 ## Prerequisites & Target audience:
 

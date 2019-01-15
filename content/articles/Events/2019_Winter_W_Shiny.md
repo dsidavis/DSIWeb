@@ -1,6 +1,6 @@
 Title: DSI Workshop: Building Apps with R and Shiny
 Date: 3/15/2019
-Time: 10am-12 pm
+Time: 9:30am-12:30pm
 Where: DSI (Shields 360)
 Category: Events
 Tags: Workshop, Winter 2019, Shiny, Rstats
@@ -22,6 +22,8 @@ This workshop taught by DSI Postdoctoral Scholar Dr. Jane Carlen will cover:
 * How to build a Shiny App
 * How to deploy a Shiny App using the RStudio server
 * We will build and deploy a basic Shiny app during the workshop.
+
+The last 30 minutes of this workshop are open for individual Q&A.
 
 ## Prerequisites & Target audience:
 

@@ -1,6 +1,6 @@
 Title: DSI Workshop: Data Visualization Principles, Concepts & Best Practices
 Date: 2/1/2019
-Time: 10am-12 pm
+Time: 9:30am-12:30pm
 Where: DSI (Shields 360)
 Category: Events
 Tags: Workshop, Winter 2019, Data Visualization
@@ -27,6 +27,8 @@ After this two-part workshop learners should be able to:
 * Compare the features and utility of different plot types
 * Effectively use graphical elements (color, annotations, aesthetics, line types, etc.) to improve plots
 * Implement best practices to maximize the impact of graphical displays
+
+The last 30 minutes of this workshop are open for individual Q&A.
 
 ## Prerequisites & Target audience:
 

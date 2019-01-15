@@ -1,6 +1,6 @@
 Title: DSI Workshop: Graphics in R
 Date: 2/15/2019
-Time: 10am-12 pm
+Time: 9:30am-12:30pm
 Where: DSI (Shields 360)
 Category: Events
 Tags: Workshop, Winter 2019, Data Visualization, R
@@ -21,6 +21,8 @@ After this workshop learners should be able to:
 
 * Use traditional and ggplot syntax to create exploratory plots
 * Customize plots by capitalizing on the underlying computational model, including layering, to create publication-level graphics
+
+The last 30 minutes of this workshop are open for individual Q&A.
 
 ## Prerequisites & Target audience
 
