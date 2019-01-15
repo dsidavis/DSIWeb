@@ -15,11 +15,27 @@ slug: 2019WorkshopDataVizDynamic
 
 *The DSI’s Winter 2019 workshop series focuses on Data Visualization, from principles and best practices to implementation with various technologies. Attendance at all sessions is recommended as concepts and materials build throughout the quarter. All workshops will be recorded and links will be posted here shortly after their conclusion. Learners are recommended to watch any missed workshops to best prepare for subsequent sessions.*
 
-Building off of the concepts in the earlier workshops this quarter, DSI Director Professor Duncan Temple Lang and postdoc Jane Carlen will introduce packages for creating interactive data visualizations using JavaScript/D3 with implementations in R and/or Python. The workshop will present illustrative examples of the functionality of each package (plotly, bokeh, highcharter, crosstalk) and walk through the code used to build example interactive visualizations. The second part of the workshop will open the hood and introduce JavaScript and D3 directly.
+Building off of the concepts in the earlier workshops this quarter, DSI Director Professor Duncan
+Temple Lang and postdoc Jane Carlen will introduce packages for creating interactive data
+visualizations using JavaScript/D3 with implementations in R and/or Python. The workshop will
+present illustrative examples of the functionality of each package (plotly, bokeh, highcharter,
+crosstalk) and walk through the R code used to build example interactive visualizations. 
+
+The second part of the workshop will explore what underlies these plots, 
+specifically the JavaScript code and libraries such as D3.
+We'll show how to explores these in the Web browser and modify aspects
+of the plots by adding some JavaScript code.  This provides the foundations
+for thinking about customizing these plots and building more general and customized dynamic, interactive
+Web pages and applications.
+
 
 After this workshop learners should be able to:
 
-* Assess which tools are best for a particular application and begin using them to create new interactive visualizations
+* Assess which tools are best for a particular application.
+* Create dynamic, interactive visualizations in R for display in a Web browser.
+* Understand the basics of how dynamic Web pages work.
+* Explore and experiment with adapting dynamic visualizations for new purposes.
+
 
 ## Prerequisites & Target audience
 
