@@ -46,10 +46,11 @@ We are available at the DSI Classroom (Shiellds 360) to help with your data scie
 ### Thursdays 10-11am 
 
 *__[Arthur Koehl](mailto:avkoehl@ucdavis.edu)__: DSI Data Scientist. Digital humanities, web scraping, computer vision, Python.
+
 	 Arthur is a staff data scientist at the DSI with a background in computer science, history and economics. He can advise on digital methods for the humanities, web programming and scraping, natural language processing, computer vision, and unix/linux questions. He programs in Python, C/C++, Javascript and bash. He is also familiar with Perl, Matlab, Java and R.
 
-### Thursdays 12-1pm 
+### Fridays 12:30-1:30pm 
 
 * __[Dr. Duncan Temple Lang](mailto:dtemplelang@ucdavis.edu)__: DSI Director, Professor of Statistics and Interim Associate Dean of Graduate Programs. 
 
-     Duncan provides expertise in advanced topics in data science.
+     Duncan provides expertise in advanced topics in data science. His office hours are subject to change, so you are strongly encouraged to email before attending.
