@@ -15,7 +15,7 @@ slug: 2019WorkshopDataVizGeospatial
 
 *The DSI’s Winter 2019 workshop series focuses on Data Visualization, from principles and best practices to implementation with various technologies. Attendance at all sessions is recommended as concepts and materials build throughout the quarter. All workshops will be recorded and links will be posted here shortly after their conclusion. Learners are recommended to watch any missed workshops to best prepare for subsequent sessions.*
 
-This workshop by Dr. Michele Tobias, GIS Data Curator at the UC Davis Library, will cover visualization techniques appropriate for different types of spatial data and geometries. Hands on practice will be with QGIS, but the concepts discussed will be applicable across software platforms (R, ArcMap, gvSIG, etc.).
+This workshop by Dr. Michele Tobias, GIS Data Curator at the UC Davis Library, will build on data visualization concepts introduced earlier in the quarter and will cover visualization techniques appropriate for different types of spatial data and geometries. Hands on practice will be with QGIS, but the concepts discussed will be applicable across software platforms (R, ArcMap, gvSIG, etc.).
 
 At the end of this workshop learners should be able to:
 
