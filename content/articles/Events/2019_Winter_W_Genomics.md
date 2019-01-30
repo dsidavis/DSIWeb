@@ -18,4 +18,4 @@ The workshop will be run in R, and is targeted at undergraduate students. It wil
 Cost: Registration is $10, which will cover a light lunch and some snacks.
 Requirements: A laptop with R installed and working. Installing RStudio is optional but encouraged.
 
-This workshop has limited seating. Register: [https://registration.genomecenter.ucdavis.edu/events/DataScienceGenomicsWorkshop/register](https://registration.genomecenter.ucdavis.edu/events/DataScienceGenomicsWorkshop/register)
+This workshop has limited seating. Register: [https://registration.genomecenter.ucdavis.edu/events/DataScienceGenomicsWorkshop/ ](https://registration.genomecenter.ucdavis.edu/events/DataScienceGenomicsWorkshop/ )
