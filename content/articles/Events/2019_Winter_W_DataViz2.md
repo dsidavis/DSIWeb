@@ -32,4 +32,4 @@ The last 30 minutes of this workshop are open for individual Q&A.
 
 ## Prerequisites & Target audience:
 
-This workshop is aimed at researchers (students, postdoctoral scholars, faculty, staff) who are working with data and using graphics for exploratory analyses and scholarly communication (i.e., publications). Learners are encouraged to bring printouts of static graphics they would like to improve. Laptops are not necessary for this workshop.
+This workshop is aimed at researchers (students, postdoctoral scholars, faculty, staff) who are working with data and using graphics for exploratory analyses and scholarly communication (i.e., publications). Learners are encouraged to bring printouts of static graphics they would like to improve. Laptops are not necessary for this workshop. *This is part 2 of the Principles workshop. If you did not attend part 1 you should view it [here](https://youtu.be/9AKlPJTQTwo) before attending.*
