@@ -9,9 +9,9 @@ slug: 2019WorkshopDataViz1
 
 #  Data Visualization Principles, Concepts & Best Practices (Part I)
 
-[Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
-[Recording will be available here after the event]()
-[Github repo with notes, code and data]()
+* [Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
+* [Recording](https://youtu.be/9AKlPJTQTwo)
+* [Github repo with notes, code and data]()
 
 *The DSI’s Winter 2019 workshop series focuses on Data Visualization, from principles and best practices to implementation with various technologies. Attendance at all sessions is recommended as concepts and materials build throughout the quarter. All workshops will be recorded and links will be posted here shortly after their conclusion. Learners are recommended to watch any missed workshops to best prepare for subsequent sessions.*
 
@@ -32,4 +32,4 @@ The last 30 minutes of this workshop are open for individual Q&A.
 
 ## Prerequisites & Target audience:
 
-This workshop is aimed at researchers (students, postdoctoral scholars, faculty, staff) who are working with data and using graphics for exploratory analyses and scholarly communication (i.e., publications). Learners are encouraged to bring printouts of static graphics they would like to improve. Laptops are not nececssary for this workshop.
+This workshop is aimed at researchers (students, postdoctoral scholars, faculty, staff) who are working with data and using graphics for exploratory analyses and scholarly communication (i.e., publications). Learners are encouraged to bring printouts of static graphics they would like to improve. Laptops are not necessary for this workshop.
