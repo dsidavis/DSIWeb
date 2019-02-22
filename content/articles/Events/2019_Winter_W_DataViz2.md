@@ -9,9 +9,10 @@ slug: 2019WorkshopDataViz2
 
 #  Data Visualization: Principles, Concepts & Best Practices (Part 2)
 
-[Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
-[Recording will be available here after the event]()
-[Github repo with notes, code and data]()
+* [Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
+* [Recording, part 1](https://youtu.be/9AKlPJTQTwo)
+* [Recording, part 2](https://youtu.be/YoImPjjByvw)
+* [Github repo with notes, code and data]()
 
 *The DSI’s Winter 2019 workshop series focuses on Data Visualization, from principles and best practices to implementation with various technologies. Attendance at all sessions is recommended as concepts and materials build throughout the quarter. All workshops will be recorded and links will be posted here shortly after their conclusion. Learners are recommended to watch any missed workshops to best prepare for subsequent sessions.*
 
