@@ -25,12 +25,12 @@ The WiDS Davis event includes local faculty speakers, livestreams of keynote tal
 
 UC Davis speakers include:
 
-* Chen-Nee Chua, Professor, Electrical & Computer Engineering
-* Danielle Lemay, Associate Professor, Nutrition
-* Sara McCullough, Associate Director, Feminist Research Institute
-* Emily Merchant, Assistant Professor, Science & Technology Studies
-* Deb Niemeier, Professor, Civil & Environmental Engineering
-* Xiaoling Shu, Professor, Sociology
-* Susan Ustin, Professor, Land, Air & Water Resources
+* [Chen-Nee Chua](https://faculty.engineering.ucdavis.edu/chuah/), Professor, Electrical & Computer Engineering
+* [Danielle Lemay](https://nutrition.ucdavis.edu/people/danielle-lemay), Associate Professor, Nutrition
+* [Sara McCullough](https://fri.ucdavis.edu/people/sarah-rebolloso-mccullough), Associate Director, Feminist Research Institute
+* [Emily Merchant](http://sociology.ucdavis.edu/people/eklanche), Assistant Professor, Science & Technology Studies
+* [Deb Niemeier](https://faculty.engineering.ucdavis.edu/dniemeier/), Professor, Civil & Environmental Engineering
+* [Xiaoling Shu](http://sociology.ucdavis.edu/people/xshu), Professor, Sociology
+* [Susan Ustin](http://lawr.ucdavis.edu/people/faculty/ustin-susan), Professor, Land, Air & Water Resources
 
 Can't join us? Check out the [Global WiDS Conference website](https://www.widsconference.org/participate2019.html) for more information and links for livestreamed events.
