@@ -271,7 +271,7 @@ Dr. Dodd’s background is in nanoscale materials science and applied physics, a
 <a href="https://www.ucdmc.ucdavis.edu/pathology/our_team/faculty/duggerB.html">Brittany Dugger</a>
 Assistant Professor, Pathology and Laboratory Medicine <br/>
 <b>  </b>
-Dr. Dugger's research focus on understanding heterogeneity within neurodegenerative diseases and the interaction of peripheral changes to aging and neurodegenerative diseases. She is the neuropathology core leader at the UC Davis Alzheimer's Disease Center. Prior to arriving at UC Davis she served as the neuropathology core leader for academic and drug discovery groups within the Institute of Neurodegenerative Diseases at the University of California San Francisco. She is interested in how developments in AI can revolutionize healthcare, and how to train clinicians to best utilize and interface with these emerging technologies.
+Dr. Dugger's research focus on understanding heterogeneity within neurodegenerative diseases and the interaction of peripheral changes to aging and neurodegenerative diseases. She is a co-investigator of the neuropathology core at the UC Davis Alzheimer's Disease Center. Prior to arriving at UC Davis she served as the neuropathology core leader for academic and drug discovery groups within the Institute of Neurodegenerative Diseases at the University of California San Francisco. She is interested in how developments in AI can revolutionize healthcare, and how to train clinicians to best utilize and interface with these emerging technologies.
 </div>
 
 
@@ -332,6 +332,16 @@ Professor Fong is a family physician with a clinical interest in obesity and chr
 Assistant Professor, Psychology <br/>
 <b>  </b>
 Professor Fox studies the neuroscience of social and emotional behavior in humans and non-human primates with a focus on emotional and social decision-making. He uses Python in his teaching and runs an informal Python Users Group through the DSI. He teaches PSC 290 (Introduction to scientific programming for psychology).
+</div>
+
+
+<div class="person">
+<img src="images/Faculty_pics/SethFrey_c.jpg" title="sfrey@ucdavis.edu"></img>
+<a href="mailto:sfrey@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
+<a href="https://enfascination.com/research">Seth Frey</a>
+Assistant Professor, Communication, Computational Communication Group <br/>
+<b>  </b>
+Professor Frey study human decision behavior in designed social environments, such as sports, games, and laboratory settings. He works between data science, behavioral experiments, and modeling. He teaches programming for social scientists, modeling of social systems, web science, and data analysis in R, Python, and database.
 </div>
 
 
@@ -526,6 +536,16 @@ Professor Lubell studies cooperation problems and decision-making in environment
 
 
 <div class="person">
+<img src="images/incognito.png" title="sqma@ucdavis.edu"></img>
+<a href="mailto:sqma@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
+<a href="https://www.math.ucdavis.edu/~sqma/">Shiqian Ma</a>
+Assistant Professor, Mathematics <br/>
+<b>  </b>
+Professor Ma's research interests include theory and algorithms for large-scale optimization, and its various applications in statistics, machine learning, bioinformatics, and image processing.
+</div>
+
+
+<div class="person">
 <img src="images/Faculty_pics/EmilyMerchant_c.jpg" title="ekmerchant@ucdavis.edu"></img>
 <a href="mailto:ekmerchant@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
 <a href="http://www.emilyklancher.com">Emily Merchant</a>
@@ -572,6 +592,16 @@ Professor Niemeier's research focuses on integrating models for estimating mobil
 Assistant Professor, Land, Air & Water Resources <br/>
 <b>  </b>
 Dr. Patler's reserch focuses on migration, inequality, and socio-legal studies. She is currently conducting two longitudinal and mixed-methods research studies on: 1) immigration detention, deportation, and the intersections of immigration and criminal law, and 2) the Deferred Action for Childhood Arrivals (DACA) program.
+</div>
+
+
+<div class="person">
+<img src="images/incognito.png" title="speisert@ucdavis.edu"></img>
+<a href="mailto:speisert@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
+<a href="http://www.cs.ucdavis.edu/~peisert/">Sean Peisert</a>
+Adjunct Associate Professor, Computer Science and Health Informatics <br/>
+<b>  </b>
+Professor Peisert is jointly appointed as a staff scientist at Lawrence Berkeley National Laboratory; as chief cybersecurity strategist for CENIC; and as adjunct faculty at UC Davis.  His research covers a broad cross section of usable and useful computer and network security solutions.  In recent years, his work has focused on developing techniques that improve and enable the secure and private function of distributed, high-performance, and cloud computing resources to conduct scientific research, and improving the secure functioning of power grid control systems.  Dr. Peisert is chair of the IEEE Computer Society Technical Committee on Security & Privacy and associate editor-in-chief of IEEE Security & Privacy magazine.
 </div>
 
 
@@ -662,6 +692,16 @@ Professor Sharpnack develops and studies computationally efficient statistical m
 Professor, Sociology <br/>
 <b>  </b>
 Professor Shauman's research focuses on social stratification, social demography, and family, kinship and gender. She is leading a collaborative project with the DSI to explore biases in UC hiring practices. She teaches quantitative methods classes in the Sociology Department.
+</div>
+
+
+<div class="person">
+<img src="images/incognito.png" title="cuishen@ucdavis.edu"></img>
+<a href="mailto:cuishen@ucdavis.edu"><img src="images/email400.png" class="emailIcon"></img></a>
+<a href="http://communication.ucdavis.edu/people/cuishen">Cuihua (Cindy) Shen</a>
+Associate Professor, Communication <br/>
+<b>  </b>
+Professor Shen's research and teaching interests revolve around the structure and impact of social networks in various online platforms. These sites include social networking apps (such as Facebook and WeChat), Massively Multiplayer Online Games (such as EverQuest II, World of Tanks, Eve Online), and other online communities designed for collaborative peer production, social support and political discussion. Her research frequently utilizes digital footprint data (so-called "big data"), in addition to "smaller data" collected from surveys and experiments.
 </div>
 
 
