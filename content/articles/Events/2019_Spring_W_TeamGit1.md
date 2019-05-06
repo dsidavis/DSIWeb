@@ -1,13 +1,13 @@
-Title: DSI Workshop: Git for Teams (part 1)
-Date: 5/28/2019
+Title: DSI Workshop: Git Workflows
+Date: 5/31/2019
 Time: 12:10-3pm
 Where: DSI (Shields 360)
 Category: Events
 Tags: Workshop, Spring 2019, version control, git
 xnonews: true
-slug: 2019WorkshopTeamGit1
+slug: 2019WorkshopGit1
 
-#  Git for Teams of One or More (part 1)
+# Git 
 
 * [Register]()
 * [Recording will be uploaded after the event]()
@@ -16,13 +16,29 @@ slug: 2019WorkshopTeamGit1
 
 ## Description
 
-Collaborating on research is tough, whether that collaborator is a colleague or yourself! Version control tools like Git can make it easier. Git is a powerful tool for version control. In this session you will learn tips for effectively using Git in a team setting. This workshop will cover branching and how to undo common mistakes to improve workflows. This workshop will also promote best practices for team communication and creating efficient workflows and documentation.
+This set of 2 workshops starts by briefly reviewing the basic git commands we use every day
+and then moves onto 
++ using git to share work with others in your project,
++ exploring different workflows for working by yourself or with others,
++ querying git to find out to problem solve and understand what git is doing and why,
++ intermediate and advanced git functionality and idioms that can be very useful.
 
-After this workshop learners should be able to:
+These workshops will be hands-on and each participant will work 
+with another participant to practice editing and sharing changes to files. This
+will give you authentic experience in confidently working with git, solving
+some of the issues that arise, and knowing where to find solutions in the future.
 
-* identify when, how and why you should rebase, revert and reset
+We'll mimic real-life situations and actually solve them together with git commands.
+We'll also intersperse the hands-on activities with high-level explanations of important elements of
+the git computational model and how to reason about the different ways of doing things with git and their trade-offs.
+
+
+
 
 
 ## Prerequisites & Target Learners
 
-This workshop is aimed at researchers (students, postdoctoral scholars, faculty, staff) who are using, or have used, Git and understand how to use it in principle. Prior to attending you should be able to make commits, pulls and branches. Come with your laptop. Make sure you are signed up for a Github account.
+This workshop is aimed at students, postdoctoral scholars, faculty, staff who understand how to use
+Git either in principle or are somewhat familiar with the introductory-level
+functionality.  Prior to attending, you should be able to add and commit files. 
+Come with your laptop with git installed, and your Github account.
