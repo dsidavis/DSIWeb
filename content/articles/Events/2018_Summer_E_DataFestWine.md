@@ -4,7 +4,7 @@ Time:  variable
 Where: DSI Classroom, 360 Shields Library
 Category: Events
 Tags: DataFest, Hackathon, Summer 2018, OCR, Computer Vision, Wine
-xnonews: true
+nonews: true
 slug: DataFest2018
 
 # DSI DataFest 2018
