@@ -4,7 +4,7 @@ Time:  12:30-3:30 pm
 Where: DSI Classroom, 360 Shields Library
 Category: Events
 Tags: Workshop, R, Summer 2018
-xnonews: true
+nonews: true
 slug: BeyondBasicsR2018
 
 # DSI Workshop: Beyond Basics in R
