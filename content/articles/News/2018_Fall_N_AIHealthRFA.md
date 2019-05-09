@@ -2,7 +2,7 @@ Title: RFA: AI & Healthcare
 Date: 11/16/2018
 Category: News
 Tags: RFA, Fall 2018, machine learning, AI, artificial intelligence, healthcare
-xnonews: true
+nonews: true
 slug: 2018AIHealthRFA
 
 # Call for Applications: Reserach at the Intersection of AI and Healthcare
