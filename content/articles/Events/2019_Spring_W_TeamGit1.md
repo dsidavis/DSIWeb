@@ -17,7 +17,8 @@ slug: 2019WorkshopGit1
 ## Description
 
 This set of 2 workshops starts by briefly reviewing the basic git commands we use every day
-and then moves onto 
+and then moves onto:
+
 + using git to share work with others in your project,
 + exploring different workflows for working by yourself and with others,
 + querying git to problem solve and understand what git is doing and why,

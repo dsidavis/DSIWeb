@@ -1,9 +1,9 @@
-Title: How Big Data Links Mathematical Models and Empirical Data with Environmental Politics
+Title: Talk: How Big Data Links Mathematical Models and Empirical Data with Environmental Politics
 Date: 05/14/2019
 Time: 3-4pm
 Where: DSI (Shields 360)
 Category: Events
-Tags: Seminar, Spring 2019, Big Data, Philosophy, Environmental Politics, Biology
+Tags: Talk, Seminar, Spring 2019, Big Data, Philosophy, Environmental Politics, Biology
 xnonews: true
 slug: 2019SGrosholz
 

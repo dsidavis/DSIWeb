@@ -3,7 +3,7 @@ Date: 05/28/2019
 Time: 3-4pm
 Where: DSI (Shields 360)
 Category: Events
-Tags: Seminar, Spring 2019, Astrophysics, Big Data, Astronomy, LLNL, Lawrence Livermore National Laboratory
+Tags: Talk, Seminar, Spring 2019, Astrophysics, Big Data, Astronomy, LLNL, Lawrence Livermore National Laboratory
 xnonews: true
 slug: 2019SSchneider
 
@@ -13,7 +13,7 @@ Dr. Michael Schneider, Group Leader in Astronomy and Astrophysics Analytics in t
 
 ## Abstract
 
-Upcoming wide-field astronomical surveys such as the  Large Synoptic Survey Telescope (LSST) and the NASA WFIRST mission have ambitious goals for the precise measurement of cosmological and dark energy parameters. For these surveys, the difference between a discovery of new dark energy properties and a lost opportunity is set by the mitigation of systematic errors and the propagation of the systematic residual uncertainties. Historical approaches to measurements of weak gravitational lensing of galaxy images to constrain dark energy are bounded from below in the systematic error tolerances because of mathematical limitations and non-optimal use of subsets of available data. I will describe a probabilistic or Bayesian data analysis pipeline to optimally exploit LSST and WFIRST data for constraining models of dark energy. I will describe a high-fidelity physics-based hierarchical model for galaxy populations and cosmological structure and novel approaches to Monte Carlo computations for seemingly intractable large Bayesian inference problems. Finally, I will highlight the limitations of forward modeling where our understanding of astrophysics breaks down and how we might proceed to embed the modern advances in deep learning into a principled Bayesian inference framework. 
+Upcoming wide-field astronomical surveys such as the Large Synoptic Survey Telescope (LSST) and the NASA WFIRST mission have ambitious goals for the precise measurement of cosmological and dark energy parameters. For these surveys, the difference between a discovery of new dark energy properties and a lost opportunity is set by the mitigation of systematic errors and the propagation of the systematic residual uncertainties. Historical approaches to measurements of weak gravitational lensing of galaxy images to constrain dark energy are bounded from below in the systematic error tolerances because of mathematical limitations and non-optimal use of subsets of available data. I will describe a probabilistic or Bayesian data analysis pipeline to optimally exploit LSST and WFIRST data for constraining models of dark energy. I will describe a high-fidelity physics-based hierarchical model for galaxy populations and cosmological structure and novel approaches to Monte Carlo computations for seemingly intractable large Bayesian inference problems. Finally, I will highlight the limitations of forward modeling where our understanding of astrophysics breaks down and how we might proceed to embed the modern advances in deep learning into a principled Bayesian inference framework. 
 
 ## Biography
 

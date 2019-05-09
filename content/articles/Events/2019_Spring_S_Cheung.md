@@ -1,9 +1,9 @@
-Title: Keeping Big Data Private
+Title: Talk: Keeping Big Data Private
 Date: 05/21/2019
 Time: 3-4pm
 Where: DSI (Shields 360)
 Category: Events
-Tags: Seminar, Spring 2019, Big Data, Privacy
+Tags: Talk, Seminar, Spring 2019, Big Data, Privacy
 xnonews: true
 slug: 2019SCheung
 

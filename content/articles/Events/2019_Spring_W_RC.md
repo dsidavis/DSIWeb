@@ -24,6 +24,7 @@ We'll cover the .C(), .Call() interfaces, and using the [Rcpp](http://www.rcpp.o
 and discuss some of their trade-offs and pitfalls.
 
 Importantly, we'll present:
+
 + a high-level introduction to the C/C++ languages (limited to interfacing to R)
 + the steps involved in "compiling" code (compiling, linking, loading)
 + how to debug compiled code from within R
@@ -34,6 +35,7 @@ Importantly, we'll present:
 + a variety of tips and tricks that are often learned the hard, long way!
 
 After this workshop participants should be able to:
+
 + compile, link and load existing C/C++ code into R
 + call a C routine from R
 + write a simple C routine and call it from R

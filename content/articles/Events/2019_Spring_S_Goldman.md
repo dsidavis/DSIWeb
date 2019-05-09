@@ -3,7 +3,7 @@ Date: 05/28/2019
 Time: 10-11am
 Where: DSI (Shields 360)
 Category: Events
-Tags: Seminar, Spring 2019,  LLNL, Lawrence Livermore National Laboratory, Astrophysics
+Tags: Talk, Seminar, Spring 2019,  LLNL, Lawrence Livermore National Laboratory, Astrophysics
 xnonews: true
 slug: 2019SGoldman
 
