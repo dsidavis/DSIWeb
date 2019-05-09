@@ -6,6 +6,7 @@ Time: 10 - 11:30 am
 Tags: Working Group, Study Group, Machine Learning
 Date: 2017-08-01 
 Category: WorkingGroups
+nonews: true
 
 A reading group for [Introduction to Statistical Learning][1] by James,
 Whitten, Tibshirani and Hastie. Each week several of the affiliates, directors,

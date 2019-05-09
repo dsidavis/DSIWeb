@@ -1,11 +1,12 @@
-Title: Study Group - Neural Networks
-Who: Hugo Mailhot
+Title: Learning Group - Neural Networks
+Who: Nick Lashinsky
 Where: DSI Classroom, 360 Shields Library
 Day: Fri
-Time: 3:15 - 6 pm
+Time: 
 Private:
 Tags: Working Group, Study Group, Neural Networks
 Category: WorkingGroups
-Date: 2017-10-22
+Date: 2019-05-09
+nonews: true
 
-A study group for the Convolutional Neural Networks for Visual Recognition lectures by Fei-Fei Li at Stanford. Focus is put on understanding the fundamentals of neural networks, rather than on the applications specific to image processing.
+A study group for applications of Convolutional Neural Networks.
