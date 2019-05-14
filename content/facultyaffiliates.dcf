@@ -109,7 +109,7 @@ name: Robert Faris
 email: rwfaris@ucdavis.edu
 url: http://sociology.ucdavis.edu/people/rwfaris
 location: Sociology
-role: Associate Professor
+role: Professor
 desc: Professor Faris uses social network analysis to determine why teens bully each other, drink and do drugs, and engage in dating violence. 
 
 
@@ -353,7 +353,7 @@ desc: Professor Niemeier's research focuses on integrating models for estimating
 name: Caitlin Patler
 email: patler@ucdavis.edu
 url: https://caitlinpatler.com
-location: Land, Air & Water Resources
+location: Sociology
 role: Assistant Professor
 desc: Dr. Patler's reserch focuses on migration, inequality, and socio-legal studies. She is currently conducting two longitudinal and mixed-methods research studies on: 1) immigration detention, deportation, and the intersections of immigration and criminal law, and 2) the Deferred Action for Childhood Arrivals (DACA) program.
 
@@ -474,13 +474,6 @@ url: http://tyson.ucdavis.edu/
 role: Distinguished Professor
 location: Physics
 desc: Professor Tyson is an experimental physicist with research in cosmology including dark matter distribution, gravitational lens effects, cosmic shear, the nature of dark energy, and instrumentation for optical astronomy. He pioneered the field of weak gravitational lensing, and dark energy was discovered using one of his wide field CCD cameras. Prior to coming to UC Davis he worked in the physics division at Bell Labs.
-
-name: Rick Wray
-email: rawray@ucdavis.edu
-url: http://www.ucdmc.ucdavis.edu/publish/providerbio/cancer/22157
-role: Assistant Professor
-location: Radiology
-desc: Dr. Wray is a molecular imaging specialist and nuclear medicine physician. His research focuses on machine learning and radiomics in oncologic molecular imaging. Utilizing novel dynamic PET/CT quantitative imaging features and biomarkers, he is creating imaging databases for use with modern ML/AI technologies to improve patient outcomes.
 
 
 name: Jiayi Young
