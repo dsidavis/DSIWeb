@@ -4,11 +4,13 @@ Authors: DSI
 
 # Education & Training
 
-The DSI offers workshops (short seminars, half to full day, or multiple day modules) that complement the material taught in regular courses, provide hands-on applications, and present new topics and under development techniques. Workshop topics depend on the needs of our data science community and available expertise. Workshops are announced here and on our listserv.
+The DSI offers workshops (short seminars, half to full day, or multiple day modules) that complement the material taught in regular courses, provide hands-on applications, and present new topics and under development techniques. Workshop topics depend on the needs of our data science community and available expertise. 
 
-[Subscribe](signup.html) for notices about future workshops.
+*All members of the UC Davis community (students, postdocs, faculty, staff) are welcome to register.* [DSI Affiliates](membership.html) have priority registration.
 
-All workshops are in the [DSI Classroom, room 360 in Shields Library](http://dsi.ucdavis.edu/directions.html). Workshops are generally on Fridays from 9am - noon unless otherwise noted. 
+Workshops are announced here and on our listserv. [Subscribe](signup.html) for notices about future workshops.
+
+All workshops are in the [DSI Classroom, room 360 in Shields Library](http://dsi.ucdavis.edu/directions.html). Workshops are generally on Fridays from 9:30am - noon unless otherwise noted. 
 
 ## Suggest a Workshop
 
@@ -21,25 +23,37 @@ This is a list of the DSI workshops with related materials and video recordings.
 
 | *Date*    | *Title* | *Instructor* | *Resources* |
 | :---------- | : ------ | : ------------- | : --------------- |
+| **SPRING 2019** | | |
+| May 1 | [Introduction to GIS with QGIS]() | Michele Tobias | [recording](https://www.youtube.com/watch?v=avscRlskV2E) [slides & repo](https://github.com/MicheleTobias/Intro-to-Desktop-GIS-with-QGIS)|
+| May 17 | [Working with C/C++ in R](posts/Workshop/2019WorkshopRC) | Duncan Temple Lang | [slides](https://github.com/dsidavis/RCInterface), [recording](https://youtu.be/pr0x-fwMONQ) |
+| May 31 | [Git Workflows (part 1)](posts/Workshop/2019WorkshopGit1) | Duncan Temple Lang | [slides](https://github.com/dsidavis/GitWorkshop2), [recording](https://www.youtube.com/watch?v=99geSBgHUrM) |
+| June 7 | [Git Workflows (part 2)](posts/Workshop/2019WorkshopGit2) | Duncan Temple Lang | [slides](https://github.com/dsidavis/GitWorkshop2),  [recoridng](https://youtu.be/K1kbn6803CE) |
+| **WINTER 2019** | | |
+| Feb 1 | [Data Visualization Principles, Concepts & Best Practices (part 1)](posts/Workshop/2019WorkshopDataViz1) | Duncan Temple Lang | [slides](https://github.com/dsidavis/DataVizPrinciples), [recording](https://youtu.be/9AKlPJTQTwo) |
+| Feb 8 | [Data Visualization Principles, Concepts & Best Practices (part 2)](posts/Workshop/2019WorkshopDataViz2) | Duncan Temple Lang |  [slides](https://github.com/dsidavis/DataVizPrinciples), [recording](https://youtu.be/YoImPjjByvw) |
+| Feb 15 | [Graphics in R]( | Dan Hicks | [recording](https://www.youtube.com/watch?v=grEmJSL4Lwc [slides, data & code](https://github.com.dsidavis/RGraphicsWorkshop)
+| Feb 22 | [Geospatial Data Visualization](posts/Workshop/2019WorkshopDataVizGeospatial) | Michele Tobias | [slides, code & data](https://github.com/MicheleTobias/Geospatial-Data-Visualization), [recording](https://youtu.be/854DCLko6Gg) |
+| March 1 | [Interactive, Dynamic Visualization in R and JavaScript](posts/Workshop/2019WorkshopDataVizDynamic) |  Duncan Temple Lang & Jane Carlen | [slides, data & code](https://github.com/dsidavis/InteractiveVizWorkshop) , [recording]() |
+| March 8 | [Building Apps with R and Shiny](posts/Workshop/2019WorkshopShiny) | Jane Carlen |  [slides, code & data](), [recording]() | 
 | **FALL 2018** | | |
 | Oct 12 | [InstallFest](posts/Workshop/2018WorkshopInstallFest20181012.html) | DSI staff |   | |
 | Oct 19 | [Introduction to Git](posts/Workshop/2018WorkshopGit20181019.html) | Carl Stahmer |  [recording](https://youtu.be/mIAetcXu0U4) |
 | Nov 2 | [Amazon Web Services for Research](posts/Workshop/2018WorkshopAWS20181102.html) | IET | [recording](https://www.youtube.com/watch?v=Rjweg7T7n_I) |
 | Nov 30 | [Network Analysis in R](posts/Workshop/2018WorkshopNetwork20181116.html) | Jane Carlen | [recording](https://youtu.be/H6IkFnykX1s)|
 | **SUMMER 2018** | | |
-| Sept 10-14 | [Beyond Basics in R](posts/Workshop/BeyondBasicsR201820180910.html) | Duncan Temple Lang |  [Slides and code](https://github.com/dsidavis/RBeyondBasics), [recording 1](https://www.youtube.com/watch?v=-cAxE62YMzU), [2](https://www.youtube.com/watch?v=YItBd02aaLU), [3](https://www.youtube.com/watch?v=e8CB9Ea8JCY) |
+| Sept 10-14 | [Beyond Basics in R](posts/Workshop/BeyondBasicsR201820180910.html) | Duncan Temple Lang |  [slides & code](https://github.com/dsidavis/RBeyondBasics), [recording part 1](https://www.youtube.com/watch?v=-cAxE62YMzU), [part 2](https://www.youtube.com/watch?v=YItBd02aaLU), [part 3](https://www.youtube.com/watch?v=e8CB9Ea8JCY) |
 | Sept 14-21 | [DataFest](posts/DataFest/DataFest201820180914.html) | DSI | [website](http://dsi.ucdavis.edu/WineCatalogs/), [Library link](https://digital.ucdavis.edu/search//%5B%5B%22isPartOf.%40id%22%2C%22or%22%2C%22%2Fcollection%2Fsherry-lehmann%22%5D%5D//10/) |
 | Sept 24-25 | [Intro to R](posts/Workshop/IntroR201820250924.html) | Duncan Temple Lang | [recording part 1](https://www.youtube.com/watch?v=0O9fjsxpqsQ), [part 2](https://www.youtube.com/watch?v=ZyWch5HAhqY) |
 | **Spring 2018** | | |
 | April 13, 2018 | [Extracting Structure from Text Documents](posts/Workshop/2018WorkshopPDFReading20180413.html) | |
 | April 20, 2018 | [Object Oriented Concepts, Flexible Functions, and Software Design in R](posts/Workshop/2018WorkshopObjOriented20180420.html) | Duncan Temple Lang |  [slides](https://github.com/dsidavis/ROOPWorkshop), [recording](https://www.youtube.com/watch?v=Gc-d96yQmyU&feature=youtu.be) |
-| April 27, 2018 | [A Practical Introduction to Text Mining](http://dsi.ucdavis.edu/posts/Workshop/2018WorkshopTextMining20180427.html) | Carl Stahmer | [code and data files](https://github.com/cstahmer/text_mining_with_r) |
+| April 27, 2018 | [A Practical Introduction to Text Mining](http://dsi.ucdavis.edu/posts/Workshop/2018WorkshopTextMining20180427.html) | Carl Stahmer | [data & code](https://github.com/cstahmer/text_mining_with_r) |
 | May 4, 2018 | [Using Relational Databases and SQL in R](http://dsi.ucdavis.edu/posts/Workshop/2018WorkshopSQL20180504.html) | Duncan Temple Lang | [slides](https://github.com/dsidavis/SQLworkshop), [recording](https://www.youtube.com/watch?v=ipOGYFhofn4&feature=youtu.be) |
 | May 11, 2018 | [A Survey of Statistical Machine Learning Concepts, part 1](posts/Workshop/2018WorkshopMachine120180511.html) | Duncan Temple Lang | [slides](https://github.com/dsidavis/surveystatml), [recording](https://www.youtube.com/watch?v=16Aq_8JE0Vc&feature=youtu.be)  |
 | May 18, 2018 | [A Survey of Statistical Machine Learning Concepts, part 2](posts/Workshop/2018WorkshopMachine220180518.html) | Duncan Temple Lang | [slides](https://github.com/dsidavis/SurveyStatML), [recording](https://www.youtube.com/watch?v=1DSio_Tv6Hc&feature=youtu.be)  |
 | June 1, 2018 | [Topic Modeling with Latent Dirichlet Allocation](posts/Workshop/2018WorkshopTopicModeling20180601.html) | Carl Stahmer |  [recording](https://www.youtube.com/watch?v=rHp05tFPDDk) |
 | **WINTER 2018** | | |
-| Jan 19, 2018 | [Working with and Creating R Packages](posts/Workshop/Package20180119.html) | Duncan Temple Lang |  [slides](https://github/com/dsidavis/RPackagesWorkshop). [recording](https://www.youtube.com/watch?v=ntFrolMI3Ng) |
+| Jan 19, 2018 | [Working with and Creating R Packages](posts/Workshop/Package20180119.html) | Duncan Temple Lang |  [slides](https://github/com/dsidavis/RPackagesWorkshop), [recording](https://www.youtube.com/watch?v=ntFrolMI3Ng) |
 | Jan 26, 2018 | [R Fundamentals, part 1](posts/Workshop/fundamentals1_1820180126.html) | Duncan Temple Lang | |
 | Feb 2 |  [R Fundamentals, part 2](posts/Workshop/fundamentals2_1820180202.html) | Duncan Temple Lang | |
 | Feb 9 | [R Fundamentals, part 3](posts/Workshop/fundamentals3_1820180209.html) | Duncan Temple Lang | |
