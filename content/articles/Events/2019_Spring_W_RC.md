@@ -10,8 +10,8 @@ slug: 2019WorkshopRC
 #  Working with C/C++ Code in R
 
 * [Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
-* [Recording will be uploaded after the event]()
-* [Github repo with notes, code, etc.]()
+* [Recording](https://youtu.be/pr0x-fwMONQ)
+* [Github repo with notes, code, etc.](https://github.com/dsidavis/RCInterface)
 
 
 ## Description

@@ -11,7 +11,7 @@ slug: 2019WorkshopDataVizDynamic
 
 [Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
 [Recording will be available here after the event]()
-[Github repo with notes, code and data]()
+[Github repo with notes, code and data](https://github.com/dsidavis/InteractiveVizWorkshop)
 
 *The DSI’s Winter 2019 workshop series focuses on Data Visualization, from principles and best practices to implementation with various technologies. Attendance at all sessions is recommended as concepts and materials build throughout the quarter. All workshops will be recorded and links will be posted here shortly after their conclusion. Learners are recommended to watch any missed workshops to best prepare for subsequent sessions.*
 

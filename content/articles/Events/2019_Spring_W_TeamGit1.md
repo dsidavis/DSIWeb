@@ -10,8 +10,8 @@ slug: 2019WorkshopGit1
 # Git 
 
 * [Register](https://forms.library.ucdavis.edu/classes/descriptions.php)
-* [Recording will be uploaded after the event]()
-* [Github repo with notes, code, etc.]()
+* [Recording part 1](https://youtu.be/99geSBgHUrM), [Recording part 2](https://github.com/dsidavis/GitWorkshop2)
+* [Github repo with notes, code, etc.](http://github.com/dsidavis/GitWorkshop2)
 
 
 ## Description
