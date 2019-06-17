@@ -81,6 +81,14 @@ role: Professor
 desc: Professor Crutchfield's research focuses on nonlinear dynamics, condensed matter physics, physics of computation, evolutionary dynamics, pattern discovery, dynamics of learning, and distributed robotics. He is a faculty memeber of the [Complexity Science Center](http://csc.ucdavis.edu/Welcome.html). He teaches Physics 256A (Physics of Information) and Physics 256B (Physics of Computation).
 
 
+email: deloera@math.ucdavis.edu
+name: Jesus De Loera
+url: https://www.math.ucdavis.edu/~deloera/
+location: Mathematics
+role: Professor
+desc: Dr. De Loera's background focuses on combinatorial and optimization algorithms. His research includes analyzing and improving machine learning and clustering algorthms. He is interested in topological data analysis and algebraic statistics, and in developing optimization methods for applications from pure math to analyzing text and image data.  
+
+
 email: pdodd@ucdavis.edu
 name: Paul Dodd
 url: http://research.ucdavis.edu/about-us/or-leadership/#avcirsi
@@ -292,6 +300,14 @@ url: https://siweiliu.weebly.com/index.html
 location: Human Development & Family Studies
 role: Assistant Professor
 desc: Professor Liu conducts research on statistical methods for analyzing intensive longitudinal data, in particular in the frameworks of multilevel modeling, structural equation modeling, time series analysis, and functional data analysis. Her research involves techniques for modeling synchrony and coregulatory processes in close relationships (e.g., parent-child, couples), and the applications of intensive longitudinal methods in health-related research (e.g., stress, physical activity, sleep). She has taught a course on Longitudinal Data Analysis in the Human Development Department.
+
+
+name: Thomas Loehfelm
+email: twloehfelm@ucdavis.edu
+url: https://ucdavis.pure.elsevier.com/en/persons/thomas-w-loehfelm/publications/
+location: Radiology
+role: Assistant Professor
+desc: Dr. Loehfelm is a diagnostic radiologist who specializes in advanced medical imaging tools and technologies. He is interested in applications of computer vision to radiology and the use of data to improve healthcare quality.
 
 
 name: Frank Loge
