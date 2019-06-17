@@ -17,9 +17,9 @@ All members of the UC Davis research community (faculty, students, postdocs, sta
 **Why?** 
 These seminars are fun, enlightening, highly multidisciplinary, thought-provoking, and focus on cutting-edge research in progress. By watching problem solving in action you will learn a lot about data science, how to ask the right questions to get the answers you need, and how to extract information from clients and/or your own reserach program.
 
-	*"Giving an un-seminar was eye opening, and I received great feedback. We solved one of my problems during the hour, and we started a cool conversation about my research that I found invigorating. On top of all of that, I have several new contacts for folks at UC Davis doing neat work with spatial data."* - Matt Whalen, PhD 2017
+*"Giving an un-seminar was eye opening, and I received great feedback. We solved one of my problems during the hour, and we started a cool conversation about my research that I found invigorating. On top of all of that, I have several new contacts for folks at UC Davis doing neat work with spatial data."* - Matt Whalen, PhD 2017
 
-	*"The un-Seminars are one of my favorite activities at the DSI. They’re great practice and a fun puzzle solving exercise. They are also a chance to meet people outside of my field who are also into data."* - Abbie Popa, PhD
+*"The un-Seminars are one of my favorite activities at the DSI. They’re great practice and a fun puzzle solving exercise. They are also a chance to meet people outside of my field who are also into data."* - Abbie Popa, PhD
  
 ## Got (data) problems? *Come give a talk!*
 
