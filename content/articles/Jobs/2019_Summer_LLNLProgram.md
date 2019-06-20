@@ -14,7 +14,7 @@ The Lawrence Livermore National Laboratory (LLNL) has announced the 2019-2020 ca
  
 The Livermore Graduate Scholar Program (LGSP) and its predecessor programs have played a critical role for many years in helping to recruit new scientific and engineering talent to Lawrence Livermore National Laboratory (LLNL). Top PhD students are granted appointments of up to three years, with a 4th year approved on a case by case basis, to conduct research of interest to the Laboratory while completing their thesis. Students are expected to spend a minimum of 50% of the calendar year at LLNL (scheduling is flexible). LGSP students receive a highly competitive salary ($42,000 annually), and tuition and fees are covered up to $19,000 per year. Final Scholar selections are made on a competitive basis. There are typically 20-30 students in the program year-round.
 
-### Program website: [https://lgsp.llnl.gov/](https://lgsp.llnl.gov/)
+[Program website](https://lgsp.llnl.gov/](https://lgsp.llnl.gov/)
 
 ### Who Can Apply
 
